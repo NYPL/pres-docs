@@ -6,4 +6,4 @@ nav_order: 3
 has_children: true
 ---
 
-# Creating and Edition Objects
+# Creating and Editing Objects

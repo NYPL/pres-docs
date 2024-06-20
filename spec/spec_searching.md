@@ -5,4 +5,4 @@ parent: SPEC
 nav_order: 1
 ---
 
-# SPEC Searching
+# Searching SPEC
