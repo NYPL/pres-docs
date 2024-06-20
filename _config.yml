@@ -1,0 +1,22 @@
+title: pres-docs
+description: Public repository for the Preservation and Collections Processing department at NYPL
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+url: https://nypl.github.io
+baseurl: /pres-docs
+
+aux_links:
+  Home: https://nypl.github.io/pres-docs
+
+# Callouts
+callouts:
+  note:
+    title: Note
+    color: yellow
+
+# By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.6"
