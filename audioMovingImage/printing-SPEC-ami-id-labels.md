@@ -1,5 +1,5 @@
 ---
-title: AMI Format Guide
+title: Printing SPEC AMI ID Labels
 layout: default
 parent: Inventory
 grand_parent: Audio and Moving Image
