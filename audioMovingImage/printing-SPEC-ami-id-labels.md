@@ -17,7 +17,7 @@ Contact the Systems and Operations (SysOps) Coordinator to assign you a range of
 - Create the heading _Numbers_ in field A1
 - Type the first number in your SPEC AMI ID range assigned by SysOps in field A2 and the second numbder in field A3.
 
-![test](https://github.com/NYPL/pres-docs/blob/main/audioMovingImage/images/printing-SPEC-ami-ids-1.jpg)
+![test](https://github.com/NYPL/pres-docs/audioMovingImage/images/printing-SPEC-ami-ids-1.jpg)
 - Select cells A2 and A3.
 
 ![test alt text](pres-docs/audioMovingImage/images/printing-spec-ami-ids-2.jpg)
