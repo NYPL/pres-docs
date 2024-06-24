@@ -3,7 +3,7 @@ title: Printing SPEC AMI ID Labels
 layout: default
 parent: Inventory
 grand_parent: Audio and Moving Image
-nav_order: 0
+nav_order: 3
 ---
 # Printing SPEC AMI ID Labels
 This function is not available in the SPEC client, using instead Microsoft Excel and the Mailings function in Microsoft Word.
