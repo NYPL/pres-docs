@@ -34,7 +34,7 @@ Select _Start Mail Merge_, and then _Labels..._ from the dropdown menu.
 
 - Select the correct label template from the dropdown menu (Avery 5167) and hit _OK_. This will create a screen of blank labels.
 
-![](images/printing-spec-ami-ids-5.jpg)
+![](images/printing-SPEC-ami-ids-5.jpg)
 - Next, while making sure your cursor is in the top left field, go to the _Select Recipients_ menu, and choose _Use an Existing List..._ from the dropdown menu.
 
 ![](images/printing-spec-ami-ids-6.jpg)
