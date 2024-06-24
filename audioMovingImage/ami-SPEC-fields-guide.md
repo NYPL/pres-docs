@@ -1,3 +1,11 @@
+---
+title: AMI SPEC Fields Guide
+layout: default
+parent: Inventory
+grand_parent: Audio and Moving Image
+nav_order: 2
+---
+
 # Guide to Audio and Moving Image SPEC fields
 ![](../images/ami-spec-fields-guide-1.jpg)
 <br>

@@ -1,3 +1,10 @@
+---
+title: AMI Format Guide
+layout: default
+parent: Inventory
+grand_parent: Audio and Moving Image
+nav_order: 3
+---
 # Printing SPEC AMI ID Labels
 This function is not available in the SPEC client, using instead Microsoft Excel and the Mailings function in Microsoft Word.
 <br>
@@ -13,7 +20,7 @@ Contact the Systems and Operations (SysOps) Coordinator to assign you a range of
 ![test](https://github.com/NYPL/pres-docs/blob/main/audioMovingImage/images/printing-SPEC-ami-ids-1.jpg)
 - Select cells A2 and A3.
 
-![](images/printing-spec-ami-ids-2.jpg)
+![test alt text](audioMovingImage/images/printing-spec-ami-ids-2.jpg)
 - Hover over the lower right corner of the selected cells until the cursor turns into a black cross.
 - Click, then drag the cells down until you reach the highest number you wish to print. If you are printing a single sheet of labels, then you will need to drag down to row 81.
 
