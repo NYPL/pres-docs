@@ -4,6 +4,7 @@ layout: default
 parent: Inventory
 grand_parent: Audio and Moving Image
 nav_order: 2
+has_children: true
 ---
 
 # Guide to Audio and Moving Image SPEC fields
