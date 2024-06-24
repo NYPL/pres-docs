@@ -1,3 +1,11 @@
+---
+title: Preservation Notes
+layout: default
+parent: Inventory
+grand_parent: Audio and Moving Image
+great_grand_parent: AMI SPEC Fields Guide
+nav_order: 1
+---
 # Types of Technical Information Notes Found on Various AMI Formats
 
 Here are some common technical notes an archivist may encounter on audio and moving image items and containers. They should be recorded in the "Preservation Notes" field of the item's SPEC Object Record.
