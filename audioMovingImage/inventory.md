@@ -25,7 +25,7 @@ For newly accessioned collections, parts of the following process may be complet
 <!-- Link first bullet to CLMGT documentation-->
 3. If not already assigned, select AMI format in object record and scan barcode.
 
-    - [AMI Format identification guide](ami-format-guide-mail.md)
+    - [AMI Format identification guide](ami-format-guide-main.md)
 <!-- Link to AMI documentation -->
 4. If necessary, associate with a SPEC container record: either a Media Originals divisional container or a collection accession container.
     - Creating Media Originals containers and printing labels.
