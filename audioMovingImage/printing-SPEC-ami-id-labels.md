@@ -63,6 +63,7 @@ Select _Start Mail Merge_, and then _Labels..._ from the dropdown menu.
 
 ![](images/printing-SPEC-ami-ids-14.jpg)
 - A window will pop up asking if you want to merge to a new document. Select _All_ and hit _OK_.
+<br>
 ![](images/printing-SPEC-ami-ids-15.jpg)
 - A new document of all the labels will open. 
 - Hit <kbd>CTRL + A</kbd> to select all.
