@@ -20,7 +20,7 @@ Contact the Systems and Operations (SysOps) Coordinator to assign you a range of
 ![test](./images/printing-SPEC-ami-ids-1.jpg)
 - Select cells A2 and A3.
 
-![test alt text](pres-docs/audioMovingImage/images/printing-spec-ami-ids-2.jpg)
+![test alt text](/audioMovingImage/images/printing-spec-ami-ids-2.jpg)
 - Hover over the lower right corner of the selected cells until the cursor turns into a black cross.
 - Click, then drag the cells down until you reach the highest number you wish to print. If you are printing a single sheet of labels, then you will need to drag down to row 81.
 
