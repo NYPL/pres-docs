@@ -10,7 +10,7 @@ Contact the Systems and Operations (SysOps) Coordinator to assign you a range of
 - Create the heading _Numbers_ in field A1
 - Type the first number in your SPEC AMI ID range assigned by SysOps in field A2 and the second numbder in field A3.
 
-![Excel cells A1 with "Numbers" as value and A2 and A3 with sequential numbers starting with 100001](../images/printing-spec-ami-ids-1.jpg)
+![](/images/printing-spec-ami-ids-1.jpg)
 - Select cells A2 and A3.
 
 ![](../images/printing-spec-ami-ids-2.jpg)
