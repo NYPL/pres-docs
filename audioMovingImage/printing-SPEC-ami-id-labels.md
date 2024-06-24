@@ -24,7 +24,7 @@ Contact the Systems and Operations (SysOps) Coordinator to assign you a range of
 - Hover over the lower right corner of the selected cells until the cursor turns into a black cross.
 - Click, then drag the cells down until you reach the highest number you wish to print. If you are printing a single sheet of labels, then you will need to drag down to row 81.
 
-![test alt text](/images/printing-spec-ami-ids-3.jpg)
+![test alt text](https://nypl.github.io/pres-docs/audioMovingImage/images/printing-SPEC-ami-ids-3.jpg)
 - Once you have the desired number of labels, save the document and close Excel.
 ## Creating a Mail Merge in Word
 - Open a blank Word document. Go to the _Mailings_ tab.
