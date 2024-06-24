@@ -3,8 +3,7 @@ title: Preservation Notes
 layout: default
 parent: Inventory
 grand_parent: Audio and Moving Image
-great_grand_parent: AMI SPEC Fields Guide
-nav_order: 1
+nav_order: 3
 ---
 # Types of Technical Information Notes Found on Various AMI Formats
 
