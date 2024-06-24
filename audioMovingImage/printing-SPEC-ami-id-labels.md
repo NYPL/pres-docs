@@ -65,6 +65,7 @@ Select _Start Mail Merge_, and then _Labels..._ from the dropdown menu.
 - A window will pop up asking if you want to merge to a new document. Select _All_ and hit _OK_.
 <br>
 ![](images/printing-SPEC-ami-ids-15.jpg)
+<br>
 - A new document of all the labels will open. 
 - Hit <kbd>CTRL + A</kbd> to select all.
 - Resize and center the numbers so they fit in the template. Arial Black font size 22 is recommended. 
