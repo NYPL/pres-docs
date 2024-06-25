@@ -1,7 +1,7 @@
 ---
 title: Guiding Principles to a Holistic Approach
 layout: default
-parent: Archival Processing at NYPL
+parent: Processing at NYPL
 grand_parent: Archival Processing
 nav_order: 1
 has_children: false
