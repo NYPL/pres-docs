@@ -2,7 +2,7 @@
 title: Defining Archival Principles
 layout: default
 parent: Archival Processing
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
