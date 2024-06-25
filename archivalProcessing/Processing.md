@@ -2,6 +2,7 @@
 title: Processing
 layout: default
 parent: Defining Archival Principles
+grand_parent: Archival Processing
 nav_order: 1
 has_children: false
 ---
