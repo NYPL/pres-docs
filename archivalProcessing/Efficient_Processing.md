@@ -1,7 +1,7 @@
 ---
 title: Efficient Processing
 layout: default
-parent: Processing at NYPL
+parent: Archival Processing at NYPL
 grand_parent: Archival Processing
 nav_order: 2
 has_children: false
