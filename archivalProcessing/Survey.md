@@ -1,9 +1,8 @@
 ---
 title: Survey
 layout: default
-parent: Preliminary Background Work
-grand_parent: Archival Processing
-nav_order: 4
+parent: Archival Processing
+nav_order: 6
 has_children: false
 ---
 # Survey
