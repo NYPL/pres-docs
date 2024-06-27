@@ -8,18 +8,23 @@ has_children: false
 ---
 # Collection Information
 **Collection Title and Dates** [[DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) and [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html)]
+
 Include a DACS compliant [collection title](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) and the full coverage [dates](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) of the collection. Sometimes the name given to the collection during the acquisition process will not be DACS compliant and will need to be updated.
 
 **Name of Creator(s)** [[DACS 2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)]
+
 Provide the name(s) of the collection creator(s). Check the [Library of Congress Name Authority Headings](https://authorities.loc.gov/) to see if the creator has an existing authority file, and format the name in the way it is formatted in the authority record (i.e. [Reed, Lou](https://id.loc.gov/authorities/names/n91053113.html)). If the creator does not have a Library of Congress authority record, you should also check [ULAN](https://www.getty.edu/research/tools/vocabularies/ulan/), [SNAC](https://snaccooperative.org/), and [VIAF](http://viaf.org/). While a collection can have multiple creators or contributors, you may only assign one main entry to a finding aid and catalog record. Other creators must be added as a _creator/contributor_ agent to the finding aid in ASpace, which exports as an added author [[MARC 700](https://www.loc.gov/marc/bibliographic/bd700.html)/[MARC 710](https://www.loc.gov/marc/bibliographic/bd710.html)] in the catalog record. For more information about agents, access points, and how to handle collections without a main entry, see the [Controlled Access Terms]() section of this documentation. 
 
 **Curatorial Division** [[DACS 2.2](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/02_name_and_location_of_repository.html)]
+
 Indicate what division the collection you are processing is from. See the section of this documentation about [Archival Processing at NYPL](https://nypl.github.io/pres-docs/archivalProcessing/Guiding_Principles_to_a_Holistic_Approach.html) for more information about each curatorial division.
 
  **Acquisition Number**
+
 All collections, with the exception of backlog and artificial collections, are assigned an acquisition number. In SPEC the acquisition number is found in the top left of the Acquisition Summary screen. 
 
 **Accession Number(s)** 
+
 This will be assigned automatically by SPEC during accessioning. An accession number includes the year an acquisition was received followed by the sequential order of the acquisition. The accession number is located to the right of the acquisition number in the Acquisition Summary screen in SPEC. A collection may have more than one accession number if it was received in multiple acquisitions, or if the collection is an addition.
 
  **Collection Number** [[DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html)]
@@ -45,6 +50,7 @@ Manuscripts and Archives and Berg uses the unique SPEC collection ID number to c
 MssCol 24586 Berg Coll MSS 28384
 
 **Schomburg Photographs and Prints Call Numbers**
+
 The Schomburg Photographs and Prints division uses a naming convention for their call numbers that is explained in this [document](https://docs.google.com/document/d/1B00pxyjB8B5WriV9qv26hh6C9mAOeUgQIHumx8wTOHU/edit?usp=sharing). Most collections processed in the Archival Processing unit are formatted like this: 
 
 Sc Photo [Name of creator(s) or collector(s), with added topic term if present] Collection
