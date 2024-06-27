@@ -3,7 +3,7 @@ title: Proposed Processing Plan
 layout: default
 parent: Processing Proposal
 grand_parent: Archival Processing
-nav_order: 
+nav_order: 5
 has_children: false
 ---
 # Proposed Processing Plan

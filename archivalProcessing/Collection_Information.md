@@ -42,9 +42,11 @@ This will be assigned automatically by SPEC during accessioning. An accession nu
 The collection call number is provided by the curatorial division at the time of accessioning for Music, Theatre, and Schomburg Manuscripts and Archives collections.
 
 **Dance Call Numbers** 
+
 Call numbers for Dance collections are created by Archival Processing unit management after a collection has been accessioned 
 
 **Manuscripts and Archives and Berg Call Numbers** 
+
 Manuscripts and Archives and Berg uses the unique SPEC collection ID number to create their call numbers, which are formatted like this: 
 
 MssCol 24586 Berg Coll MSS 28384
