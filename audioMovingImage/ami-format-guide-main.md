@@ -38,17 +38,18 @@ nav_order: 1
 - [cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
 ### Audio grooved disc
 - disc [LEGACY]
-- disc, Edison Diamond disc
-- disc, Edison Voicewriter
+- [disc, Edison Diamond disc](https://obsoletemedia.org/edison-diamond-disc/)
+- [disc, Edison Voicewriter](https://obsoletemedia.org/voicewriter/)
 - disc, flexible
+    - Many formats, [Flexi discs](https://en.wikipedia.org/wiki/Flexi_disc) most likely to be encountered
 - disc, gelatin
-- disc, lacquer, glass base
-- disc, lacquer, metal base
-- disc, lacquer, paper base
-- disc, metal
+- [disc, lacquer, glass base](https://psap.library.illinois.edu/collection-id-guide/phonodisc#lacquerdisc)
+- [disc, lacquer, metal base](https://psap.library.illinois.edu/collection-id-guide/phonodisc#lacquerdisc)
+- [disc, lacquer, paper base](https://psap.library.illinois.edu/collection-id-guide/phonodisc#lacquerdisc)
+- [disc, metal](https://psap.library.illinois.edu/collection-id-guide/phonodisc#aluminumdisc)
 - disc, other
-- disc, shellac
-- disc, vinyl
+- [disc, shellac](https://psap.library.illinois.edu/collection-id-guide/phonodisc#shellacdisc)
+- [disc, vinyl](https://psap.library.illinois.edu/collection-id-guide/phonodisc#vinyldisc)
 ### Audio optical
 - Audio CD-R
 - Audio CD, pressed
