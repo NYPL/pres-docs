@@ -18,7 +18,7 @@ nav_order: 1
 - [Fidelipac cartridge](https://obsoletemedia.org/fidelipac/)
 ### Audio cassette digital
 - [ADAT](https://en.wikipedia.org/wiki/ADAT)
-    - Audio recoded on S-VSH cassette
+    - Audio recoded on S-VHS cassette
 - [Betamax/VHS/PCM (F1)](https://en.wikipedia.org/wiki/PCM_adaptor)
     - Audio recorded on Betamax or VHS cassettes
 - [DA-88](https://en.wikipedia.org/wiki/DA-88)
@@ -27,7 +27,7 @@ nav_order: 1
 - [U-Matic/PCM](https://obsoletemedia.org/u-matic-digital-audio/)
     - Audio recorded on U-Matic cassettes
 ### Audio grooved belt
-- Dictabelt
+- [Dictabelt](https://obsoletemedia.org/dictabelt/)
 ### Audio magnetic belt
 - Magnabelt / Executary
 ### Audio grooved cylinder
