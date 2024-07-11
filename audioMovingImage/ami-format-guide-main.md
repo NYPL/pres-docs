@@ -35,7 +35,7 @@ nav_order: 1
 - [cylinder, black wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, brown wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, blue amberol](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
-- ]cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
+- [cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
 ### Audio grooved disc
 - disc [LEGACY]
 - disc, Edison Diamond disc
