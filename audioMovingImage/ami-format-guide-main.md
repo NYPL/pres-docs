@@ -29,7 +29,7 @@ nav_order: 1
 ### Audio grooved belt
 - [Dictabelt](https://obsoletemedia.org/dictabelt/)
 ### Audio magnetic belt
-- Magnabelt / Executary
+- [Magnabelt/Executary](https://obsoletemedia.org/magnabelt/)
 ### Audio grooved cylinder
 - cylinder
 - cylinder, black wax
