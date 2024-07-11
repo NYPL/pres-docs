@@ -31,11 +31,11 @@ nav_order: 1
 ### Audio magnetic belt
 - [Magnabelt/Executary](https://obsoletemedia.org/magnabelt/)
 ### Audio grooved cylinder
-- cylinder
-- cylinder, black wax
-- cylinder, brown wax
-- cylinder, blue amberol
-- cylinder, celluloid
+- [cylinder](https://obsoletemedia.org/audio/phonograph/#cylinder)
+- [cylinder, black wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
+- [cylinder, brown wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
+- [cylinder, blue amberol](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
+- ]cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
 ### Audio grooved disc
 - disc [LEGACY]
 - disc, Edison Diamond disc
