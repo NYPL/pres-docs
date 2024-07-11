@@ -1,0 +1,11 @@
+---
+title: Processing Proposal
+layout: default
+parent: Archival Processing
+nav_order: 8
+has_children: true
+---
+# Processing Proposal
+Once you have completed your survey and documented your appraisal decisions, you will have enough information about the collection to begin your processing proposal. In the processing proposal you will provide an overview of the collection, an analysis of its current arrangement, a summary of the received content, biographical information about the collection’s creator, and a work plan for how you intend to process and arrange the collection. The proposal is also where you should document preservation concerns, appraisal decisions, and note significant materials that may be of interest to curators. The [proposal template](https://docs.google.com/document/d/1xhqvV--epavz3_AWj0-AzC7887KnpnYEpMchYS0tbL4/edit?usp=sharingZ_TqZas_TvMV3xN_rndl/edit?usp=sharing\&ouid=108219624496366593981\&rtpof=true\&sd=trued7TsM5IETwuDiqD3R2Y/edit?usp=sharing\&ouid=108219624496366593981\&rtpof=true\&sd=true) is located in Google Drive, and a breakdown of how to complete each field is listed below. Examples of completed processing proposals can be found in the dossiers of processed collections, and attached to the Trello cards of in-process and processed collections. Even though you will have gathered a significant amount of information by the time you begin drafting your plan, keep in mind that content you may not have seen during the survey may surface during processing. This is common and expected, and thus may alter your intended plan. If this happens, consult with your supervisor about the ways in which your plan will change. If the changes are significant, you may be asked to add an addendum to your proposal. Updates to your initial plan should also be documented in your [Closing Memo](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.9iwi9b67yr37).
+
+A brief explanation about how to effectively complete each section of the processing proposal is included in the following sections of this documentation. Links to the relevant [DACS](https://saa-ts-dacs.github.io/) fields are also included. When writing your proposal, delete the instruction text from each field of the template before adding your own information.

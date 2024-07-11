@@ -1,0 +1,19 @@
+---
+title: Appraisal
+layout: default
+parent: Archival Processing
+nav_order: 7
+has_children: true
+---
+# Appraisal
+In archives, appraisal is the process of determining whether collection material has archival value and should be retained, preserved, and described. This is not the same thing as an appraisal to determine monetary value, which some donors may hire a professional to perform on their collection before selling or donating it to the library. When appraising a collection for archival value, you are considering what should stay in the collection, and what should be separated or transferred.[^1] During the course of your survey, you should make notes about potential appraisal decisions, and designate possible candidates for separation or transfer.
+
+Keep in mind that all collections are different, and that there is no one correct way to appraise a collection. During the appraisal process, you should always take your own personal background and biases into account. There is abundant recent literature on this topic, including some [recommendations](https://docs.google.com/spreadsheets/d/1WI9bAG8KKPd9Y8RFm4xYzAPRc_LLUKFg9uJXu_2ZCDE/edit?usp=sharing) compiled by Archvial Processing staff. The myth of neutrality in archives has been dispelled many times over, so instead of attempting to appraise using a so-called objective “view from nowhere” approach, strive for a methodology that acknowledges your own positionality and seek to center “ways of being and knowing from the margins.”[^2]
+
+It is also important to reflect on whether or not the records you have designated to be discarded may have research value to historically marginalized groups,[^3] such as BIPOC or LGBTQIA+ people, or might document an event where there is little available research materials. For example, while clippings are typically good candidates for removal from the collection, clippings from publications in small circulation, those which are out of print, are annotated, or which are not held elsewhere, should usually remain in the collection.
+
+[^1]: Terry Cook emphasizes the importance of this core archival function, writing that “As archivists appraise records, they are doing nothing less than determining what the future will know about its past: who will have a continuing voice and who will be silenced. Archivists thereby co-create the archive. Archival appraisal decides which creators, functions, and activities generating records will be represented in archives, by defining, identifying, then selecting which documents and which media become archives in the first place.” Terry Cook, “The Archive(s) Is a Foreign Country: Historians, Archivists, and the Changing Archival Landscape,” _The American Archivist_ 74, no. 2 (November 23, 2011): 606, doi:[10.17723/aarc.74.2.xm04573740262424](https://meridian.allenpress.com/american-archivist/article/74/2/600/24201/The-Archive-s-Is-a-Foreign-Country-Historians).
+
+[^2]: Michelle Caswell also calls on “archivists who inhabit dominant identities to acknowledge their oppressor standpoints and actively work to dismantle them,”Michelle Caswell, “Dusting for Fingerprints: Introducing Feminist Standpoint Appraisal,” _Journal of Critical Library and Information Studies_ 3 (August 25, 2019): 2, <https://journals.litwinbooks.com/index.php/jclis/article/view/113>.
+
+[^3]: Lae'l Hughes-Watkins suggests that “When archivists and their institutions acknowledge the marginalization or absence of the oppressed they must respond through establishing a reparative archive that engenders inclusivity.”Lae’l Hughes-Watkins, “Moving Toward a Reparative Archive: A Roadmap for a Holistic Approach to Disrupting Homogenous Histories in Academic Repositories and Creating Inclusive Spaces for Marginalized Voices,” _Journal of Contemporary Archival Studies_ 5, no. 1 (May 16, 2018): 4, <https://elischolar.library.yale.edu/jcas/vol5/iss1/6>.
