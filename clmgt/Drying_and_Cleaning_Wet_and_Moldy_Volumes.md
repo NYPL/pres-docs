@@ -68,7 +68,7 @@ The following PPE is strongly recommended:
 4. Set up a standing fan near the biosafety cabinet.
 
 
-### Step 1: Air dry volumes {^1}
+### Step 1: Air dry volumes {^1}.
 
 1. Remove a maximum of four volumes from the freezer and transport them to the biosafety cabinet on a book truck. 
 
