@@ -75,11 +75,8 @@ March 2022
 
 - Choose one of these two methods for removing a volume from the shelf:
 
-   1. Gently push the neighboring volume on both sides of the volume you want toward the back of the shelf. Grip both covers of the volume on either side of the spine and gently slide it off the shelf, using your other hand to support the bottom. 
-
-OR
-
-   2. Put a hand on the top edge (not the headcap) and gently tilt the volume out, gripping both covers on either side of the spine with your other hand. 
+    1. Gently push the neighboring volume on both sides of the volume you want toward the back of the shelf. Grip both covers of the volume on either side of the spine and gently slide it off the shelf, using your other hand to support the bottom. 
+    2. Put a hand on the top edge (not the headcap) and gently tilt the volume out, gripping both covers on either side of the spine with your other hand. 
 
 - Once a volume is removed from the shelf, use a bookend or ethafoam placeholder block to support the remaining volumes on the shelf.
 
