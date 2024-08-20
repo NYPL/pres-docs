@@ -33,13 +33,13 @@ _Tube_, _volume_, and _oversized folder_ _Top Container Types_ will never have a
 
 A date that is also the folder title must be entered into the _dates_ field. The folder title fields (i.e. _c01, c02,_ etc) should be left blank. Consecutive dates should be entered as a range, while dates with large gaps should be separated with a comma. If you cannot determine a date, leave the field blank or use an estimated date with _circa_ as the prefix.
 
-![Processing Spreadsheet Dates](archivalProcessing/Images/05-Processing-spreadsheet-dates.png)
+![Processing Spreadsheet Dates](/Images/05-Processing-spreadsheet-dates.png)
 
 **Title Tags**
 
 \<title> tags can be included in the spreadsheet when applicable.
 
-![title tags in spreadsheets](archivalProcessing/Images/06-title-tags.png)
+![title tags in spreadsheets](/Images/06-title-tags.png)
 
 **Container Ranges**
 
@@ -49,7 +49,7 @@ The ASpace importer will recognize a contiguous container range entered into the
 
 _Subcontainer indicators_ for the folders located inside boxes will typically be entered as a range. See the section of this manual on [Archival Description ]()for detailed information about working with and revising top containers in ASpace. See the example below for how to properly enter box ranges.
 
-![folder ranges](archivalProcessing/Images/07-folder-ranges.png)
+![folder ranges](Images/07-folder-ranges.png)
 
 **Call Number Field**
 
