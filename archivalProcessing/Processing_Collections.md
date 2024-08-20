@@ -1,5 +1,5 @@
 ---
-title: Processing Collections - Arrangement, Handling, and Storage
+title: Processing Collections
 layout: default
 parent: Archival Processing
 nav_order: 10
