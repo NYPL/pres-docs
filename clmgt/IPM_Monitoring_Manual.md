@@ -187,6 +187,6 @@ If traps are closed due to low activity, or for any other reason, the trap needs
 3. In the “Date Closed” column, insert the date you closed the trap.
 
 
-Footnotes:
+### Footnotes:
 [^1]: For example, SASBBRG.01-SASBBRG.16 for the Berg Collection, SASBM1.01-SASBM1.23 for Milstein 1, and SASBReg.01-SASBReg.04 for the Registrar’s office
 [^2]: For example, LPA1 through LPA40 at LPA and LSC1 through LSC51 at LSC
