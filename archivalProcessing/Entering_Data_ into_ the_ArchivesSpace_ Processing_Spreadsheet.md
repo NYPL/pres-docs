@@ -33,4 +33,36 @@ _Tube_, _volume_, and _oversized folder_ _Top Container Types_ will never have a
 
 A date that is also the folder title must be entered into the _dates_ field. The folder title fields (i.e. _c01, c02,_ etc) should be left blank. Consecutive dates should be entered as a range, while dates with large gaps should be separated with a comma. If you cannot determine a date, leave the field blank or use an estimated date with _circa_ as the prefix.
 
+![Processing Spreadsheet Dates](archivalProcessing/Images/05-Processing-spreadsheet-dates.png)
+
+**Title Tags**
+
+\<title> tags can be included in the spreadsheet when applicable.
+
+![title tags in spreadsheets](archivalProcessing/Images/06-title-tags.png)
+
+**Container Ranges**
+
+The ASpace importer will recognize a contiguous container range entered into the processing spreadsheet, such as box “1-3”, and create three separate container instances in the top container list. However, each noncontiguous _top container type_ in a single component must be entered as a single _top container indicator_. If you have a component with noncontiguous containers, or if you wish to display the folder ranges for each box, you must create a separate line for each top container (as illustrated in the example below). When working in the spreadsheet, repetition is okay, because containers can be manually consolidated once they have been imported in ASpace.
+
+**Subcontainer Indicators**
+
+_Subcontainer indicators_ for the folders located inside boxes will typically be entered as a range. See the section of this manual on [Archival Description ]()for detailed information about working with and revising top containers in ASpace. See the example below for how to properly enter box ranges.
+
+![folder ranges](archivalProcessing/Images/07-folder-ranges.png)
+
+**Call Number Field**
+
+If the materials in your collection include a numbering or labeling system imposed by the creator or donor which may be helpful to the researcher, this unique identifier should be recorded in the _call number_ field (EAD: \<unitid type="local\_call">) of each applicable component. 
+
+For more insight on data entry into ArchivesSpace, refer to the section of this manual on [Archival Description]().
+
+
+
+
+
+
+
+
+
 
