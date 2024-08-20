@@ -1,5 +1,5 @@
 ---
-title: Folder Level (subseries)
+title: Multilevel (Subseries)
 layout: default
 parent: Guidelines for Levels of Description
 grand_parent: Archival Processing
