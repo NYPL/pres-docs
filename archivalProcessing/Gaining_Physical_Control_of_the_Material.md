@@ -1,7 +1,7 @@
 ---
 title: Gaining Physical Control of the Material
 layout: default
-parent: Processing Collections - Arrangement, Handling, and Storage
+parent: Processing Collections
 grand_parent: Archival Processing
 nav_order: 1
 has_children: false

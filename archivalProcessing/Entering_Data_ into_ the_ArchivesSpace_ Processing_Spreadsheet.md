@@ -1,7 +1,7 @@
 ---
 title: Entering Data Into The ArchivesSpace Processing Spreadsheet
 layout: default
-parent: Processing Collections - Arrangement, Handling, and Storage
+parent: Processing Collections
 grand_parent: Archival Processing
 nav_order: 2
 has_children: false
