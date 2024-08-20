@@ -6,6 +6,7 @@ grand_parent: Archival Processing
 nav_order: 2
 has_children: false
 ---
+# Entering Data Into The ArchivesSpace Processing Spreadsheet
 When working within the [ArchivesSpace Processing Spreadsheet Template](https://docs.google.com/spreadsheets/d/1TEPAgzKzb5C8IWVkRfHy2--Wj4sMdM6XitKM4ZZiesg/edit#gid=0), there are a few key guidelines to keep in mind:
 
 **Top Container Type**
