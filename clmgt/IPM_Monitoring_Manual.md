@@ -21,21 +21,23 @@ As of Fall 2021, Collection Management began using Airtable as the repository fo
 
 ### Section 1.1: Trap Types
 
-We use low-tack blunder traps at SASB, LPA, and LSC which allow for the tracking and analysis of insect captures. At LPA and SASB, we also use pheromone lures, which are used when monitoring for a specific pest (in our case, to attract webbing clothes moths).
+We use low-tack blunder traps at SASB, LPA, LSC, and SCH which allow for the tracking and analysis of insect captures. At LPA and SASB, we also use pheromone lures, which are used when monitoring for a specific pest (in our case, to attract webbing clothes moths).
  - Blunder Trap
  - Pheromone Lure 
 
 ### Section 1.2: Trap Placement
 
-#### Section 1.2.1: Choosing Trap Locations
+#### **Section 1.2.1: Choosing Trap Locations**
 
 Trap placement is crucial to effective pest collection data. Blunder traps should be placed inside every building, area, and room where collections are used and stored. The size of the space and what is stored within it will determine the number of traps necessary. Pests tend to travel along perimeters, such as walls of rooms, so placing the traps along these paths will provide more accurate data. Spread the location of traps throughout the room, especially on either side of doorways, windows, near drains and water sources, and any other possible entry points. To see where all traps (past and present) are located, see the “Traps” table in the [Integrated Pest Management Airtable Base](https://airtable.com/appkBae68IdexO8pZ/tbl7GLUyO2bJyuVCs/viwsJPqpEyYnGiwSw?blocks=hide). For more tips on choosing trap locations, see the [Monitoring](https://museumpests.net/monitoring-introduction/) page on MuseumPests.net. Trap placement is reevaluated yearly during the end of year IPM report.
+
 
 ##### Section 1.2.1.1: Pheromone Lures
 
 Pheromone lures are placed directly on the sticky blunder trap. There are two lures on a trap at a time and they are placed next to each other in the center. Only one lure is replaced every two months. For more information about replacing the pheromone lures, see Section 2.2: Monitoring. As of 2022, pheromone lures are only employed at LPA and SASB.  
 
-#### Section 1.2.2: Trap Labeling
+
+#### **Section 1.2.2: Trap Labeling**
 
 When placing a trap, each should be labeled with three important pieces of information:
 - Date of placement
@@ -46,7 +48,8 @@ When placing a trap, each should be labeled with three important pieces of infor
 
 Once this information is put directly onto the trap, place the trap in the designated locations you selected and take a photo of it in situ (to be uploaded to Airtable later). **Be sure to remove the plastic film over the trap adhesive before placing the trap.** 
 
-#### Section 1.2.3: Creating Trap Maps
+
+#### **Section 1.2.3: Creating Trap Maps**
 
 Floor plans for each space allow us to map the traps for our reference and for Facilities’ reference. If a floor plan does not exist for a space where you place traps, you can create one using Microsoft Visio. In order to have the program installed on your computer, put in a ticket in ServiceNow. To create the floor plan:
 
@@ -89,7 +92,7 @@ Floor plans for each space allow us to map the traps for our reference and for F
    2. Drag and drop your files here.
 
 
-#### Section 1.2.4: Entering Trap Info in Airtable
+#### **Section 1.2.4: Entering Trap Info in Airtable**
 
 Once you have placed the traps and created the trap maps, you need to create records for the traps in the [Integrated Pest Management Airtable Base](https://airtable.com/appkBae68IdexO8pZ/tbl7GLUyO2bJyuVCs/viwsJPqpEyYnGiwSw?blocks=hide). To do so:
 
@@ -137,7 +140,7 @@ All of the necessary supplies will fit in a tote bag, making it easy to walk fro
 
 - Trap Maps
 
-\*Only needed at LPA/SASB and they are replaced every two months 
+\*Only needed at LPA and SASB and they are replaced every two months 
 
 
 ### Section 2.2: Monitoring
@@ -185,5 +188,5 @@ If traps are closed due to low activity, or for any other reason, the trap needs
 
 
 
-[^1] For example, SASBBRG.01-SASBBRG.16 for the Berg Collection, SASBM1.01-SASBM1.23 for Milstein 1, and SASBReg.01-SASBReg.04 for the Registrar’s office
-[^2] For example, LPA1 through LPA40 at LPA and LSC1 through LSC51 at LSC
+[^1]: For example, SASBBRG.01-SASBBRG.16 for the Berg Collection, SASBM1.01-SASBM1.23 for Milstein 1, and SASBReg.01-SASBReg.04 for the Registrar’s office
+[^2]: For example, LPA1 through LPA40 at LPA and LSC1 through LSC51 at LSC
