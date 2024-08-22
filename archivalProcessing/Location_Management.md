@@ -1,0 +1,22 @@
+---
+title: Location Management
+layout: default
+parent: Processing Collections
+grand_parent: Archival Processing
+nav_order: 3
+has_children: false
+---
+# **Location Management in the Archival Processing Unit**
+You must update the physical locations of all containers in your collection during processing. Collection Management monitors and manages all storage locations, but it is the responsibility of the processing archivist to make sure each object’s location is up to date in SPEC. Most shelves and rooms at LSC have location barcodes that can be scanned directly into SPEC. Archivists should keep a copy of their workspace room’s barcode at their desks. When you bring collection containers from the stacks to your desk, you must update the location in SPEC, and you must do the same for processed materials being stored in the stacks or at your workspace prior to shipment. Collection Management also has [documentation]() that outlines procedures for location management at LSC. 
+
+The chart below details all the times you need to update collection location information in SPEC:
+
+| Scenario | Action in SPEC |
+| ---------| ---------------|
+| Collection moved from stacks to workspace for survey and/or processing. | Update objects’ location in SPEC with your workspace barcode or current location. |
+| Collection returned to stacks after survey for storage. | Update objects’ location in SPEC with stacks shelf location. |
+| Collection rehoused into new containers. | [Deactivate]() the old containers in SPEC. |
+| New containers imported from ASpace into SPEC. | Update the locations of all newly imported objects in SPEC. |
+| Processed containers moved to stacks for temporary storage. | Update all containers in SPEC with their current room, shelf, or mapcase location. |
+
+Below are instructions on how to update locations using the Object Barcode App and from the Object Search screens in SPEC. The [SPEC Objects Manual]() also has detailed instructions on how to perform all these tasks, as well as a section about [location]() management.
