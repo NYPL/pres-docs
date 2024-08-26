@@ -28,15 +28,15 @@ From the SPEC landing page navigate to the Object Barcode App under the Object m
 
 On the _Object Barcode App_ screen, scan in the barcode of the object whose location you need to update.
 
-![SPEC Object Barcode App](archivalProcessing/Images/09-Object_Barcode_App.png)
+![SPEC Object Barcode App](Images/09-Object_Barcode_App.png)
 
 The object name, type, and current location will appear. Scan the new location barcode into the _Location Barcode_ field on the right.
 
-![Scan Location](archivalProcessing/Images/10-Scan_location.png)
+![Scan Location](/Images/10-Scan_location.png)
 
 A message will pop up notifying you that a different object barcode than the current active location has been entered. Select _OK_. 
 
-![Location Message](archivalProcessing/Images/11-Location_Message.png)
+![Location Message](/Images/11-Location_Message.png)
 
 This will make the previous location inactive, and update the location to the new one you scanned. The new location will be reflected under _Active Storage Location_.
 
