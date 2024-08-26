@@ -32,3 +32,8 @@ Brian Pritchard’s site has a [guide](http://www.brianpritchard.com/IMPF.htm) t
 
 The National Film and Sound Archive of Australia has a [short technical guide](https://www.nfsa.gov.au/preservation/guide/handbook/identification) to film types.
 
+## **Paper Materials in Audio and Moving Image Containers**
+As you inventory and describe AMI, remove any loose papers and documentation found inside a media enclosure, and place these in a folder labeled with the identifier number of the Media Original item. By retaining this information, you will be able to describe the paper and AMI together in the finding aid. It is generally best to integrate each separated paper into the container list. For some legacy collections where the papers have already been separated and their origin is unclear, you may need to create a file with a title such as, _Separated Papers_, that includes all the separated items. 
+
+## **Preservation Issues**
+Often AMI with preservation issues is discovered during accessioning, and physically separated from the collection. The Manager of Audio and Moving Image Description and Collection Manager will assess the preservation concerns and determine whether the materials will need to be sent to a vendor for remediation. However, you still may encounter additional AMI content with preservation issues during your appraisal or inventory. Some common issues are mold and film with vinegar syndrome. The [filmcare.org](https://filmcare.org/visual_decay) site is a useful resource in helping to identify potential preservation issues. If you are unsure if something is an AMI preservation issue, reach out to the Manager of Audio and Moving Image Description and Collection Management for guidance.
