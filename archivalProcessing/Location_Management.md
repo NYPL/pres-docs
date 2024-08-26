@@ -42,6 +42,60 @@ This will make the previous location inactive, and update the location to the ne
 
 Repeat these steps for each location you need to change. If you have to update many locations, it is recommended that you use the _Object Search_ or _Batch Object Editor_ functions in SPEC.
 
+## **Updating Locations in SPEC Using the Object Editor**
+First, navigate to your collection’s objects list. There are a few ways to update locations from the _Object Search_ screen. If you are moving containers from the stacks to your desk, and updating each object’s location to a single new location, it is generally best to use the _Bulk Edit_ function. If you are moving containers from your workspace to the stacks, then the _Batch Edit_ function is generally most useful.
+
+### **Location Management with the SPEC Bulk Editor**
+Once you have moved collection containers from the stacks to your desk, open your collection’s objects list. Select the _Action_ button at the top left to open the _bulk editor menu_, then choose _select all_ to select all the objects in your collection. 
+
+![SPEC Bulk Edit Menu](/Images/12-SPEC_Bulk_Edit.png)
+
+Once all the objects are selected, choose the _Action_ menu again and select _Update object locations_.
+
+![Update Object Locations](/Images/13-Update_object_locations.png)
+
+A dialog box will appear notifying you that the current object locations will be deactivated. Select _OK._
+
+![Object Bulk Deactivate](/Images/14-object_bulk_deactivate.png)
+
+A new screen will open that displays the current location, as well as all previous locations. Scan the new location barcode into the box on the right.
+
+![Update Bulk Locations](/Images/15-Update_location_bulk.png)
+
+Once you have entered the new barcode, select the green _Apply Location to Selected Objects_ button.
+
+![Apply Locations Button](archivalProcessing/Images/16-Apply_locations_button.png)
+
+SPEC will return to the _Objects Search_ screen and update all the object locations you selected. The new location will be reflected in the _Location_ field. 
+
+### **Location Management with the SPEC Batch Editor**
+You can also update collection object locations from the SPEC _Batch Editor_. There are no bulk editing capabilities from this screen, but you are able to make your edits from a list view for individual items. This is a good option for shelving processed collections in the stacks, or other situations when you will be moving many objects to various locations. 
+
+To use the SPEC _Batch Editor_, navigate to your collection’s objects in SPEC and _All_ next to _Batch edit_ at the top of the screen. 
+
+![Batch Edit All](/Images/17-Batch_Edit_All.png)
+
+This will open the SPEC _Batch Edit_ screen, which displays an editable list of all objects associated with your collection. You can sort these objects by container number by scrolling to the right and clicking on the word _Number_, as illustrated below.
+
+![sort objects](/Images/18-Sort_objects.png)
+
+The object’s current location is in the _Current Location_ column. In order to update the location, click on the barcode icon next to the location. This will open a box prompting you to scan in a new location.
+
+![Update Location](/Images/19-Update_Location.png)
+
+Once you scan in the new location, a dialog box will appear.
+
+![Make Current Location Inactive](/Images/20-Make_Current_Location_Inactive.png)
+
+Select _OK_, and the new location will appear in the object’s location field. Repeat these steps for each location you need to update.
+
+
+
+
+
+
+
+
 
 
 
