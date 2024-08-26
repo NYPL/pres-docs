@@ -1,5 +1,5 @@
 ---
-title: Location Management
+title: Collection Management and Conservation Intervention
 layout: default
 parent: Processing Collections
 grand_parent: Archival Processing
