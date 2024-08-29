@@ -11,6 +11,6 @@ Dossiers and Acquisition folders include all documentation compiled and created 
 
 Collection dossiers are arranged into folders by curatorial division, and sorted by collection number. Acquisitions prior to July 2021 will have dossiers in Google Drive. Dossier folders typically use the following format: _Unique Identifier\_Collection Title_. Some legacy collections may not have acquisition information or collection dossiers.
 
-Acquisition information for collections received after July 2021 are located in the SPEC record, and additional documentation is located in the acquisition folder in Google Drive. Acquisition folders use the following format: _Acquisition Number\_Acquisition Name_. You can navigate to a collection’s acquisition record directly from the SPEC acquisition record by selecting the folder icon in the top right.
+Acquisition information for collections received after July 2021 are located in the SPEC record, and additional documentation is located in the acquisition folder in Google Drive. Acquisition folders use the following format: _Acquisition Number\_Acquisition Name_. You can navigate to a collection’s acquisition record directly from the SPEC acquisition record by selecting the folder icon in the top right. All completed [processing proposals](/Processing_Proposal.md) and closing memos should also be added to the acquisition folder. 
 
 ![SPEC Folder Icon](Images/01-SPEC_Folder.png)
