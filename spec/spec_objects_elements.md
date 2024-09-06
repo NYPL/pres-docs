@@ -341,12 +341,54 @@ The date the restriction expired or will expire (if known).
 ## Issues
 **Optional. Multiple values.**
 
-The *Issues* field is used to record preservation issues discovered during any assessment, as well as their resolution. Whenever an issue is recorded, SPEC automatically creates a corresponding assessment record if there is no existing record covering the date the issue was discovered.
+The issues section of an object record is used to record preservation issues discovered during any assessment, as well as their resolution. Whenever an issue is recorded, SPEC automatically creates a corresponding assessment record if there is no record covering the date the issue was discovered.
 
-### Type
-**Required. Single value. Controlled list of values.**
+### Issue Type
 
-The type of issue entered determines the available choices for the *Issues* field.
+The type of issue entered determines the available choices for the specific *Issues* field.
+
+| **Type**                   | **Issue**                               |
+|----------------------------|-----------------------------------------|
+| Condition Issues            | Corrosion                               |
+| Condition Issues            | Damaging attachments                    |
+| Condition Issues            | Flaking media                           |
+| Condition Issues            | Iron gall ink                           |
+| Condition Issues            | Past insect damage                      |
+| Condition Issues            | Red rot                                 |
+| Condition Issues            | Staining/accretions                     |
+| Condition Issues            | Structural damage                       |
+| Condition Issues            | Tape/Tape stains                        |
+| Conservation Review         | Needs conservation review               |
+| Hazard                      | Acetate                                 |
+| Hazard                      | Biohazard                               |
+| Hazard                      | Chemical hazard                         |
+| Hazard                      | Drugs                                   |
+| Hazard                      | Explosives                              |
+| Hazard                      | Inactive mold                           |
+| Hazard                      | Matches                                 |
+| Hazard                      | Nitrate                                 |
+| Hazard                      | Other                                   |
+| Hazard                      | Radiological material                   |
+| Hazard                      | Weapons                                 |
+| Housing                     | Inadequate container                    |
+| Housing                     | Minimally full box                      |
+| Housing                     | Needs container                         |
+| Housing                     | Needs custom support                    |
+| Housing                     | Needs folder replacement                |
+| Inherent Vice               | Color photographic materials            |
+| Inherent Vice               | Food                                    |
+| Inherent Vice               | Glass disease                           |
+| Inherent Vice               | Sticky/Plasticizer migration/Unstable   |
+| Other                       | Barcode damage                          |
+| Other                       | Shrink wrap                             |
+| Other                       | Theft risk                              |
+| Storage Method              | Needs different size shelf              |
+| Storage Method              | Needs hanging storage                   |
+| Storage Method              | Needs museum cabinet                    |
+| Storage Method              | Needs painting rack                     |
+| Storage Method              | Needs platform/pallet                   |
+| Storage Method              | Needs rolled storage                    |
+| Storage Method              | Needs shelving                          |
 
 ### Noted Date
 **Required. Single value. Date.**
