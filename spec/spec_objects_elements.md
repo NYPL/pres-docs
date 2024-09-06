@@ -400,6 +400,11 @@ The date the issue was noticed. SPEC automatically fills in the date that the is
 
 The staff member who noticed the issue. SPEC fills in the username of the logged-in user who entered the record by default.
 
+### Rating
+**Required for Condition Issues > Structural Damage. Single Value. Number.**
+
+The severity of structural damage. 1: minimal, 2: moderate, 3: severe.
+
 ### Resolved On
 **Optional. Single value. Date.**
 
