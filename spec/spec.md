@@ -10,7 +10,6 @@ has_children: true
 ## Connecting
 
 If you would like to set up a new account for yourself or behalf of a staff member, please file a ServiceNow ticket.
----
 
 ## What is SPEC?
 
