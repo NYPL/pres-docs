@@ -12,7 +12,7 @@ has_children: true
 If you would like to set up a new account for yourself or behalf of a staff member, please file a ServiceNow ticket.
 ---
 
-# What is SPEC?
+## What is SPEC?
 
 **SPEC** is an internal database application designed for Library staff to record, find, and compile information about special collections at the object level. These objects include both physical and digital entities stored within the Research Libraries' collection locations. 
 
