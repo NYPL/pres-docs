@@ -6,7 +6,7 @@ grand_parent: SPEC
 nav_order: 3
 ---
 
-# Objects Editor
+# Introduction
 
 [Screenshot pending]
 
@@ -18,9 +18,7 @@ You can edit most object elements from the Basic Fields screen. For a list of ob
 
 The Basic Fields screen includes a navigation bar at the top that can be used to toggle between other common object elements/element groups, including Media, Relationships, References, Restrictions, Issues, Locations and Estimates.
 
-# Object Editing Guide
-
-# SPEC Object Elements
+# Editing SPEC Objects
 
 Most object elements can be edited by simply clicking into the field and typing. However, some object elements require additional details to be input.
 
