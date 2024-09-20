@@ -3,7 +3,7 @@ title: Oversized Materials
 layout: default
 parent: Housing, Storage, and Handling
 grandparent: Archival Processing
-nav_order: 1
+nav_order: 3
 has_children: false
 ---
 # Oversized Materials
