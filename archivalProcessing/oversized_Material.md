@@ -13,7 +13,7 @@ Larger-format papers and photographs should be placed in folders by size, and th
 
 Papers and photographs that are larger than the largest flat box (28 ½” x 22 ½” x 3”) should be placed in oversized folders. Folder information (title, date(s), box and folder number) should be recorded on the open end of the folder, rather than near the crease. Oversized folders should also include a barcode. 
 
-## Guidelines for Working with Oversized Materials**
+## Guidelines for Working with Oversized Materials
 Always attempt to leave the numbering of oversized boxes until the end, so that these boxes are assigned the highest box numbers in the collection.
 
 ## Flat Boxes
