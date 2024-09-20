@@ -1,5 +1,5 @@
 ---
-title: Boxes
+title: Folders
 layout: default
 parent: Housing, Storage, and Handling
 grandparent: Archival Processing
