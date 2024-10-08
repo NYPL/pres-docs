@@ -187,6 +187,103 @@ If traps are closed due to low activity, or for any other reason, the trap needs
 3. In the “Date Closed” column, insert the date you closed the trap.
 
 
+## **Section 3: Analysis**
+
+### **Section 3.1: Pest Identification Resources**
+
+- **Google Drive:**
+
+  - [**Bug Pictures**](https://drive.google.com/drive/folders/1Miftjq0abzdw0mhZz7HW28tbS78TmE97?usp=sharing) **folder**: This resource, located in the Google Drive, has been compiled by Collection Management during monitoring and it is continuously added to. Within the “Bug Pictures” folder, there are separate folders for different bugs containing good photo examples of ones that are commonly encountered. Feel free to add to these folders (and create new ones if there is not already a folder for what you come across) if you find any good examples of certain pests. Looking in this folder is usually a good place to start if you come across a pest that you are not familiar with.
+
+  - For information about identifying webbing clothes moths specifically, see the [Webbing Clothes Moths ID Sheet](https://docs.google.com/document/d/10P3tWnLsNfdbpXM9vlUC7YHhRfnv7p7LFid_O25rCQw/edit?usp=sharing).
+
+- **Airtable:** In the “Reference: Pest Library” table in the [**Integrated Pest Management Airtable Base**](https://airtable.com/appkBae68IdexO8pZ/tbl7GLUyO2bJyuVCs/viwsJPqpEyYnGiwSw?blocks=hide), you will find examples of pests along with photos. In the table, you will also find the risk factors of each pest along with where and when they have been spotted before in traps across the Research Libraries and LSC. Feel free to add to this reference library as it is not comprehensive. 
+
+- **Apps:** There are two apps that we use to identify pests when the previous two methods are ineffective: Seek and iNaturalist. Both can be downloaded onto an iPad or personal cell phone. Start with Seek and if it is unable to identify the pest, then try iNaturalist. Both apps allow you to take a photo in the app or upload an image. It is best to take an image using the Celestron MicroCaputre Pro and then upload that image, as most of the pests you encounter are quite small and you would not be able to get a good enough image with your phone or iPad. Make sure the image is clear and as zoomed in as possible.
+
+  - **Seek:** Upload your image and the app will also ask for your location in order to provide a more accurate identification. Zooming in on Manhattan (or Queens in the case of LSC) is sufficient. If the app is able to provide an identification based on the image you provided, the name of the pest will pop up along with an image of the pest from their archives. If it is unable to pinpoint what the pest is, try another photo (if you have one) or use iNaturalist.
+
+  - **iNaturalist:** Like Seek, you are able to upload a photo (referred to as an observation) into iNaturalist, but unlike Seek, this app is crowd-sourced. Once you make an observation, you wait until others respond with what they believe it is. This can happen in a few hours, sometimes days, and occasionally, not at all. You will get an email and notification when someone responds to your observation.
+
+- **Museum Pestlist:** This resource is a listserv associated with MuseumPests.net and the MuseumPests Working Group. To subscribe to the Museum Pestlist, follow [this link](https://museumpests.net/join-the-pestlist/). Send a picture to the Pestlist listserv to ask for help in identification. 
+
+- **MuseumPests.net:** [The Pest Fact Sheets and Image Gallery](https://museumpests.net/identification/) on MuseumPests.net is an invaluable resource for identifying pests and understanding what risks particular types of pests pose to cultural heritage collection material. 
+
+
+### **Section 3.2:  IPM Report Emails**
+
+A monthly email report with your analysis of the pests discovered during monitoring is sent to CLMGT (<collectionmanagement@nypl.org>). In addition to monthly reports, yearly reports are written for each building. The annual reports are on a January to December cycle. 
+
+
+#### **Section 3.2.1: Where to Find the Data**
+
+In order to find the data to include in your reports, go to the [Integrated Pest Management Airtable Base](https://airtable.com/appkBae68IdexO8pZ/tbl7GLUyO2bJyuVCs/viwsJPqpEyYnGiwSw?blocks=hide) and follow these steps:
+
+1. Select “Interfaces” in the upper left corner.
+
+2. Click on “IPM Overviews”.
+
+3. Select the IPM Overview for the building you are working in.
+
+4. In the upper left corner, filter the data by the (abbreviated) month and the year
+
+   1. If there are any other fields you would like your building’s Interface to be able to filter by (e.g. by pest, by space, etc.) contact your center Collection Manager, who has editing privileges in Airtable.
+
+
+#### **Section 3.2.2: Monthly IPM Report Email** 
+
+Once you are finished checking all pest traps, you will send out a Monthly Report email using Airtable. To do so, navigate to the “Monthly Reports” table. This table partially auto-populates with some of the information you entered into the “IPM Trap Monitoring Data Form.” The following fields in the table will already be filled in:
+
+- Report Name
+
+- Total Pest Count
+
+- Total Threats/Moisture Indicators
+
+- Created On 
+
+- Last Modified On
+
+Next, you will select the month and year in the respective fields and enter your name in the “Report Compiled By” field. 
+
+Then, you will fill in the “Analysis and Notes” field. Using the data you find in the IPM Airtable Base (see [Section 3.2.1](#section-321-where-to-find-the-data) for more information), provide a brief analysis of why you think pest numbers were what they were. Below are a few examples of topics to bring up in this section:
+
+- If there was an uptick in pests in a certain area, what may have caused that? Do we need more vacuuming in that area?
+
+- Were there a lot of moisture indicators? Where could the moisture be coming from? 
+
+- Do we need to follow up with Facilities for any reason? 
+
+- Were any traps missing that had to be replaced? What may have happened to them? Has this happened before? Does the trap need to be moved to a more convenient location?
+
+- Do odd beetles mean we should check the roof for a dead animal?
+
+- Was there anything else out of the ordinary that should be brought to the group’s attention?
+
+You can either type directly in the “Analysis and Notes” field or type up your analysis in a Word document or email and copy and paste it into the field. 
+
+Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the “Report Complete?” field. Once this box is checked, your analysis email will automatically be sent to CLMGT. 
+
+
+#### **Section 3.2.3 Annual IPM Report Template**
+
+At the end of each year, a report is compiled for each building. The report contains much of the same information as the monthly reports. Fill out the template below: 
+
+**Introduction**
+
+**Monitoring**
+
+**Trap Data** 
+
+**Pests of Concern**
+
+**Conclusions**  
+
+**Recommendations**
+
+Annual reports are saved in the Google Drive in the [IPM Folder](https://drive.google.com/drive/folders/0B13XF9crzS_iXzlXUlkxaXgyQU0?resourcekey=0-NK8xpthzFmHrc35ET3q5xw\&usp=sharing). There are separate folders for each building with an IPM program. Select the folder for your building, and within that folder, select the folder titled “Yearly Reports.” A link of the report is then sent to CLMGT along with the Building Manager.
+
+
 ### Footnotes:
 [^1]: For example, SASBBRG.01-SASBBRG.16 for the Berg Collection, SASBM1.01-SASBM1.23 for Milstein 1, and SASBReg.01-SASBReg.04 for the Registrar’s office
 [^2]: For example, LPA1 through LPA40 at LPA and LSC1 through LSC51 at LSC
