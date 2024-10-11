@@ -187,9 +187,9 @@ If traps are closed due to low activity, or for any other reason, the trap needs
 3. In the “Date Closed” column, insert the date you closed the trap.
 
 
-## **Section 3: Analysis**
+## Section 3: Analysis
 
-### **Section 3.1: Pest Identification Resources**
+### Section 3.1: Pest Identification Resources
 
 - **Google Drive:**
 
@@ -215,6 +215,7 @@ If traps are closed due to low activity, or for any other reason, the trap needs
 A monthly email report with your analysis of the pests discovered during monitoring is sent to CLMGT (<collectionmanagement@nypl.org>). In addition to monthly reports, yearly reports are written for each building. The annual reports are on a January to December cycle. 
 
 
+
 #### **Section 3.2.1: Where to Find the Data**
 
 In order to find the data to include in your reports, go to the [Integrated Pest Management Airtable Base](https://airtable.com/appkBae68IdexO8pZ/tbl7GLUyO2bJyuVCs/viwsJPqpEyYnGiwSw?blocks=hide) and follow these steps:
@@ -228,6 +229,7 @@ In order to find the data to include in your reports, go to the [Integrated Pest
 4. In the upper left corner, filter the data by the (abbreviated) month and the year
 
    1. If there are any other fields you would like your building’s Interface to be able to filter by (e.g. by pest, by space, etc.) contact your center Collection Manager, who has editing privileges in Airtable.
+
 
 
 #### **Section 3.2.2: Monthly IPM Report Email** 
@@ -265,6 +267,7 @@ You can either type directly in the “Analysis and Notes” field or type up yo
 Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the “Report Complete?” field. Once this box is checked, your analysis email will automatically be sent to CLMGT. 
 
 
+
 #### **Section 3.2.3 Annual IPM Report Template**
 
 At the end of each year, a report is compiled for each building. The report contains much of the same information as the monthly reports. Fill out the template below: 
@@ -281,7 +284,7 @@ At the end of each year, a report is compiled for each building. The report cont
 
 **Recommendations**
 
-Annual reports are saved in the Google Drive in the [IPM Folder](https://drive.google.com/drive/folders/0B13XF9crzS_iXzlXUlkxaXgyQU0?resourcekey=0-NK8xpthzFmHrc35ET3q5xw\&usp=sharing). There are separate folders for each building with an IPM program. Select the folder for your building, and within that folder, select the folder titled “Yearly Reports.” A link of the report is then sent to CLMGT along with the Building Manager.
+Annual reports are saved in the Google Drive in the [IPM Folder](https://drive.google.com/drive/folders/0B13XF9crzS_iXzlXUlkxaXgyQU0?resourcekey=0-NK8xpthzFmHrc35ET3q5xw&usp=sharing). There are separate folders for each building with an IPM program. Select the folder for your building, and within that folder, select the folder titled “Yearly Reports.” A link of the report is then sent to CLMGT along with the Building Manager.
 
 
 ### Footnotes:
