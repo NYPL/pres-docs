@@ -37,6 +37,7 @@ Trap placement is crucial to effective pest collection data. Blunder traps shoul
 Pheromone lures are placed directly on the sticky blunder trap. There are two lures on a trap at a time and they are placed next to each other in the center. Only one lure is replaced every two months. For more information about replacing the pheromone lures, see Section 2.2: Monitoring. As of 2022, pheromone lures are only employed at LPA and SASB.  
 
 
+
 #### **Section 1.2.2: Trap Labeling**
 
 When placing a trap, each should be labeled with three important pieces of information:
@@ -47,6 +48,7 @@ When placing a trap, each should be labeled with three important pieces of infor
 -  [DO NOT MOVE sticker](https://docs.google.com/document/d/1RE07FP2Aq0ghajW7wte3DDO8yNHKE7YEdhR9WBYbHlc/edit) which should be printed on colored labels. 
 
 Once this information is put directly onto the trap, place the trap in the designated locations you selected and take a photo of it in situ (to be uploaded to Airtable later). **Be sure to remove the plastic film over the trap adhesive before placing the trap.** 
+
 
 
 #### **Section 1.2.3: Creating Trap Maps**
@@ -265,6 +267,7 @@ Then, you will fill in the “Analysis and Notes” field. Using the data you fi
 You can either type directly in the “Analysis and Notes” field or type up your analysis in a Word document or email and copy and paste it into the field. See the "Analysis and Notes" entries for other months for examples of fully completed analyses.  
 
 Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the “Report Complete?” field. Once this box is checked, your analysis email will automatically be sent to CLMGT. 
+
 
 
 
