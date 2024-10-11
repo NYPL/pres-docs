@@ -262,7 +262,7 @@ Then, you will fill in the “Analysis and Notes” field. Using the data you fi
 
 - Was there anything else out of the ordinary that should be brought to the group’s attention?
 
-You can either type directly in the “Analysis and Notes” field or type up your analysis in a Word document or email and copy and paste it into the field. 
+You can either type directly in the “Analysis and Notes” field or type up your analysis in a Word document or email and copy and paste it into the field. See the "Analysis and Notes" entries for other months for examples of fully completed analyses.  
 
 Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the “Report Complete?” field. Once this box is checked, your analysis email will automatically be sent to CLMGT. 
 
