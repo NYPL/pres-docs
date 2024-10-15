@@ -131,7 +131,7 @@ Click the **Received Date** to:
 
 ## References
 
-Objects are often related to other records within and outside SPEC. For example, an object may be linked to a **SPEC acquisition record**, a **finding aid** in the Archives Portal, or a **record** in the NYPL catalog. These relationships are called **references**.
+Objects are often related to other records within and outside SPEC. For example, an object may be linked to a **SPEC acquisition record**, a **finding aid** in the Archives Portal, or a **bibliographic record** in the NYPL catalog. These relationships are called **references**.
 
 To add or edit a reference:
 
@@ -139,6 +139,31 @@ To add or edit a reference:
 2. Click the `+` button to add a new reference.
 3. Select the reference type from the dropdown menu.
 4. Manually enter the reference; some references may be searched for (Collections, Acquisitions, or Acquisition Deliveries).
+
+## Reference Types
+
+The table below describes the current reference types, the record that the type describes, whether they can be manually added or are automatically added by the system, and whether they refer to a legacy identifier.
+
+| **From System**  | **Reference Type**                 | **Record Description**                                            | **Manually or Automatically Added?** | **Legacy?** |
+|----------------- |------------------------------------|-------------------------------------------------------------------|--------------------------------------|-------------|
+| Archives Portal  | Component ID                       | Component that describes the object.                              | Automatic                            |             |
+| Archives Portal  | Collection ID                      | Finding aid in which the object is described.                     | Automatic                            |             |
+| ArchivesSpace    | Archival Object ID                 | Component describing the object.                                  | Automatic                            |             |
+| Sierra           | Cat bnumber                        | Bibliographic catalog record.                                     | Manual                               |             |
+| Sierra           | Cat item record                    | Item catalog record.                                              | Manual                               |             |
+| Sierra           | Classmark                          | Curatorial-assigned classmark.                                    | Manual                               |             |
+| SPEC             | Acq delivery id                    | Acquisition delivery record of which the object was part.         | Automatic                            |             |
+| SPEC             | CMS acquisition id                 | Acquisition of which an object is part.                           | Automatic                            |             |
+| SPEC             | CMS AMI dig batch id               | Digitization batch in which an object was included.               | Automatic                            |             |
+| SPEC             | CMS AMI id                         | Audio or moving image item assigned during inventory.             | Automatic                            |             |
+| SPEC             | CMS collection id                  | Collection of which the object forms a part.                      | Automatic                            |             |
+| SPEC             | CMS digital media log legacy id    | Digital carrier assigned during inventory.                        | Automatic                            |             |
+| SPEC             | CMS ingest report import record id | Media ingest report.                                              | Automatic                            | Y           |
+| SPEC             | CMS item id                        | Object record in the legacy Items table in CMS.                   | N/A                                  | Y           |
+| SPEC             | SPEC project id                    | Project where object was addressed                                | Automatic                            |             |
+| MMS              | MMS capture UUID                   | Digitization capture record                                       | Automatic                            |             |
+| Other            | Other legacy id                    | Any other record identifier                                       | N/A                                  |             |
+| SPEC             | Rose Building temporary id         | Object identifier assigned during Rose clearout project (2019-21).| Automatic                            | Y           |
 
 ---
 
