@@ -69,6 +69,8 @@ To add a content estimate for a container:
 
 To edit **Extents**, click under the **Extents** section in the left-hand pane of the **Object Record**. To add a new extent measurement, click the `+` button.
 
+When adding extent measurements in the Basic Fields screen, the default unit of measure will be inches. If you change the unit of measure, it will change it for all three dimensions.
+
 ---
 
 ## Formats / Container Types
@@ -77,7 +79,7 @@ In the **List Object Editor** and the **AMI object list**, you can add or edit a
 
 ### Keyword Search
 
-To navigate format hierarchies more easily, SPEC provides an option to keyword search available format terms in the **Basic Fields Editor**.
+To navigate format hierarchies more easily, SPEC provides an option to keyword search available format terms in the **Basic Fields screen**.
 
 ---
 
