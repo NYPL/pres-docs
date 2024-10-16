@@ -9,7 +9,7 @@ has_toc: true
 
 # Edit Objects - Introduction
 
-{:toc}
+{: .no_toc }
 
 [Screenshot pending]
 
@@ -20,6 +20,12 @@ To access and edit the most common object record elements, use the Objects Edito
 You can edit most object elements from the Basic Fields screen. For a list of object elements and their definitions, see [SPEC Object Record Elements](https://nypl.github.io/pres-docs/spec/spec_objects_elements.html#spec-object-record-elements).
 
 The Basic Fields screen includes a navigation bar at the top that can be used to toggle between other common object elements/element groups, including Media, Relationships, References, Restrictions, Issues, Locations and Estimates.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
