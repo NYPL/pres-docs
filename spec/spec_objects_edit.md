@@ -8,6 +8,7 @@ has_toc: true
 ---
 
 # Edit Objects
+{: .no_toc }
 
 This section provides guidance on editing object records within the SPEC system, covering everything from common object details to more advanced elements like relationships and content estimates. Additionally, instructions are provided for utilizing the List Object Editor and Object Barcode App to manage large groups of records and verify object locations. The goal is to ensure accuracy and efficiency in handling object records across the system.
 
