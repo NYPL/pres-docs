@@ -197,3 +197,17 @@ To update an object’s migration or digitization status:
 
 1. Click the **Migration / Digitization Status** field in the **Object Record**.
 2. Select the new status from the available options.
+
+---
+
+## List Object Editor
+
+The **List Object Editor** provides a way to review and edit lists of objects.
+
+There are two ways to open the List Object Editor:
+
+1. Use the **Object Search** screen to perform a search to generate a list of objects. From there, next to **Batch Edit**, click either **All**, **AMI**, or **Survey**.  
+   - **All** will show a list of objects regardless of format.  
+   - **AMI** will only show audio and moving image materials.  
+   - **Survey** will generate a view specific to performing special collection survey assessments.
+2. Click **Batch Edit** in the Actions column within a **Collection Summary’s “Object Counts by Format Category”** section.
