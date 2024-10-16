@@ -247,3 +247,30 @@ To indicate that an object is stored in a container, scan the contained object�
 - If it already has a relationship to the current container, the relationship will be verified. The verification is logged in the audit log and is indicated by the object’s name displaying in green in the container’s object list.
 
 To indicate any of the contained objects are no longer in the container, click the blue icon to the left of the object's name.
+
+---
+
+## Group Action Tool
+
+Along with making edits to individual object records, SPEC also provides a way to edit certain fields across a group of objects using the **Group Action Tool**.
+
+### To edit a group of object records:
+1. Call up a list of objects using the **Object Search** screen.
+2. From the found set, either manually check individual records, or select the entire found set by clicking on the **Action Menu** button and then clicking **Select All**. You can deselect all items by clicking **Select None**.
+
+### Available actions for multiple records:
+- **Add to acquisition (delivery/location):** Assigns a selected delivery ID and associated acquisition ID as references in the selected object records.
+- **Add to a collection:** Assigns a selected collection ID and other associated IDs (e.g., bnumber, classmark) as references in the selected object records.
+- **Add to container:** Creates a **containedIn** relationship to a selected object for all of the objects selected.
+- **Add to loan checklist**
+- **Add to project:** Adds the selected objects to a project. *(In development)*
+- **Add to SCT move**:: _Forthcoming_
+- **Deactivate selected objects:** Marks the selected objects as inactive.
+- **Edit content estimates:** Assigns the same content estimate to each selected container. You can choose to either add the new content estimate to existing ones or replace the existing estimate.
+- **Edit labels and sequence numbers:** Assigns the same Label, Label Number Prefix, and/or sequence number to the selected objects.
+- **Mark selected objects as received:** Assigns the selected objects a received date based on the date the delivery they were part of was received.
+- **Remove from collection:** Dissociates the selected objects from any collection.
+- **Remove from container:** Deactivates relationships between the selected objects and their current containers.
+- **Select all:** Selects all of the found objects for subsequent actions.
+- **Select none:** Deselects any previously selected objects in the found set.
+- **Update object locations:** Updates the location for all selected objects. Locations for objects in containers or part of deliveries that have not been received will not be updated.
