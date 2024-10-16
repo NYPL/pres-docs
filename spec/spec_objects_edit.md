@@ -274,3 +274,43 @@ Along with making edits to individual object records, SPEC also provides a way t
 - **Select all:** Selects all of the found objects for subsequent actions.
 - **Select none:** Deselects any previously selected objects in the found set.
 - **Update object locations:** Updates the location for all selected objects. Locations for objects in containers or part of deliveries that have not been received will not be updated.
+
+## Deactivate
+
+Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the person who deactivates an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation.
+
+Object records can be deactivated by selecting **Deactivate** in the action menu to the left of objects in **Object Search** results or in the top right-hand corner of an **Object Record**.
+
+### To deactivate an object:
+1. Click **Deactivate**.  
+2. The **Deactivate Object Record** window will open. Select a reason for deactivating the object and enter notes as appropriate.
+
+**Note:** You cannot deactivate a container if it contains other objects.
+
+### Deactivating a record will:
+- Cross-out the object name.
+- Deactivate any existing content estimates and descriptions.
+- Resolve all existing issues.
+- Change the accessibility status to “not available to public” and the description status to “not described.”
+
+### Acquisition Proposal
+To deactivate an object prior to acquisition, click the blue **X** to the left of the object. The object will no longer appear in the proposal inventory, but it will appear in the **Acquisition (Check-In) Inventory**.
+
+### Acquisition (Check-In) Inventory
+To deactivate an object, click the blue **X** to the left of the object. To reactivate a record deactivated in error, click the green **X**.
+
+---
+
+## Reactivate
+
+If an object record was deactivated in error, it can be reactivated by selecting **Reactivate** in the action menu to the left of objects in **Object Search** results or in the top right-hand corner of an **Object Record**.
+
+### Reactivating a record will:
+- Reassign the object to its last location.
+- Make previously resolved issues unresolved (since deactivating a record resolves all associated issues).
+- Make all restrictions active again.
+- Make all content estimates active.
+
+**Note:** 
+- Relationships between the object and any objects it contained, or the container it was in, will not be restored and will need to be re-entered manually.
+- The accessibility status will remain “not available to public” and “not described,” and must be adjusted manually.
