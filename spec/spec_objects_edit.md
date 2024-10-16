@@ -7,9 +7,9 @@ nav_order: 3
 has_toc: true
 ---
 
-{:toc}
-
 # Edit Objects - Introduction
+
+{:toc}
 
 [Screenshot pending]
 
