@@ -7,11 +7,15 @@ nav_order: 3
 has_toc: true
 ---
 
-# Edit Objects - Introduction
+## Table of Contents
+{: .no_toc .text-delta }
 
-{: .no_toc }
+1. TOC
+{:toc}
 
-[Screenshot pending]
+---
+
+# Basic Fields Editing
 
 To access and edit the most common object record elements, use the Objects Editor. The Editor can be accessed from a number of different contexts:
 - **Object Search or List Object Editor:** click on the action button to the left of an object’s name in the search results and select Edit object record.
@@ -20,12 +24,6 @@ To access and edit the most common object record elements, use the Objects Edito
 You can edit most object elements from the Basic Fields screen. For a list of object elements and their definitions, see [SPEC Object Record Elements](https://nypl.github.io/pres-docs/spec/spec_objects_elements.html#spec-object-record-elements).
 
 The Basic Fields screen includes a navigation bar at the top that can be used to toggle between other common object elements/element groups, including Media, Relationships, References, Restrictions, Issues, Locations and Estimates.
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
@@ -63,6 +61,7 @@ To add a content estimate for a container:
 - Select from the list of available values or keyword search for the format.
 
 ### Notes on Formats
+{: .no_toc }
 
 - **Manuscripts**: Use for textual documents that are not printed (e.g., handwritten or typed) or for printed documents with extensive handwritten annotations. Count the number of sheets, not intellectual units like letters.
 - **Archives (paper)**: Use for mixed items in various formats (including photographs) that are difficult to count separately. Count the number of sheets of paper.
