@@ -275,6 +275,8 @@ Along with making edits to individual object records, SPEC also provides a way t
 - **Select none:** Deselects any previously selected objects in the found set.
 - **Update object locations:** Updates the location for all selected objects. Locations for objects in containers or part of deliveries that have not been received will not be updated.
 
+---
+
 ## Deactivate
 
 Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the person who deactivates an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation.
