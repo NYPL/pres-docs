@@ -27,7 +27,7 @@ The Basic Fields screen includes a navigation bar at the top that can be used to
 
 ---
 
-## Assessment
+# Assessment
 
 To log an assessment or edit an existing assessment record:
 
@@ -37,7 +37,7 @@ To log an assessment or edit an existing assessment record:
 
 ---
 
-## Accessibility and Description Status
+# Accessibility and Description Status
 
 To manually edit the accessibility or description status of an object record:
 
@@ -48,7 +48,7 @@ Note: The **description status** will update automatically when you add a refere
 
 ---
 
-## Content Estimates
+# Content Estimates
 
 - Update content estimates as necessary. If items are moved from one container to another, deactivate the content estimate in the original container.
 - If you make a container inactive, the content estimates will be automatically deactivated, and the counts will no longer be used in statistical calculations.
@@ -69,7 +69,7 @@ To add a content estimate for a container:
 
 ---
 
-## Extents
+# Extents
 
 To edit **Extents**, click under the **Extents** section in the left-hand pane of the **Object Record**. To add a new extent measurement, click the `+` button.
 
@@ -77,19 +77,21 @@ When adding extent measurements in the Basic Fields screen, the default unit of 
 
 ---
 
-## Formats / Container Types
+# Formats / Container Types
 
 In the **List Object Editor** and the **AMI object list**, you can add or edit an object’s format or container type using dropdown menus for each field. The available values depend on the type of object (item or container) and other selected values.
 
-### Keyword Search
+## Keyword Search
+{: .no_toc }
 
 To navigate format hierarchies more easily, SPEC provides an option to keyword search available format terms in the **Basic Fields screen**.
 
 ---
 
-## Locations
+# Locations
 
-### General Rules
+## General Rules
+{: .no_toc }
 
 Entering a location for an object will either:
 
@@ -98,7 +100,8 @@ Entering a location for an object will either:
 
 For contained objects, location inheritance applies. To change a contained object's location, you must first disassociate it from its container.
 
-### Editing Locations
+## Editing Locations
+{: .no_toc }
 
 Whenever possible, use a location’s barcode to enter an object’s location. You can edit or add a location by clicking on the object’s current location, including pre-acquisition locations.
 
@@ -106,15 +109,16 @@ To edit the **NYPL location**, click **+ UPDATE LOCATION** and enter all known e
 
 ---
 
-## Media
+# Media
 
 To add or edit an object's medium/media, click under the **MEDIA** section in the left-hand pane of the **Object Record**. Click **+ ADD MEDIA** to add a new media type.
 
 ---
 
-## Received Date
+# Received Date
 
-### Adding a Received Date
+## Adding a Received Date
+{: .no_toc }
 
 When an object is part of an acquisition delivery that has been marked as received:
 
@@ -123,7 +127,8 @@ When an object is part of an acquisition delivery that has been marked as receiv
 
 This will automatically assign a **Received Date** based on the delivery date. You can also manually enter the **Received Date** by clicking under **RECEIVED** in the left-hand pane of the **Object Record**.
 
-### Editing a Received Date
+## Editing a Received Date
+{: .no_toc }
 
 Click the **Received Date** to:
 
@@ -133,7 +138,7 @@ Click the **Received Date** to:
 
  ---
 
-## References
+# References
 
 Objects are often related to other records within and outside SPEC. For example, an object may be linked to a **SPEC acquisition record**, a **finding aid** in the Archives Portal, or a **bibliographic record** in the NYPL catalog. These relationships are called **references**.
 
@@ -144,7 +149,7 @@ To add or edit a reference:
 3. Select the reference type from the dropdown menu.
 4. Manually enter the reference; some references may be searched for (Collections, Acquisitions, or Acquisition Deliveries).
 
-## Reference Types
+# Reference Types
 
 The table below describes the current reference types, the record that the type describes, whether they can be manually added or are automatically added by the system, and whether they refer to a legacy identifier.
 
@@ -171,9 +176,10 @@ The table below describes the current reference types, the record that the type 
 
 ---
 
-## Relationships
+# Relationships
 
-### Adding and Deactivating Relationships
+## Adding and Deactivating Relationships
+{: .no_toc }
 
 To add a relationship:
 
@@ -185,7 +191,7 @@ To deactivate a relationship, click the close button next to the relationship in
 
 ---
 
-## Values
+# Values
 
 To add a value:
 
@@ -195,7 +201,7 @@ To add a value:
 
 ---
 
-## Migration / Digitization Statuses
+# Migration / Digitization Statuses
 
 To update an object’s migration or digitization status:
 
@@ -204,7 +210,7 @@ To update an object’s migration or digitization status:
 
 ---
 
-## List Object Editor
+# List Object Editor
 
 The **List Object Editor** provides a way to review and edit lists of objects.
 
@@ -218,7 +224,7 @@ There are two ways to open the List Object Editor:
 
 ---
 
-## Object Barcode App
+# Object Barcode App
 
 The **Object Barcode App** is a quick way to specify, edit, or verify an object’s:
 - location
@@ -227,16 +233,22 @@ The **Object Barcode App** is a quick way to specify, edit, or verify an object�
 
 To access the app from the SPEC Landing page, click on the **SPEC Barcode App** link.
 
-### To call up an object:
+## To call up an object:
+{: .no_toc }
+
 Scan the barcode of the container or the contained object in the top-most field marked **Scan object barcode to begin**.
 
-### Locations
+## Locations
+{: .no_toc }
+
 To enter or change an object’s location, scan the location’s barcode under the **LOCATION BARCODE** label in the **ACTIVE STORAGE LOCATION** section.
 
 - If the object was assigned to another location, that location will be made inactive.
 - If the object’s assigned location matches the location barcode entered, the location will be verified. The verification is logged in the audit log.
 
-### Container
+## Container
+{: .no_toc }
+
 To indicate the container in which an object is stored, scan the container’s barcode under the **CONTAINER BARCODE** label in the **CONTAINED IN** section.
 
 - If the object was previously associated with another container, that relationship will be made inactive.
@@ -244,7 +256,9 @@ To indicate the container in which an object is stored, scan the container’s b
 
 To indicate an object has been removed from the container (without entering a new container), click **Take out of [container name]** in the **CONTAINED IN** section.
 
-### Contained Objects
+## Contained Objects
+{: .no_toc }
+
 To indicate that an object is stored in a container, scan the contained object’s barcode under the **OBJECT BARCODE** label in the **CONTAINS** section.
 
 - If the object was previously associated with another container, that relationship will be made inactive.
@@ -254,15 +268,19 @@ To indicate any of the contained objects are no longer in the container, click t
 
 ---
 
-## Group Action Tool
+# Group Action Tool
 
 Along with making edits to individual object records, SPEC also provides a way to edit certain fields across a group of objects using the **Group Action Tool**.
 
-### To edit a group of object records:
+## To edit a group of object records:
+{: .no_toc }
+
 1. Call up a list of objects using the **Object Search** screen.
 2. From the found set, either manually check individual records, or select the entire found set by clicking on the **Action Menu** button and then clicking **Select All**. You can deselect all items by clicking **Select None**.
 
-### Available actions for multiple records:
+## Available actions for multiple records:
+{: .no_toc }
+
 - **Add to acquisition (delivery/location):** Assigns a selected delivery ID and associated acquisition ID as references in the selected object records.
 - **Add to a collection:** Assigns a selected collection ID and other associated IDs (e.g., bnumber, classmark) as references in the selected object records.
 - **Add to container:** Creates a **containedIn** relationship to a selected object for all of the objects selected.
@@ -281,38 +299,48 @@ Along with making edits to individual object records, SPEC also provides a way t
 
 ---
 
-## Deactivate
+# Deactivate
 
 Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the person who deactivates an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation.
 
 Object records can be deactivated by selecting **Deactivate** in the action menu to the left of objects in **Object Search** results or in the top right-hand corner of an **Object Record**.
 
-### To deactivate an object:
+## To deactivate an object:
+{: .no_toc }
+
 1. Click **Deactivate**.  
 2. The **Deactivate Object Record** window will open. Select a reason for deactivating the object and enter notes as appropriate.
 
 **Note:** You cannot deactivate a container if it contains other objects.
 
-### Deactivating a record will:
+## Deactivating a record will:
+{: .no_toc }
+
 - Cross-out the object name.
 - Deactivate any existing content estimates and descriptions.
 - Resolve all existing issues.
 - Change the accessibility status to “not available to public” and the description status to “not described.”
 
-### Acquisition Proposal
+## Acquisition Proposal
+{: .no_toc }
+
 To deactivate an object prior to acquisition, click the blue **X** to the left of the object. The object will no longer appear in the proposal inventory, but it will appear in the
 **Acquisition (Check-In) Inventory**.
 
-### Acquisition (Check-In) Inventory
-    To deactivate an object, click the blue **X** to the left of the object. To reactivate a record deactivated in error, click the green **X**.
+## Acquisition (Check-In) Inventory
+{: .no_toc }
+
+To deactivate an object, click the blue **X** to the left of the object. To reactivate a record deactivated in error, click the green **X**.
 
 ---
 
-## Reactivate
+# Reactivate
 
 If an object record was deactivated in error, it can be reactivated by selecting **Reactivate** in the action menu to the left of objects in **Object Search** results or in the top right-hand corner of an **Object Record**.
 
-### Reactivating a record will:
+## Reactivating a record will:
+{: .no_toc }
+
 - Reassign the object to its last location.
 - Make previously resolved issues unresolved (since deactivating a record resolves all associated issues).
 - Make all restrictions active again.
