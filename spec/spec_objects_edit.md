@@ -211,3 +211,39 @@ There are two ways to open the List Object Editor:
    - **AMI** will only show audio and moving image materials.  
    - **Survey** will generate a view specific to performing special collection survey assessments.
 2. Click **Batch Edit** in the Actions column within a **Collection Summary’s “Object Counts by Format Category”** section.
+
+---
+
+## Object Barcode App
+
+The **Object Barcode App** is a quick way to specify, edit, or verify an object’s:
+- location
+- container
+- contained objects
+
+To access the app from the SPEC Landing page, click on the **SPEC Barcode App** link.
+
+### To call up an object:
+Scan the barcode of the container or the contained object in the top-most field marked **Scan object barcode to begin**.
+
+### Locations
+To enter or change an object’s location, scan the location’s barcode under the **LOCATION BARCODE** label in the **ACTIVE STORAGE LOCATION** section.
+
+- If the object was assigned to another location, that location will be made inactive.
+- If the object’s assigned location matches the location barcode entered, the location will be verified. The verification is logged in the audit log.
+
+### Container
+To indicate the container in which an object is stored, scan the container’s barcode under the **CONTAINER BARCODE** label in the **CONTAINED IN** section.
+
+- If the object was previously associated with another container, that relationship will be made inactive.
+- If the object is already associated with the container just scanned, the relationship will be verified. The verification is logged in the audit log.
+
+To indicate an object has been removed from the container (without entering a new container), click **Take out of [container name]** in the **CONTAINED IN** section.
+
+### Contained Objects
+To indicate that an object is stored in a container, scan the contained object’s barcode under the **OBJECT BARCODE** label in the **CONTAINS** section.
+
+- If the object was previously associated with another container, that relationship will be made inactive.
+- If it already has a relationship to the current container, the relationship will be verified. The verification is logged in the audit log and is indicated by the object’s name displaying in green in the container’s object list.
+
+To indicate any of the contained objects are no longer in the container, click the blue icon to the left of the object's name.
