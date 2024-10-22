@@ -1,5 +1,5 @@
 ---
-title: Oversized Materials
+title: Photographic Material
 layout: default
 parent: Housing, Storage, and Handling
 grandparent: Archival Processing
