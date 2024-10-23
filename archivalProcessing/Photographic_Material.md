@@ -27,14 +27,13 @@ Photographs may be stored in paper envelopes, polyester/Mylar sleeves, or acid-f
 ## **Cased Photographs** 
 Before developing a stable paper-based printing technique, many photographic processes utilized metal or glass as a base for images. These were then often placed behind glass, in a hinged, decorative case. However, both the enclosures and photographs themselves look extremely similar. Identification of these photographs takes some effort, and will be described below. However, the handling and storage of these objects are the same. Cased photographs should always be stored with the front cover closed. Wrap the enclosure with buffed tissue. Cased photographs come in a variety of sizes, and range from a whole plate (6½" × 8½") to a “gem” (1 ½” x 1 ½”). If your collection has several cased photographs, try to find a box where they fit securely.  If there is any extra space, add buffed tissue so the photographs do not move inside the box. Occasionally, you will find a photograph that is not in a case, rehouse these items like you would glass plate negatives or magic lantern slides, which is explained below.
 
+**[Daguerreotypes](https://archives.nypl.org/scp/186032)**: 1839 – 1860s, Glass plate with silver emulsion. Can be identified by a mirror-like surface. When placed on a dark background, the image appears to be a positive image, as the clear glass lets the color show through, the silver remaining on the plate reflects light to appear to be the lighter tones of the picture. 
 
-**Daguerreotypes**: 1839 – 1860s, Glass plate with silver emulsion. Can be identified by a mirror-like surface. When placed on a dark background, the image appears to be a positive image, as the clear glass lets the color show through, the silver remaining on the plate reflects light to appear to be the lighter tones of the picture.
-
-**Ambrotypes**: 1854 – 1880s, Glass plate was coated with collodion and dipped in silver nitrate. Ambrotypes have a less mirror-like surface than the daguerreotype. Like the daguerreotype, this plate is housed with a dark background, but when viewed from different angles, the image appears in both the positive and negative.
+**[Ambrotypes](https://archives.nypl.org/scp/186132)**: 1854 – 1880s, Glass plate was coated with collodion and dipped in silver nitrate. Ambrotypes have a less mirror-like surface than the daguerreotype. Like the daguerreotype, this plate is housed with a dark background, but when viewed from different angles, the image appears in both the positive and negative.
 
 The ambrotype to the right illustrates a slightly damaged image, where the emulsion behind glass has been scratched, revealing the clear parts of the glass plate base.
 
-**Tintypes**: 1853 – 1930s, Positive photograph on a thin sheet of metal, but often encased behind glass. When looking at a tintype at different angles, the image only appears in the positive.
+**[Tintypes](https://archives.nypl.org/scp/186133)**: 1853 – 1930s, Positive photograph on a thin sheet of metal, but often encased behind glass. When looking at a tintype at different angles, the image only appears in the positive.
 
 The tintype to the right without a glass frame, when looked at from an angle the emulsion on top of the metal sheet can be seen.
 
