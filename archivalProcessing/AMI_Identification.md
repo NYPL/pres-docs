@@ -6,7 +6,7 @@ grand_parent: Archival Processing
 nav_order: 1
 has_children: false
 ---
-# **Identification of AMI**
+# **Identification of Audio and Moving Image Content**
 
 There are many resources that can aid in identifying the audio and moving image materials in a collection. Some helpful identification resources are listed below. If you are unable to identify any of the media in your collection, talk to your supervisor and contact the Manager of Audio and Moving Image Description.
 
@@ -28,3 +28,4 @@ The National Film and Sound Archive of Australia has a [short technical guide](h
 
 # **Preservation Issues**
 Often AMI with preservation issues is discovered during accessioning, and physically separated from the collection. The Manager of Audio and Moving Image Description and Collection Manager will assess the preservation concerns and determine whether the materials will need to be sent to a vendor for remediation. However, you still may encounter additional AMI content with preservation issues during your appraisal or inventory. Some common issues are mold and film with vinegar syndrome. The [filmcare.org](https://filmcare.org/visual_decay) site is a useful resource in helping to identify potential preservation issues. If you are unsure if something is an AMI preservation issue, reach out to the Manager of Audio and Moving Image Description and Collection Management for guidance.
+

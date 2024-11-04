@@ -6,7 +6,7 @@ grand_parent: Archival Processing
 nav_order: 2
 has_children: false
 ---
-# **Audio and Moving Image Inventory**
+# **AMI Inventory and Description**
 AMI in archival collections are accessioned on an item level by collection management when a new acquisition is received, or when a backlog collection is shipped to the Archival Processing unit for processing. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection management will also update SPEC with the format of each object. 
 
 For acquisitions received in 2023 to the present, the AMI inventory will be attached to the acquisition record. Older collections may have a preliminary inventory with bibliographic data attached to the collection record. 
