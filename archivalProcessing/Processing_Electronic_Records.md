@@ -17,7 +17,7 @@ When you are processing a collection that includes electronic records, you will 
 | --------- | ------------------------------------|
 | When you begin processing a collection with Born-Digital content | Collection name, processing timeframe, and current status. At this time you can coordinate with Digital Archives to survey the electronic records. |
 | Additional digital carriers found during survey or processing | Notify Digital Archives about new content and formats. |
-| Inventoried new digital carriers | Notify Digital Archives that they can pick up the electronic records from the incoming media shelves | Notify Digital Archives that they can pick up the electronic records from the incoming media shelves |
+| Inventoried new digital carriers | Notify Digital Archives that they can pick up the electronic records from the incoming media shelves |
 | Processing Proposal is approved | Email Digital Archives to set up an appointment to process the collection |
 | When you finish bookmarking and processing Born-Digital records | Notify Digital Archives you have completed processing the digital content. Also let them know when you anticipate sending the finding aid for peer review. |
 | After finding aid is approved by the curator and your supervisor | Let Digital Archives know the finding aid has been approved, and let them know if anything has changed since peer review. |
