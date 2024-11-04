@@ -3,7 +3,7 @@ title: Media Originals
 layout: default
 parent: Processing Audio and Moving Image Material
 grand_parent: Archival Processing
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 # **Media Originals**
