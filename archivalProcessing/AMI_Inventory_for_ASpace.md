@@ -1,7 +1,7 @@
 ---
 title: Creating An AMI Inventory for ArchivesSpace Import
 layout: default
-parent: Creating An AMI Inventory for ArchivesSpace Import
+parent: Processing Audio and Moving Image Material
 grand_parent: Archival Processing
 nav_order: 3
 has_children: false
