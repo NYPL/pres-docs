@@ -10,9 +10,11 @@ has_children: false
 The arrangement and description of audio and moving image (AMI) material utilizes many of the same guiding principles as other archival materials, but involves additional steps because AMI is described on the item level to facilitate digitization for long-term preservation and access. This section details the tasks and special considerations that are necessary when working with AMI in archival collections, and addresses identification, inventory, and housing of these materials. The Media Preservation Services department facilitates and coordinates the preservation and digitization of AMI. See the [Media Preservation Documentation Portal](https://nypl.github.io/ami-preservation/) for further information about the ways in which media is digitized and preserved. 
 
 ## **Audio and Moving Image Inventory**
-While the Archival Processing unit is responsible for the description in finding aids of AMI included in archival collections, an initial inventory is performed in SPEC as part of the accessioning process by Collection Management. This includes assigning identifier numbers and barcodes, rehousing items, and recording the format type. Since AMI is the only format routinely arranged and described on the item level, processing collections with AMI can be significantly more time consuming. Inventories and collection documentation provided by the donor or seller can be helpful, as it can often assist in deciphering the content of inadequately labeled media. In many cases, this information can be repurposed in the finding aid description or included as an additional resource to the finding aid. 
+AMI in archival collections are accessioned on an item level by collection management when a new acquisition is received, or when a backlog collection is shipped to the Archival Processing unit for processing. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection management will also update SPEC with the format of each object. 
 
-In the Archival Processing unit, the inventory of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. During the inventory, if you encounter incorrect formats, you should correct the record in SPEC. The completed inventory will be imported into ArchivesSpace. See the section on Importing an Audio and Moving Image Inventory into ArchivesSpace for instructions on how to do this.
+For acquisitions received in 2023 to the present, the AMI inventory will be attached to the acquisition record. Older collections may have a preliminary inventory with bibliographic data attached to the collection record. 
+
+In the Archival Processing unit, the inventory of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. During the inventory, if you encounter incorrect formats, you should correct the record in SPEC. The completed inventory will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory]() into ArchivesSpace for instructions on how to do this.
 
 ## **Identification**
 
@@ -62,4 +64,29 @@ On long edge in cassette boxes. Cassette boxes are then stacked three to a recor
 With long edge greater than nine inches should be stored on long edge in record cartons. Place the identifier labels where they are visible when looking into the record carton.
 
 This example shows beta tapes that fit on the short edge with labels on the top of the cassette (left and right) as well as longer cassettes (center) with labels on the spine.
+![Umatic](/Images/30-Umatic.png)
 
+### Video Cassettes (VHS) 
+On the short edge standing in record cartons.
+![VHS](/Images/31-VHS.png)
+
+### Video Reels
+Stand on edge in record cartons.
+![Video Reels](/Images/32-video_reels.png)
+
+### Film 
+Cans lie flat in record cartons, or on a shelf if they are too large. 
+![small films](/Images/33-small_films.png)
+Films that are too large to fit in a media originals box will be treated as a unique media original item. The film canister should be labeled with a media original label, identifier number, and barcode. 
+![large films](/Images/34-large_films.png)
+
+### Discs (Grooved Media) 
+Should be stored on edge in upright disc boxes. Do not mix different sizes in the same box.
+![Grooved Media](/Images/35-grooved-media.png)
+
+### CD / DVD
+Should stand on edge in CD/DVD boxes.
+![CD/DVD](/Images/36-cd-dvd.png)
+
+## Creating New Media Originals Boxes
+If there are no available Media Originals boxes for the format you are inventorying, or if you fill up an existing box, a new Media Originals box must be created in SPEC. Detailed instructions can also be found in section 4.5.3 [Create New Media Originals]() of the Audio and Moving Image Inventory and Other Processes in SPEC manual.
