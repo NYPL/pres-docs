@@ -15,17 +15,17 @@ Below are the fields that you must complete in ASpace, and their equivalent DACS
 
 | Field Name | DACS Rules | EAD Tag | MARC Field | Notes |
 | -- | -- | -- | -- | -- |
-| Title | [DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) | [<unittitle>](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 245](https://www.loc.gov/marc/bibliographic/bd245.html)$a |
-| Mss Identifer | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [<unitid type="local_mss">](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html)$h |
-| Level of Description | [DACS Chapter 1](https://saa-ts-dacs.github.io/dacs/06_part_I/02_chapter_01.html) | [<archdesc level="collection">](https://www.loc.gov/ead/tglib/elements/archdesc.html) | [MARC 351](https://www.loc.gov/marc/bibliographic/bd351.html)$c |
-| Language | [DACS 4.5](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html) | [<langmaterial>](https://www.loc.gov/ead/tglib/elements/langmaterial.html) | [MARC 008](https://www.loc.gov/marc/bibliographic/bd008.html) | If the finding describes materials in a language other than English, change this field to “Multiple Languages” and add a _Language of materials_ note. |
+| Title | [DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) | [&lt;unittitle&gt;](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 245](https://www.loc.gov/marc/bibliographic/bd245.html)$a |
+| Mss Identifer | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [&lt;unitid type="local_mss"&gt;](https://www.loc.gov/ead/tglib/elements/unittitle.html) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html)$h |
+| Level of Description | [DACS Chapter 1](https://saa-ts-dacs.github.io/dacs/06_part_I/02_chapter_01.html) | [&lt;archdesc level="collection"&gt;](https://www.loc.gov/ead/tglib/elements/archdesc.html) | [MARC 351](https://www.loc.gov/marc/bibliographic/bd351.html)$c |
+| Language | [DACS 4.5](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html) | [&lt;langmaterial&gt;](https://www.loc.gov/ead/tglib/elements/langmaterial.html) | [MARC 008](https://www.loc.gov/marc/bibliographic/bd008.html) | If the finding describes materials in a language other than English, change this field to “Multiple Languages” and add a _Language of materials_ note. |
 
 ## **Dates**
 
 | Field Name | DACS Rules | EAD Tag | MARC Field | Notes |
 | -- | -- | -- | -- | -- |
-| Expression | [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) | [<unitdate>](https://www.loc.gov/ead/tglib/elements/unitdate.html) | [MARC 264](https://www.loc.gov/marc/bibliographic/bd264.html) | Enter as a date range, or single date. |
-| Type | [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) | [<unitdate> type="inclusive"](https://www.loc.gov/ead/tglib/elements/unitdate.html) OR [<unitdate> type="bulk" ](https://www.loc.gov/ead/tglib/elements/unitdate.html) | [MARC 264](https://www.loc.gov/marc/bibliographic/bd264.html) | Enter as a date range. Bulk dates are optional. |
+| Expression | [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) | [&lt;unitdate&gt;](https://www.loc.gov/ead/tglib/elements/unitdate.html) | [MARC 264](https://www.loc.gov/marc/bibliographic/bd264.html) | Enter as a date range, or single date. |
+| Type | [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) | [&lt;unitdate&gt; type="inclusive"](https://www.loc.gov/ead/tglib/elements/unitdate.html) OR [&lt;unitdate&gt; type="bulk" ](https://www.loc.gov/ead/tglib/elements/unitdate.html) | [MARC 264](https://www.loc.gov/marc/bibliographic/bd264.html) | Enter as a date range. Bulk dates are optional. |
 
 All collections must include a date, which should be entered as a date range in the _expression_ field. In addition to _inclusive dates_ [[DACS 2.4.7 - 2.4.9](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html#inclusive-dates)], which includes the date coverage for the entire collection, you may also choose to include _bulk dates_ [[DACS 2.4.10 and DACS 2.4.11](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html#predominant-or-bulk-dates)], which should be added if most of materials in the collection fall within a date range that varies significantly from the inclusive dates. You must always include _inclusive dates_ if you use _bulk_ _dates_.
 
