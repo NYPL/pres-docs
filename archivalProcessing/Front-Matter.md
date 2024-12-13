@@ -35,3 +35,60 @@ Although DACS has rules for collections with no dates, NYPL local description st
 
 Remember that the dates should be used to describe the actual materials in the collection. If an item is a reproduction or photograph of something much older, you should use the date the reproduction or image was created, not the date of the item it depicts. 
 
+## **Extents**
+
+| Field Name | DACS Rules | EAD Tag | MARC Field | Notes |
+| -- | -- | -- | -- | -- |
+| Portion | [DACS 2.5.7](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html#multiple-statements-of-extent) | [&lt;extent&gt;](https://www.loc.gov/ead/tglib/elements/extent.html) | [MARC 300](https://www.loc.gov/marc/bibliographic/bd300.html)$a | Use whole if the collection contains only one type of material. If the collection contains physical and digital materials, use part and complete two forms.
+| Number | [DACS 2.5](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) | [&lt;extent&gt;](https://www.loc.gov/ead/tglib/elements/extent.html) | [MARC 300](https://www.loc.gov/marc/bibliographic/bd300.html)$a | The numeric value that represents the extent value. |
+| Type | [DACS 2.5](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) | [&lt;extent&gt;](https://www.loc.gov/ead/tglib/elements/extent.html) | [MARC 300](https://www.loc.gov/marc/bibliographic/bd300.html)$a | Choose from the dropdown list of controlled values. Physical materials will always be expressed in _linear feet_. |
+| Container Summary | [DACS 2.5](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) | [&lt;extent&gt;](https://www.loc.gov/ead/tglib/elements/extent.html) | [MARC 300](https://www.loc.gov/marc/bibliographic/bd300.html)$a | This field is to express the total container types for physical items, and the total number of computer files for electronic records. |
+
+The ASpace User Guide includes very detailed instructions about how to correctly enter your extent into the extent fields, as well as how to use the extent calculator tool to determine a collection’s total size. In the front matter, you must record the collection’s physical extent in linear feet, along with the total number of boxes, oversized folders, tubes, and volumes. If the collection includes electronic records, you must express the extent in Kilobytes, Megabytes, Gigabytes, or Terabytes, along with the total number of files. If the collection includes audio and moving image recordings, you should include an extent statement with the total number of audio and video recordings. Some divisions may also request extents for specific formats such as photographs or individual letters. 
+
+Make sure to use a separate extent form for the physical and digital material, as well as for specific formats described in the extent statement. When there is more than one type of extent,  select _part_ from the drop down menu.
+
+![Extents linear feet](/Images/55-extents-lf.png)
+![Extents digital](/Images/57-extents-digital.png)
+
+### **Extents for Audio and Moving Image Recordings
+The total number of audio recordings and video recordings in a collection should be expressed in their own extent statements in the finding aid's front matter. Use the dropdown extent type of either _audio recording_ or _video recording_ and write the total in the _number_ field.
+![AMI extent](/Images/58-AMI-extent.png)
+
+## **Finding Aid Data**
+
+| Field Name | DACS Rules | EAD Tag | MARC Field | Notes |
+| -- | -- | -- | -- | -- |
+| Finding Aid Filing Title | n/a | &lt;titleproper type="filing"&gt; | n/a | If the collection is personal papers, provide the name of the finding aid in indirect order (i.e. “Reed, Lou papers”). Otherwise, provide the name as-is (i.e. “Joffrey Ballet Company records”). This field is to assist with searching within ASpace, and will not appear in the finding aid. |
+| Finding Aid Date | [DACS 8.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/09_chapter_08/01_description_control.html#archivist-and-date) | [&lt;date&gt;](https://www.loc.gov/ead/tglib/elements/date.html) | Once the finding aid is published on the Archives Portal, provide the date of publication in YYYY-MM-DD. This will be provided by the person who uploads the finding aid to the Archives Portal. |
+| Finding Aid Author | [DACS 8.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/09_chapter_08/01_description_control.html#archivist-and-date) | [&lt;author&gt;](https://www.loc.gov/ead/tglib/elements/author.html) | n/a | Provide the name(s) of the finding aid’s original author(s) in direct order. Do not add the names of authors of revisions; provide that information in the [_Revision Statement_](). |
+| Descriptive Rules | [DACS 8.1.4](https://saa-ts-dacs.github.io/dacs/06_part_I/09_chapter_08/01_description_control.html#rules-or-conventions) | [&lt;descrules&gt;](https://www.loc.gov/ead/tglib/elements/descrules.html) | [MARC 040](https://www.loc.gov/marc/bibliographic/bd040.html)$e | This will always be _Describing Archives: A Content Standard_. |
+| Language of Description | n/a | [&lt;language&gt;](https://www.loc.gov/ead/tglib/elements/language.html) | This will always be English. |
+| Sponsor (optional) | n/a | [&lt;sponsor&gt;](https://www.loc.gov/ead/tglib/elements/sponsor.html) | [MARC 536](https://www.loc.gov/marc/bibliographic/bd536.html) | If this finding aid was funded by a particular source, include that information here. Use the language included in the collection’s original deed of gift. |
+
+The Finding Aid Data section of the ASpace User Guide includes detailed explanation and rationale on how to complete the fields in this section.
+
+## **Revision Statements**
+A revision statement [[DACS 8.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/09_chapter_08/01_description_control.html#archivist-and-date)] should be added to the finding aid whenever a change, update, or addition is made to a previously processed finding aid. You should record the date of the revision, the name of the archivist who completed the revision, and information about what was changed. Each time a finding aid is updated, a new revision statement should be created. 
+
+When major changes, such as re-processing or a reparative description project has been completed, further details about actions taken by the archivist should be recorded in the [_processing note_]().
+
+See the ASpace User Guide for information about how to correctly complete the revision statement fields in ArchivesSpace.
+
+## **Identifiers**
+The identifiers [[DACS 2.1.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html#local-identifier)] in the front matter will only consist of the collection’s call number and bnumber. 
+
+Each curatorial unit has a unique method for creating collection call numbers. See the section of this documentation about call numbers for division-specific guidelines.
+
+Bnumbers are added after a collection has been cataloged. The bnumber must be added before the EAD record is created. If you are processing an addition, then the collection will already have a bnumber assigned. Make sure it is included as an identifier in ASpace.
+
+See the Identifiers section of the ASpace User Guide for information on how to correctly complete the identifiers form.
+
+
+
+
+
+
+
+
+
