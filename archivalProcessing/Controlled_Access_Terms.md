@@ -52,20 +52,25 @@ If you would like to add a person, family, or corporate entity as an agent, but 
 When you create a new authorized agent record, you must also include the term’s authority ID in the authority ID field \[[DACS 13.2](https://saa-ts-dacs.github.io/dacs/08_part_II/06_chapter_13/02_authority_record_identifier.html#132-authority-record-identifier-required)]. The authority ID is included in the agent’s authority record, and is often the digits and sometimes letters at the end of a URI. Examples of an authority record and where to find the unique identifier are illustrated below. Note that the space between the letter and numbers in the LC control number is important to include. 
 
 **Library of Congress Authorities**
+
 ![LC identifer](/Images/64-LC_identifer.png)
 
 **ULAN**
+
 ![ULAN](/Images/65-ULAN.png)
 
 **SNAC**
+
 ![SNAC](/Images/66-SNAC.png)
 
 **VIAF**
+
 ![VIAF](/Images/67-VIAF.png)
 
 Before adding an authority identifier to an Agent record, verify that the authority record is for the person described by the Agent record (e.g. same time periods and fields of activity). If a name is being authorized against SNAC, verify that the SNAC record has finding aids (Resources) from repositories other than NYPL; otherwise, there is a risk of circular authorization.
 
 Select the _authority source_ from the dropdown menu (NACO is the most common source for names and corporate bodies).
+
 
 
 
