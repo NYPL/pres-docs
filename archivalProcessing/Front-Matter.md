@@ -51,7 +51,7 @@ Make sure to use a separate extent form for the physical and digital material, a
 ![Extents linear feet](/Images/55-extents-lf.png)
 ![Extents digital](/Images/57-extents-digital.png)
 
-### **Extents for Audio and Moving Image Recordings
+### **Extents for Audio and Moving Image Recordings**
 The total number of audio recordings and video recordings in a collection should be expressed in their own extent statements in the finding aid's front matter. Use the dropdown extent type of either _audio recording_ or _video recording_ and write the total in the _number_ field.
 ![AMI extent](/Images/58-AMI-extent.png)
 
