@@ -66,7 +66,7 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 
 8. If you scroll further down the screen, you will see the job log, which shows the different tasks being run in the background to complete the import. If there are any errors in the import, they will be indicated in the job log. The image below is what a successful import log will look like.
 
-![ASpace job log](/Images/ASpace-job-log.jpg)
+![ASpace job log](/Images/54.1-Job-Log-ASpace.jpg)
 
 9. If your import fails and you are unable to decipher the error or troubleshoot it on your own, file a ServiceNow ticket.
 
