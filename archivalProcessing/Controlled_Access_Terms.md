@@ -100,7 +100,7 @@ If the agent is from a source other than the Library of Congress, or if the Libr
 ### **Family Agent Records**
 When creating new _family_ agents, never create a local agent entry. Family names should always be sourced from either the LCNAF or LCSH, depending on its application. Family names that are applied as _Creator/Contributor_ or _Main Entry_ should come from LCNAF and include the appropriate form and identifier; names that are applied as _subjects_ should come from LCSH.
 
-## **Creating Local Access Points**
+## **Creating Local Access Terms**
 
 If you are processing a collection in which the _main entry_, a _creator/contributor_, or _subject_ does not have an authority record, you should create a new agent record, and select _Local (unauthorized)_ as the source. Only create a local heading if the agent name can not be located in any of the sources listed previously, or if you have determined that the authorized form of the agent’s name is incorrect. See the section of this documentation on [Inclusive Cataloging Guidelines]() for more information on the rationale for creating local unauthorized agent records. 
 
