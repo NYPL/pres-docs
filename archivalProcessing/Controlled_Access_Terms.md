@@ -71,6 +71,63 @@ Before adding an authority identifier to an Agent record, verify that the author
 
 Select the _authority source_ from the dropdown menu (NACO is the most common source for names and corporate bodies).
 
+When entering a name in a new agent record into ASpace, do so in the way in which it is constructed in the authority record. If a person’s name is listed in indirect order as _last name, first name_, then make sure to put each part of the name in its own field as illustrated below. Do not include additional information, such as dates, suffixes, or titles unless that information has been included in the authority record. 
+
+![ASpace Agent](/Images/68-ASpace-agent.png)
+
+The Library of Congress usually only includes these additional fields for disambiguation purposes. Dates included in an authority record should be entered into the _dates_ field as illustrated below.
+
+![ASpace Agent with Dates](/Images/69-ASpace-Agent-Dates.png)
+
+Other disambiguation terms should be entered into the _qualifier_ field, as illustrated below.
+
+![ASpace Agent with Qualifier](/Images/70-ASpace-Agent-Qualifier.png)
+
+If the Library of Congress authority record indicates an agent uses RDA rules (as illustrated below), add _Resource Description and Access_ in the _Rules_ field in ASpace. This will be indicated in the _descriptive conventions_ field of the Library of Congress Name Authority Record as well as in the authority’s MARC record in subfield e of the 040 field. 
+
+![LC Record RDA](/Images/71-Belafonte-RDA.png)
+
+![MARC Record RDA](/Images/72-Belafonte-RDA-MARC.png)
+
+![Agent Record RDA ASpace](/Images/73-Belafonte-Agent-ASpace.png)
+
+If the agent is from a source other than the Library of Congress, or if the Library of Congress authority record does not indicate a name was derived using RDA rules, then leave the _Rules_ field blank as illustrated below. 
+
+![LC Record not RDA](/Images/74-non-RDA.png)
+
+![Non RDA ASpace](/Images/75-not-RDA-ASpace.png)
+
+### **Family Agent Records**
+When creating new _family_ agents, never create a local agent entry. Family names should always be sourced from either the LCNAF or LCSH, depending on its application. Family names that are applied as _Creator/Contributor_ or _Main Entry_ should come from LCNAF and include the appropriate form and identifier; names that are applied as _subjects_ should come from LCSH.
+
+## **Creating Local Access Points**
+
+If you are processing a collection in which the _main entry_, a _creator/contributor_, or _subject_ does not have an authority record, you should create a new agent record, and select _Local (unauthorized)_ as the source. Only create a local heading if the agent name can not be located in any of the sources listed previously, or if you have determined that the authorized form of the agent’s name is incorrect. See the section of this documentation on [Inclusive Cataloging Guidelines]() for more information on the rationale for creating local unauthorized agent records. 
+
+Local access points should be created according to [RDA 9.19](http://original.rdatoolkit.org/rdachp9_rda9-5463.html).[^1] Locally-created headings should be clearly disambiguated from names in existing authorities. A local name should never match one in an existing authority record. Refer to [RDA 9.19.1.3](http://original.rdatoolkit.org/rdachp9_rda9-5621.html) - [9.19.1.8](https://original.rdatoolkit.org/rdachp9_rda9-9950035.html) for more information regarding disambiguating names.
+
+When creating a local agent access point, you should always choose _Local (Unauthorized)_ from the dropdown list in ASpace.
+
+![Local Terms ASpace](/Images/76-Local-terms-ASpace.png)
+
+It is also good practice to add an identifying term to the _qualifier_ field, as well as birth and death dates, if this information can be verified.
+
+![Local Agent in ASpace](/Images/77-local-agent-ASpace.png)
+
+[^1]: All NYPL staff have access to the RDA toolkit (https\://original.rdatoolkit.org/) via an NYPL login. If you are unable to login to RDA Toolkit, let your supervisor know.
+
+# **Subjects**
+In ArchivesSpace, subjects are divided into _topical_ subjects; _geographic_ terms; _genre/form_; _occupations_; and _uniform titles_. There are many subjects already in ASpace from other processed collections, so make sure to search through the ASpace subjects before creating a new term. ASpace will not allow you to make a new term identical to an existing one in the database. 
+
+There is more information below about which controlled vocabularies to use for specific types of subjects, the way in which the term will appear in the portal, and the equivalent MARC field. If you need to create a new subject, see the section of this documentation about [Creating New Subjects]().
+
+
+
+
+
+
+
+
 
 
 
