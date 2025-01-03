@@ -119,3 +119,32 @@ In ArchivesSpace, subjects are divided into _topical_ subjects; _geographic_ ter
 
 There is more information below about which controlled vocabularies to use for specific types of subjects, the way in which the term will appear in the portal, and the equivalent MARC field. If you need to create a new subject, see the section of this documentation about [Creating New Subjects]().
 
+| Name in ASpace | Name in Portal | MARC Field | Sources and Notes |
+| -------------- | -------------- | ---------- | ----------------- |
+| Topical | Subjects | [MARC 650](https://www.loc.gov/marc/bibliographic/bd650.html) | Use Library of Congress Subject Headings \[[LCSH](https://id.loc.gov/authorities/subjects.html)] for topical subjects. When applicable, add subdivisions to subjects to make them more specific. Each LCSH entry will note if a term can be subdivided, and if a term is intended _only_ as a subdivision. You can use _topical_, _geographic_, _temporal,_ or _genre/form_ terms as subject subdivisions. |
+| Geographic | Places | [MARC 651](https://www.loc.gov/marc/bibliographic/bd651.html) | Use the Library of congress Name Authority File \[[LCNAF](https://id.loc.gov/authorities/names.html)] and [LCSH](https://id.loc.gov/authorities/subjects.html) to find valid geographic terms. Geographic terms are also often used as subdivisions of topical terms. If you add a geographic subdivision, be sure to [format it correctly](https://www.loc.gov/aba/publications/FreeSHM/freeshm.html0.pdf). The [authority record](https://authorities.loc.gov/) will include the correct structure for subdivisions. Not all geographic terms are valid as subdivisions. |
+| Genre/Form | Material Types | [MARC 655](https://www.loc.gov/marc/bibliographic/bd655.html) | This [list](https://docs.google.com/spreadsheets/d/1IWhJ4wShYuAdD8IgwTguXXvDOgSYS5l0CBpKtrfIqx0/edit?usp=sharing) includes the most commonly used and preferred genre/form terms. Always consult this list first. Always try to use [LCGFT](https://id.loc.gov/authorities/genreForms.html) terms first. There is a [PDF](https://www.loc.gov/aba/publications/FreeLCGFT/GENRE.pdf) of all the terms available as well.[AAT](https://www.getty.edu/research/tools/vocabularies/aat/) is an acceptable source if LCGFT does not have an appropriate term. [LCGFT](https://id.loc.gov/authorities/genreForms.html) terms can also be used as subdivisions of topical terms. It is best to avoid creating local _genre/form_ terms. |
+| Occupation | Occupations | [MARC 656](https://www.loc.gov/marc/bibliographic/bd656.html) | Use the [ITOAMC](https://folgerpedia.folger.edu Index_terms_for_occupations_in_archival_and_manuscript_collections_\(ITOAMC\)) list of occupations or [LCSH](https://id.loc.gov/authorities/subjects.html). |
+| Uniform Title | Titles | [MARC 630](https://www.loc.gov/marc/bibliographic/bd630.html) and [MARC 730](https://www.loc.gov/marc/bibliographic/bd730.html) | Use the [LCNAF](https://id.loc.gov/authorities/names.html) and [LCSH](https://id.loc.gov/authorities/subjects.html) to find valid titles. |
+| Temporal | n/a | [MARC 648](https://www.loc.gov/marc/bibliographic/bd648.html) | _Temporal_ terms should only be used as subdivisions of _topical_ and _geographic_ terms. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
