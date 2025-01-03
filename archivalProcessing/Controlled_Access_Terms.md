@@ -128,6 +128,56 @@ There is more information below about which controlled vocabularies to use for s
 | Uniform Title | Titles | [MARC 630](https://www.loc.gov/marc/bibliographic/bd630.html) and [MARC 730](https://www.loc.gov/marc/bibliographic/bd730.html) | Use the [LCNAF](https://id.loc.gov/authorities/names.html) and [LCSH](https://id.loc.gov/authorities/subjects.html) to find valid titles. |
 | Temporal | n/a | [MARC 648](https://www.loc.gov/marc/bibliographic/bd648.html) | _Temporal_ terms should only be used as subdivisions of _topical_ and _geographic_ terms. |
 
+## **Creating New Subjects**
+
+If you need to create a new subject, follow the instructions in the [ASpace User Guide](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing/archivesspace-guide) for making new access terms. When creating a new subject, only use existing controlled vocabularies from the Library of Congress ([LCSH](https://id.loc.gov/authorities/subjects.html)), Index Terms for Occupations in Archival and Manuscript Collections ([ITOAMC](https://folgerpedia.folger.edu/Index_terms_for_occupations_in_archival_and_manuscript_collections_\(ITOAMC\))), Library of Congress Genre and Form Terms ([LCGFT](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html)), or the Art and Architecture Thesaurus [(AAT](https://www.getty.edu/research/tools/vocabularies/aat/). 
+
+When creating a complex subject with subdivisions, be sure to only include one _term_ per field, and also select the correct _type_ of term in the dropdown menu. The Library of Congress’ [Subject Headings Manual](https://www.loc.gov/aba/publications/FreeSHM/freeshm.html) contains extensive information about how to form complex subjects and how to use various subdivisions. 
+
+When creating new headings from the LCSH, if the heading does not have any subdivisions, provide the LC Authority Control Number as part of the record. If the heading includes subdivisions, the Authority Control Number is not necessary.
+
+### **Complex Subjects**
+
+Adding subdivisions to a subject is a good way to make a very general subject more specific. You can add a _geographic_ location, _temporal_ term, or _genre/form_ term. For example a term such as _Actors--United States--20th century_ looks like this is ASpace:
+![complex subjects ASpace](/Images/78-complex-subjects-ASpace.png)
+
+Remember that _geographic_ and _topical_ terms can both be subdivided and used as subdivisions. _Temporal and genre/form_ terms can be used as subdivisions, but they can never be subdivided with topical or geographic terms. A good general rule of thumb is to not exceed two subdivisions for a single subject heading. An overly complex subject heading does not aid in discovery. 
+
+There is extensive information available about how to form complex through the Library of Congress’ [online training modules](https://www.loc.gov/catworkshop/lcsh/). The illustration below shows the different possibilities for creating complex subjects, and the order in which to list the terms.
+
+![LC Module Example](/Images/79-LC-Module.png)
+
+### **Geographic Subdivisions**
+
+When adding a geographic subdivision to a subject, first make sure the term includes a note stating that the term can be geographically subdivided as illustrated below.
+
+![LC Collection Membership](/Images/80-LC-collection-membership.png)
+
+Note that geographic terms are usually formatted differently when they are used as a subdivision to a [topical](https://www.loc.gov/marc/bibliographic/bd650.html) term, than if they are being used as a [geographic name](https://www.loc.gov/marc/bibliographic/bd651.html) subject. A geographic term’s record in the [Library of Congress authorities](https://authorities.loc.gov/) contains information on how to properly format a term. Information on subdividing geographic subjects is available in [H 830](https://www.loc.gov/aba/publications/FreeSHM/H0830.pdf) of the _Subject Heading Manual_.  Specific rules regarding New York City are available in [H 990](https://www.loc.gov/aba/publications/FreeSHM/H0990.pdf).
+
+For example, the geographic term for New York City is [New York (N.Y.)](https://lccn.loc.gov/n79007751), but when you use it as a subdivision, it is formatted like this: **__New York (State)--New York_** . Each [authority record](https://authorities.loc.gov/) will include a _Geographic subdivision usage_ note like the one shown below. 
+
+![Geographic Subdivision LC](/Images/81-LC-geographic-subdivision.png)
+
+Also note that not all geographic headings are valid for use as a subdivision, so check the authority record for a note like this: 
+
+![Geographic invalid LC](/Images/82-LC-Geographic-not-valid.png)
+
+Typically, geographic subdivisions will include a state, followed by the city. In ASpace it should be entered like this:
+
+![ASpace Geographic Subdivision](/Images/83-ASpace-Geographic-subdivision.png)
+
+Remember that _topical_ terms can be subdivided with _geographic_ terms, and _geographic_ terms can be subdivided topically. Regardless of which order works best for your collection, _temporal_ and/or _genre/form_ subdivisions will always be listed last as illustrated in the image at the beginning of this [section]()
+
+### **Genre/Form Subdivisions**
+
+There are some terms that can only be used as subdivisions, and others that may seem as if they should be _genre/form_ subdivisions, but are classified as _topical_. The best way to confirm that you are selecting the correct _type_ of subdivision is to consult the term’s Library of Congress [authority record](https://id.loc.gov/authorities/subjects.html). When adding a _genre/form_ subdivision only use Library of Congress [genre/form terms](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html), never add an AAT or ITOAMC term as a subdivision. Remember that _genre/form_ terms can never be subdivided, but they can be used as subdivisions. _Genre/form_ subdivisions will always be listed last in a complex subject as illustrated in the image at the beginning of this [section](). 
+
+### **Temporal Subdivisions**
+
+Add a temporal subdivision to specify a more precise time period for a subject term. A term such as [_20th Century_](https://id.loc.gov/authorities/subjects/sh2002012476.html) is a temporal subdivision, while an authorized topical term that includes a year, such as [_World War, 1939-1945_](https://id.loc.gov/authorities/subjects/sh85148273.html), is not a temporal term and cannot be used as a temporal subdivision. If you are unsure of the type of term or subdivision you are adding, always consult the [Library of Congress Subject Authorities](https://authorities.loc.gov/) or [Library of Congress Subject Heading Manual](https://www.loc.gov/aba/publications/FreeSHM/freeshm.html). Temporal subdivisions will always be listed after _geographic_ and/or _topical_ terms, and always followed by _genre/form_ subdivisions when one is included. See the illustration at the beginning of this [section]() for information on the correct order for complex subjects.
+
+
 
 
 
