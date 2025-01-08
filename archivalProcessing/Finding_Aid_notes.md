@@ -23,7 +23,7 @@ Series Arrangement Note \[[DACS 3.2](https://saa-ts-dacs.github.io/dacs/06_part_
 The Archival Processing unit requires the following notes fields in all finding aids:
 
 | Field Name | DACS Rule | EAD Tag | MARC Field |
-| ---------- | _________ | _______ | ---------- |
+| ---------- | ----------| -------- | --------- |
 | Abstract | Commentary note to [DACS 3.1](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html) | [\<abstract>](https://www.loc.gov/ead/tglib/elements/abstract.html) | [MARC 520](https://www.loc.gov/marc/bibliographic/bd520.html) |
 | Conditions Governing Access | [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html) | [\<accessrestrict>](https://www.loc.gov/ead/tglib/elements/accessrestrict.html) | [MARC 506](https://www.loc.gov/marc/bibliographic/bd506.html) |
 | Immediate Source of Acquisition | [DACS 5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html) | [\<acqinfo>](https://www.loc.gov/ead/tglib/elements/acqinfo.html) | [MARC 541](https://www.loc.gov/marc/bibliographic/bd541.html) |
