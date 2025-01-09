@@ -11,7 +11,7 @@ The purpose of this section is to provide a clear workflow for processing collec
 
 See the [Description of Audio and Moving Image in ASpace](https://nypl.github.io/pres-docs/archivalProcessing/Processing_AMI.html) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
- ## Table of Contents
+## Table of Contents
  {: .no_toc .text-delta }
 - TOC
 {:toc}
