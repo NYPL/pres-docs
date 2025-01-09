@@ -4,7 +4,7 @@ layout: default
 parent: Appraisal
 grand_parent: Archival Processing
 nav_order: 7
-has_children: true
+has_children: false
 ---
 # Appraisal of Audio and Moving Image Materials
 The inventory and preservation work associated with audio and moving image materials is time-consuming and costly, so the first step when working with a collection that includes audio and moving image materials is to determine what media from the collection will be retained. The initial appraisal of a collection’s audio and moving image items should occur during your survey, and be explained in your processing proposal. However it is usually not possible to closely examine each original media item before you begin processing the collection, so appraisal will continue as you identify, assess, and describe the audio and moving image materials.
