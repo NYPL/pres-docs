@@ -12,7 +12,7 @@ has_children: false
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 This section identifies the notes fields included in a finding aid’s front matter, detailing the required and optional elements, DACS rules, equivalent MARC fields (when applicable), and EAD tags. This section will explain which notes to add in ASpace, and includes recommendations about how to structure narrative sections. Also be sure to reference the [Inclusive Description and Style Guidelines](/Inclusive_Description.md) section of this manual to make sure your notes correspond to the Archival Processing unit’s description standards. 
