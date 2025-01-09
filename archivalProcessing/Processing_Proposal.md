@@ -59,20 +59,20 @@ Berg uses the unique SPEC collection ID number to create their call numbers, whi
 
 Berg Coll MSS 28384
 
-#### Dance Division
+#### Dance Division (DAN)
 Call numbers for Dance collections are created by Archival Processing unit management after a collection has been accessioned.
 
-#### Music Division
+#### Music Division (MUS)
 Call numbers are assigned by the Music division Assistant Curator and technical services staff. Your supervisor will reach out the the division for the call number. 
 The Music Division has created a [LibGuide](https://libguides.nypl.org/MusicClassmarks) to explain their call number system.
 
-#### Theatre Division 
+#### Theatre Division (THE)
 The collection call number is provided by the Theatre division Assistant Curator. Your supervisor will reach out the the division for the call number. 
 
-#### Schomburg Manuscripts, Archives, and Rare Books
+#### Schomburg Manuscripts, Archives, and Rare Books (SCM/MARB)
 The collection call number is provided by the Curator of Schomburg Manuscripts, Archives, and Rare Books. Your supervisor will reach out the the curator for a call number. 
 
-#### Schomburg Photographs and Prints Call Numbers**
+#### Schomburg Photographs and Prints Call Numbers (SCP/P&P)
 The Schomburg Photographs and Prints division uses a naming convention for their call numbers that is explained in this [document](https://docs.google.com/document/d/1B00pxyjB8B5WriV9qv26hh6C9mAOeUgQIHumx8wTOHU/edit?usp=sharing). Most collections processed in the Archival Processing unit are formatted like this: 
 
 Sc Photo [Name of creator(s) or collector(s), with added topic term if present] Collection
@@ -114,7 +114,7 @@ Based upon the collection analysis, describe the minimum amount of work needed t
 
 Typically, larger and more complex collections will require series or subseries-level arrangement and description. If the collection can be adequately described in the _scope and content_ note of the front matter, then it probably does not require series-level description. Refer to the [Guidelines for Levels of Description](archivalProcessing/Guidelines_for_Levels_of_Description.md) section of this manual for assistance in determining what type of description is most suitable for your collection.
 
-### Processing Timeframe**
+### Processing Timeframe
 Describe the estimated amount of time you will need to process the collection. If the proposed time frame changes during processing, communicate this to your supervisor. 
 
 ## Preservation Issues
