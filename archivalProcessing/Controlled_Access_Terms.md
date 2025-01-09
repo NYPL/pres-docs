@@ -17,12 +17,10 @@ In ArchivesSpace, controlled access terms are divided into [_Agents_]() (persona
 - TOC
 {:toc}
 
-
-
 ## **Agents**
 Agents are the individuals, corporate entities, or families that created the collection, contributed to its content, or are the subject matter of the records. Each agent must be designated as either a _main entry_, _creator/contributor_, or _subject._ There are already many agents included in ASpace from other processed collections, so be sure to check if the agent you wish to add already has a record in ASpace before creating a new one. If you need to create a new agent record, see the [Creating New Agents]() section of this documentation.
 
-## **Main Entry** 
+### **Main Entry** 
 Most collections must include a _main entry_ \[[DACS 2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)]. The _main entry_ is the person \[[MARC 100](https://www.loc.gov/marc/bibliographic/bd100.html)], corporate entity \[[MARC 110](https://www.loc.gov/marc/bibliographic/bd110.html)], or family \[[MARC 100](https://www.loc.gov/marc/bibliographic/bd100.html)] responsible for the creation of the records. A collection can only have one _main entry._ If a collection was created by multiple people, the other individuals or corporate entities should be added as a _creator/contributor_ \[[MARC 700](https://www.loc.gov/marc/bibliographic/bd700.html)/[MARC 710](https://www.loc.gov/marc/bibliographic/bd710.html)].
 
 ![main entry](/Images/59-main-entry.png)
@@ -33,14 +31,14 @@ If the collection is an artificial collection created by the Library (e.g. [Scho
 
 Note that the first inidcator in the [MARC 245](https://www.oclc.org/bibformats/en/2xx/245.html) field (Title Statement) must be changed from 1 to 0 when there is no main entry. 
 
-## **Creator/Contributor**
+### **Creator/Contributor**
 Any individual \[[MARC 700](https://www.loc.gov/marc/bibliographic/bd700.html)] or corporate entity \[[MARC 710](https://www.loc.gov/marc/bibliographic/bd710.html)] that created material in the collection or contributed in a significant way to the collection’s content should be added as a _creator/contributor_. This can include an agent that is a co-author, frequent correspondent, or artistic collaborator. It is not necessary to list every individual that appears in the collection, just those that made meaningful contributions to the content.
 
 ![creator/contributor](/Images/60-creator-contributor.png)
 
 When adding a _creator/contributor_, you should also add a relator term from the dropdown menu to describe the agent’s role. The most common term is _contributor_, but there are many other possibilities which are defined in the [LSCH MARC Code List for Relators](https://www.loc.gov/marc/relators/relaterm.html).
 
-## **Agents as Subjects**
+### **Agents as Subjects**
 An agent that is not the _main entry_ or _creator/contributor_ can be added as a _subject._ This is appropriate for individuals \[[MARC 600](https://www.loc.gov/marc/bibliographic/bd600.html)] or corporate entities \[[MARC 610](https://www.loc.gov/marc/bibliographic/bd610.html)] that are represented, discussed, or are a prominent subject matter in the collection. 
 
 ![agent as subject](/Images/61-agent-subject.png)
@@ -55,7 +53,7 @@ Family names should always be sourced from the Library of Congress. Do not use a
 
 Family names are created in ArchivesSpace as Family Agents, regardless of source; take care when applying these headings, as the list contains both LCNAF and LCSH headings. If you wish to add a meeting or conference name \[[MARC 611](https://www.loc.gov/marc/bibliographic/bd611.html)] as a subject, enter the authorized term as an Agent Subject. The term will be exported as a MARC 610 field, and will need to be manually changed to MARC 611 when creating the catalog record. See the section of this documentation on [Creating Catalog Records]() for further information. 
 
-## **Creating New Agents**
+### **Creating New Agents**
 
 If you would like to add a person, family, or corporate entity as an agent, but they do not have an agent record in ASpace, then you will need to create a new agent entry. The ArchivesSpace documentation contains detailed instructions on how to create a [new agent entry](). For a person or corporate entity, use an authorized name from the[ Library of Congress Name Authority Headings](https://authorities.loc.gov/). If the agent does not have a Library of Congress authority record, first check the Getty’s Union List of Artist Names ([ULAN](https://www.getty.edu/research/tools/vocabularies/ulan/)), then Social Networks and Archival Context ([SNAC](https://snaccooperative.org/)), and finally the Virtual International Authority File ([VIAF](http://viaf.org/)). If there is no authority record from any of these sources, then create a new agent record and select _local (unauthorized)_ from the dropdown menu in ASpace.
 
@@ -110,7 +108,7 @@ If the agent is from a source other than the Library of Congress, or if the Libr
 ### **Family Agent Records**
 When creating new _family_ agents, never create a local agent entry. Family names should always be sourced from either the LCNAF or LCSH, depending on its application. Family names that are applied as _Creator/Contributor_ or _Main Entry_ should come from LCNAF and include the appropriate form and identifier; names that are applied as _subjects_ should come from LCSH.
 
-## **Creating Local Access Terms**
+### **Creating Local Access Terms**
 
 If you are processing a collection in which the _main entry_, a _creator/contributor_, or _subject_ does not have an authority record, you should create a new agent record, and select _Local (unauthorized)_ as the source. Only create a local heading if the agent name can not be located in any of the sources listed previously, or if you have determined that the authorized form of the agent’s name is incorrect. See the section of this documentation on [Inclusive Cataloging Guidelines]() for more information on the rationale for creating local unauthorized agent records. 
 
@@ -146,7 +144,7 @@ When creating a complex subject with subdivisions, be sure to only include one _
 
 When creating new headings from the LCSH, if the heading does not have any subdivisions, provide the LC Authority Control Number as part of the record. If the heading includes subdivisions, the Authority Control Number is not necessary.
 
-### **Complex Subjects**
+## **Complex Subjects**
 
 Adding subdivisions to a subject is a good way to make a very general subject more specific. You can add a _geographic_ location, _temporal_ term, or _genre/form_ term. For example a term such as _Actors--United States--20th century_ looks like this is ASpace:
 ![complex subjects ASpace](/Images/78-complex-subjects-ASpace.png)
@@ -157,7 +155,7 @@ There is extensive information available about how to form complex through the L
 
 ![LC Module Example](/Images/79-LC-Module.png)
 
-### **Geographic Subdivisions**
+## **Geographic Subdivisions**
 
 When adding a geographic subdivision to a subject, first make sure the term includes a note stating that the term can be geographically subdivided as illustrated below.
 
@@ -179,11 +177,11 @@ Typically, geographic subdivisions will include a state, followed by the city. I
 
 Remember that _topical_ terms can be subdivided with _geographic_ terms, and _geographic_ terms can be subdivided topically. Regardless of which order works best for your collection, _temporal_ and/or _genre/form_ subdivisions will always be listed last as illustrated in the image at the beginning of this [section]()
 
-### **Genre/Form Subdivisions**
+## **Genre/Form Subdivisions**
 
 There are some terms that can only be used as subdivisions, and others that may seem as if they should be _genre/form_ subdivisions, but are classified as _topical_. The best way to confirm that you are selecting the correct _type_ of subdivision is to consult the term’s Library of Congress [authority record](https://id.loc.gov/authorities/subjects.html). When adding a _genre/form_ subdivision only use Library of Congress [genre/form terms](https://www.loc.gov/aba/publications/FreeLCGFT/freelcgft.html), never add an AAT or ITOAMC term as a subdivision. Remember that _genre/form_ terms can never be subdivided, but they can be used as subdivisions. _Genre/form_ subdivisions will always be listed last in a complex subject as illustrated in the image at the beginning of this [section](). 
 
-### **Temporal Subdivisions**
+## **Temporal Subdivisions**
 
 Add a temporal subdivision to specify a more precise time period for a subject term. A term such as [_20th Century_](https://id.loc.gov/authorities/subjects/sh2002012476.html) is a temporal subdivision, while an authorized topical term that includes a year, such as [_World War, 1939-1945_](https://id.loc.gov/authorities/subjects/sh85148273.html), is not a temporal term and cannot be used as a temporal subdivision. If you are unsure of the type of term or subdivision you are adding, always consult the [Library of Congress Subject Authorities](https://authorities.loc.gov/) or [Library of Congress Subject Heading Manual](https://www.loc.gov/aba/publications/FreeSHM/freeshm.html). Temporal subdivisions will always be listed after _geographic_ and/or _topical_ terms, and always followed by _genre/form_ subdivisions when one is included. See the illustration at the beginning of this [section]() for information on the correct order for complex subjects.
 
