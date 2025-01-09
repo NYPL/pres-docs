@@ -9,13 +9,15 @@ has_children: false
 # **Controlled Access Terms**
 {: .no_toc }
 
+In ArchivesSpace, controlled access terms are divided into [_Agents_]() (personal names, corporate bodies, family names) and [_Subjects_]() (topics, genre/form, occupations), which are used as access points in the [archives portal](http://archives.nypl.org/), the [NYPL catalog](https://browse.nypl.org/iii/encore/homepage), the [NYPL research catalog](https://www.nypl.org/research/research-catalog), and in [WorldCat](https://www.worldcat.org/). Once a finding aid is complete, the MARC XML is exported in order to create a record in WorldCat and in Sierra. It is important that your agents and subjects are formed correctly, otherwise the terms will not properly validate. All finding aids must include controlled access terms. The [ArchivesSpace Documentation](/aspace.md) contains detailed information about how to add agents and subjects to your finding aid, as well as how to create and add new terms. The section of this documentation on [Inclusive Description]() provides further explanation on how to choose access terms that are not offensive or harmful. 
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-In ArchivesSpace, controlled access terms are divided into [_Agents_]() (personal names, corporate bodies, family names) and [_Subjects_]() (topics, genre/form, occupations), which are used as access points in the [archives portal](http://archives.nypl.org/), the [NYPL catalog](https://browse.nypl.org/iii/encore/homepage), the [NYPL research catalog](https://www.nypl.org/research/research-catalog), and in [WorldCat](https://www.worldcat.org/). Once a finding aid is complete, the MARC XML is exported in order to create a record in WorldCat and in Sierra. It is important that your agents and subjects are formed correctly, otherwise the terms will not properly validate. All finding aids must include controlled access terms. The [ArchivesSpace Documentation](/aspace.md) contains detailed information about how to add agents and subjects to your finding aid, as well as how to create and add new terms. The section of this documentation on [Inclusive Description]() provides further explanation on how to choose access terms that are not offensive or harmful. 
+
 
 ## **Agents**
 Agents are the individuals, corporate entities, or families that created the collection, contributed to its content, or are the subject matter of the records. Each agent must be designated as either a _main entry_, _creator/contributor_, or _subject._ There are already many agents included in ASpace from other processed collections, so be sure to check if the agent you wish to add already has a record in ASpace before creating a new one. If you need to create a new agent record, see the [Creating New Agents]() section of this documentation.
