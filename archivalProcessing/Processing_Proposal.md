@@ -14,6 +14,12 @@ Make sure to save your Processing Proposal as a Google Doc, and once it is appro
 
 [Collection Name] proposal (collection Identifer)
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ## **Collection Information**
 
 **Collection Title and Dates** [[DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) and [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html)]
