@@ -120,6 +120,27 @@ circa 19871980s
 
 The only exception to dates formatting rules is in narrative description, in which the month may precede the date and year, expressed like October 31, 1994 or October 31st. This is most common in an _administrative/biographical history_ note when stating a collection creator’s date of birth or death.
 
+## Abbreviations
+Since few abbreviations are standardized, and because both DACS and RDA discourage them, abbreviations should be avoided.
+
+Some common abbreviations that should always be written out include:
+
+- **Memo**:  Use the full word _memorandum_, or the plural _memoranda_.
+- **Info**: Use _Information_
+- **&** :  The ampersand should not replace the word “and” unless it is part of a company or organization's formal name or composition title (e.g., Ben & Jerry’s, Dolce & Gabbana, A&W).
+- **\#** or **No.**: Use _Number_
+- **Etc.**: Use _et cetera_, however it is best to avoid this term unless it is part of a title. Always attempt to describe content as fully as possible.
+- **Misc**: Use _Miscellaneous_ (if you use this term in a series or folder title, write a description that includes at least a list of the types of materials included, for example: Miscellaneous Financial Materials). In general it is best to avoid this term in your description
+- **Place Names**' Always write out the full name of cities, states, countries, cities, and provinces. 
+
+## Exceptions to Abbreviations
+Use St., Jr., and Ft. and similar in city and person names (St. Louis, Martin Luther King Jr.).
+
+D.C. (Washington, D.C.) (note the use of periods in these).
+
+
+
+
 
 
 [^1]: Caswell and Cifor remind us that “In making descriptive choices, the archivist should ask, what language would the creator use to describe the records.” Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” _Archivaria_, no. 81 (May 6, 2016): 38, <https://archivaria.ca/index.php/archivaria/article/view/13557>.
