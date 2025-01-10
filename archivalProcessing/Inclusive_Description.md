@@ -133,15 +133,56 @@ Some common abbreviations that should always be written out include:
 - **Misc**: Use _Miscellaneous_ (if you use this term in a series or folder title, write a description that includes at least a list of the types of materials included, for example: Miscellaneous Financial Materials). In general it is best to avoid this term in your description
 - **Place Names**' Always write out the full name of cities, states, countries, cities, and provinces. 
 
-## Exceptions to Abbreviations
+**Exceptions to Abbreviations**
+
 Use St., Jr., and Ft. and similar in city and person names (St. Louis, Martin Luther King Jr.).
 
 D.C. (Washington, D.C.) (note the use of periods in these).
 
+## Acronyms
+Do not use acronyms for an organization or company without fully describing them the first time they appear in a text. For example, when writing about The New York Public Library (NYPL) for the first time in a scope and content note, write out its full name with its acronym following it in parentheses. Then in subsequent paragraphs, you may use NYPL to refer to the organization.
 
+If using an acronym and pluralizing it, make it a small “s” and do not use an apostrophe. Some examples include: PACs, EISs, EAs.
 
+## Apostrophes
+**Plural**
 
+Although '70s is grammatically correct, it is not DACS compliant. Instead use 1970s (not 1970’s or '70's).
+ 
+**Possessive**
 
+- **Singular nouns** (including those that end in s) get an apostrophe. Do not add an extra “s” after the apostrophe for words that end in s. 
+
+    - Examples: 
+        - The boss’ office is on the third floor. 
+
+        - Jess’ bicycle is locked up outside.
+
+- **Plural nouns**  
+
+    - Plural nouns that do not end in "s" get an apostrophe:
+  
+        - The children’s school day begins at 9AM.
+
+    - Plural nouns that end in s get only an apostrophe added after the word:
+    
+        - The archivists’ offices are located on the second floor. 
+
+## Hyphens
+To simplify data entry, use double hyphens (--) to indicate hierarchies in folder titles, much like Library of Congress Subject and Authority Headings:  
+ 
+- Smith, John--Correspondence, 1925
+
+The single hyphen is used for dates or in the case of hyphenated words.
+
+- 1965-1979
+- Bi-weekly
+
+## Numbers
+As recommended in the Chicago Manual of style, the numbers zero through one hundred should be written out. Starting at number 101, it is acceptable to use numbers in lieu of spelling out the word. 
+
+## Spaces
+Use a single space after periods, commas, and colons. There is no instance where an additional space will ever be needed in description or in ArchivesSpace. 
 
 [^1]: Caswell and Cifor remind us that “In making descriptive choices, the archivist should ask, what language would the creator use to describe the records.” Michelle Caswell and Marika Cifor, “From Human Rights to Feminist Ethics: Radical Empathy in the Archives,” _Archivaria_, no. 81 (May 6, 2016): 38, <https://archivaria.ca/index.php/archivaria/article/view/13557>.
 
