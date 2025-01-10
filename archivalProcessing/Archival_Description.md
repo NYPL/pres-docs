@@ -5,7 +5,7 @@ parent: Archival Processing
 nav_order: 14
 has_children: true
 ---
-# **Archival Description: Writing a Finding Aid**
+# Archival Description: Writing a Finding Aid
 
 Archival description in the Archival Processing unit is fully integrated into ArchivesSpace (ASpace). Whether you create your container list using the [processing spreadsheet](/Documents/ArchivesSpace_Processing_Spreadsheet_Template.xlsx) or enter the components manually, there are a number of tasks that need to be completed in ASpace in order to create your finding aid. This section will detail those tasks, the rationale for why you must complete specific fields, the proper way to word certain statements, and the preferred formatting for various types of collections. 
 
