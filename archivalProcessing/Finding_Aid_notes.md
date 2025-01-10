@@ -39,13 +39,11 @@ The Archival Processing unit requires the following notes fields in all finding 
 | Scope and Content | [DACS 3.1](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html) | [\<scopecontent>](https://www.loc.gov/ead/tglib/elements/scopecontent.html) | n/a |
 
 ### Abstract
-
 A finding aid’s abstract should serve as a clear and concise synopsis of the collection’s scope, content, and creator biography. Ideally, an abstract should be three sentences, briefly summarizing the collection creator’s biography in a single sentence, and the scope and content in two sentences. The abstract should clearly reveal what the collection documents, as well as the types of materials it contains. It is best to avoid simply listing out the formats a collection holds, and instead to clarify the types of records a researcher can expect to find. While [DACS](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html_system_of_arrangement.html#32-system-of-arrangement-added-value) does not require abstracts, it is a required field at NYPL.
 
 The abstract is the only narrative descriptive element that is included in the catalog record, since neither the _scope and content_ or _biographical/historical_ note have MARC equivalents in NYPL catalog records. The abstract, along with the access terms, have a great deal of significance in quickly summarizing a collection’s content in the catalog. Additionally, the abstract appears directly under a finding aid’s basic information in the archives portal, and may be the first descriptive details a researcher encounters. 
 
 ### Conditions Governing Access
-
 The purpose of this statement is to describe access restrictions imposed by NYPL, or those which were stipulated in the deed of gift or purchase agreement. [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html) describes when to use a _Conditions Governing Access_ note. The archives portal will automatically generate a _Conditions Governing Access_ statement for each curatorial division. If the collection you are processing has no special access restrictions, then you do not need to complete this field. The automatically generated [standard access notes](aspace/aspace.md) are listed in the ASpace User Guide. If the collection has additional restrictions, such as electronic records or audio and moving image material that is unavailable, or restrictions requested by the donor, then you must create a _Conditions Governing Access_ note to explain the restrictions.
 
 For collections containing audio and moving image, use the correct division statement, both in the front matter, and at the level immediately above the audio and moving image components. See the [Description of Audio and Moving Image Material in ArchivesSpace]() section of this documentation for each division's access note language. 
@@ -53,11 +51,9 @@ For collections containing audio and moving image, use the correct division stat
 When a component in a finding aid is restricted or should not be requested in the reading room, you use use the terms **_closed_** or **_Unavailable_** in the <accessrestrict> note at the component-level. This will assure that the item is not requestale in Aeon. 
 
 ### Immediate Source of Acquisition 
-
 This field describes the source from which NYPL acquired the collection, the date it was acquired, and whether it was purchased or donated. A typical _Immediate Source of Acquisition_ statement is constructed liked this: Purchased \[or donated] from \[by] \[donor/seller name] in \[year]. This information is found in the deed of gift or purchase agreement, which is located in the collection’s acquisition record (or in the dossier for legacy collections). For further guidance on this note, see [DACS 5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html).
 
 ### Administrative/Biographical History
-
 Although you most likely already drafted a solid _Administrative/Biographical History_ note in your [processing proposal](/Processing_Proposal.md), it is common to encounter additional pertinent information as you process the collection. Therefore, your note will often change slightly from its initial iteration. Remember that it is not your job to construct an overly detailed biography of the collection’s creator. Instead, you should aim to summarize the collection creator’s history in a manner that reflects the content of the collection.
 
 Typically an _Administrative/Biographical History_ is written in chronological order, and includes the creator’s date and place of birth, or the founding members and date of creation, if the collection’s creator is a corporate body. The _Biographical/Historical_ note should also include the creator’s activities as they relate to the materials held in the collection, or the primary functions of the institution for corporate bodies. It is also recommedned that you include the individuals with whom the creator collaborated, the creator’s current activities, and the date of death/dissolution if known/applicable.
@@ -79,11 +75,9 @@ When working with additions being processed as a discrete collection, or if the 
 If there is additional interesting information that you encountered during processing that is outside the scope of an _Administrative/Biographical History note_, you can always include these details in a Wikipedia article and mention them in your closing memo. Consult the [Updating and Creating Wikipedia Entries]() and [Closing Memo]() sections of this manual for more information.
 
 ### Processing Information
-
 All finding aids must include a _Processing Information_ note, which states the name of the archivist that processed the collection, and the year(s) it was processed. All processing notes must be formatted like this with EAD tags: Processed by \<name>Archivist Name\</name> in \<date>Year\</date>.[DACS 7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information) contains more information on processing notes.  
 
 ### Scope and Content
-
 A finding aid’s _scope and content_ note is the central tenet of a collection’s description, serving as the core narrative to convey the types of materials that comprise a collection, and the function of those materials. The _scope and content_ note should be utilized to describe why the records were created, how they were used, and what activities they chronicle. It is also a space to describe the types of materials the collection holds. 
 
 A _scope and content_ note should be structured hierarchically, beginning with a general overview of the collection, and using successive paragraphs to address each subsequent level. Begin your note with the most high-level information, such as the collection’s date range and a synopsis of what information the collection conveys. This opening paragraph should be similar to what you would include in an _abstract_, and the following paragraphs should get progressively more granular in a manner that adequately describes what the collection holds, and also explains this in a way that mirrors how the collection is arranged. 
@@ -139,7 +133,20 @@ This note should be used to describe materials that have been physically separat
 
 Schomburg Center collections are routinely separated and described in discrete finding aids or catalog records for [Manuscripts, Archives and Rare Books Division](https://www.nypl.org/locations/schomburg/manuscripts-archives-and-rare-books-division) (MARB), [Photographs and Prints Division](https://www.nypl.org/locations/schomburg/photographs-and-prints-division) (SCP), the [Moving Image and Recorded Sound Division](https://www.nypl.org/locations/schomburg/moving-image-and-recorded-sound-division), the [Art and Artifacts Division](https://www.nypl.org/locations/schomburg/art-and-artifacts-division), and the [Jean Blackwell Hutson Research and Reference Division](https://www.nypl.org/locations/schomburg/jbh-research-and-reference-division). 
 
-Use the following _Separated Materials_ notes when working with Schomburg  collections:
+Use the following _Separated Materials_ notes when working with Schomburg collections:
+
+See the \[division] for the \[collection title], \[collection call number]. 
+
+- _Example: See the Manuscripts, Archives, and Rare Books Division for the Alexis De Veaux papers, Sc MG 802._ 
+
+If the separated collection does not have a title/call number assigned: 
+
+See the \[division] for \[general term for relevant material, e.g. _artworks_, _photographs,_ etc.]
+
+- _Example: See the Photographs and Prints Division for the photographs._
+
+### Related Archival Materials
+Use this note to indicate the names and locations of NYPL collections that share a provenance, or have a close association with the collection being described in the finding aid. For further information see [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html).
 
 [^1]: Jarret Drake criticizes this pratice writing that “In this note, archivists often write massive memorials and monuments to wealthy, white, cisgendered and heterosexual men, including selective details about the creator that have minimal bearing on the records, and instead serve to valorize and venerate white western masculinity. Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” _On Archivy_, April 7, 2016, <https://medium.com/on-archivy radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325>.
 
