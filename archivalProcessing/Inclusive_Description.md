@@ -3,7 +3,7 @@ title: Inclusive Description and Style Guidelines
 layout: default
 parent: Archival Processing
 nav_order: 15
-has_children: true
+has_children: false
 ---
 # Inclusive Description and Style Guidelines
 {: .no_toc }
