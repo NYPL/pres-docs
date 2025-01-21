@@ -6,19 +6,36 @@ has_children: true
 ---
 
 # SPEC
+SPEC is a FileMaker based internal database application. It functions primarily as a collection management tool supporting efforts to preserve, maintain, and enhance access to NYPL’s special collections. 
+
+SPEC allows Research Library staff to record information on the object level. Unlike other systems such as the Library Catalog and the Archives Portal, which focus on descriptions for search and discovery, SPEC is tailored to record and surface detailed information about each object. These records complement data from other systems and provide a more granular level of tracking supporting various internal workflows.
+
+In addition to objects, SPEC stores information about acquisitions, collections, processing and preservation projects, outgoing loans, and storage locations. These records are interrelated and linked through the objects they describe, offering a comprehensive view of each object’s lifecycle and associations.
+
 
 ## Connecting
+SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both browser and client. Your connection options may depend on your SPEC account type. If you are working remotely or using wifi you need to have a working and properly configured connection to NYPL's VPN. 
 
-If you would like to set up a new account for yourself or behalf of a staff member, please file a ServiceNow ticket.
+Contact PCP Systems and Operations if you need additional instructions on connecting to SPEC. 
 
-## What is SPEC?
 
-**SPEC** is an internal database application designed for Library staff to record, find, and compile information about special collections at the object level. These objects include both physical and digital entities stored within the Research Libraries' collection locations. 
+## Accounts and Privileges 
+To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e) or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66) file a ServiceNow ticket.
 
-SPEC primarily functions as a **collection management tool**, supporting efforts to maintain and enhance access to NYPL's special collections. The goal is to create a record in SPEC for every special collection object. Object records within containers are generated as needed, particularly for workflows that require detailed tracking, such as special collections moves, loans, conservation efforts, and audio/visual digitization projects.
+Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, divison staff have access to records that are assigned to their division.
 
-Unlike other systems such as the **Library Catalog** and the **Archives Portal**, which focus on descriptions for search and discovery, SPEC is tailored to record and surface detailed information about each object. These records complement data from other systems but provide a more granular level of tracking that supports the Library’s internal processes.
 
-Additionally, SPEC stores information about acquisitions, collections, exhibition loans, processing and preservation projects, and storage locations. These records are interrelated and linked through the objects they describe, offering a comprehensive view of each object’s lifecycle and associations.
+## SPEC Landing Page
+The SPEC landing page opens when first logging into the database. From the landing page navigate to the different SPEC modules and access select SPEC funtionality. The links visible on the landing page vary based on user account privileges. 
 
-Finally, SPEC facilitates a growing number of **business processes and workflows** involving objects. As these processes unfold, object records are created, enhanced, and updated, ensuring that the most accurate and up-to-date information is always available.
+To navigate back to the SPEC landing page from other SPEC interfaces click on the SPEC logo found in the upper left corner. If using the browser, do not use the browser's back button; all navigation must be done within the SPEC interfaces. 
+
+
+## SPEC modules
+There are several different record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with SPEC acqusitions, SPEC collections, and/or SPEC projects. 
+
+Additionally, the Locations module (CLMGT only) is where a controlled location hierarchy for NYPL storage locations is maintained, and Outgoing Loans (Registrar only) is where outgoing loan information is recorded. 
+
+
+## Reporting Bugs
+File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27) to report a bug, connection issue, or request a custom data report.
