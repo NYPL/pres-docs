@@ -3,7 +3,7 @@ title: Object Barcode App
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 23
+nav_order: 22
 ---
 
 ## Object Barcode App

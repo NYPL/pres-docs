@@ -3,7 +3,7 @@ title: Notes and Other Descriptive Text
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 9
+nav_order: 15
 ---
 
 ## Notes

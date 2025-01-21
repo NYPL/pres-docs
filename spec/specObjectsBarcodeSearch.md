@@ -3,7 +3,7 @@ title: Barcode Search
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 17
+nav_order: 19
 ---
 
 # Search with Barcode List
