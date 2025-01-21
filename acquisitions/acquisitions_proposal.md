@@ -6,6 +6,10 @@ nav_order: 1
 has_children: false
 ---
 
+{: .note }
+> This page is under construction! 
+> Content is being edited ...
+
 # Acquisition Proposal Review
 
 The **Acquisition Proposal Review** section outlines the key steps involved in preparing, submitting, and processing an acquisition proposal in the SPEC system. This includes stages such as funding evaluation, resource impact assessment, approvals, and the coordination of delivery. 
