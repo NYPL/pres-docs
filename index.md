@@ -23,7 +23,8 @@ This site contains documentation for the following departments:
 
 Additional documentation is maintained on the following sites:
 - [Digital Archives](https://nypl.github.io/digarch/){:target="_blank"}
-- [Media Preservation](https://nypl.github.io/ami-preservation/){:target="_blank"}
+- [Digital Preservation](https://nypl.github.io/digpres/){:target="_blank"}
+- [Audio and Moving Image Preservation](https://nypl.github.io/ami-preservation/){:target="_blank"}
 - [Metadata Services Unit](https://nypl.github.io/metadata-documentation/){:target="_blank"}
 
 
