@@ -12,7 +12,7 @@ nav_order: 3
 
 
 ## Related Objects 
-**As needed, multiple values**
+*as needed, multiple controlled values*
 
 Some objects have relationships with other objects. Relationships are always bidirectional, and, like objects, they can be active or inactive. 
 

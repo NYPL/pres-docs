@@ -7,7 +7,7 @@ nav_order: 13
 ---
 
 ## Received Date
-*Single value, required when known, year at minimum*
+*single date value, required when known, year at minimum*
 
 Indicates the year, month, and day an object was received by NYPL. When objects are marked as received during accessioning a received date is automatically assigned based on the obejcts' delivery date. Only objects assoicated with a SPEC acqusition can be assigned a received date. See SPEC Acquisitions [ADD LINK] for more information. 
 

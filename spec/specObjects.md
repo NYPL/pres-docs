@@ -20,7 +20,7 @@ The goal is to populate SPEC with object records for every special collection it
 ## Object Search
 Most SPEC object record functionality is available via the **Object Search** interface. Navigate to the interface by clicking on **Search all objects** in the Objects section of the **SPEC landing page**.
 
-From the **Object Search** interface, use the [Basic Search](https://nypl.github.io/pres-docs/spec/specObjectsBasicSearch.html), [Advanced Search](https://nypl.github.io/pres-docs/spec/specObjectsAdvancedSearch.html), or [Search by barcode](https://nypl.github.io/pres-docs/spec/specObjectsBarcodeSearch.html) to find object records.  
+From the **Object Search** interface, use the [Basic Search](https://nypl.github.io/pres-docs/spec/specObjectsBasicSearch.html), [Advanced Search](https://nypl.github.io/pres-docs/spec/specObjectsAdvancedSearch.html), or [Search with barcode list](https://nypl.github.io/pres-docs/spec/specObjectsBarcodeSearch.html) to find object records.  
 
 Additionally, inventories of objects assoicated with different SPEC record types can be pulled up in the Object Search interface via the related record. For example, find all objects associated with an acquisition by navigating to the **Extent Summary** in the **Acquisition Summary** interface or all objects assoicated with a collection via the **SPEC Records** section in the **Collection Summary** interface. See SPEC Acquisitions [Add Link] and SPEC Collections [ADD Link] for details. See also SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on relationships between object records and other SPEC record types.  
 

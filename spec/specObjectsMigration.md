@@ -11,7 +11,7 @@ nav_order: 12
 > More content coming soon ...
 
 ## Migration / Digitization Statuses
-*As needed, multiple controlled values, one active* 
+*as needed, multiple controlled values, one active* 
 
 Objects can have their contents migrated to other media or formats. The most common method of migration is digitization, but in cases involving digital carriers, migration can include disk imaging or file transfers. 
 

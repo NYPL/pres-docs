@@ -7,13 +7,13 @@ nav_order: 10
 ---
 
 ## Accessibility
-*Required, single controlled value*
+*required, single controlled value*
 
 This field auto-populates with the default value "not available to public" for new object records. It is automatically updated during some imports and updates to object records. For example, adding a restriction to the object changes the accessibilty status to "restricted." 
 
 
 ## Description
-*Required, single controlled value*
+*required, single controlled value*
 
 This field auto-populates with the default value "not described" for new object records. It is automatically updated when a reference to a catalog record or a finding aid is added to the object record. 
 

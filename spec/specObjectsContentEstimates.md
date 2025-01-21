@@ -11,7 +11,7 @@ nav_order: 4
 > Content is being edited ...
 
 ## Content Estimates
-**Optional, multiple values**
+*optional, multiple values*
 
 Content estimates indicate the number of items and their formats within a container for statistical and planning purposes. Update content estimates as necessary. A container can have multiple content estimates depending on the formats it contains.
 

@@ -11,7 +11,7 @@ nav_order: 2
 > Content is being edited ...
 
 ## Format
-**Single value with up to three levels of specificity. Highly recommended. Controlled list of values.**
+*highly recommended, controlled single value with up to three levels of specificity*
 
 Format represents the generic name for a single object. For items, the format values are primarily drawn from or inspired by the terms and hierarchical structure of the Getty’s Art and Architecture Thesaurus, though may also follow more local format conventions. For containers, the format values are based on the most common containers used throughout the Research Libraries.
 
@@ -21,7 +21,7 @@ The values in each of the three format fields are conditional to, first, the typ
 &nbsp; 
 
 ## Class
-*highly recommended, single, controlled value*
+*highly recommended, single controlled value*
 
 Class represents the form factor or approximate "shape" of the object. Most formats have default classes, though the class can be entered or manually overwritten. The available classes are:
 
@@ -52,7 +52,7 @@ Content form identifies the form of the primary content carried by an object. Fo
 Extent captures the dimensions of an object. Relevant dimensions depend on the object’s type, class, and content. Each extent measurement comprises several elements:
 
 ### Measure Type
-*required, controlled single value*
+*required, single controlled value*
 
 The specific dimension being measured. The available measure types are: height, width, depth, diameter, weight, runtime, and bytesize.
 
@@ -62,12 +62,12 @@ The specific dimension being measured. The available measure types are: height, 
 The unit of measurement for the selected measure type. The available units are: inches, centimeters, kilograms, pounds, milliseconds, GB.
 
 ### Measurement
-*Required, single numeric value*
+*required, single numeric value*
 
 The numeric value representing the number of units.
 
 ### Context
-*Optional, single controlled value* 
+*optional, single controlled value* 
 
 Specifies the context in which the measurement was taken. The available contexts are: storage, use, display (used for exhibitions and loans).
 

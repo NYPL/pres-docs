@@ -19,15 +19,15 @@ View additional details or update the the object value by clicking on the curren
 
 
 ### Value
-*required, single value*
+*required, single numeric value*
 The value in USD. 
 
 ### Date Assigned 
-*required, single value* 
+*required, single date value* 
 The date the value was assigned.
 
 ### Assigned By
-*required, single value* 
+*required, single controlled value* 
 The staff member who assigned the value.
 
 ### Type

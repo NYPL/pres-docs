@@ -11,7 +11,7 @@ nav_order: 11
 > Content is being edited ...
 
 ## Assessments
-*As needed, multiple values*
+*as needed, multiple values*
 
 Objects are assessed by staff in various contexts: during the evaluation of an acquisition; in response to inclusion in a potential loan, exhibition, or digitization project; and during an assessment/survey project.
 
@@ -23,17 +23,17 @@ Assessments are logged using the following fields:
 The date an object was assessed.
 
 ### Assessed By
-*required, controlled single value*
+*required, single controlled value*
 
 The staff member who conducted the assessment. SPEC automatically fills in the username of the staff member entering the record, but this field can be modified as needed.
 
 ### Assessment Name
-*optional, controlled single value*
+*optional, single controlled value*
 
 This field is used to associate the assessment with a specific project.
 
 ### Documentation
-*required as needed, controleld single value*
+*required as needed, single controlled value*
 
 Enter "Y" when the object has acquisition or other documentation with or within it.
 

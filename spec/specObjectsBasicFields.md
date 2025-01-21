@@ -30,7 +30,7 @@ The division indicates the curatorial unit that acquired or currently serves the
 
 
 ## Title or Label Text
-*optonal, single free text value*
+*optional, single free text value*
 
 The title or label field can be used to:
 
@@ -56,8 +56,12 @@ The id or sequence number may be used to group, sort, or differentiate multiple 
 
 The elements descirbed above can all be viewed, added, or edited in the Basic Fields [Add LINK] window accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and by clicking on the corresponding fields in the **Object Record** interface.
 
+&nbsp;
+
+---
+ 
 &nbsp; 
-&nbsp; 
+
 
 ## SPEC Generated Fields
 

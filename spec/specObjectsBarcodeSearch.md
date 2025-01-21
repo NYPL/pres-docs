@@ -6,7 +6,7 @@ grand_parent: SPEC
 nav_order: 19
 ---
 
-# Search with Barcode List
+## Search with Barcode List
 
 {: .note }
 > This page is under construction! 

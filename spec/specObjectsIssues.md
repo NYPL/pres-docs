@@ -16,7 +16,7 @@ nav_order: 7
 The issues section of an object record is used to record preservation issues discovered during any assessment, as well as their resolution. Whenever an issue is recorded, SPEC automatically creates a corresponding assessment record if there is no record covering the date the issue was discovered.
 
 ### Issue Type
-*required, controlled single value*
+*required, single controlled value*
 The type of issue entered determines the available choices for the specific issue field.
 
 
@@ -26,7 +26,7 @@ The type of issue entered determines the available choices for the specific issu
 The date the issue was noticed. SPEC automatically fills in the date that the issue is entered by default.
 
 ### Noted By
-*required, controlled single value*
+*required, single controlled value*
 
 The staff member who noticed the issue. SPEC fills in the username of the logged-in user who entered the record by default.
 
@@ -41,12 +41,12 @@ The severity of structural damage. 1: minimal, 2: moderate, 3: severe.
 The date an issue was resolved.
 
 ### Resolved By
-*as needed, controlled single value*
+*as needed, single controlled value*
 
 Enter the username of the staff member who resolved the issue.
 
 ### Assessment
-*optional, controlled single value*
+*optional, single controlled value*
 
 Use this field to indicate a named assessment during which the issue was noticed.
 

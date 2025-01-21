@@ -20,7 +20,7 @@ Contact PCP Systems and Operations if you need additional instructions on connec
 
 
 ## Accounts and Privileges 
-To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e) or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66) file a ServiceNow ticket.
+To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e){:target="_blank"} or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66){:target="_blank"} file a ServiceNow ticket.
 
 Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, divison staff have access to records that are assigned to their division.
 
@@ -38,4 +38,4 @@ Additionally, the Locations module (CLMGT only) is where a controlled location h
 
 
 ## Reporting Bugs
-File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27) to report a bug, connection issue, or request a custom data report.
+File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27){:target="_blank"} to report a bug, connection issue, or request a custom data report.

@@ -11,7 +11,7 @@ nav_order: 6
 An object can have mulitple active or inactive restrictions. Restrictions are not deleted from object records, rather they are made inactive by entereing an end date to maintain historical data. Each restriction consists of multiple elements.
 
 ### Type
-*required, controlled single value*, 
+*required, single controlled value*, 
 
 The restiction type classifies the conditions that govern the accessibility of an object. These types help identify the nature of the restrictions applied, such as those related to preservation needs, content sensitivity, or other factors. 
 

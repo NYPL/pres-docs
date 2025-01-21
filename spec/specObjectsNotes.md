@@ -7,13 +7,13 @@ nav_order: 15
 ---
 
 ## Notes
-*Optional, free text*
+*optional, free text*
    
 Use to enter any information about the object that is not accommodated within the other object record elements.
 
 
 ## Other Descriptive Text
-*Optional, free text*
+*optional, free text*
 
 This field is used to provide additional identification details for an object when other fields do not fully capture its unique characteristics. Text entered in this field will not be included in the object name or in any labels printed from SPEC. It serves as supplementary information for internal reference and documentation purposes only.
 
