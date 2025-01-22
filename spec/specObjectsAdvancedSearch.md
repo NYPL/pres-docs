@@ -43,11 +43,13 @@ Click the **x** button in the upper right to close the advanced search window wi
 
 ## Search Help 
 | **To find** | **Type this in the field** | **Examples** |
-| Not empty (fields that have data) | * | | 
-| Empty (fields without data) | = | | 
+| Not empty (fields that have data) | * | * | 
+| Empty (fields without data) | = | = | 
+
+
+
 | Words that start with specific roman characters (works with fields that use any language except Japanese) | The characters | Chris Smith finds Chris Smith, Smith Chris, Chris Smithson, and Smith Christenson |
-| A phrase or sequence of characters that match when they are the first characters in a word (match phrase from word start) | The literal text (characters), including spaces and punctuation, between double quotation marks (") | "Marten and Jones Interiors" finds Marten and Jones Interiors but not Jones and Marten Interiors  
-"Spring" finds Springville but not ColdSpring Harbor or HotSpring | 
+| A phrase or sequence of characters that match when they are the first characters in a word (match phrase from word start) | The literal text (characters), including spaces and punctuation, between double quotation marks (") | "Marten and Jones Interiors" finds Marten and Jones Interiors but not Jones and Marten Interiors "Spring" finds Springville but not ColdSpring Harbor or HotSpring | 
 | Words with one or more unknown or variable characters (any one character) | One wildcard character (@) for each unknown character | Gr\@y finds Gray and Grey @on finds Don and Ron but not Bron |
 | Words with zero or more unknown or variable text characters in a row (zero or more characters) | \* for all unknown characters | Jo\*n finds Jon and John J\*r finds Jr. and Junior \*phan\* finds Phan and Stephanie S\* finds Sophie, Steve, and Sven |
 | Exact matches of the text you specify (match entire field) | == (two equal signs) for a field content match | ==John finds John but not John Smith ==John Smith finds John Smith but not Smith, John or John Smithers |
@@ -59,4 +61,4 @@ Click the **x** button in the upper right to close the advanced search window wi
 | Any valid value for a date or time component in a date, time, or timestamp | \* or leave component unspecified, while specifying the other components you want to find | 5/12/\* finds the 12th day of May in any year 5/12 finds the 12th day of May in the current year \*:15 finds times 15 minutes after any hour 1/1/\* 7 PM finds timestamps in the 7 o’clock PM hour on January 1st in any year |
 | Within the range you specify | .. or ... (two or three periods) | 12:30...17:30 1/1/2019..6/6/2020 A...M |
 | Less than a specified value | < \[value] | <40 <9/7/2019 \<M |
-| Greater than a specified value  | > \[value] | >95129 >9/7/2019 >M |
+| Greater than a specified value | > \[value] | >95129 >9/7/2019 >M |
