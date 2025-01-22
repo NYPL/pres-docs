@@ -43,8 +43,8 @@ Click the **x** button in the upper right to close the advanced search window wi
 
 ## Search Help 
 | **To find** | **Type this in the field** | **Examples** |
-| Not empty (fields that have data) |  |  | 
-| Empty (fields without data) |  |  | 
+| Not empty (fields that have data) | * | * | 
+| Empty (fields without data) | = | = | 
 | Words that start with specific roman characters (works with fields that use any language except Japanese) | The characters | Chris Smith finds Chris Smith, Smith Chris, Chris Smithson, and Smith Christenson |
 | A phrase or sequence of characters that match when they are the first characters in a word (match phrase from word start) | The literal text (characters), including spaces and punctuation, between double quotation marks (") | "Marten and Jones Interiors" finds Marten and Jones Interiors but not Jones and Marten Interiors "Spring" finds Springville but not ColdSpring Harbor or HotSpring | 
 | Words with one or more unknown or variable characters (any one character) | One wildcard character (@) for each unknown character | Gr\@y finds Gray and Grey @on finds Don and Ron but not Bron |
