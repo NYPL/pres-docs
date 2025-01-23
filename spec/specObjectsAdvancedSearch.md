@@ -43,7 +43,7 @@ Click the **x** button in the upper right to close the advanced search window wi
 
 ## Search Help 
 
-| To find | Type this in teh field | Examples |
+| **To find** | **Type this in the field** | **Examples** |
 | Not empty (fields that have data) | \* | \* |
 | Empty (fields without data) | = | = | 
 | Words that start with specific roman characters (works with fields that use any language except Japanese) | The characters | Chris Smith finds Chris Smith, Smith Chris, Chris Smithson, and Smith Christenson |
