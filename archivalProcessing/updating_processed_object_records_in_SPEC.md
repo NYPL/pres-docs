@@ -42,3 +42,27 @@ Below are the steps and some accompanying images that illustrate how to deactiva
 9. Once you have made your selection, click on the _confirm_ button.
 
 10. If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation]() for more information about how to do this. 
+
+## Deactivating Objects in a Colletion Record
+
+1. Login to SPEC and select _search all collections_ in the _Collections menu._
+
+2. The collections search screen will open.
+
+3. Enter the collection identifier or title, and select _search_.
+
+4. The search results will appear below the search menu. Select the collection you need to update by clicking on the collection name.
+
+5. A new screen will open with the collection’s summary information, including the call number, format counts, and linked records. Click on the number to the right of the word _objects_ under the SPEC Records menu. This number indicates the total number of objects associated with the collection record.
+
+6. A new screen will open listing all the objects associated with the collection. After a collection has been processed, all the old boxes need to be deactivated. 
+
+7.  To deactivate a box, click on the ^ icon and select deactivate from the pop-up menu as illustrated below.
+
+8. A new dialog box will open that is populated with the current date in the When field and your SPEC username in the Deactivated By field. The Reason For Deactivating field has a dropdown menu. Click on the dropdown menu icon on the right to open the menu. 
+
+9. Select the reason you are deactivating the object record from the menu. When deactivating boxes from processed collections, you should always select _Contents rehoused_.
+
+10. Once you have made your selection, click on the confirm button.
+
+11.  If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation]() for more information about how to do this. 
