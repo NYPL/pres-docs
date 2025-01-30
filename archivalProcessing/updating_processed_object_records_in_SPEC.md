@@ -7,9 +7,16 @@ nav_order: 5
 has_children: false
 ---
 # Updating Processed Object Records in SPEC
+{: .no_toc }
 It is recommended that you deactivate a collection’s original container as you are processing. Once you have finished processing a collection, you should verify that you have made all original containers inactive in SPEC, and double check that you did not miss any of the unprocessed materials. In most cases objects should be deactivated from the _acquisition record_. However, if you are processing a backlog collection without an acquisition record, or an artificial collection without acquisition information, then you will need to deactivate the boxes from the _collection record_. 
 
 Below are the steps and some accompanying images that illustrate how to deactivate boxes in a SPEC acquisition record. If you are working on backlog, legacy, or an artificial collection, skip to [Deactivating Objects in a Collection Record]().
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Deactivating Objects in an Acquisition Record
 1. Login to SPEC and select find/propose an acquisition in the Acquisitions menu.
@@ -41,6 +48,8 @@ Below are the steps and some accompanying images that illustrate how to deactiva
 
 9. Once you have made your selection, click on the _confirm_ button.
 
+![Confirm Button](/Images/108-confirm-button.png)
+
 10. If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation]() for more information about how to do this. 
 
 ## Deactivating Objects in a Colletion Record
@@ -49,20 +58,68 @@ Below are the steps and some accompanying images that illustrate how to deactiva
 
 2. The collections search screen will open.
 
+![SPEC Collections Search](/Images/102-SPEC-Collections-search.png)
+
 3. Enter the collection identifier or title, and select _search_.
+
+![SPEC search](/Images/103-SPEC-Search.png)
 
 4. The search results will appear below the search menu. Select the collection you need to update by clicking on the collection name.
 
 5. A new screen will open with the collection’s summary information, including the call number, format counts, and linked records. Click on the number to the right of the word _objects_ under the SPEC Records menu. This number indicates the total number of objects associated with the collection record.
 
+![Collection Objects](/Images/104-Objects.png)
+
 6. A new screen will open listing all the objects associated with the collection. After a collection has been processed, all the old boxes need to be deactivated. 
+
+![SPEC objects list](/Images/105-SPEC-Objects-List.png)
 
 7.  To deactivate a box, click on the ^ icon and select deactivate from the pop-up menu as illustrated below.
 
-8. A new dialog box will open that is populated with the current date in the When field and your SPEC username in the Deactivated By field. The Reason For Deactivating field has a dropdown menu. Click on the dropdown menu icon on the right to open the menu. 
+![Deactivate Button](/Images/106-Deactivate.png)
+
+8. A new dialog box will open that is populated with the current date in the _When_ field and your SPEC username in the _Deactivated By_ field. The _Reason For Deactivating_ field has a dropdown menu. Click on the dropdown menu icon on the right to open the menu. 
 
 9. Select the reason you are deactivating the object record from the menu. When deactivating boxes from processed collections, you should always select _Contents rehoused_.
 
+![Dactivate Object](/Images/107-Object-Deactivate.png)
+
 10. Once you have made your selection, click on the confirm button.
 
+![Confirm Button](/Images/108-confirm-button.png)
+
 11.  If you wish to deactivate multiple boxes at once, use the SPEC bulk deactivation feature, which allows you to select all the objects you need to deactivate. See the section of this documentation on [Bulk Object Deactivation]() for more information about how to do this. 
+
+## Bulk Object Deactivation in SPEC
+
+1. Navigate to the collection’s objects list.
+
+2. The objects will display in list format with check boxes to the left, as illustrated in the image below. 
+
+![objects List](/Images/109-Objects-List.jpg)
+
+3. Make sure you are in the _object search_ screen, and not the _batch editor view_. Bulk edit functionality is not available in the _Batch edit_ screen.
+
+4. Select all the objects you wish to deactivate by clicking in the boxes to the left of the object name. You may also select all objects by navigating to the _Action_ menu and choosing _Select All_.    
+
+![SPEC checkboxes](Images/109-SPEC-checkboxes.jpg) ![Select All](/Images/110-SPEC-Select-all.png)
+
+5. Click on the _Action_ menu at the top and select _Deactivate Selected Objects._
+
+![Deactivate Selected Objects](/Images/111-Deactivate-Selected-Objects.png)
+
+6. A dialog box will open asking for the reason you are deactivating the objects. You should always select _Contents Rehoused_.
+
+![Content Rehoused](/Images/112-Content-Rehoused.png)
+
+7. Press the _Confirm_ button after you have selected _Contents rehoused_ from the menu.
+
+![Confirm Button](/Images/108-confirm-button.png)
+
+8. A box will pop up asking if you would like to deactivate all the selected objects. Press _OK_.
+
+![Dialog Box](/Images/113-Dialog-Box.jpg)
+
+9. The objects you selected will be deactivated and appear crossed out in the objects list.
+
+![Deactived Objects](/Images/114-Deactivated-Objects.jpg)
