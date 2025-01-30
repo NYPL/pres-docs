@@ -70,8 +70,6 @@ A new screen will open with the collection’s summary information, including th
 
 A new screen will open listing all the objects associated with the collection. After a collection has been processed, all the old boxes need to be deactivated. 
 
-![SPEC objects list](/Images/105-SPEC-Objects-List.png)
-
 To deactivate a box, click on the ^ icon and select deactivate from the pop-up menu as illustrated below.
 
 ![Deactivate Button](/Images/106-Deactivate.png)
