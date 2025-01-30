@@ -24,7 +24,7 @@ Below are the steps and some accompanying images that illustrate how to deactiva
 
 2. The acquisitions search screen will open. Enter the acquisition identifier or acquisition title and select search.
 
-![SPEC acquisition search screen](archivalProcessing/Images/97-acquisition-search-screen.png)
+![SPEC acquisition search screen](/Images/97-acquisition-search-screen.png)
 
 3. The search results will appear below the search menu. Select the acquisition record you need to update by clicking on the acquisition name.
 
@@ -32,9 +32,7 @@ Below are the steps and some accompanying images that illustrate how to deactiva
 
 ![SPEC extent summary](Images/98-extent-summary.png)
 
-5. A new screen will open listing all the objects associated with the collection. This will often include audio and moving image items, digital media carriers, received boxes that were rehoused, and unprocessed containers with their original LSC stacks locations. 
-
-![SPEC object list](/Images/99-SPEC-object-list.png)
+5. A new screen will open listing all the objects associated with the collection. This will often include audio and moving image items, digital media carriers, received boxes that were rehoused, and unprocessed containers with their original stacks locations. 
 
 6. To deactivate a box, click on the ^ icon and select deactivate from the pop-up menu as illustrated below. 
 
