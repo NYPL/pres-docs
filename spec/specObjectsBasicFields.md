@@ -11,11 +11,16 @@ nav_order: 1
 ## Type
 *required, single controlled value*
 
-There are two types of objects, items and containers. 
+There are two types of objects in SPEC: items and containers. 
 
-An item in SPEC is always a single thing that is not a container. It is an object that is part of the Research Libraries' collections, such as a book, a photograph, a VHS cassette, or a digital file. Items in SPEC are not intellectual or bibliographic entities, the term item has a more specific and literal meaning than it does in the context of the catalog, where an “item record” can represent one or more items. Bound volumes, such as a book or manuscript diary, are considered a single item, although the pages within them are also considered items. An unbound 40-page manuscript of a short story is not a single (manuscript) item, but 40 items.
+An item in SPEC is always a single thing that is not a container. It is an object that is part of the Research Libraries' collections, such as a book, a photograph, a VHS cassette, or a digital file. 
+
+{: .tip }
+> Items in SPEC are not intellectual or bibliographic entities. Item has a more literal meaning in SPEC. It is NOT synonymous with an "item record" in the catalog. In SPEC, a bound volume, such as a book or manuscript diary, is considered a single item. On the other hand, an unbound 40-page manuscript is not a single (manuscript) item, but 40 items.
 
 Containers are objects containing items and/or other containers. Containers are not considered part of the Research Libraries' collections and are also distinct from storage locations since they are not fixed to a physical place. The contents of containers can be represented in SPEC in two ways: with related object records or content estimates.
+
+See [Related Objects](https://nypl.github.io/pres-docs/spec/specObjectsRelationships.html) and [Content Estimates](https://nypl.github.io/pres-docs/spec/specObjectsContentEstimates.html) for more information.
 
 ## Barcode
 *optional, single numberic value, unique*
@@ -34,10 +39,10 @@ The division indicates the curatorial unit that acquired or currently serves the
 
 The title or label field can be used to:
 
-- Give the item a title, whether it be its official title, a shorter informal title, or spine title.
-- Transcribe what is written on an item or container or on a label affixed (or that will be affixed) to an object.
-- Briefly describe what an item is (e.g., umbrella).
-- Briefly describe a container’s contents, which may be useful when browsing lists and/or shelves of containers and for differentiating two containers with the same sequence number (e.g., Box 1 AMI vs. Box 1 Artifacts vs. Box 1 Files).
+- Give the item a title, whether it be its official title, a shorter informal title, or spine title
+- Transcribe what is written on an item or container or on a label affixed (or that will be affixed) to an object
+- Briefly describe what an item is (e.g., umbrella)
+- Briefly describe a container’s contents, which may be useful when browsing lists and/or shelves of containers and for differentiating two containers with the same sequence number (e.g., Box 1 AMI vs. Box 1 Artifacts vs. Box 1 Files)
 
 
 ## ID Number Prefix

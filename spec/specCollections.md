@@ -7,7 +7,7 @@ has_children: true
 ---
 
 # SPEC Collections
-SPEC Collections are intellectual entities consisting of a group of objects, which are usually described by collection-level catalog records and sometimes finding aids. 
+SPEC Collections are intellectual entities consisting of a group of objects, which are usually described by collection-level catalog records and finding aids. 
 
 
 ## Collections Search
@@ -43,11 +43,11 @@ The **Collection Summary** interface displays collection record data. Use the ic
 Buttons that link to the collection’s archives portal record, catalog record, and collection file will appear whenever they are available. Access to collection files are limited to staff within the curatorial unit of the collection and appropriate administrators.
 
 ### Related SPEC Records
-The SPEC records section list the number of acquisitions containing objects that are part of the collection, the number of projects targeting objects in the collection, and the number of objects that comprise the collection (see below for additonal inforamation on related objects). Clicking on the number navigates to the related record or a list of the related records.
+The SPEC records section lists the number of acquisitions containing objects that are part of the collection, the number of projects targeting objects in the collection, and the number of objects that comprise the collection (see below for additonal inforamation on related objects). Clicking on the number navigates to the related record or a list of the related records.
 
 ### Related SPEC Objects
 Navigating to the related objects from the SPEC records section of the **Collection Summary** opens the **Object Search** interface showing all active objects associated with the collection. Clicking on the **magnifying glass** icon next to the Object count opens a pop-up window with the option to search by object type, id number prefix, id or sequence number, and/or title or label within the collection. Click **Perform search** to see the filtered results in the **Object Search** interface. 
 
 The collection record also summarizes the associated objects by format categories, these total include object records and their associated container estimates, if any. To limit the objects search result list in the **Object Search** interface by format, click on **View** to the right of the format category counts. Similarily, to open the subset of associated objects limited by format in the **List Edit - All** interface click on **List Edit**. See [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces for more information.
 
-When navigating to the **Object Search** from the **Collection Summary** the green new object button will read **+ Create new object in [Collection title]** and will auto-populate the new object's division and associated references based on the collection. See Creating Object Records [ADD LINK] for more information on new object records and SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on SPEC acquisition, acquisition delivery and collection reference logic in relation to object records.
+When navigating to the **Object Search** from the **Collection Summary** the green new object button will read **+ Create new object in [Collection title]** and will auto-populate the new object's division and associated references based on the collection. If there are no objects associated with the collection use the **+New** button in the SPEC records section of the Collection Summary to create the first object, this will also auto-populate the new object's division and associated references. See Creating Object Records [ADD LINK] for more information on new object records and SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on SPEC acquisition, acquisition delivery and collection reference logic in relation to object records.
