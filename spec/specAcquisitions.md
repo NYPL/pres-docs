@@ -14,7 +14,7 @@ has_children: true
 SPEC acquisitions are transactions through which the NYPL Research Libraries take ownership of materials. Acquisitions consist of one or more objects. A single acquisition can contain objects that are part of one or more collections, or individual objects that are not part of a collection. Multiple acquisitions can comprise a single collection.
 
 SPEC contains acquisition records for:
-- All special collections acquisitions since SPEC's adoption as an acquisition management tool in 2021
+- All special collections acquisitions since SPEC's adoption for acquisition management in 2021
 - Most special collections acquisitions since 2014 and select older acquisitions input retroactively
 - All Manuscripts and Archives Division acquisitions since 1994
 

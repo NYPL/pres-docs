@@ -3,7 +3,7 @@ title: Locations
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 8
+nav_order: 3
 ---
 
 {: .note }

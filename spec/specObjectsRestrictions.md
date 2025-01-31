@@ -3,7 +3,7 @@ title: Restrictions
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 6
+nav_order: 7
 ---
 
 ## Restrictions

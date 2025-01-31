@@ -3,7 +3,7 @@ title: Accessibility / Description
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 10
+nav_order: 9
 ---
 
 {: .note }

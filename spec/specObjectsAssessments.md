@@ -3,7 +3,7 @@ title: Assessments
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
-nav_order: 11
+nav_order: 10
 ---
 
 {: .note }
