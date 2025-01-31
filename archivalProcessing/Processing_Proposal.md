@@ -49,30 +49,30 @@ This will be assigned automatically by SPEC during accessioning. An accession nu
 
  The call number will be located in the top left of the collection record below the SPEC ID as well as in the _Identifiers_ section of this screen. Call numbers are located in the Classmark field of SPEC collection and acquisition records. Notify your supervisor if you are assigned a collection that does not have a call number.
 
-#### **Manuscripts and Archives Division (MSS)**
+#### Manuscripts and Archives Division (MSS)
 MSS unique the SPEC collection ID number to create their call numbers, which is formatted like this:
 
 MssCol 24586 
 
-#### **Berg Division (BRG)**
+#### Berg Division (BRG)
 Berg uses the unique SPEC collection ID number to create their call numbers, which is formatted like this:
 
 Berg Coll MSS 28384
 
-#### **Dance Division (DAN)**
+#### Dance Division (DAN)
 Call numbers for Dance collections are created by Archival Processing unit management after a collection has been accessioned.
 
-#### **Music Division (MUS)**
+#### Music Division (MUS)
 Call numbers are assigned by the Music division Assistant Curator and technical services staff. Your supervisor will reach out the the division for the call number. 
 The Music Division has created a [LibGuide](https://libguides.nypl.org/MusicClassmarks) to explain their call number system.
 
-#### **Theatre Division (THE)**
+#### Theatre Division (THE)
 The collection call number is provided by the Theatre division Assistant Curator. Your supervisor will reach out the the division for the call number. 
 
-#### **Schomburg Manuscripts, Archives, and Rare Books (SCM/MARB)**
+#### Schomburg Manuscripts, Archives, and Rare Books (SCM/MARB)
 The collection call number is provided by the Curator of Schomburg Manuscripts, Archives, and Rare Books. Your supervisor will reach out the the curator for a call number. 
 
-#### **Schomburg Photographs and Prints (SCP/P&P)**
+#### chomburg Photographs and Prints (SCP/P&P)
 The Schomburg Photographs and Prints division uses a naming convention for their call numbers that is explained in this [document](https://docs.google.com/document/d/1B00pxyjB8B5WriV9qv26hh6C9mAOeUgQIHumx8wTOHU/edit?usp=sharing). Most collections processed in the Archival Processing unit are formatted like this: 
 
 Sc Photo [Name of creator(s) or collector(s), with added topic term if present] Collection
