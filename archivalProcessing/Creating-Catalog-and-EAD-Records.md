@@ -37,9 +37,35 @@ Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and th
 | Immediate Source of Acquisition | [DACS 5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html) | [\<acqinfo>](https://www.loc.gov/ead/tglib/elements/acqinfo.html) | [RDA 2.19](https://original.rdatoolkit.org/document.php?id=rdachp2\&target=rda2-8636#rda2-8636) | [MARC 541](https://www.loc.gov/marc/bibliographic/bd541.html) | The source of the acquisition and the year in which it was received. |
 | Reference Code/ Call number/ Identifier | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [\<unitid>](https://www.loc.gov/ead/tglib/elements/unitid.html) | [RDA 2.20](https://original.rdatoolkit.org/document.php?id=rdachp2\&target=rda2-8658#rda2-8658) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html) | If this field is missing the 949 (item records) will not export. |
 
-
-
 [^1]: If the collection is an artificial collection created by the Library, do _not_ include a _main entry._ Instead record the Library division as a _creator/contributor_. If a record does not have a 1xx field, change the first indicator of  the 245 field to 0. See the [Main Entry](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#main-entry) section of this documentation for more information.
+
+3. Verify all [Agents](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#agents) are formed correctly.
+
+Add [relator terms](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#creatorcontributor) for [MARC 700](https://www.loc.gov/marc/bibliographic/bd700.html)/[710](https://www.loc.gov/marc/bibliographic/bd710.html) (i.e. added authors).
+
+![Relator Term](/Images/127-Relator-term.png)
+
+**Contributor (ctb)** is the most common relator term. See the [LSCH MARC Code List for Relators](https://www.loc.gov/marc/relators/relaterm.html) for more information. 
+
+[MARC 600](https://www.loc.gov/marc/bibliographic/bd600.html)/[610](https://www.loc.gov/marc/bibliographic/bd610.html) (subjects) DO NOT need relator terms. Make sure all agents being used as subjects have been added to the agents section, not as topical subjects. 
+
+If the Library of Congress authority record indicates an agent uses RDA rules,  add _Resource Description and Access_ in the _Rules_ field in ASpace.
+
+![MARC RDA](/Images/128-MARC-RDA.png)
+
+![ASpace RDA](/Images/129-ASpace-RDA.png)
+
+If the agent is from a source other than the Library of Congress, or if the Library of Congress authority record does not indicate a name was derived using RDA rules, then leave the _Rules_ field blank as illustrated below. 
+
+![Not RDA](/Images/130-not-RDA.png)
+
+![ASpace Not RDA](/Images/131-ASpace-not-RDA.png)
+
+Make sure the authority identifier is entered correctly. For Library of Congress authority records, make sure to copy the number exactly as it appears in the authority record, preserving any spaces that may be present. 
+
+4. Verify that [Subjects](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#subjects) are formed correctly.
+
+For complex subjects, make sure there is only one term in each field. Remember that subdivision terms each get their own field.
 
 
 
