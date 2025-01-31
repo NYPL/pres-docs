@@ -52,7 +52,7 @@ Click the **x** button in the upper right to close the advanced search window wi
 | One or more numeric digits | A # character for each digit | # finds 3 but not 30; ## finds 30 but not 3 or 300; #3 finds 53 and 43 but not 3 |
 | A date | The date as digits, separated by a valid date separator character (such as a slash or hyphen) | 3/3/2019 finds 3/3/2019, March 3, 2019, and 3-3-2019 |
 | Today's date | // | // finds April 4, 2019 (when the current date is 4/4/2019) |
-| Any valid value for a date or time component in a date, time, or timestamp | \* or leave component unspecified, while specifying the other components you want to find | 5/12/\* finds the 12th day of May in any year 5/12 finds the 12th day of May in the current year \*:15 finds times 15 minutes after any hour 1/1/\* 7 PM finds timestamps in the 7 o’clock PM hour on January 1st in any year |
-| Within the range you specify | .. or ... (two or three periods) | 12:30...17:30 1/1/2019..6/6/2020 A...M |
-| Less than a specified value | < \[value] | <40 <9/7/2019 \<M |
-| Greater than a specified value | > \[value] | >95129 >9/7/2019 >M |
+| Any valid value for a date or time component in a date, time, or timestamp | \* or leave component unspecified, while specifying the other components you want to find | 5/12/\* finds the 12th day of May in any year; 5/12 finds the 12th day of May in the current year; \*:15 finds times 15 minutes after any hour; 1/1/\* 7 PM finds timestamps in the 7 o’clock PM hour on January 1st in any year |
+| Within the range you specify | .. or ... (two or three periods) | 12:30...17:30  1/1/2019..6/6/2020  A...M |
+| Less than a specified value | < \[value] | <40  <9/7/2019  \<M |
+| Greater than a specified value | > \[value] | >95129  >9/7/2019  >M |
