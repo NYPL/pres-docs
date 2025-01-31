@@ -25,7 +25,7 @@ Select the _ASpace Object Import_ button
 
 A navigation window will pop up. Select the csv file you created, and click _open._
 
-The containers will be imported as objects in the collection record. If your collection includes any containers without dimensions in ASpace, be sure to manually enter them into SPEC so that the collection extent is correct. See the section of this documentation on [Updating Container Dimensions in SPEC]()for instructions on how to do this.
+The containers will be imported as objects in the collection record. If your collection includes any containers without dimensions in ASpace, be sure to manually enter them into SPEC so that the collection extent is correct. See the section of this documentation on [Updating Container Dimensions in SPEC]() for instructions on how to do this.
 
 Once the new containers have been imported, make sure to update their locations in SPEC. For instructions on how to update locations, see the [Location Management](https://nypl.github.io/pres-docs/archivalProcessing/Location_Management.html)section of this documentation.
 
