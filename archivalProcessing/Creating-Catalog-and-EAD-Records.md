@@ -67,5 +67,43 @@ Make sure the authority identifier is entered correctly. For Library of Congress
 
 For complex subjects, make sure there is only one term in each field. Remember that subdivision terms each get their own field.
 
+![Complex subjects](/Images/132-complex-subjects.png)
+
+Also be sure that locations are labeled as _geographic_ in the _type_ field.
+
+![Geographic subdivision](/Images/133-geographic-subdivision.png)
+
+Make sure authorized terms are not marked as _local_, and that the _source_ and _authority ID_ are included. 
+
+![ASpace subject](/Images/134-ASpace-subject.png)
+
+5. Check that all containers were assigned a **container type**, **indicator**, and **barcode** in the top containers list for the collection. If the container type is omitted, terms like “box” or “tube” will be omitted in the XML.
+
+6. Export the MARCXML.
+
+Go to the export menu and select _Download MARCXML_ as illustrated below.
+
+![export XML](/Images/135-export-xml.png)
+
+## Converting XML to MRC in MarcEdit
+Since ASpace generates the catalog information as MARCXML, you need to use MarcEdit to convert this data into a MARC format that can be imported into OCLC Connexion. 
+
+**NOTE** 
+**If you are cataloging an addition, you should skip directly to the section on 
+[Updating Existing Catalog Records]().**
+
+To convert XML to MRC, follow the steps below:
+
+1. Open MarcEdit.
+
+2. Go to the File menu and select Open.
+
+3. A navigator window will open that only shows mrk files.
+
+4. In the dropdown menu at the bottom right of the menu select all files.
+
+5. Open the MARCXML file that was exported from ASpace.
+
+
 
 
