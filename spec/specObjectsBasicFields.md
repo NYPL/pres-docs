@@ -23,7 +23,7 @@ Containers are objects containing items and/or other containers. Containers are 
 See [Related Objects](https://nypl.github.io/pres-docs/spec/specObjectsRelationships.html) and [Content Estimates](https://nypl.github.io/pres-docs/spec/specObjectsContentEstimates.html) for more information.
 
 ## Barcode
-*optional, single numberic value, unique*
+*highly recommended, single numeric value, unique*
 
 The barcode that is affixed to the object. Object barcodes must be unique. 
 
@@ -32,6 +32,8 @@ The barcode that is affixed to the object. Object barcodes must be unique.
 *required, single controlled value*
 
 The division indicates the curatorial unit that acquired or currently serves the object. 
+
+The terms "division" and "curatorial unit" are used interchangably in SPEC. When an object is associated with a collection and there is a mismatch between the division assigned to the object and the division assigned to the collection, SPEC will automatically update the object's divison to match the associated collection's division. This update is triggered when any field in the object is updated.
 
 
 ## Title or Label Text
@@ -71,13 +73,13 @@ The elements descirbed above can all be viewed, added, or edited in the Basic Fi
 ## SPEC Generated Fields
 
 ## Object ID
-*automatically generated, single, unique value* 
+*automatically generated, single numeric value, unique* 
 
-Every object has a unique numerical value assigend by SPEC at the time of its creation. Generally, this nubmer does not physically appear on the physical collection material. This value is not editable and can be viewed in the header of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.
+Every object has a unique numerical value assigend by SPEC at the time of its creation. Generally, this nubmer does not appear on the physical collection material. This value is not editable and can be viewed in the header of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.
 
 
 ## AMI ID
-*automatically generated, single, unique value* 
+*automatically generated, single numeric value, unique* 
 
 Every AMI object has a six digit unique numerical value assigned by SPEC when an AMI format is added to the object record; this value is distinct from the object id. AMI ids are not editable and are assigned based on a range of values assoicated with a user's account. see [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information.
 
@@ -85,7 +87,7 @@ Every AMI object has a six digit unique numerical value assigned by SPEC when an
 ## Object Name
 *automatically generated display value*
 
-SPEC creates an object name, dislayed on the **Object Search** and **List Edit** interfaces, based on the values of the fields listed below in the following order:
+SPEC creates an object name, dislayed on the **Object Search**, **Object Record**, and **List Edit** interfaces, based on the values of the fields listed below in the following order:
 
 - Container type expressed generically (for example, box)
 - Item title OR, if there is no title, the item format in brackets (for example, [photograph])

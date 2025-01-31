@@ -6,20 +6,28 @@ grand_parent: SPEC
 nav_order: 10
 ---
 
+{: .note }
+> This page is under construction! 
+> More content coming soon ...
+
 ## Accessibility
 *required, single controlled value*
 
-This field auto-populates with the default value "not available to public" for new object records. It is automatically updated during some imports and updates to object records. For example, adding a restriction to the object changes the accessibilty status to "restricted." 
+This field auto-populates with the default value "not available to public" for new object records. It is also automatically updated in response to the object's description status and restrictions. 
 
 
 ## Description
 *required, single controlled value*
 
-This field auto-populates with the default value "not described" for new object records. It is automatically updated when a reference to a catalog record or a finding aid is added to the object record. 
+This field auto-populates with the default value "not described" for new object records. It is automatically updated when a reference to Sierra, ArchivesSpace, and/or the Archives Portal is added to the object record and based on the object's format or generation (for AMI items).
+
 
 &nbsp; 
 &nbsp; 
 
-Accessibility and Description can both be viewed in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. Clicking on either value in the **Object Record** header opens a pop-up window where either value can be updated manually using the drop-down list.
+Accessibility and Description can both be viewed in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. Clicking on either value in the **Object Record** header opens a pop-up window where either value can be updated manually using the drop-down list. 
+
+{: .note }
+> In some cases these values cannot be manually edited and will revert to the auto-populated value calculated by SPEC.
 
 

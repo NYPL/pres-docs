@@ -22,19 +22,19 @@ Contact PCP Systems and Operations for additional instructions on connecting to 
 ## Accounts and Privileges 
 To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e){:target="_blank"} or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66){:target="_blank"} file a ServiceNow ticket.
 
-Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, divison staff have access to records that are assigned to their division.
+Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, division staff have access to records that are assigned to their division.
 
 
 ## SPEC Landing Page
-The SPEC landing page opens when first logging into the database. From the landing page navigate to the different SPEC modules and access select SPEC funtionality. The links visible on the landing page vary based on user account privileges. 
+The SPEC landing page opens when first logging into the database. From the landing page navigate to the different SPEC modules and access select SPEC functionality. The links visible on the landing page vary based on user account privileges. 
 
 To navigate back to the **SPEC landing page** from other SPEC interfaces click on the **SPEC logo** found in the upper left corner. If using the browser, do not use the browser's back button; all navigation must be done within the SPEC interfaces. 
 
 
 ## SPEC Modules
-There are several different record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with SPEC acqusitions, SPEC collections, and/or SPEC projects. 
+There are several different record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with acquisitions, collections, and/or projects. 
 
-Additionally, a controlled location hierarchy for NYPL storage locations is maintained in the Locations module (CLMGT only), the and Outgoing Loans module (Registrar only) records outgoing loan information. 
+Additionally, a controlled location hierarchy for NYPL storage locations is maintained in the locations module (CLMGT only), and the outgoing loans module (Registrar only) records outgoing loan information. 
 
 
 ## Reporting Bugs
