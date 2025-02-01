@@ -6,3 +6,7 @@ has_children: true
 ---
 
 # Cataloging
+
+{: .note }
+> This page is under construction! 
+> Content coming soon ...

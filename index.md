@@ -28,4 +28,9 @@ Additional documentation is maintained on the following sites:
 - [Digital Preservation](https://nypl.github.io/digpres/){:target="_blank"}
 - [Metadata Services Unit](https://nypl.github.io/metadata-documentation/){:target="_blank"}
 
+&nbsp; 
+&nbsp; 
+
+Contact pres-docs@nypl.org with any questions or comments about this documentation site.
+
 
