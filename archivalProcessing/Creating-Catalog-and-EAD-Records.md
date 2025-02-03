@@ -22,9 +22,9 @@ Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and th
 
 ## Initial Steps in ArchivesSpace
 
-1. Open the collection's resource record in ArchiveSpace.
+1.\ Open the collection's resource record in ArchiveSpace.
 
-2. The following fields are required. Make sure they are all included and written correctly.
+2.\ The following fields are required. Make sure they are all included and written correctly.
 
 | FIELD NAME | DACS RULE | EAD TAGS | RDA RULE | MARC FIELDS | SUMMARY |
 | ---------- | --------- | -------- | -------- | ----------- | ------- |
@@ -39,7 +39,7 @@ Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and th
 
 [^1]: If the collection is an artificial collection created by the Library, do _not_ include a _main entry._ Instead record the Library division as a _creator/contributor_. If a record does not have a 1xx field, change the first indicator of  the 245 field to 0. See the [Main Entry](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#main-entry) section of this documentation for more information.
 
-3. Verify all [Agents](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#agents) are formed correctly.
+3.\ Verify all [Agents](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#agents) are formed correctly.
 
 Add [relator terms](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#creatorcontributor) for [MARC 700](https://www.loc.gov/marc/bibliographic/bd700.html)/[710](https://www.loc.gov/marc/bibliographic/bd710.html) (i.e. added authors).
 
@@ -63,7 +63,7 @@ If the agent is from a source other than the Library of Congress, or if the Libr
 
 Make sure the authority identifier is entered correctly. For Library of Congress authority records, make sure to copy the number exactly as it appears in the authority record, preserving any spaces that may be present. 
 
-4. Verify that [Subjects](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#subjects) are formed correctly.
+4.\ Verify that [Subjects](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#subjects) are formed correctly.
 
 For complex subjects, make sure there is only one term in each field. Remember that subdivision terms each get their own field.
 
@@ -77,9 +77,9 @@ Make sure authorized terms are not marked as _local_, and that the _source_ and 
 
 ![ASpace subject](/Images/134-ASpace-subject.png)
 
-5. Check that all containers were assigned a **container type**, **indicator**, and **barcode** in the top containers list for the collection. If the container type is omitted, terms like “box” or “tube” will be omitted in the XML.
+5.\ Check that all containers were assigned a **container type**, **indicator**, and **barcode** in the top containers list for the collection. If the container type is omitted, terms like “box” or “tube” will be omitted in the XML.
 
-6. Export the MARCXML.
+6.\ Export the MARCXML.
 
 Go to the export menu and select _Download MARCXML_ as illustrated below.
 
@@ -94,24 +94,24 @@ Since ASpace generates the catalog information as MARCXML, you need to use MarcE
 
 To convert XML to MRC, follow the steps below:
 
-1. Open MarcEdit.
+1.\ Open MarcEdit.
 
-2. Go to the File menu and select Open.
+2.\ Go to the File menu and select Open.
 
-3. A navigator window will open that only shows mrk files.
+3.\ A navigator window will open that only shows mrk files.
 
-4. In the dropdown menu at the bottom right of the menu select all files.
+4.\ In the dropdown menu at the bottom right of the menu select all files.
 
-5. Open the MARCXML file that was exported from ASpace.
+5.\ Open the MARCXML file that was exported from ASpace.
 
-6. The **MARC 901** field will look like this: 
+6.\ The **MARC 901** field will look like this: 
 
         901  \\$a---$b---
 
 - Replace the three dashes after _&a_ with your initials
 - Replace the dashes after _$b_ with: **archv**
 
-7. The **MARC 949** (container list) will include the following fields:
+7.\ The **MARC 949** (container list) will include the following fields:
         - collection identifer (call number)
         - 5 digit location code
         - barcode
@@ -126,9 +126,9 @@ To convert XML to MRC, follow the steps below:
 
 It is recommended you do this with a find and replace.
 
-8. When you have finished editing the record, save it as a .mrc file. Do this by going to _file_ and _save as_, or select the compile records icon.
+8.\ When you have finished editing the record, save it as a .mrc file. Do this by going to _file_ and _save as_, or select the compile records icon.
 
-9. Once you have saved your _.mrc_file you are ready to import the record into OCLC Connexion. 
+9.\ Once you have saved your _.mrc_file you are ready to import the record into OCLC Connexion. 
 
 ## OCLC Connexion: Importing Catalog Record into WorldCat and Exporting into Sierra
 
@@ -136,11 +136,11 @@ It is recommended you do this with a find and replace.
 
 All catalog records are published via OCLC on [Worldcat](https://www.worldcat.org/). OCLC also has extensive [documentation](https://help.oclc.org/Librarian_Toolbox) available, including information on their [Bibliographic Formats and Standards](https://www.oclc.org/bibformats/en.html) site, which includes rules for MARC fields, indicators, and subfields. Before you can catalog in OCLC you will need to request an OCLC account through ServiceNow.
 
-1. Log in to OCLC Connexion.
+1.\ Log in to OCLC Connexion.
 
 The first time you login to OCLC Connexion, or if you are logging onto OCLC Connexion for the first time on a new device or newly updated device, you will need to set up your OCLC Connexion Gateway Connection. There are [instructions](https://docs.google.com/document/d/1jHuEKAkd8eODzWFgioFsBN_lArdyln-L2t66Y5CBMj0/edit?usp=sharingkUcbRIIpfp/edit?usp=sharing\&ouid=101547597784973669792\&rtpof=true\&sd=true) available from BookOps to set up your account.
 
-2. Import the .mrc file. 
+2.\ Import the .mrc file. 
 
 Go to the File menu and select Import Records.
 
@@ -154,13 +154,13 @@ When the dialogue box asks _Do you want to delete your original import file?_ se
 
 ![Delete file box](/Images/138-delete-file-box.png)
 
-3. Locate and open the newly imported file.
+3.\ Locate and open the newly imported file.
 
 Go to _Cataloging > Search > Online Save File,_ and search for the collection by title.
 
 ![search online save file](/Images/139-search-online-save-file.png)
 
-4. When the new record opens, validate it to check for errors.
+4.\ When the new record opens, validate it to check for errors.
 
 Select _Edit > Validate_ or the green check icon to identify errors in the record.
 
@@ -168,7 +168,7 @@ There will be no message if there are no errors.
 
 Select _Edit > Reformat or the _R_ icon to organize the order of the record’s fields.
 
-5. Correct errors if any are indicated after validation. 
+5.\ Correct errors if any are indicated after validation. 
 
 **Some common errors include:**
 
@@ -208,8 +208,47 @@ Change the first indicator in the 245 field from a 1 to a 0. This indicates that
 
 All materials cataloged for the Research Libraries must include a 910 field. Make sure this field is included. This field is automatically generated by ArchivesSpace in the MARCXML export.
 
+6\. Control Name and Subject Terms.
 
+Select _Edit > Control Headings > All._
 
+![control headings](/Images/143-control-headings.png)
 
+The controlled  headings will turn blue. [**AAT**](https://www.getty.edu/research/tools/vocabularies/aat/) **genre terms** \[[MARC 655](https://www.oclc.org/bibformats/en/6xx/655.html)] and [**ITOAMC**](https://folgerpedia.folger.edu/Index_terms_for_occupations_in_archival_and_manuscript_collections_\(ITOAMC\)) **occupation terms** \[[MARC 656](https://www.oclc.org/bibformats/en/6xx/656.html)] never link and do not need to be controlled. 
 
+**_Local_** agents and subjects also cannot be controlled.
 
+![controlled terms](/Images/144-controlled-terms.png)
+
+The **Main Entry** \[[MARC 100](https://www.oclc.org/bibformats/en/1xx/100.html) and [MARC 110](https://www.oclc.org/bibformats/en/1xx/110.html0.html)]  field frequently does not automatically link, and will need to be controlled manually if it has an existing authority heading. 
+
+**Added entries** \[[MARC 700](https://www.oclc.org/bibformats/en/7xx/700.html) and [MARC 710](https://www.oclc.org/bibformats/en/7xx/710.html)] fields may also need to be controlled  manually.
+
+If an authorized agent or subject did not link, right click on it and select **_Control single heading_**. 
+
+![Control single heading](/Images/145-control single heading.png)
+
+Sometimes a new window will open with a suggested heading. You can click on the linked heading in the pop up window for more information. 
+
+[suggested heading](/Images/146-suggested-heading.png)
+
+If the heading is correct, choose **Insert heading** to link it in your record. 
+
+If there is no authority record for the heading, double check that the heading is formed correctly. Change the term in OCLC and ArchivesSpace if it was formed incorrectly. Often a term will not validate if the wrong source or identifier was chosen in ASpace.
+
+7\. When you have finished editing, _validate_  and _reorder_ the record again.
+
+8\. If the record is valid Select _Action > Holdings > Update holdings_, which will publish the record in WorldCat.
+
+![update holdings](/Images/147-update-holdings.png)
+
+9\. Then select _Action > Export_, which __exports the record to Sierra.
+
+![export record to sierra](/Images/148-export-record.png)
+
+## Sierra: Final Edits
+If you have created a brand new catalog record, these final steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. There is a NYPL [Sierra Manual](https://sites.google.com/a/nypl.org/sierramanual/nypl-sierra-manual) available that goes into more detail about Sierra’s functionality and navigation. 
+
+**Remember that if you are cataloging an addition or editing an existing catalog record, you should skip directly to the section on [Updating Existing Catalog Records]().**
+
+Open the Sierra desktop app and login to Sierra. Navigate to the collection’s catalog record to make sure the record was exported correctly.
