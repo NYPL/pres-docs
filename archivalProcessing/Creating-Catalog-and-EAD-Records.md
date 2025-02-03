@@ -104,6 +104,112 @@ To convert XML to MRC, follow the steps below:
 
 5. Open the MARCXML file that was exported from ASpace.
 
+6. The **MARC 901** field will look like this: 
+
+        901  \\$a---$b---
+
+- Replace the three dashes after _&a_ with your initials
+- Replace the dashes after _$b_ with: **archv**
+
+7. The **MARC 949** (container list) will include the following fields:
+        - collection identifer (call number)
+        - 5 digit location code
+        - barcode
+        - container type and number
+  
+  Each line of the container list will end like this:
+        
+        - $v---/---
+
+  Replace the dashes after _$v_ with **archv**
+  Replace the --- after the / with your inititials
+
+It is recommended you do this with a find and replace.
+
+8. When you have finished editing the record, save it as a .mrc file. Do this by going to _file_ and _save as_, or select the compile records icon.
+
+9. Once you have saved your _.mrc_file you are ready to import the record into OCLC Connexion. 
+
+## OCLC Connexion: Importing Catalog Record into WorldCat and Exporting into Sierra
+
+**_\*NOTE: If you are cataloging an addition skip directly to the section on_** [**_Updating Existing Catalog Records_**]()**_. Do not import a new MARC record into OCLC. Instead you will be editing the existing Worldcat record._**
+
+All catalog records are published via OCLC on [Worldcat](https://www.worldcat.org/). OCLC also has extensive [documentation](https://help.oclc.org/Librarian_Toolbox) available, including information on their [Bibliographic Formats and Standards](https://www.oclc.org/bibformats/en.html) site, which includes rules for MARC fields, indicators, and subfields. Before you can catalog in OCLC you will need to request an OCLC account through ServiceNow.
+
+1. Log in to OCLC Connexion.
+
+The first time you login to OCLC Connexion, or if you are logging onto OCLC Connexion for the first time on a new device or newly updated device, you will need to set up your OCLC Connexion Gateway Connection. There are [instructions](https://docs.google.com/document/d/1jHuEKAkd8eODzWFgioFsBN_lArdyln-L2t66Y5CBMj0/edit?usp=sharingkUcbRIIpfp/edit?usp=sharing\&ouid=101547597784973669792\&rtpof=true\&sd=true) available from BookOps to set up your account.
+
+2. Import the .mrc file. 
+
+Go to the File menu and select Import Records.
+
+![OCLC Import](/Images/136-OCLC-Import.png)
+
+Navigate to your saved .mrc file, and check the _Import to Online Save File_ radio button.
+
+![online save file](/Images/137-online-save-file.png)
+
+When the dialogue box asks _Do you want to delete your original import file?_ select _No_.
+
+![Delete file box](/Images/138-delete-file-box.png)
+
+3. Locate and open the newly imported file.
+
+Go to _Cataloging > Search > Online Save File,_ and search for the collection by title.
+
+![search online save file](/Images/139-search-online-save-file.png)
+
+4. When the new record opens, validate it to check for errors.
+
+Select _Edit > Validate_ or the green check icon to identify errors in the record.
+
+There will be no message if there are no errors.
+
+Select _Edit > Reformat or the _R_ icon to organize the order of the record’s fields.
+
+5. Correct errors if any are indicated after validation. 
+
+**Some common errors include:**
+
+**Diacritics**
+
+You need to add diacritics manually in OCLC. 
+
+Place the cursor after the letter that the diacritic will modify, and navigate to _Edit_ > _Enter Diacritics._
+
+![Enter Diacritics Menu](/Images/140-enter-diacritics.png)
+
+A menu of diacritics will open. You can select the correct language from the dropdown menu, which will show the most common diacritics for that language. 
+
+![Diacritics Menu](/Images/141-diacritics-menu.png)
+
+Choose the correct diacritic, and then select _insert and close._
+
+**Dates**
+
+If the whole collection contains only a _single date_, not inclusive dates, change the **_DtSt_** field at the top from **_i_** for _inclusive dates_ to **s** for _single date_.
+
+**Meeting Names** 
+
+[MARC 611](https://www.oclc.org/bibformats/en/6xx/611.html) (e.g. names of conferences, festivals, etc.)
+
+These are entered into ASpace as corporate names and will output into the MARC record as a [MARC 610](https://www.oclc.org/bibformats/en/6xx/610.html) field. Change the field to a [MARC 611](https://www.oclc.org/bibformats/en/6xx/611.html). 
+
+**245 Field Error**
+
+If you are cataloging an artificial collection that does not have a _main entry_, you will get an error message about the _Title Statement_ \[[MARC 245](https://www.oclc.org/bibformats/en/2xx/245.html)] field. 
+
+![MARC 245 Error](/Images/142-MARC245-error.png)
+
+Change the first indicator in the 245 field from a 1 to a 0. This indicates that there is no added entry for the title field, and will allow the record to validate.
+
+**910 Field**
+
+All materials cataloged for the Research Libraries must include a 910 field. Make sure this field is included. This field is automatically generated by ArchivesSpace in the MARCXML export.
+
+
+
 
 
 
