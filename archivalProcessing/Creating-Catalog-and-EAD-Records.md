@@ -334,7 +334,7 @@ Once you have updated the various fields of the catalog record in both OCLC and 
 
 If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record]().
 
-#### Adding A Single Item Record to Sierra Catalog Record
+### Adding A Single Item Record to Sierra Catalog Record
 To add a single item record to a Sierra catalog record complete the following steps:
 
 1\.Go to the _Summary_ view.
@@ -367,7 +367,7 @@ To add a single item record to a Sierra catalog record complete the following st
 
 5\. The new item will not be created until you save the record. Once you save the record, the updates will appear in the OPAC.
 
-#### Adding Multiple Item Records to A Sierra Catalog Record
+### Adding Multiple Item Records to A Sierra Catalog Record
 To add a multiple item records to a Sierra catalog record complete the steps below. The first time you do this, you will need to [configure 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.ssa59pf6klqh) your settings in Sierra.
 
 1\. In the summary screen, select _Attach new item_. 
@@ -416,17 +416,57 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 ![Sierra Save All](/Images/161-SIerra-Save-All.png)
 
-#### Adding Barcodes to New Item Records
+### Adding Barcodes to New Item Records
 
 1\. In the summary screen select all the item records you want to update.
 
 2\. Go to the edit menu on the top, and select _modify group_.
 
+![Modify Group](/Images/149-modify-group.png)
+
 3\.Click on the field box and select _barcode_ from the menu that pops up.
+
+![Sierra Field Barcode](/Images/162-Sierra-Field-barcode.png)
 
 4\. Scan or enter in the barcodes for each item.
 
+![Sierra Enter Barcodes](/Images/163-Sierra-Barcode.jpg)
+
 5\. When you have finished entering the barcodes, select _save_ at the top right. This will save the barcodes in Sierra and in the OPAC.
+
+![Sierra Save Button](/Images/164-Sierra-Save-Button.png)
+
+# Creating EAD Records and Editing in Oxygen
+Once you have finished cataloging a collection, the final step is to create an EAD record, which will be uploaded by your manager to [the archives portal](https://archives.nypl.org/) in order to publish your finding aid. The Archival Processing unit currently uses the [EAD 2002](https://www.loc.gov/ead/tglib/element_index.html) standard. For more information on encoded standards, see the resources from the Society of American Archivists’ [Technical Subcommittee on Encoded Archival Standards](https://saa-sdt.github.io/EAS-Best-Practices/) (TS-EAS). ****Follow the instructions below to finalize your collection’s EAD. 
+
+1\. Before exporting the collection's EAD, make sure to first add the bnumber to the collection’s SPEC and ASpace records. 
+
+2\. In SPEC, navigate to the collection record and select the edit icon. Add the bnumber to the _catalog bnumber_ field.
+
+![SPEC bnumber](/Images/165-SPEC-bnumber.png)
+
+3\. Go back to your collection’s ArchivesSpace record and add the bnumber as an _identifier_.
+
+![ASpace bnumber](/Images/166-ASpace-bnumber.png)
+
+4\. Go to the _Export_ menu and select _Download EAD._
+
+![ASpace EAD Export](/Images/167-ASpace-EAD-Export.png)
+
+5\. Open the downloaded file in Oxygen XML Editor.
+
+6\. Select the _format and indent_ to make the file more readable. 
+
+7\. Select _validate_ to make sure the EAD is valid.
+
+8\. Review the EAD to make sure the correct EAD tags were used, and that the record is valid. Correct any errors indicated by the Oxygen validator.
+
+9\. Double check that any special characters and diacritics are displaying correctly. If you did not paste the character into ASpace as plain text from a stable source, then extra spaces might appear between the letter and the character. If this happens, fix the text in ASpace first, and re-export the EAD. If the collection includes diacritics or characters that are causing errors, check with your supervisor to troubleshoot the issue.
+
+10\. Once the record is valid, save the file, and update the collection’s trello card checklist, and attach the XML file to the trello card. After the collection has shipped, your manager will upload the EAD to the [Archives Portal](https://archives.nypl.org/) to publish your finding aid.
+
+
+
 
 
 
