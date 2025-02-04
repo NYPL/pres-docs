@@ -286,4 +286,159 @@ When you have finished cataloging the collection, mark the cataloging task in th
 # Corrections and Edits to Existing Catalog Records
 If you are cataloging an addition to a previously processed collection, or if you are editing an existing catalog record or finding aid, follow the steps below. You will not need to export the MARCXML from ASpace, import the MARC record into OCLC, or export the record from OCLC to Sierra. 
 
+## Updating Records in OCLC Connexion
+1\. Open OCLC Connexion and go to _Cataloging_ > _Search_ > _WorldCat_.
+
+![OCLC worldcat search](/Images/152-OCLC-search-worldcat.png)
+
+2\. Search for the collection by title.
+
+![OCLC collection search](/Images/153-OCLC-Collection-search.png)
+
+3\. Open the collection record and make edits to the record. Some common updates are:
+
+| **Field Name** | | **MARC Field** |
+| --------------- | --------------- |
+| Extent | [MARC 300](https://www.oclc.org/bibformats/en/3xx/300.html) |
+| Dates | [MARC 264](https://www.oclc.org/bibformats/en/2xx/264.html) |
+| Arrangement | [MARC 351](https://www.oclc.org/bibformats/en/3xx/351.html) |
+| Conditions Governing Access | [MARC 506](https://www.oclc.org/bibformats/en/5xx/506.html) |
+| Abstract | [MARC 520](https://www.oclc.org/bibformats/en/5xx/520.html) |
+| Immediate Source of Acquisition | [MARC 541](https://www.oclc.org/bibformats/en/5xx/541.htmlml) |
+
+**_Make sure you also make these same changes in ASpace_**
+
+OCLC does not store local fields or item records \[[MARC 949](https://www.oclc.org/bibformats/en/9xx/945-949.html)], so these do not need to be updated.
+
+4\. Once all changes have been made, validate the record.
+
+5\. If the record is valid, Select _Action_ > _Replace Record_. This will make your changes appear in WorldCat.
+
+![Replace record OCLC](/Images/154-Replace_record_OCLC.png)
+
+## Updating Catalog Records in Sierra
+Once you have updated the OCLC record in Worldcat, you will need to make the same updates in Sierra, and add the new containers and their locations.
+
+1\. Login to Sierra and open the record.
+
+2\. Select _edit_ and make the same changes you made to the WorldCat record in OCLC Connexion.
+
+![Sierra edit](/Images/155-Sierra-edit.png)
+
+3\. Once you have completed the edits, select _save_. The changes will be immediately changed in the OPAC. 
+
+![Sierra Save](/Images/156-Sierra-save.png)
+
+### Adding Item Records in Sierra
+Once you have updated the various fields of the catalog record in both OCLC and Sierra, you will need to add the new containers to the catalog record. In Sierra these are called item records. You can add a single item record or add many item records in bulk. 
+
+If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record]().
+
+#### Adding A Single Item Record to Sierra Catalog Record
+To add a single item record to a Sierra catalog record complete the following steps:
+
+1\.Go to the _Summary_ view.
+
+2\. Make sure _i Item_  is selected in the _View_ dropdown menu.
+
+![Sierra Summary view](/Images/157-sierra-item-view.jpg)
+
+3\. Select the _Attach New Item_ button on the right.
+
+![Attach new item](/Images/158-Attach-new-item.jpg)
+
+4\. Make sure the _single item_ radio button is selected and follow the prompts.
+
+- **Location**: Use the [code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.zgrvqj3x9y2v) according to the collection’s division.
+
+- **Item Agency**: Choose the item agency [code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.mvaigk386hqz) based on the division and it's storage location.
+
+- **Item Type**: This will almost always be _archival materials_.
+
+- **OPAC Message**: Use the [correct message 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.v34n8gwdu3d4) based on each division's local conventions. 
+
+- **Item Message**: Use the [correct message 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.v34n8gwdu3d4) based on each division's local conventions. 
+
+- **Call Number**: Use the collection's Call Number.
+
+- **Barcode**: Enter the new item's barcode.
+
+- **Unit/Initials**: Enter your initials and your division as explained in the [internal documentation 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.4x0ulc59m4nd).
+
+5\. The new item will not be created until you save the record. Once you save the record, the updates will appear in the OPAC.
+
+#### Adding Multiple Item Records to A Sierra Catalog Record
+To add a multiple item records to a Sierra catalog record complete the steps below. The first time you do this, you will need to [configure 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.ssa59pf6klqh) your settings in Sierra.
+
+1\. In the summary screen, select _Attach new item_. 
+
+![Attach New Item Button](/Images/158-Attach-new-item.jpg)
+
+2\. Select the radio button for Multiple items. 
+
+![multiple items sierra](/Images/159-multiple-items-sierra.png)
+
+3\. If you add the first barcode of the materials you are cataloging to the _beginning barcode_ files, the system will automatically generate the subsequent barcode numbers. If the barcodes you used were not sequential, **do not enter a barcode here**, you can add them manually to the item records later.
+
+4\. For the _Volume Caption field_, enter the container name. Add a space after the container name. (e.g. _box_  or _volume_).
+
+5\. Enter the first container in the _first volume field._
+
+6\. Add the last container number in the _last volume field._
+
+7\. Enter _1_ in the _Beginning Copy Number_ field. 
+
+8\. Leave the box next to _Increment copy number_ checked.
+
+9\. For the _location_, enter the correct division [location code 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.zgrvqj3x9y2v).
+
+10\.  For # of Copies, enter 1.
+
+11\.  After pressing _okay_, you will be prompted with a list of the new item records and asked to confirm that you want to create them. 
+
+12\. Click _yes_ to create the items.
+
+13\. Fill out the fields when prompted, which will be as follows:
+
+- **Item Type**: This will almost always be _archival materials_.
+
+- **Call Number**: Use the collection's Call Number.
+
+- **Barcode**: Barcode for first item being added. You can also leave this blank and add it later.
+
+- **Volume**: container number for first item being added.
+
+14\. Once you have filled in all the fields, go to the _Summary_ screen to see that the new items have been created. 
+
+![Sierra Summary Screen](/Images/160-Sierra-Summary-Screen.png)
+
+12\. Once you select _Save all_, the item records will be created and will appear in the OPAC. Make sure you add the barcodes before closing the record, and remember that items can be edited or deleted at any point if you notice any errors or make any mistakes.
+
+![Sierra Save All](/Images/161-SIerra-Save-All.png)
+
+#### Adding Barcodes to New Item Records
+
+1\. In the summary screen select all the item records you want to update.
+
+2\. Go to the edit menu on the top, and select _modify group_.
+
+3\.Click on the field box and select _barcode_ from the menu that pops up.
+
+4\. Scan or enter in the barcodes for each item.
+
+5\. 5. When you have finished entering the barcodes, select _save_ at the top right. This will save the barcodes in Sierra and in the OPAC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
