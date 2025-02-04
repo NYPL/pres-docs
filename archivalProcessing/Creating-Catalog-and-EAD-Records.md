@@ -29,15 +29,13 @@ Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and th
 | FIELD NAME | DACS RULE | EAD TAGS | RDA RULE | MARC FIELDS | SUMMARY |
 | ---------- | --------- | -------- | -------- | ----------- | ------- |
 | Languages and Scripts of the Material | [DACS 4.5](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html#purpose-and-scope) | <[langmaterial](https://www.loc.gov/ead/tglib/elements/langmaterial.html)> | [RDA 6.11](https://original.rdatoolkit.org/document.php?id=rdachp6\&target=rda6-3469#rda6-3469) | [MARC 041](https://www.loc.gov/marc/bibliographic/bd041.html) | The language(s), script(s), and symbol systems employed in the materials being described. |
-| Main Entry[^1] | [DACS 2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html) | [\<origination> \<persname>](https://www.loc.gov/ead/tglib/elements/origination.html)[\<origination> \<famname>](https://www.loc.gov/ead/tglib/elements/origination.html)[\<origination> \<corpname>](https://www.loc.gov/ead/tglib/elements/origination.html) | [RDA 19.2](https://original.rdatoolkit.org/document.php?id=rdachp19\&target=rda19-393#rda19-393) | [MARC 100](https://www.loc.gov/marc/bibliographic/bd100.html) (Main entry-- personal name)[MARC 110](https://www.loc.gov/marc/bibliographic/bd110.html) (Main entry-- Corporate name) [MARC 111](https://www.loc.gov/marc/bibliographic/bd111.html)(Main entry -- meeting name) [MARC 130](https://www.loc.gov/marc/bibliographic/bd130.html)(Main entry -- uniform title) | Identifies the corporate bodies, persons, and families associated with the creation, assembly, accumulation, and/or maintenance and use of the materials being described.ASpace will automatically add the “$ecreator” relator term.  Add a relator term if the main entry is not the creator (this is uncommon).Each collection can have only ONE main entry. |
+| Main Entry | [DACS 2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html) | [\<origination> \<persname>](https://www.loc.gov/ead/tglib/elements/origination.html)[\<origination> \<famname>](https://www.loc.gov/ead/tglib/elements/origination.html)[\<origination> \<corpname>](https://www.loc.gov/ead/tglib/elements/origination.html) | [RDA 19.2](https://original.rdatoolkit.org/document.php?id=rdachp19\&target=rda19-393#rda19-393) | [MARC 100](https://www.loc.gov/marc/bibliographic/bd100.html) (Main entry-- personal name)[MARC 110](https://www.loc.gov/marc/bibliographic/bd110.html) (Main entry-- Corporate name) [MARC 111](https://www.loc.gov/marc/bibliographic/bd111.html)(Main entry -- meeting name) [MARC 130](https://www.loc.gov/marc/bibliographic/bd130.html)(Main entry -- uniform title) | Identifies the corporate bodies, persons, and families associated with the creation, assembly, accumulation, and/or maintenance and use of the materials being described.ASpace will automatically add the “$ecreator” relator term.  Add a relator term if the main entry is not the creator (this is uncommon).Each collection can have only ONE main entry. |
 | Date | [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html) | [\<unitdate>](https://www.loc.gov/ead/tglib/elements/unitdate.html) | [RDA 2.7.6](https://original.rdatoolkit.org/document.php?id=rdachp2\&target=rda2-6289#rda2-6289) | [MARC 264](https://www.loc.gov/marc/bibliographic/bd264.html)$c | Date or date range of materials being described. |
 | Extent | [DACS 2.5](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) | [\<physdesc>](https://www.loc.gov/ead/tglib/elements/physdesc.html) [\<extent>](https://www.loc.gov/ead/tglib/elements/extent.html) | [RDA 3.4](https://original.rdatoolkit.org/document.php?id=rdachp3\&target=rda3-2079#rda3-2079) | [MARC 300](https://www.loc.gov/marc/bibliographic/bd300.html) | Total collection extent, including physical and digital materials. |
 | Conditions Governing Access | [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html) | [\<accessrestrict>](https://www.loc.gov/ead/tglib/elements/accessrestrict.html) | [RDA 4.4](https://original.rdatoolkit.org/document.php?id=rdachp4\&target=rda4-120#rda4-120) | [MARC 506](https://www.loc.gov/marc/bibliographic/bd506.html) | The portal automatically generates this note for each division. Optional additional notes regarding access to audio and moving image material, electronic records, and any other restrictions can be added here. |
 | Abstract | Commentary to [DACS 3.1](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html) | [\<abstract>](https://www.loc.gov/ead/tglib/elements/abstract.html) | [RDA 7.10](https://original.rdatoolkit.org/document.php?id=rdachp7\&target=rda7-773#rda7-773) | [MARC 520](https://www.loc.gov/marc/bibliographic/bd520.html) | A brief summary overview of the collection.This can include biographical and content information. |
 | Immediate Source of Acquisition | [DACS 5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html) | [\<acqinfo>](https://www.loc.gov/ead/tglib/elements/acqinfo.html) | [RDA 2.19](https://original.rdatoolkit.org/document.php?id=rdachp2\&target=rda2-8636#rda2-8636) | [MARC 541](https://www.loc.gov/marc/bibliographic/bd541.html) | The source of the acquisition and the year in which it was received. |
 | Reference Code/ Call number/ Identifier | [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html) | [\<unitid>](https://www.loc.gov/ead/tglib/elements/unitid.html) | [RDA 2.20](https://original.rdatoolkit.org/document.php?id=rdachp2\&target=rda2-8658#rda2-8658) | [MARC 852](https://www.loc.gov/marc/holdings/hd852.html) | If this field is missing the 949 (item records) will not export. |
-
-[^1]: If the collection is an artificial collection created by the Library, do _not_ include a _main entry._ Instead record the Library division as a _creator/contributor_. If a record does not have a 1xx field, change the first indicator of  the 245 field to 0. See the [Main Entry](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#main-entry) section of this documentation for more information.
 
 3\. Verify all [Agents](https://nypl.github.io/pres-docs/archivalProcessing/Controlled_Access_Terms.html#agents) are formed correctly.
 
@@ -464,21 +462,3 @@ Once you have finished cataloging a collection, the final step is to create an E
 9\. Double check that any special characters and diacritics are displaying correctly. If you did not paste the character into ASpace as plain text from a stable source, then extra spaces might appear between the letter and the character. If this happens, fix the text in ASpace first, and re-export the EAD. If the collection includes diacritics or characters that are causing errors, check with your supervisor to troubleshoot the issue.
 
 10\. Once the record is valid, save the file, and update the collection’s trello card checklist, and attach the XML file to the trello card. After the collection has shipped, your manager will upload the EAD to the [Archives Portal](https://archives.nypl.org/) to publish your finding aid.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
