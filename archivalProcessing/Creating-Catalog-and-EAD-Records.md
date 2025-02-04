@@ -20,7 +20,7 @@ Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and th
 - TOC
 {:toc}
 
-## Initial Steps in ArchivesSpace
+# Initial Steps in ArchivesSpace
 
 1\. Open the collection's resource record in ArchiveSpace.
 
@@ -85,7 +85,7 @@ Go to the export menu and select _Download MARCXML_ as illustrated below.
 
 ![export XML](/Images/135-export-xml.png)
 
-## Converting XML to MRC in MarcEdit
+# Converting XML to MRC in MarcEdit
 Since ASpace generates the catalog information as MARCXML, you need to use MarcEdit to convert this data into a MARC format that can be imported into OCLC Connexion. 
 
 **NOTE** 
@@ -130,7 +130,7 @@ It is recommended you do this with a find and replace.
 
 9\. Once you have saved your _.mrc_file you are ready to import the record into OCLC Connexion. 
 
-## OCLC Connexion: Importing Catalog Record into WorldCat and Exporting into Sierra
+# OCLC Connexion: Importing Catalog Record into WorldCat and Exporting into Sierra
 
 **_\*NOTE: If you are cataloging an addition skip directly to the section on_** [**_Updating Existing Catalog Records_**]()**_. Do not import a new MARC record into OCLC. Instead you will be editing the existing Worldcat record._**
 
@@ -246,9 +246,44 @@ If there is no authority record for the heading, double check that the heading i
 
 ![export record to sierra](/Images/148-export-record.png)
 
-## Sierra: Final Edits
-If you have created a brand new catalog record, these final steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. There is a NYPL [Sierra Manual](https://sites.google.com/a/nypl.org/sierramanual/nypl-sierra-manual) available that goes into more detail about Sierra’s functionality and navigation. 
+# Sierra: Final Edits
+If you have created a brand new catalog record, these final steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. There is a NYPL [Sierra Manual 🔒](https://sites.google.com/a/nypl.org/sierramanual/nypl-sierra-manual) available that goes into more detail about Sierra’s functionality and navigation. 
 
 **Remember that if you are cataloging an addition or editing an existing catalog record, you should skip directly to the section on [Updating Existing Catalog Records]().**
 
 Open the Sierra desktop app and login to Sierra. Navigate to the collection’s catalog record to make sure the record was exported correctly.
+
+## Collection Locations
+Make sure the collection location is correct. ArchivesSpace automatically assigns the most common location by division and container size. See the internal [Cataloging Archival Collections 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?usp=sharing) documentation for location codes and access notes. 
+
+If you need to change a location, select the specific item(s) that need to be changed in the summary view of the record.
+
+Then select _Edit_ > _Modify Group_
+
+![Sierra Modify Group](/Images/149-modify-group.png)
+
+Make sure _location_ (79) is selected in the _Field_ box. You can change the field by clicking in the box.
+
+![Sierra edit location](/Images/150-Sierra-location.jpg)
+
+If you need to edit the _location (79)_ of multiple items, select _edit > find_
+
+![Sierra Find](Images/151-Sierra-find.png)
+
+Then use the find and replace function to make the changes. 
+
+A list of [location codes 🔒](https://docs.google.com/document/d/17iNW_ekPo6TrNT0ir4LLsDZJLAmV3d5-cF0p3gsi8WA/edit) is also available on the BookOps Lair page.
+
+## Item Agency Codes
+If you change the location, you will also need to change the _item agency (127)_ using the same process.
+A list of item agency codes is available in the internal [Cataloging Archival Collections 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?usp=sharing) documentation.
+
+## Locating the bnumber
+When the catalog record is complete, locate the bnumber. The bnumber is the letter “b” followed by eight numbers at the top of the record. When recording the bnumber, omit the last digit. This number must be added to both the collection’s ASpace record in the _bnumber_ _indentifer_ field and the bnumber field of the SPEC collection record. 
+
+When you have finished cataloging the collection, mark the cataloging task in the collection’s Trello card as complete. See the [Updating Trello]() section of this documention for more information on managing projects in Trello.
+
+# Corrections and Edits to Existing Catalog Records
+If you are cataloging an addition to a previously processed collection, or if you are editing an existing catalog record or finding aid, follow the steps below. You will not need to export the MARCXML from ASpace, import the MARC record into OCLC, or export the record from OCLC to Sierra. 
+
+
