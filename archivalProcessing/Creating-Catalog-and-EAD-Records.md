@@ -426,7 +426,7 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 
 4\. Scan or enter in the barcodes for each item.
 
-5\. 5. When you have finished entering the barcodes, select _save_ at the top right. This will save the barcodes in Sierra and in the OPAC.
+5\. When you have finished entering the barcodes, select _save_ at the top right. This will save the barcodes in Sierra and in the OPAC.
 
 
 
