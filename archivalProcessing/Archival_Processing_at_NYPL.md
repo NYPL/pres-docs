@@ -3,7 +3,7 @@ title: Archival Processing at NYPL
 layout: default
 parent: Archival Processing
 nav_order: 3
-has_children: true
+has_children: false
 ---
 # Archival Processing at NYPL
 {: .no_toc }
