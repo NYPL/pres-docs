@@ -21,9 +21,9 @@ When processing a collection, keep in mind that each task is part of a continuum
 The Archival Processing unit works with archival collections belonging to the following curatorial divisions:
 - [Manuscripts and Archives Division](https://www.nypl.org/locations/schwarzman/manuscripts-division) (MSS) at the Schwarzman Building (SASB)
 - [Henry W. and Albert A. Berg Collection of English and American Literature](https://www.nypl.org/locations/schwarzman/berg-collection-english-and-american-literature) (BRG) at the Schwarzman Building (SASB)
-- [Manuscripts, Archives and Rare Books Division](https://www.nypl.org/locations/schomburg/manuscripts-archives-and-rare-books-division) (MARB/SCM) at the Schomburg Center for Research in Black Culture (SCH)
--[Moving Image and Recorded Sound Division](https://www.nypl.org/locations/schomburg/moving-image-and-recorded-sound-division) (MIRS/SCL) at the Schomburg Center for Research in Black Culture (SCH)
-- [Photographs and Prints Division](https://www.nypl.org/locations/schomburg/photographs-and-prints-division) (P&P/SCP) at the Schomburg Center for Research in Black Culture (SCH)
+- [Schomburg Manuscripts, Archives and Rare Books Division](https://www.nypl.org/locations/schomburg/manuscripts-archives-and-rare-books-division) (MARB/SCM) at the Schomburg Center for Research in Black Culture (SCH)
+- [Schomburg Moving Image and Recorded Sound Division](https://www.nypl.org/locations/schomburg/moving-image-and-recorded-sound-division) (MIRS/SCL) at the Schomburg Center for Research in Black Culture (SCH)
+- [Schomburg Photographs and Prints Division](https://www.nypl.org/locations/schomburg/photographs-and-prints-division) (P&P/SCP) at the Schomburg Center for Research in Black Culture (SCH)
 - [Billy Rose Theatre Division](https://www.nypl.org/locations/lpa/billy-rose-theatre-division) (THE) at the Library for the Performing Arts (LPA)
 - [Jerome Robbins Dance Division](https://www.nypl.org/locations/lpa/jerome-robbins-dance-division) (DAN) at the Library for the Performing Arts (LPA)
 - [Music Division](https://www.nypl.org/locations/lpa/music-division) (MUS) at the Library for the Performing Arts (LPA)
