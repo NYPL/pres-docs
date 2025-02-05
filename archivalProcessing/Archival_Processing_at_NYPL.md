@@ -15,7 +15,7 @@ This section addresses how archival guidelines, principles, and practices are im
 - TOC
 {:toc}
 
-# Guiding Principles to a Holistic Approach
+## Guiding Principles to a Holistic Approach
 When processing a collection, keep in mind that each task is part of a continuum[^1] rather than a discrete activity. All processing activities are interrelated, informed by all prior actions, and influencing all subsequent decisions. Arrangement and description should be approached holistically, rather than as a checklist of tasks to be performed in a linear manner. Many processing activities can and should be performed simultaneously, rather than sequentially.
 
 The Archival Processing unit works with archival collections belonging to the following curatorial divisions:
@@ -37,7 +37,7 @@ Archival description should also clearly state what the archivist knows about th
 
 The Archival Processing unit follows the guidelines set forth in Describing Archives: A Content Standard [DACS](https://saa-ts-dacs.github.io/).
 
-# Efficient Processing
+## Efficient Processing
 In the Archival Processing unit we subscribe to an efficient processing model, a method of archival processing that is rooted in the recommendations first introduced by Mark A. Greene and Dennis Meissner in their 2005 article “More Product, Less Process: Revamping Traditional Archival Processing,”[^7] and expanded upon by Daniel A. Santamaria in his 2015 book, _Extensible Processing for Archives and Special Collections: Reducing Processing Backlogs,_[^8] and in the University of California’s _Guidelines for Efficient Archival Processing in the University of California Libraries._[^9] Efficient processing aims to expedite access to collection materials to users and take minimal time and steps to preserve and describe materials to promote use. Gaining basic physical and intellectual control also results in promoting a wider body of material to users, as well as investing an appropriate amount of time and resources to each collection. The idea of identifying a “golden minimum”[^10] of archival processing means performing the minimal amount of work in order to open the collection to researchers, resisting the temptation to handle materials at the item level, and assessing the appropriateness of work beyond this level of processing. “Good enough”[^11] processing can also equal quality processing. The archivist’s proficiency in collection analysis and decision making will lead them to determining what level of processing meets the “golden minimum” standard.
 
 [^1]: [DACS Principle 11](https://saa-tsdacsgithub.io/dacs/04_statement_of_principles.html#11--archival-description-is-a-continuous-intellectual-endeavor) says that “Archival description is a continuous intellectual endeavor,” “Statement of Principles,” _Describing Archives: A Content Standard_, Version 2021.0.0.2 (Society of American Archivists’ Technical Subcommittee), <https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html>.
