@@ -22,7 +22,7 @@ It is just important that your survey notes are orderly so that you are able to 
 
 If the collection came with an inventory by the seller or donor, or if there are accessioning notes present, you should consult these materials during your survey. Note if there are any major discrepancies between the inventory and what you see in the collection, and use this existing documentation to provide a more complete picture of the collection’s scope, content, and arrangement. If the curator, seller, or donor has specifically called attention to certain significant items in the collection, make note of which container holds these materials.
 
-When you remove containers from the stacks, make sure to update their locations in SPEC using the location barcode for your workspace. See the section of this documentation on [Location Management]() for more information. 
+When you remove containers from the stacks, make sure to update their locations in SPEC using the location barcode for your workspace. See the section of this documentation on [Location Management]( Location_Management.md) for more information. 
 
 As you review each container during the survey take note of the following:
 
@@ -36,7 +36,7 @@ As you review each container during the survey take note of the following:
 
 **Preservation Issues:** Record any issues with the collection’s physical condition such as mold, evidence of pest infestation, water damage, fragile items, or materials that may require custom housing.
 
-**Restricted Materials:** Pay attention to materials that may need to be restricted or suppressed in the finding aid. These restrictions are often included in the deed of gift or purchase agreement, which may state a timeframe that the records will need to be held back. In addition to donor stipulated restrictions, look out for sensitive materials such as medical records, student records, documents containing social security numbers, personal financial records, attorney-client privileged legal documents, company personnel records, and classified government documents. This documentation includes a section on how to identify [classified government documents](https://docs.google.com/document/d/1tiIm0R8P0A_sOH3RUKsPgUKXAThqXT074QeIEokD6uk/edit#heading=h.3p5gze6qpngg), and the steps to take if you find them. 
+**Restricted Materials:** Pay attention to materials that may need to be restricted or suppressed in the finding aid. These restrictions are often included in the deed of gift or purchase agreement, which may state a timeframe that the records will need to be held back. In addition to donor stipulated restrictions, look out for sensitive materials such as medical records, student records, documents containing social security numbers, personal financial records, attorney-client privileged legal documents, company personnel records, and classified government documents. This documentation includes a section on how to identify [classified government documents](/Identification_and_Handling_of_Classified_Documents.md), and the steps to take if you find them. 
 
 It is also important to think beyond this purely legal framework, and consider the intent and privacy of the records creator, along with the potential users of the collection.[^2] Just because restrictions are not specifically noted in the deed does not mean the materials should always be made available to the public. Conversely, materials that may depict the records creator negatively does not automatically necessitate the need to restrict it.[^3]
 

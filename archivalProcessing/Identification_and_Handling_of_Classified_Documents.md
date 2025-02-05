@@ -6,11 +6,11 @@ grand_parent: Archival Processing
 nav_order: 5
 has_children: false
 ---
-# **Identification and Handling of Classified Documents**
+# Identification and Handling of Classified Documents
 
 When classified government documents are found in collections, they must immediately be separated, moved to a secure location, and restricted. This section explains how to identify a classified government document, and the steps to take when one is identified. 
 
-## **Identifying a Classified Government Document**
+## Identifying a Classified Government Document
 
 A classified government document is defined by the following characteristics:Documents created by:
 * US federal government
@@ -37,9 +37,9 @@ Documents that contain classification markings that have not been struck on the 
 
 Documents that do not contain a stamp stating that the document is declassified (declassified documents will have a _declassified_ stamp, and include a date and the name of the person or agency that declassified the document.)
 
-## **What to Do When a Classified Document in Found**
+## What to Do When a Classified Document in Found
 
-Materials that include the characteristics listed above must never be made available to the public. If you believe you have found a classified government document in your collection, notify your supervisor immediately. Your supervisor will review the document, and then you should work together to contact <legaloffice@nypl.org>. You should include the following information in your email to NYPL legal:
+Materials that include the characteristics listed above must never be made available to the public. If you believe you have found a classified government document in your collection, notify your supervisor immediately. Your supervisor will review the document, and then you should work together to contact NYPL legal. You should include the following information in your email to NYPL legal:
 
 * Use the subject line: _Potential Classified Documents Found: \[collection name]_
 
