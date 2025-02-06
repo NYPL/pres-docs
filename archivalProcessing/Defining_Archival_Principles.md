@@ -35,6 +35,8 @@ In archival theory, the principles of provenance and original order are often de
 ## Do No Harm
 During processing, the archivist should aim to keep the records they are handling in the same condition as they were received. This means anything that cannot be reversed or undone should not be performed unless documented, discussed, and approved by the appropriate parties. Separating certain formats from the collection, for instance, should typically be avoided since it erases the provenance and the ability for researchers to understand how the collection was created and arranged. Similarly, physical handling and sorting at the item level may result in a loss of context that cannot be restored. 
 
+---
+
 [^1]: Kimberly Christen and Jane Anderson suggest that “The long arc of collecting is not just rooted in colonial paradigms; it relies on and continually remakes those structures of injustice not only through the seemingly benign practices and processes of the profession, but also through how terms like access and circulation are understood and expressed,”Christen, Kimberly, and Jane Anderson. “Toward Slow Archives.” _Archival Science_ 19, no. 2 (June 1, 2019): 90. <https://doi.org/10.1007/s10502-019-09307-x>.
 
 [^2]: In this article Jarret Drake questions the principles of provenance and suggests “we archivists must resist our colonial inclinations and realize that not all who are named are truthful and not all who are unnamed are deceitful.” Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” _On Archivy_, April 7, 2016, <https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325>.

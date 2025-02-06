@@ -148,7 +148,7 @@ See the \[division] for \[general term for relevant material, e.g. _artworks_, _
 - _Example: See the Photographs and Prints Division for the photographs._
 
 ### Related Archival Materials
-Use this note to indicate the names and locations of NYPL collections that share a provenance, or have a close association with the collection being described in the finding aid. For further information see [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html).
+Use this note to indicate the names and locations of collections that share a provenance or have a close association with the collection being described in the finding aid. For further information see [DACS 6.3](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html).
 
 [^1]: Jarret Drake criticizes this pratice writing that “In this note, archivists often write massive memorials and monuments to wealthy, white, cisgendered and heterosexual men, including selective details about the creator that have minimal bearing on the records, and instead serve to valorize and venerate white western masculinity. Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” _On Archivy_, April 7, 2016, <https://medium.com/on-archivy radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325>.
 
