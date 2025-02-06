@@ -22,7 +22,7 @@ It is just important that your survey notes are orderly so that you are able to 
 
 If the collection came with an inventory by the seller or donor, or if there are accessioning notes present, you should consult these materials during your survey. Note if there are any major discrepancies between the inventory and what you see in the collection, and use this existing documentation to provide a more complete picture of the collection’s scope, content, and arrangement. If the curator, seller, or donor has specifically called attention to certain significant items in the collection, make note of which container holds these materials.
 
-When you remove containers from the stacks, make sure to update their locations in SPEC using the location barcode for your workspace. See the section of this documentation on [Location Management]( Location_Management.md) for more information. 
+When you remove containers from the stacks, make sure to update their locations in SPEC using the location barcode for your workspace. See the section of this documentation on [Location Management](/Location_Management.md) for more information. 
 
 As you review each container during the survey take note of the following:
 
@@ -40,7 +40,9 @@ As you review each container during the survey take note of the following:
 
 It is also important to think beyond this purely legal framework, and consider the intent and privacy of the records creator, along with the potential users of the collection.[^2] Just because restrictions are not specifically noted in the deed does not mean the materials should always be made available to the public. Conversely, materials that may depict the records creator negatively does not automatically necessitate the need to restrict it.[^3]
 
-**Electronic Records**: Electronic records are removed during accessioning, but it is possible that some items may have been missed. If you locate floppy disks, hard drives, flash drives, or any other digital media, remove the items and note which container you found it in. When you have completed your survey, [inventory the media in SPEC](https://nypl.github.io/digarch/accessioning/inventorying-digital-media-accession.html), place all the digital media on the incoming media shelf, and then send an email to <digitalarchives@nypl.org> to notify them about the new materials.
+**Electronic Records**: Electronic records are removed during accessioning, but it is possible that some items may have been missed. If you locate floppy disks, hard drives, flash drives, or any other digital media, remove the items and note which container you found it in. Then reach out to Collection Management and let them know you have found additional material that has not been accessioned. Once the media has been accessioned, labeled, and barcoded, place all the digital media on the incoming media shelf, and then send an email to <digitalarchives@nypl.org> to notify them about the new materials.
+
+---
 
 [^1]: Lizeth Zepeda reminds us that “When actively describing materials and collecting people’s past experiences, biases will nevertheless be present. There is a need to have a deep reflection and acknowledgement of who is being excluded from these narratives” and that “Archivists should instead be conscious of this and participate in the interpretation of these materials.”Lizeth Zepeda, “Queering the Archive: Transforming the Archival Process,” _DisClosure: A Journal of Social Theory_ 27, no. 1 (July 1, 2018): 95, [doi:https://doi.org/10.13023/disclosure.27.14](https://uknowledge.uky.edu/disclosure/vol27/iss1/17/).
 
