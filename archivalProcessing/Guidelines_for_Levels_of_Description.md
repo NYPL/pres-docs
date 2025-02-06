@@ -29,7 +29,7 @@ This level of description is used for small collections that may be only a singl
 
 **Arrangement Tasks:** The collection is typically left in received order, materials are arranged intellectually, and collection is re-housed into new archival boxes when necessary. 
 
-**Description Tasks:** A clear and concise _abstract_, _scope and content_ note, and brief _administrative/biographical history_ note. All description is in the front matter, and if a container list is included, it contains a simple box list without hierarchy. All the minimum required descriptive fields must be included in the description. See the sections of this manual on writing the finding aid [front matter]() and [required fields]() in finding aid notes, for further information about what details to include.
+**Description Tasks:** A clear and concise _abstract_, _scope and content_ note, and brief _administrative/biographical history_ note. All description is in the front matter, and if a container list is included, it contains a simple box list without hierarchy. All the minimum required descriptive fields must be included in the description. See the sections of this manual on writing the finding aid [front matter](/Front-Matter.md) and [required fields](/Finding_Aid_notes.md) in finding aid notes, for further information about what details to include.
 
 **Final Products:** A collection-level finding aid published in the [Archives Portal](https://archives.nypl.org/) and a [catalog record](https://www.nypl.org/research/research-catalog). 
 
@@ -45,7 +45,7 @@ This level of description is for all sizes of collections that can be effectivel
 
 **Arrangement Tasks:** If the received order is not usable, the collection may be physically and intellectually rearranged. This re-arrangement may include a rough sort of folders and loose items, re-housing into archival boxes, and repurposing folders if they meet archival standards. 
 
-**Description Tasks:** Concise finding aid and container list with single-level description, and a minimal degree of hierarchy. The description should include an _abstract_, collection-level _scope and content_ note, and brief _administrative/biographical history_ note, as well as all other. Collections will be described using topical groups to create hierarchy as needed. See the sections of this manual on writing finding aid [front matter]() and [required fields]() in finding aid notes, for further information about what details to include.
+**Description Tasks:** Concise finding aid and container list with single-level description, and a minimal degree of hierarchy. The description should include an _abstract_, collection-level _scope and content_ note, and brief _administrative/biographical history_ note, as well as all other. Collections will be described using topical groups to create hierarchy as needed. See the sections of this manual on writing finding aid [front matter](Front-Matter.md/) and [required fields](/Finding_Aid_notes.md) in finding aid notes, for further information about what details to include.
 
 **Final Products:** Hierarchical finding aid in [Archives Portal](https://archives.nypl.org/) and [catalog record](https://www.nypl.org/research/research-catalog).
 
@@ -59,7 +59,7 @@ This level of description is most beneficial for large, complex, and/or hybrid c
 
 **Arrangement Tasks**: If the received order is not usable, the collection may be physically and intellectually rearranged. Sorting and rearrangement of loose items, as well as rehousing in archival boxes and folders will often be necessary as well. This level of processing may also include an audio and moving image inventory, processing of electronic records, and the intellectual arrangement of these materials into the container list.
 
-**Description Tasks:** Multilevel hierarchical description to the series level, container list with hierarchy, and some folder level scope notes as needed. See the sections of this manual on writing finding aid [front matter]() and [required fields]() in finding aid notes, for further information about what details to include.
+**Description Tasks:** Multilevel hierarchical description to the series level, container list with hierarchy, and some folder level scope notes as needed. See the sections of this manual on writing finding aid [front matter](Front-Matter.md/) and [required fields](/Finding_Aid_notes.md) in finding aid notes, for further information about what details to include.
 
 **Final Products:** Series level finding aid in [Archives Portal](https://archives.nypl.org/) and [catalog record](https://www.nypl.org/research/research-catalog).
 
