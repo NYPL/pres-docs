@@ -16,6 +16,6 @@ When a new acquisition is received by the Library, Collection Management works t
 
 For a detailed workflow of acquisitions and receiving, see Collection Management’s [Intake and Accessioning Procedures]() and [Resources Policies and Procedures]() documentation
 
-[^1]: In 2024, Society of American Archivists (SAA) Council approved the _Archival Accessioning Best Practices_ on the recommendation of the SAA Standards Committee. This documentation the first official recommended professional best practices on archival accessioning published in the United States. _Archival Accessioning Best Practices_, 2024. https://accessioning.gitbook.io/archival-accessioning-best-practices.
+[^1]: In 2024, Society of American Archivists (SAA) Council approved the _Archival Accessioning Best Practices_ on the recommendation of the SAA Standards Committee. This documentation the first official recommended professional best practices on archival accessioning published in the United States. _Archival Accessioning Best Practices_, 2024. <https://accessioning.gitbook.io/archival-accessioning-best-practices>.
 
 [^2]: In 2021 the Society of American Archivists published the first book dedicated solely to archival accessioning. Editor and contributor Audra Eagle Yun introduces this essential function stating, “The basic components of an archival accessioning workflow are intake, receipt, record of transfer, and creation of an accession record.” Tammi Kim et al., _Archival Accessioning_, ed. Audra Eagle Yun (Chicago: Society of American Archivists, 2021).
