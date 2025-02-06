@@ -10,7 +10,7 @@ nav_order: 18
 Over 90 object record elements can be searched either individually or in combination using the advanced object search. To access the advanced search, click on **Search all objects** in the Objects section on the **SPEC landing page** to navigate to the **Object Search** interface, then click **Advanced search** in the upper right corner to open the advanced search pop-up window.
 
 {: .tip }
-> Advanced Search is separate from **Basic Search** and **Use additional search fields** found on the main **Object Search** interface. The advanced search performs a new search; it does not expand or constrain the found set of objects that may appear in the object search result list.
+> **Advanced Search** is separate from **Basic Search** and **Use additional search fields** found on the main **Object Search** interface. The advanced search performs a new search; it does not expand or constrain the found set of objects that may appear in the object search result list.
 
 Select a field to search fron the drop down menu and enter or select a search term. Click **+** to add search criteria or the **x** button to remove search criteria, select a **boolean operator** (AND is the default). Optionally, click the gray **(** and **)** to parenthesize a subset of search criteria, turning the parenthesis green. 
 

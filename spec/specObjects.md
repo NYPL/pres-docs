@@ -64,13 +64,16 @@ For additional methods to create objects see Duplicating Object Records below an
 ## Populating and Editing Object Records
 Once the new object record is created via the methods described above, the **Basic Fields** editing interface will open in a pop-up window. The most common object record elements can be viewed, added, or edited in the basic fields window. See [Basic Fields](https://nypl.github.io/pres-docs/spec/specObjectsBasicFields.html) and [Formats](https://nypl.github.io/pres-docs/spec/specObjectsFormatEtc.html) for more information.
 
+{: .tip }
+> Use the format search widget in the **Basic Fields** interface to search for and populate an object's full format hierarchy instead of using the multi-level format drop downs. The object type, either item or container, must be specified before format information can be added to the object. 
+
 The Basic Fields window also has shortucts to to add a container relationship (for items), a content estimate (for containers), and an object location. See Relationships, Content Estimates, and Locations for more information.
 
 Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Edit ojbect record** option to open the **Basic Fields** window. The basic fields window can also be opened by clicking on the corresponding fields in the **Object Record** interface.  
 
-Navigate different editing interfaces to view, edit or add additional object elements by clicking on the tabs along the top fo the pop-up window. These interfaces can be used to add or update Media, Relationships, References, Restrictions, Issues, Locations and Estimates [ADD LINKS].
+Navigate different editing interfaces to view, edit or add additional object elements by clicking on the tabs along the top fo the pop-up window. These interfaces can be used to add or update Media, Relationships, References, Restrictions, Issues, Locations and Content Estimates [ADD LINKS].
 
-In each interface click the green **+ ADD [ELEMENT]** button to add data. Adding certain elements opens an intermediate window to search and select existing records to be linked to the object. Click the **x** button next to an element to remove it, note that not every element can be removed, some elements such as issues or restrictions should be resolved or deactivated rather than deleted. In some cases, such as locations and certain relationships, adding new information makes the previous one inactive. 
+In each interface click the green **+ ADD [ELEMENT]** button to add data. Adding certain elements opens an intermediate window to search and select existing records to be linked to the object. When available, use drop down lists to select the appropriate data. Click the **x** button next to an element to remove it, note that not every element can be removed, some elements such as issues or restrictions should be resolved or deactivated rather than deleted. In some cases, such as locations and certain relationships, adding new information makes the previous associated element inactive. 
 
 For additional ways to edit object records see: Object Record Interface, List Edit interfaces, Bulk Action Menu, Object Barcode App, and AMI Specific Fields [ADD LINKS]
 
@@ -78,7 +81,7 @@ For additional ways to edit object records see: Object Record Interface, List Ed
 ## Duplicating Object Records
 An existing object can be duplicated to create one or more new object records. Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Duplicate** option.
 
-The **Duplicate Object** pop-up window provides a list of object elements with values that can be carried over to the new object record. If the current object contains a duplicable value, you will see it in grey text next to the object element. Select or deselect the values to duplicate by clicking the checkbox next to the object element or clicking on the All or None buttons. 
+The **Duplicate Object** pop-up window provides a list of object elements with values that can be carried over to the new object record. If the current object contains a duplicable value, you will see it in gray text next to the object element. Select or deselect the values to duplicate by clicking the checkbox next to the object element or clicking on the All or None buttons. 
 
 Some elements will be preselected based on the last set of selection(s) made during duplication, the context in which the duplication process started, or the record being duplicated. Dependencies between fields will sometimes restrict the values that can be selected or automatically select related values. For example, selecting format will automatically check the type. 
 
