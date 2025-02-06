@@ -31,7 +31,7 @@ When measuring the dimensions of a custom or non-standard sized container, you w
 
 When calculating the dimensions of frames, measure in their display orientation. When looking at the frame head-on, the width is the distance from the left edge to the right edge. The depth is from top to bottom. The height is the thickness/front to back.
 
-The examples below illustrate how to identify the width, depth, and height of archival containers. For further information on labeling, barcodding, and measuring containers, see Collection Management's Visual Guide.
+The examples below illustrate how to identify the width, depth, and height of archival containers. For further information on labeling, barcodding, and measuring containers, see [Collection Management's Visual Guide 🔒](https://docs.google.com/document/d/1FiHAQ0Ywdkbn_iyP6o1szZ6f0karvNhLiG-ggGDumDM/edit?usp=sharing).
 
 ### Measuring Custom Boxes
 
