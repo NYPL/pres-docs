@@ -7,7 +7,7 @@ nav_order: 3
 has_children: false
 ---
 # **Location Management in the Archival Processing Unit**
-You must update the physical locations of all containers in your collection during processing. Collection Management monitors and manages all storage locations, but it is the responsibility of the processing archivist to make sure each object’s location is up to date in SPEC. Most shelves and rooms at LSC have location barcodes that can be scanned directly into SPEC. Archivists should keep a copy of their workspace room’s barcode at their desks. When you bring collection containers from the stacks to your desk, you must update the location in SPEC, and you must do the same for processed materials being stored in the stacks or at your workspace prior to shipment. Collection Management also has [documentation]() that outlines procedures for location management at LSC. 
+You must update the physical locations of all containers in your collection during processing. Collection Management monitors and manages all storage locations, but it is the responsibility of the processing archivist to make sure each object’s location is up to date in SPEC. Most shelves and rooms at LSC have location barcodes that can be scanned directly into SPEC. Archivists should keep a copy of their workspace room’s barcode at their desks. When you bring collection containers from the stacks to your desk, you must update the location in SPEC, and you must do the same for processed materials being stored in the stacks or at your workspace prior to shipment. Collection Management also has [documentation](clmgt/Location_Management.md) that outlines procedures for location management at LSC. 
 
 The chart below details all the times you need to update collection location information in SPEC:
 
@@ -15,11 +15,11 @@ The chart below details all the times you need to update collection location inf
 | ---------| ---------------|
 | Collection moved from stacks to workspace for survey and/or processing. | Update objects’ location in SPEC with your workspace barcode or current location. |
 | Collection returned to stacks after survey for storage. | Update objects’ location in SPEC with stacks shelf location. |
-| Collection rehoused into new containers. | [Deactivate]() the old containers in SPEC. |
+| Collection rehoused into new containers. | [Deactivate](/updating_processed_object_records_in_SPEC.md) the old containers in SPEC. |
 | New containers imported from ASpace into SPEC. | Update the locations of all newly imported objects in SPEC. |
 | Processed containers moved to stacks for temporary storage. | Update all containers in SPEC with their current room, shelf, or mapcase location. |
 
-Below are instructions on how to update locations using the Object Barcode App and from the Object Search screens in SPEC. The [SPEC Objects Manual]() also has detailed instructions on how to perform all these tasks, as well as a section about [location]() management.
+Below are instructions on how to update locations using the Object Barcode App and from the Object Search screens in SPEC. The [SPEC Objects Manual](spec/specObjects.md) also has detailed instructions on how to perform all these tasks, as well as a section about [location](spec/specObjectsLocations.md) management.
 
 ## **Updating Locations Using the SPEC Object Barcode App**
 From the SPEC landing page navigate to the Object Barcode App under the Object menu.
@@ -88,14 +88,3 @@ Once you scan in the new location, a dialog box will appear.
 ![Make Current Location Inactive](/Images/20-Make_Current_Location_Inactive.png)
 
 Select _OK_, and the new location will appear in the object’s location field. Repeat these steps for each location you need to update.
-
-
-
-
-
-
-
-
-
-
-

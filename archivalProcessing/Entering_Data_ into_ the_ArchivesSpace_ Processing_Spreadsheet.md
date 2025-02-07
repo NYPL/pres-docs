@@ -15,7 +15,7 @@ Each container in a collection must have a _Top Container Type_ (box, tube, volu
 
 **Types of Containers**
 
-There are four types of containers: _box_, _tube_, _oversized folder_, and _volume_. Some legacy collections may also include containers called _reel_ and _folder_. For more information on working with legacy collections, see the section of this manual on [Additions and Legacy Finding Aids](). Electronic records and audio and moving image items are imported via an exported report and entered as _Identifiers_. However, electronic records (er), may still be entered as a container type in the spreadsheet. 
+There are four types of containers: _box_, _tube_, _oversized folder_, and _volume_. Some legacy collections may also include containers called _reel_ and _folder_. For more information on working with legacy collections, see the section of this manual on [Additions and Legacy Finding Aids](/Additions-to-Lecacy-Finding-Aids.md). Electronic records and audio and moving image items are imported via an exported report and entered as _Identifiers_. However, electronic records (er), may still be entered as a container type in the spreadsheet. 
 
 ![Processing Spreadsheet Image](Images/04-Processing_spreadsheet.png)
 
@@ -47,7 +47,7 @@ The ASpace importer will recognize a contiguous container range entered into the
 
 **Subcontainer Indicators**
 
-_Subcontainer indicators_ for the folders located inside boxes will typically be entered as a range. See the section of this manual on [Archival Description ]()for detailed information about working with and revising top containers in ASpace. See the example below for how to properly enter box ranges.
+_Subcontainer indicators_ for the folders located inside boxes will typically be entered as a range. See the section of this documentation on [Archival Description ](/Archival_Description.md)for detailed information about working with and revising top containers in ASpace. See the example below for how to properly enter box ranges.
 
 ![folder ranges](Images/07-folder-ranges.png)
 
@@ -55,7 +55,7 @@ _Subcontainer indicators_ for the folders located inside boxes will typically be
 
 If the materials in your collection include a numbering or labeling system imposed by the creator or donor which may be helpful to the researcher, this unique identifier should be recorded in the _call number_ field (EAD: \<unitid type="local\_call">) of each applicable component. 
 
-For more insight on data entry into ArchivesSpace, refer to the section of this manual on [Archival Description]().
+For more insight on data entry into ArchivesSpace, refer to the section of this manual on [Archival Description](/Archival_Description.md).
 
 
 
