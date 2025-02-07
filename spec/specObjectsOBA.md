@@ -10,29 +10,25 @@ nav_order: 22
 The Object Barcode App allows users to quickly verify or update an object's location and relationships (container or contained objects). Click on the **Object Barcode App** link in the Objects section on the **SPEC landing page** to access this feature.   
 
 {: .tip }
-> The Object Barcode App is the most convenient way to update locations if you are working with multiple objects that need to move to different locations. If you are working with multiple objects that all need to move to the same location consider using the Bulk Action Menu.
+> The Object Barcode App is the most convenient way to update locations when working with multiple objects that need to move to different locations. If working with multiple objects that all need to move to the same location consider using the Bulk Action Menu.
 
-Scan the object barcode at the top of the page in the **Scan object barcode to begin** field. 
+To begin, scan the object barcode at the top of the page in the **Scan object barcode to begin** field. 
 
-&nbsp; 
- 
-
-To enter or change an object’s location, scan the location’s barcode under the **LOCATION BARCODE** label in the **ACTIVE STORAGE LOCATION** section. If the object was assigned to another location, that location will be made inactive. If the object’s assigned location matches the location barcode entered, the location will be verified. The verification is logged in the audit log.
+### Update Location
+To enter or change an object’s location, scan the location’s barcode under the **Location Barcode** label in the Active Storage Location section. If the object was assigned to another location, that location will be made inactive. If the object’s assigned location matches the location barcode entered, the location will be verified and the verification will be logged in the audit log.
 
 See SPEC Object [Locations](https://nypl.github.io/pres-docs/spec/specObjectsLocations.html) for more information. 
 
-&nbsp; 
-&nbsp; 
+### Update Contains/ContainedIn Relationships
+To indicate an object is stored in a container, scan the container’s barcode under the **Container Barcode** label in the Contained In section. 
 
-To indicate the container in which an object is stored, scan the container’s barcode under the **CONTAINER BARCODE** label in the **CONTAINED IN** section. 
+To indicate an object has been removed from the container without entering a new container, click **Take out of [container name]** in the Contained In section.
 
-To indicate an object has been removed from the container without entering a new container, click **Take out of [container name]** in the **CONTAINED IN** section.
+To indicate a container contains another object, scan the contained object’s barcode under the **Object Barcode** label in the Contains section. 
 
-To indicate that an object is stored in a container, scan the contained object’s barcode under the **OBJECT BARCODE** label in the **CONTAINS** section. 
+To indicate any of the contained objects are no longer in the container, click the blue **x** next to the object's name in the Contains list.
 
-To indicate any of the contained objects are no longer in the container, click the blue icon to the left of the object's name.
-
-When updating the contains/containedIn relationships the previous relationship will be made inactive. If the relationship between objects already exists, the relationship will be verified and the verification will be logged in the audit log. If verifying a contains relationsihp the contained object's name will display in in green in the container’s object list.
+When updating relationships the contained object's previous relationship will be made inactive. If the relationship between objects already exists, the relationship will be verified and the verification will be logged in the audit log. If verifying a contains relationsihp the contained object's name will display in in green in the container’s object list.
 
 
 &nbsp; 

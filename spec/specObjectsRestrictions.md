@@ -6,27 +6,26 @@ grand_parent: SPEC
 nav_order: 7
 ---
 
-## Restrictions
+## Restrictions  
 *optional, multiple values*
+
 An object can have mulitple active or inactive restrictions. Restrictions are not deleted from object records, rather they are made inactive by entereing an end date to maintain historical data. Each restriction consists of multiple elements.
 
-### Type
-*required, single controlled value*, 
 
+### Type  
+*required, single controlled value*
 The restiction type classifies the conditions that govern the accessibility of an object. These types help identify the nature of the restrictions applied, such as those related to preservation needs, content sensitivity, or other factors. 
 
-### Restiction Description
-*optional, single free text value*
+### Restiction Description  
+*optional, single free text value*  
 The descriptionis used to further clarify the nature of restriction. 
 
-### From
-*required, single date value*
-
+### From  
+*required, single date value*  
 Specifies the date the restriction became active, the date defaults to the date the restiction was added to the object record. 
 
-### Until
+### Until  
 *as needed, single date value*
-
 Specifies the date the restiction expired or will expire (if known). 
 
 &nbsp; 
