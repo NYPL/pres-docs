@@ -6,10 +6,6 @@ grand_parent: SPEC
 nav_order: 9
 ---
 
-{: .note }
-> This page is under construction! 
-> More content coming soon ...
-
 ## Accessibility
 *required, single controlled value*
 
@@ -25,9 +21,9 @@ This field auto-populates with the default value "not described" for new object 
 &nbsp; 
 &nbsp; 
 
-Accessibility and Description can both be viewed in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. Clicking on either value in the **Object Record** header opens a pop-up window where either value can be updated manually using the drop-down list. 
+Accessibility and Description can both be viewed in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. Clicking on either value in the **Object Record** header opens a pop-up window where both fields can be updated manually using the drop-down list. 
 
 {: .note }
-> In some cases these values cannot be manually edited and will revert to the auto-populated value calculated by SPEC.
+> In some cases these fields cannot be manually edited and will revert to the auto-populated value calculated by SPEC.
 
 
