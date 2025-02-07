@@ -7,7 +7,6 @@ nav_order: 22
 ---
 
 ## Object Barcode App
-
 The Object Barcode App allows users to quickly verify or update an object's location and relationships (container or contained objects). Click on the **Object Barcode App** link in the Objects section on the **SPEC landing page** to access this feature.   
 
 {: .tip }
@@ -16,11 +15,11 @@ The Object Barcode App allows users to quickly verify or update an object's loca
 Scan the object barcode at the top of the page in the **Scan object barcode to begin** field. 
 
 &nbsp; 
-&nbsp; 
+ 
 
 To enter or change an object’s location, scan the location’s barcode under the **LOCATION BARCODE** label in the **ACTIVE STORAGE LOCATION** section. If the object was assigned to another location, that location will be made inactive. If the object’s assigned location matches the location barcode entered, the location will be verified. The verification is logged in the audit log.
 
-See [ADD LINK] for more information. 
+See SPEC Object [Locations](https://nypl.github.io/pres-docs/spec/specObjectsLocations.html) for more information. 
 
 &nbsp; 
 &nbsp; 

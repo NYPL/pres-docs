@@ -14,7 +14,7 @@ SPEC Collections are intellectual entities consisting of a group of objects, whi
 ## Collections Search
 To find a collection navigate to the **Collections Search** interface by clicking on **Search all collections** in the Collections section of the **SPEC landing page**.
 
-Use the available search fields at the top of the Collections Search interface individually or in combination. Using multiple fields creates a Boolean AND search, narrowing down your results.
+Use the available search fields at the top of the Collections Search interface individually or in combination. Using multiple fields creates a Boolean AND search, narrowing down search results.
 
 | **Search Field** | **Use to search for:** |
 | **Collection Creator or Title** | keywords that appear in the collection title or creator fields |
