@@ -9,7 +9,7 @@ nav_order: 7
 ## Restrictions  
 *optional, multiple values*
 
-An object can have multiple active or inactive restrictions. Expired restrictions are not deleted from object records, rather they are made inactive by entering an end date to maintain historical data. Each restriction consists of multiple elements.
+Restrictions are conditions governing the accessibility of an object. An object can have multiple active or inactive restrictions. Expired restrictions are not deleted from object records, rather they are made inactive by entering an end date to maintain historical data. Each restriction consists of multiple elements.
 
 
 ### Type  
@@ -32,4 +32,3 @@ Specifies the date the restriction expired or will expire (if known).
 &nbsp; 
 
 Restrictions can viewed or updated by navigating to the **Restrictions** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the Restictions section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information. 
-

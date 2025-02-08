@@ -1,5 +1,5 @@
 ---
-title: Accessibility / Description
+title: Accessibility and Description
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
