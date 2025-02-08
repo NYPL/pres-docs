@@ -12,7 +12,7 @@ Over 90 object record elements can be searched either individually or in combina
 {: .tip }
 > **Advanced Search** is separate from **Basic Search** and **Use additional search fields** found on the main **Object Search** interface. The advanced search performs a new search; it does not expand or constrain the found set of objects that may appear in the object search result list.
 
-Select a field to search fron the drop down menu and enter or select a search term. Click **+** to add search criteria or the **x** button to remove search criteria, select a **boolean operator** (AND is the default). Optionally, click the gray **(** and **)** to parenthesize a subset of search criteria, turning the parenthesis green. 
+Select a field to search from the drop down menu and enter or select a search term. Click **+** to add search criteria or the **x** button to remove search criteria, select a **boolean operator** (AND is the default). Optionally, click the gray **(** and **)** to parenthesize a subset of search criteria, turning the parenthesis green. 
 
 The following options appear in the advanced search interface: 
 
@@ -29,7 +29,7 @@ The following options appear in the advanced search interface:
   Resets all fields and clears any entered values.
 
 - **Search**:  
-  Excute the search. 
+  Execute the search. 
 
 {: .tip }
 > It may take up to a few minutes for the advanced search to execute, especially if the search criteria results in a very large found set. 

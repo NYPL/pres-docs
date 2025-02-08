@@ -20,4 +20,4 @@ This field is used to provide additional identification details for an object wh
 &nbsp; 
 &nbsp; 
 
-Notes and Other Descripitve Text can both be viewed or updated by clicking direclty on either field at the bottom of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.
+Notes and Other Descriptive Text can both be viewed or updated by clicking directly on either field at the bottom of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.

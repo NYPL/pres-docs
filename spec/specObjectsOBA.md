@@ -28,14 +28,12 @@ To indicate a container contains another object, scan the contained object’s b
 
 To indicate any of the contained objects are no longer in the container, click the blue **x** next to the object's name in the Contains list.
 
-When updating relationships the contained object's previous relationship will be made inactive. If the relationship between objects already exists, the relationship will be verified and the verification will be logged in the audit log. If verifying a contains relationsihp the contained object's name will display in in green in the container’s object list.
-
+When updating relationships the contained object's previous relationship will be made inactive. If the relationship between objects already exists, the relationship will be verified and the verification will be logged in the audit log. If verifying a contains relationship the contained object's name will display in green in the container’s object list.
 
 &nbsp; 
 &nbsp; 
 
-The objects must have a barcode in order to be updated via the Object Barcode App, if an object does not have a barcode use the editing interfaces availble through the **Object Search** and **Object Record** or the **List Edit** interfaces [LINK] to update the object. 
+Objects must have a barcode in order to be updated via the Object Barcode App, if an object does not have a barcode use the editing interfaces available through the **Object Search** and **Object Record** or the **List Edit** interfaces to update the object. 
 
 {: .note }
-> Click on an object name to naviagate to the **Object Record** interface. However, once in the object record interface, navigate back to the SPEC landing page to return to the Object Barcode App
-
+> Click on an object name to navigate to the **Object Record** interface. Once in the object record interface, click on the SPEC logo to navigate back to the SPEC landing page and click on the Object Barcode App link to return to the app.

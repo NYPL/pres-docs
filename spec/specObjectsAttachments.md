@@ -15,4 +15,3 @@ Associate documents with an object record by uploading an attachment to the obje
 A new GoogleDrive folder is created when the first file is uploaded to an object record. All subsequent uploads will be added to the same folder. To see documents attached to an object record click on the **folder** icon in the upper right corner, next to the **paperclip** icon. If there are no documents associated with the object and therefore no GoogleDrive folder, the **folder** icon will appear grayed out.
 
 Users who have edit access to an object record have the ability to upload documents to the object's GoogleDrive folder. Users who have view access to an object record can view the contents of the GoogleDrive folder. 
-

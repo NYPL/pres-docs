@@ -30,4 +30,3 @@ Click the **Search** button to perform the search and the **Clear** button to cl
 
 ## Additional Search Fields
 Click on **Use additional search fields** below the **Search** and **Clear** buttons to open a pop up window with additional search fields. Use any combination of fields in the pop up window and the basic search on the main Object Search interface to create a Boolean AND search, narrowing down your results.
-
