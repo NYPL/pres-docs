@@ -171,6 +171,7 @@ Select _Edit > Reformat or the _R_ icon to organize the order of the record’s 
 ## Common OCLC Connexion Errors
 
 **ELvl (Leader/17) Error**
+
 This [error](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) is very common the first time you attempt to validate a newly imported record. You will likely get an error similar to the one depicted below.
 
 ![ELvl Error](/Images/174-Elvl-error-message.jpg)
