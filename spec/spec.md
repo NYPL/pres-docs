@@ -13,6 +13,12 @@ SPEC allows Research Library staff to record information on the object level. Un
 In addition to objects, SPEC stores information about acquisitions, collections, processing and preservation projects, outgoing loans, and storage locations. These records are interrelated and linked through the objects they describe, offering a comprehensive view of each object’s lifecycle and associations.
 
 
+## Accounts and Privileges 
+To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e){:target="_blank"} or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66){:target="_blank"} file a ServiceNow ticket.
+
+Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, division staff have access to records that are assigned to their division.
+
+
 ## Connecting
 SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both client and browser. Connection options may depend on a user's SPEC account type. Working remotely or using wifi requires a working and properly configured connection to NYPL's VPN. 
 
@@ -20,17 +26,11 @@ If connecting to SPEC using the FileMaker client for the first time, follow thes
 - Open FileMaker and select File > Hosts from the menu
 - Click on FileMaker PRODUCTION. If the production server in not listed, file a ServiceNow ticket for instuctions on connecting to the server manually 
 - If an SSL certificate warning message appears, check “Always permit connect to this host” and then click on the Connect button
-- Sign in to the server using the SPEC credentials provided via email
+- Log in to the server using the SPEC credentials provided via email
 - Right click on CollectionInfo and select "Add to Favorites." From now on CollectionInfo will appear under File > Favorites and in the Favorites window when opening FileMaker 
-- Click on CollectionInfo and sign in with the SPEC credentials provided via email
+- Click on CollectionInfo and log in with the SPEC credentials provided via email
 
 If connecting to SPEC using the browser, use the url provided in your account set-up email.
-
-
-## Accounts and Privileges 
-To request a [new account 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=583fa04c1b9c305090088550cd4bcb3e){:target="_blank"} or a [password reset 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=7a94d5bb1b88fc1090088550cd4bcb66){:target="_blank"} file a ServiceNow ticket.
-
-Staff privileges to view, edit, or create records in SPEC vary based on the requirements of their job and their division or department. Generally, division staff have access to records that are assigned to their division.
 
 
 ## SPEC Landing Page
