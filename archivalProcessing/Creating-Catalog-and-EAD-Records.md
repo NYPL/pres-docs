@@ -10,7 +10,7 @@ has_children: false
 {: .no_toc }
 Once your finding aid has been approved by the curator, your supervisor will move the collection’s Trello card to the _Ready to Ship_ column of the _Processing Projects_ Trello. Collections need to be cataloged before they can be shipped offsite. Below are the steps to create a catalog record and to generate an EAD record. 
 
-**If you are cataloging an addition, you should skip directly to the section on [Updating Existing Catalog Records]()** 
+**If you are cataloging an addition, you should skip directly to the section on [Updating Existing Catalog Records](Creating-Catalog-and-EAD-Records.md#corrections-and-edits-to-existing-catalog-records)** 
 
 Catalog records will appear in both [WorldCat](https://www.worldcat.org/) and the [NYPL catalog](https://www.nypl.org/research), and uploaded EAD records will appear in the [Archives Portal](http://archives.nypl.org/).
 
@@ -88,7 +88,7 @@ Since ASpace generates the catalog information as MARCXML, you need to use MarcE
 
 **NOTE** 
 **If you are cataloging an addition, you should skip directly to the section on 
-[Updating Existing Catalog Records]().**
+[Updating Existing Catalog Records](Creating-Catalog-and-EAD-Records.md#corrections-and-edits-to-existing-catalog-records).**
 
 To convert XML to MRC, follow the steps below:
 
@@ -169,6 +169,17 @@ Select _Edit > Reformat or the _R_ icon to organize the order of the record’s 
 5\. Correct errors if any are indicated after validation. 
 
 **Some common errors include:**
+
+**ELvl (Leader/17) Error**
+This [error](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) is very common the first time you attempt to validate a newly imported record. You will likely get an error similar to the one depicted below.
+
+![ELvl Error](/Images/174-Elvl-error-message.jpg)
+
+This occurs when there is a  _I_ or _J_ in the _Elvl_ field at the top of the record. To correct the error, simply delete the letter from the box as illustrated below. 
+
+![Corrected ELvl error](archivalProcessing/Images/175-corrected-ELvl-field.jpg)
+
+See OCLC's [documentation](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) for further information
 
 **Diacritics**
 
@@ -330,7 +341,7 @@ Once you have updated the OCLC record in Worldcat, you will need to make the sam
 ### Adding Item Records in Sierra
 Once you have updated the various fields of the catalog record in both OCLC and Sierra, you will need to add the new containers to the catalog record. In Sierra these are called item records. You can add a single item record or add many item records in bulk. 
 
-If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record]().
+If you are cataloging an addition or adding multiple containers to a collection, skip to the section for [Adding Multiple Item Records to A Sierra Catalog Record](/Creating-Catalog-and-EAD-Records.md#adding-multiple-item-records-to-a-sierra-catalog-record).
 
 ### Adding A Single Item Record to Sierra Catalog Record
 To add a single item record to a Sierra catalog record complete the following steps:
