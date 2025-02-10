@@ -176,7 +176,7 @@ This [error](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/T
 
 ![ELvl Error](/Images/174-Elvl-error-message.jpg)
 
-This occurs when there is a  _I_ or _J_ in the _Elvl_ field at the top of the record. To correct the error, simply delete the letter from the box as illustrated below. 
+This occurs when there is a  _I_ or _J_ in the _ELvl_ field at the top of the record. To correct the error, simply delete the letter from the box as illustrated below. 
 
 ![Corrected ELvl error](/Images/175-corrected-ELvl-field.jpg)
 
