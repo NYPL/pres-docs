@@ -130,7 +130,7 @@ It is recommended you do this with a find and replace.
 
 # OCLC Connexion: Importing Catalog Record into WorldCat and Exporting into Sierra
 
-**_\*NOTE: If you are cataloging an addition skip directly to the section on_** [**_Updating Existing Catalog Records_**]()**_. Do not import a new MARC record into OCLC. Instead you will be editing the existing Worldcat record._**
+**_\*NOTE: If you are cataloging an addition skip directly to the section on_** [**_Updating Existing Catalog Records_**](Creating-Catalog-and-EAD-Records.md#corrections-and-edits-to-existing-catalog-records)**_. Do not import a new MARC record into OCLC. Instead you will be editing the existing Worldcat record._**
 
 All catalog records are published via OCLC on [Worldcat](https://www.worldcat.org/). OCLC also has extensive [documentation](https://help.oclc.org/Librarian_Toolbox) available, including information on their [Bibliographic Formats and Standards](https://www.oclc.org/bibformats/en.html) site, which includes rules for MARC fields, indicators, and subfields. Before you can catalog in OCLC you will need to request an OCLC account through ServiceNow.
 
@@ -168,7 +168,7 @@ Select _Edit > Reformat or the _R_ icon to organize the order of the record’s 
 
 5\. Correct errors if any are indicated after validation. 
 
-**Some common errors include:**
+## Common OCLC Connexion Errors
 
 **ELvl (Leader/17) Error**
 This [error](https://help.oclc.org/Metadata_Services/WorldShare_Record_Manager/Troubleshooting/Why_am_I_receiving_the_error_%22ELvl_(Leader%2F%2F17)_-_invalid_code%22_or_%22ELvl_(Leader%2F%2F17)_-_not_authorized_to_use_I%22_when_I_try_to_validate_a_record%3F) is very common the first time you attempt to validate a newly imported record. You will likely get an error similar to the one depicted below.
