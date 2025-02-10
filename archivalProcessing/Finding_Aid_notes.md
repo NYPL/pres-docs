@@ -46,7 +46,7 @@ The abstract is the only narrative descriptive element that is included in the c
 ### Conditions Governing Access
 The purpose of this statement is to describe access restrictions imposed by NYPL, or those which were stipulated in the deed of gift or purchase agreement. [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html) describes when to use a _Conditions Governing Access_ note. The archives portal will automatically generate a _Conditions Governing Access_ statement for each curatorial division. If the collection you are processing has no special access restrictions, then you do not need to complete this field. The automatically generated [standard access notes](aspace/aspace.md) are listed in the ASpace User Guide. If the collection has additional restrictions, such as electronic records or audio and moving image material that is unavailable, or restrictions requested by the donor, then you must create a _Conditions Governing Access_ note to explain the restrictions.
 
-For collections containing audio and moving image, use the correct division statement, both in the front matter, and at the level immediately above the audio and moving image components. See the [Description of Audio and Moving Image Material in ArchivesSpace]() section of this documentation for each division's access note language. 
+For collections containing audio and moving image, use the correct division statement, both in the front matter, and at the level immediately above the audio and moving image components. See the [Description of Audio and Moving Image Material in ArchivesSpace](/Description_of_AMI_in_ASpace.md) section of this documentation for each division's access note language. 
 
 When a component in a finding aid is restricted or should not be requested in the reading room, you use use the terms **_closed_** or **_Unavailable_** in the <accessrestrict> note at the component-level. This will assure that the item is not requestale in Aeon. 
 
@@ -72,7 +72,7 @@ When working with additions being processed as a discrete collection, or if the 
 - [Stormé DeLarverié photographs](https://archives.nypl.org/scp/186079)
 - [George Westerman photographs](https://archives.nypl.org/scp/186080)
 
-If there is additional interesting information that you encountered during processing that is outside the scope of an _Administrative/Biographical History note_, you can always include these details in a Wikipedia article and mention them in your closing memo. Consult the [Updating and Creating Wikipedia Entries]() and [Closing Memo]() sections of this manual for more information.
+If there is additional interesting information that you encountered during processing that is outside the scope of an _Administrative/Biographical History note_, you can always include these details in a Wikipedia article and mention them in your closing memo. Consult the [Updating and Creating Wikipedia Entries](/Updating-and-Creating-Wikipedia-pages.md) and [Closing Memo](/Closing-Memo.md) sections of this manual for more information.
 
 ### Processing Information
 All finding aids must include a _Processing Information_ note, which states the name of the archivist that processed the collection, and the year(s) it was processed. All processing notes must be formatted like this with EAD tags: Processed by \<name>Archivist Name\</name> in \<date>Year\</date>.[DACS 7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information) contains more information on processing notes.  
