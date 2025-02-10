@@ -16,7 +16,15 @@ In addition to objects, SPEC stores information about acquisitions, collections,
 ## Connecting
 SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both client and browser. Connection options may depend on a user's SPEC account type. Working remotely or using wifi requires a working and properly configured connection to NYPL's VPN. 
 
-Contact PCP Systems and Operations for additional instructions on connecting to SPEC. 
+If connecting to SPEC using the FileMaker client for the first time, follow these steps:  
+- Open FileMaker and select File > Hosts from the menu
+- Click on FileMaker PRODUCTION. If the production server in not listed, file a ServiceNow ticket for instuctions on connecting to the server manually 
+- If an SSL certificate warning message appears, check “Always permit connect to this host” and then click on the Connect button
+- Sign in to the server using the SPEC credentials provided via email
+- Right click on CollectionInfo and select "Add to Favorites." From now on CollectionInfo will appear under File > Favorites and in the Favorites window when opening FileMaker 
+- Click on CollectionInfo and sign in with the SPEC credentials provided via email
+
+If connecting to SPEC using the browser, use the url provided in your account set-up email.
 
 
 ## Accounts and Privileges 
