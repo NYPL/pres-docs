@@ -10,4 +10,8 @@ nav_order: 24
 
 {: .note }
 > This page is under construction! 
-> Content coming soon ...
+> More content coming soon ...
+
+Several exports of object records are availble from the **Object Search** interface.
+
+Each of the **List Edit** interfaces also contains an object export. 

@@ -27,6 +27,8 @@ The search results list groups collections by research center and curatorial div
 {: .tip }
 > Clicking on the collection title anywhere it is clickable in SPEC will navigate to the collection record. 
 
+Information about the collections in the search results can be exported using the **Export (CSV)** button in the lower right corner of the **Collections Search** interface.
+
 
 ## Creating and Editing Collection Records
 Collection records can be created by clicking **Create collection record** in the Collections section of the **SPEC landing page** or by clicking the **+** button in the upper right of the **Collections Search** or **Collections Summary** interface. This opens the **Edit Collection Record** pop-up window. This window can also be accessed to edit an existing collection by clicking the **pencil and paper** icon in the upper right corner of the **Collection Summary** interface. 
