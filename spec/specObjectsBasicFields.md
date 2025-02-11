@@ -45,6 +45,8 @@ The title or label field can be used to:
 - Briefly describe what an item is (e.g., umbrella)
 - Briefly describe a container’s contents, which may be useful when browsing lists and/or shelves of containers and for differentiating two containers with the same sequence number (e.g., Box 1 AMI vs. Box 1 Artifacts vs. Box 1 Files)
 
+When object records are imported from the catalog, the author and title are included in this field.
+
 
 ## ID Number Prefix
 *optional, single free text value*
@@ -69,7 +71,8 @@ The fields described above can all be viewed or updated in the [Basic Fields](ht
 &nbsp; 
 
 
-## SPEC Generated Fields
+## SPEC Generated Fields  
+The SPEC generated fields described below cannot be edited.
 
 ## Object ID
 *automatically generated, single numeric value, unique* 
@@ -96,8 +99,3 @@ SPEC creates an object name, displayed on the **Object Search**, **Object Record
 - Container contents when no sequence number or label is entered
 - AMI id for audio and moving image items
 - Object id when all other ID fields are empty
-
-&nbsp; 
-&nbsp; 
-
-The SPEC generated fields described above cannot be edited.

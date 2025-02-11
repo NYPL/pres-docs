@@ -94,7 +94,7 @@ Once the duplicate object(s) are created, use the editing shortcuts, object reco
 
 
 ## Deactivating Object Records
-Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the person who deactivates an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation. Containers that contain other objects cannot be deactivated. 
+Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the username of the account deactivating an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation. Containers that contain other objects cannot be deactivated. 
 
 Examples of inactive objects are:
 - An item or container that was part of a proposed acquisition but was not ultimately acquired
@@ -102,7 +102,7 @@ Examples of inactive objects are:
 - A container that was replaced during rehousing
 - A record that was created in error
 
-Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop down menu, adjust the date and account name if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
+Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop down menu, adjust the date and username if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
 
 {: .tip }
 > Clicking the **x** button in the upper left of the deactivation window will exit without deactivating the object(s)

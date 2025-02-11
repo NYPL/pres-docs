@@ -17,7 +17,7 @@ The values in each of the three format fields are conditional to, first, the typ
 ## Class
 *highly recommended, single controlled value*
 
-Class represents the form factor or approximate "shape" of the object. Most formats have default classes, though the class can be entered or manually overwritten. The available classes are:
+Class represents the form factor or approximate "shape" of the object. Most formats have default classes, although the class can be entered or overwritten manually. The available classes are:
 
 - **3D object**: three-dimensional objects for which there are no more specific terms in this list
 - **Cassette**
@@ -33,11 +33,11 @@ Class represents the form factor or approximate "shape" of the object. Most form
 ## Content Form
 *highly recommended, single controlled value*
 
-Content form identifies the form of the primary content carried by an object. For example, the Content Form of a book is text, a score is musical notation, and a map is cartographic. The available terms are: audio, cartographic, graphic, moving image, musical notation, and text. 
+Content form identifies the form of the primary content carried by an object. For example, the fontent form of a book is text, a score is musical notation, and a map is cartographic. The available terms are: audio, cartographic, graphic, moving image, musical notation, and text. 
 
 
 ## Extents
-*optional, multiple values*
+*highly recommended, multiple values*
 
 Extent captures the dimensions of an object. Relevant dimensions depend on the object’s type, class, and content. Each extent measurement comprises several elements:
 
@@ -55,10 +55,10 @@ The numeric value representing the number of units.
 
 ### Context
 *optional, single controlled value*  
-Specifies the context in which the measurement was taken. The available contexts are: storage, use, display (used for exhibitions and loans).
+Specifies the context in which the measurement was taken. The available contexts are: storage (default value), use, display (used for exhibitions and loans).
 
 ### Linear Feet Dimension
-*optional, single controlled value*  
+*required, single controlled value*  
 The linear feet dimension determines which measure type (if any) should be used when calculating linear feet. For most formats and container types, there is a default value, though it can be adjusted as necessary. For example, for most containers and books, linear feet calculations are determined by their widths.
 
 &nbsp; 
@@ -73,3 +73,5 @@ The linear feet dimension determines which measure type (if any) should be used 
 *optional, multiple controlled values*
 
 Media identifies the material that an object is made of. The level of detail for this value can vary depending on the level of analysis performed on the object.
+
+Media can viewed or updated by navigating to the **Media** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, in the media column of the the **Object list survey** interface, and under the media heading in the left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
