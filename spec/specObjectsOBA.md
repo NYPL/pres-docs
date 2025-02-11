@@ -35,5 +35,5 @@ When updating relationships the contained object's previous relationship will be
 
 Objects must have a barcode in order to be updated via the Object Barcode App, if an object does not have a barcode use the editing interfaces available through the **Object Search** and **Object Record** or the **List Edit** interfaces to update the object. 
 
-{: .note }
+{: .tip }
 > Click on an object name to navigate to the **Object Record** interface. Once in the object record interface, click on the SPEC logo to navigate back to the SPEC landing page and click on the Object Barcode App link to return to the app.

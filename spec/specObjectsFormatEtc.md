@@ -6,10 +6,6 @@ grand_parent: SPEC
 nav_order: 2
 ---
 
-{: .note }
-> This page is under construction! 
-> Content is being edited ...
-
 ## Format
 *highly recommended, controlled single value with up to three levels of specificity*
 
@@ -17,8 +13,6 @@ Format represents the generic name for a single object. For items, the format va
 
 The values in each of the three format fields are conditional to, first, the type of object (item or container) and further, the values entered into each of the three levels of format. Not every format or container type has options for all three format fields. It is not required to select a value in the second or third format field, even when options are available for those fields.
 
-&nbsp; 
-&nbsp; 
 
 ## Class
 *highly recommended, single controlled value*
@@ -35,16 +29,12 @@ Class represents the form factor or approximate "shape" of the object. Most form
 - **Sheet**: non-bound items for which the depth of individual items is negligible, such as paper, vellum, photographs, and photographic negatives, including glass or metal plates
 - **Volume**
 
-&nbsp; 
-&nbsp; 
 
 ## Content Form
-*single controlled value*
+*highly recommended, single controlled value*
 
 Content form identifies the form of the primary content carried by an object. For example, the Content Form of a book is text, a score is musical notation, and a map is cartographic. The available terms are: audio, cartographic, graphic, moving image, musical notation, and text. 
 
-&nbsp; 
-&nbsp; 
 
 ## Extents
 *optional, multiple values*
@@ -52,27 +42,29 @@ Content form identifies the form of the primary content carried by an object. Fo
 Extent captures the dimensions of an object. Relevant dimensions depend on the object’s type, class, and content. Each extent measurement comprises several elements:
 
 ### Measure Type
-*required, single controlled value*
-
+*required, single controlled value*  
 The specific dimension being measured. The available measure types are: height, width, depth, diameter, weight, runtime, and bytesize.
 
 ### Unit
-*required, single controlled value*
-
+*required, single controlled value*  
 The unit of measurement for the selected measure type. The available units are: inches, centimeters, kilograms, pounds, milliseconds, GB.
 
 ### Measurement
-*required, single numeric value*
-
+*required, single numeric value*  
 The numeric value representing the number of units.
 
 ### Context
-*optional, single controlled value* 
-
+*optional, single controlled value*  
 Specifies the context in which the measurement was taken. The available contexts are: storage, use, display (used for exhibitions and loans).
 
 ### Linear Feet Dimension
+*optional, single controlled value*  
 The linear feet dimension determines which measure type (if any) should be used when calculating linear feet. For most formats and container types, there is a default value, though it can be adjusted as necessary. For example, for most containers and books, linear feet calculations are determined by their widths.
+
+&nbsp; 
+&nbsp; 
+
+
 
 &nbsp; 
 &nbsp; 

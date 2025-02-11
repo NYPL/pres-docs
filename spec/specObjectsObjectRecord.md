@@ -7,11 +7,6 @@ nav_order: 23
 ---
 
 ## Object Record Interface
-
-{: .note }
-> This page is under construction! 
-> More content coming soon ...
-
 The **Object Record** interface displays information about an individual object. Most blue text opens pop-up interfaces where additional information can be viewed and, depending on user permissions, edited. In addition to the header, left panel, and main section of the interface, AMI and digital media objects display a format icon to the right of the object name where additional format specific information can be accessed. 
 
 {: .tip }
