@@ -15,7 +15,7 @@ An object can have one active migration status, and multiple inactive migration 
 
 The left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface displays a simplified version of the active migration/digitization status. View inactive statuses and the dates a status became active/inactive in the migration/digitization pop-up window. This window can be accessed by clicking on the current status or placeholder text int the **Object Record** interface or in the digitization, description, additional IDs tab of the AMI specific editing interfaces, see [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information. 
 
-Additionally, when working with a group of objects, migration statuses can be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsMigration.html) interface. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to update the migration status of multiple objects at once. 
+Additionally, when working with a group of objects, migration statuses can be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#ami) interface. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to update the migration status of multiple objects at once. 
 
 Migration statuses are automatically updated when digitization projects are marked as completed. See SPEC Projects (documentation forthcoming) for more information.
 
