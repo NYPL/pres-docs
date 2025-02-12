@@ -14,7 +14,7 @@ The issues section of an object record is used to record preservation issues dis
 
 ### Type
 *required, single controlled value*  
-The type of issue entered determines the available choices for the specific issue field. The following issue types are availabe in SPEC: Condition Issues, Conservation Review, Hazard, Housing, Inherent Vice, Location, Other, Storage Method.
+The type of issue entered determines the available choices for the specific issue field. The following issue types are availabe in SPEC: Condition Issues, Conservation Review, Digital Media, Disposition, Hazard, Housing, Inherent Vice, Location, Media Caputure, Other, Storage Method.
 
 ### Issue 
 *required, single controlled value* 
@@ -51,3 +51,8 @@ Use this field to enter any additional information about the issue and its resol
 &nbsp; 
 &nbsp;
 
+Issues can viewed or updated by clicking on the yellow **hazard** icon in the [Object Search](https://nypl.github.io/pres-docs/spec/specObjects.html#object-search) interface, by navigating to the **Issues** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the Issues section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information. 
+
+Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to add an issue to multiple objects at once. The same issue data will be added to each selected object.
+
+Use the **Remove issue** button only to delete an issue added to an object by mistake, otherwise use the resolved on and resolved by fields to maintain an accurate historical record of object issues.

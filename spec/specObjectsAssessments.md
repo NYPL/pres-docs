@@ -35,7 +35,7 @@ Displays the number of issues recorded during the assessment.
 &nbsp; 
 &nbsp; 
 
-The left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface displays the date of the latest assessment associated with an object. Click on the assessment date or the placeholder text under the Last Assessed heading to view details about all previous assessments or to add a new assessment. 
+The left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface displays the date of the latest assessment associated with an object. Click on the assessment date or the placeholder text under the Last Assessed heading to view details about all previous assessments or to add a new assessment in the **Assessments**  pop-up window.  
 
 Click the **Today** button shortcut (CLMGT only) next to the Last Assessed heading in the **Object Record** or use the **eye** icon on the [List Edit - Survey](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#survey-clmgt-only) interface (CLMGT only) to add an assessment with today's date, special collections survey assessment name, and your username.
 
@@ -43,3 +43,4 @@ An assessment is automatically created when an issue is added to an object, with
 
 An assessment is automatically created when and AMI film item is marked as inspected with today's date, a film inspection assessment name, and the name of the user who marked the film as inspected. See [AMI film fields](ADD LINK) for more information.
 
+An assessment added by mistake can be deleted using the **x** button in the **Assessments**  pop-up window. However, deleting an assessment does not delete an issue or film inspection that may have automatically created the assessment. 
