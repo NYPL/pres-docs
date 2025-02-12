@@ -94,7 +94,7 @@ Once the duplicate object(s) are created, use the editing shortcuts, object reco
 
 
 ## Deactivating Object Records
-Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the username of the account deactivating an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation. Containers that contain other objects cannot be deactivated. 
+Object records are not deleted, except in very specific circumstances. Instead, they are made inactive. SPEC records the name of the user deactivating an object, the date it became inactive, and requires the deactivator to enter a reason for deactivation. Containers that contain other objects cannot be deactivated. 
 
 Examples of inactive objects are:
 - An item or container that was part of a proposed acquisition but was not ultimately acquired

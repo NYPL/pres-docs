@@ -31,6 +31,6 @@ To deactivate a relationship click the **x** button next to the relationship in 
 If an object has an active containedIn relationship, an icon representing the container is visible next to the location designation in the **Object Search** interface. Hover over the icon to see details about the container, click on the icon to obpen the container's object record. Contained objects inherit their locations from their containers, see [Locations](https://nypl.github.io/pres-docs/spec/specObjectsLocations.html) for more information.
 
 
-A containedIn relationship can also be viewed or updated in the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsMigration.html) interfaces. A containedIn relationship for multiple objects and the same container can be established using the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html). ContainedIn and contains relationships can be viewed an updated in the [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html). 
+A containedIn relationship can also be viewed or updated in the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsMigration.html) interfaces. A containedIn relationship for multiple objects and the same container can be established using the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html). ContainedIn and contains relationships can also be viewed an updated in the [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html). 
 
 

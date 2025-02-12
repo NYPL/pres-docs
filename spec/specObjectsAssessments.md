@@ -9,9 +9,8 @@ nav_order: 10
 ## Assessments
 *as needed, multiple values*
 
-Objects are assessed by staff in various contexts: during the evaluation of an acquisition; in response to inclusion in a potential loan, exhibition, or digitization project; and during an assessment/survey project.
+Objects are assessed by staff in various contexts: during the evaluation of an acquisition; in response to inclusion in a potential loan, exhibition, or digitization project; and during an assessment/survey project. An object can be assessed multiple times. Each assessment consists of multiple elements.
 
-Assessments are logged using the following fields:
 
 ### Date
 *required, single date value*  
@@ -19,11 +18,11 @@ The date an object was assessed.
 
 ### Assessed By
 *required, single controlled value*  
-The staff member who conducted the assessment. SPEC automatically fills in the username of the account logging the assessment, although this field can be modified manually.
+Records the staff member who conducted the assessment. SPEC auto-populates this field with the name of the user logging the assessment. The field can be modified manually, if necessary.
 
 ### Assessment Name
 *optional, single controlled value*  
-This field is used to associate the assessment with a specific project or type of assessment, such as accessioning, exhibition loan / review, site visit, or the special collections survey. When AMI film item is marked as inspected, the assessment name auto-populates to film inspection. 
+This field associates the assessment with a specific project or specifies the type of assessment. Available assessment names are: accessioning, exhibition loan / review, site visit, or the special collections survey. 
 
 ### Documentation
 *required as needed, single controlled value*  
@@ -31,4 +30,16 @@ Enter "Y" when the object has acquisition or other documentation, leave blank ot
 
 ### Issues (Count)
 *automatically generated*  
-This field displays the number of issues recorded during the assessment.
+Displays the number of issues recorded during the assessment.
+
+&nbsp; 
+&nbsp; 
+
+The left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface displays the date of the latest assessment associated with an object. Click on the assessment date or the placeholder text under the Last Assessed heading to view details about all previous assessments or to add a new assessment. 
+
+Click the **Today** button shortcut (CLMGT only) next to the Last Assessed heading in the **Object Record** or use the **eye** icon on the [List Edit - Survey](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#survey-clmgt-only) interface (CLMGT only) to add an assessment with today's date, special collections survey assessment name, and your username.
+
+An assessment is automatically created when an issue is added to an object, with the date the issue is noted and the name of the user who added the issue. If multiple issues are added with the same date, no new assessment is created, rather the number of issues is added up in the issues count field. See [Issues](https://nypl.github.io/pres-docs/spec/specObjectsIssuess.html) for more information.
+
+An assessment is automatically created when and AMI film item is marked as inspected with today's date, a film inspection assessment name, and the name of the user who marked the film as inspected. See [AMI film fields](ADD LINK) for more information.
+
