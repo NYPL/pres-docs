@@ -14,15 +14,15 @@ Objects are assessed by staff in various contexts: during the evaluation of an a
 
 ### Date
 *required, single date value*  
-The date an object was assessed.
+The date an object was assessed. SPEC auto-populates the field with today's date; the field can be modified manually if necessary.
 
 ### Assessed By
 *required, single controlled value*  
-Records the staff member who conducted the assessment. SPEC auto-populates this field with the name of the user logging the assessment. The field can be modified manually, if necessary.
+Records the staff member who conducted the assessment. SPEC auto-populates the field with the name of the user logging the assessment; the field can be modified manually, if necessary.
 
 ### Assessment Name
 *optional, single controlled value*  
-This field associates the assessment with a specific project or specifies the type of assessment. Available assessment names are: accessioning, exhibition loan / review, site visit, or the special collections survey. 
+This field associates the assessment with a specific project or specifies the type of assessment. In many instances SPEC auto-populates the field to special collections survey; the field can be modified manually, if necessary. The following assessment names are available in SPEC: accessioning, exhibition loan / review, site visit, or the special collections survey. 
 
 ### Documentation
 *required as needed, single controlled value*  

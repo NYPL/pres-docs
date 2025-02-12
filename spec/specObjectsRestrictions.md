@@ -14,7 +14,7 @@ Restrictions are conditions governing the accessibility of an object. An object 
 
 ### Type  
 *required, single controlled value*  
-The restriction type classifies the conditions that govern the accessibility of an object. These types help identify the nature of the restrictions applied, such as those related to preservation needs, content sensitivity, or other factors. The following restriction types are available: 
+The restriction type classifies the conditions that govern the accessibility of an object. These types help identify the nature of the restrictions applied, such as those related to preservation needs, content sensitivity, or other factors. The following restriction types are available in SPEC: 
 - **Security**: A (valuable) object that is a target for theft
 - **Preservation**: Object that may be damaged if used
 - **Content**: Object with content that violates someone’s privacy or donor placed restriction
