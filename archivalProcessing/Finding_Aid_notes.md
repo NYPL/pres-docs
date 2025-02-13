@@ -16,7 +16,7 @@ Preferred Citation \[[DACS 7.1.5](https://saa-ts-dacs.github.io/dacs/06_part_I/0
 
 Repository Name and Location \[[DACS 2.2](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/02_name_and_location_of_repository.html)]
 
-General Conditions Governing Access Statement \[[DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)]
+General [Conditions Governing Access Statement](/Finding_Aid_notes.md#conditions-governing-access) \[[DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)]
 
 Series Arrangement Note \[[DACS 3.2](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/02_system_of_arrangement.html)]
 
@@ -48,7 +48,7 @@ The purpose of this statement is to describe access restrictions imposed by NYPL
 
 For collections containing audio and moving image, use the correct division statement, both in the front matter, and at the level immediately above the audio and moving image components. See the [Description of Audio and Moving Image Material in ArchivesSpace](/Description_of_AMI_in_ASpace.md) section of this documentation for each division's access note language. 
 
-When a component in a finding aid is restricted or should not be requested in the reading room, you use use the terms **_closed_** or **_Unavailable_** in the <accessrestrict> note at the component-level. This will assure that the item is not requestale in Aeon. 
+When a component in a finding aid is restricted or should not be requested in the reading room, you use use the terms **_closed_** or **_unavailable_** in the <accessrestrict> note at the component-level. This will assure that the item is not requestale in Aeon. 
 
 ### Immediate Source of Acquisition 
 This field describes the source from which NYPL acquired the collection, the date it was acquired, and whether it was purchased or donated. A typical _Immediate Source of Acquisition_ statement is constructed liked this: Purchased \[or donated] from \[by] \[donor/seller name] in \[year]. This information is found in the deed of gift or purchase agreement, which is located in the collection’s acquisition record (or in the dossier for legacy collections). For further guidance on this note, see [DACS 5.2](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html).
