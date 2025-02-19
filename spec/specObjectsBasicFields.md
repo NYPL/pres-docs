@@ -68,9 +68,6 @@ The fields described above can all be viewed or updated in the [Basic Fields](ht
 
 ---
  
-&nbsp; 
-
-
 ## SPEC Generated Fields  
 The SPEC generated fields described below cannot be edited.
 
@@ -83,7 +80,7 @@ Every object has a unique numerical value assigned by SPEC at the time of its cr
 ## AMI ID
 *automatically generated, single numeric value, unique* 
 
-Every AMI object has a six digit unique numerical value assigned by SPEC when an AMI format is added to the object record; this value is distinct from the object id. AMI ids are not editable and are assigned based on a range of values assigned to a user's account. see [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information.
+Every AMI object has a six digit unique numerical value assigned by SPEC when an AMI format is added to the object record; this value is distinct from the object id. AMI ids are not editable and are assigned based on a range of values assigned to a user's account. See [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information.
 
 
 ## Object Name
