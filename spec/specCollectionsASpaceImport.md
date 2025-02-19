@@ -3,7 +3,7 @@ title: ArchivesSpace Object Import
 layout: default
 parent: SPEC Collections
 grand_parent: SPEC
-nav_order: 1
+nav_order: 2
 ---
 
 ## ArchivesSpace Object Import
