@@ -11,8 +11,6 @@ The AMI items associated with a collection can be exported by using the the **AM
 
 This export is *not* formatted for import into ArchivesSpace; the export contains additional fields describing AMI items for reference purposes. Attempting to import this export or any other AMI export from SPEC that is not formatted exactly like the **ASpace AMI Export** (see below) will result in an error.
 
-&nbsp; 
-&nbsp; 
 
 ## ArchivesSpace AMI Export
 Similarly to the **AMI Export**, the **ASpace AMI Export** found in the SPEC Records section of the **Collection Summary** interface, exports a .csv file to the user's desktop of all AMI items associated with a collection.   
