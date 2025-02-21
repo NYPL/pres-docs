@@ -8,11 +8,11 @@ has_children: true
 
 {: .note }
 > This page is under construction! 
-> Content coming soon ...
+> Additional content coming soon ...
 
 Internal Documentation is currently available in the [ArchivesSpace User Guide 🔒](https://docs.google.com/document/d/1VRYbYRTR_ynE1_H6LXVeIwYP4l9AfcNiK5KMD_I4gdw/edit?usp=sharing). 
 
-This guide was created by the Archival Processing unit and is intended to be used by all NYPL ArchivesSpace users. This documentation should be consulted in conjunction with the [Archival Processing manual](https://nypl.github.io/pres-docs/archivalProcessing/archivalProcessing.html), which details standards and workflows for archival description that is created in ArchivesSpace. 
+This documentation was created by the Archival Processing unit and is intended to be used by all NYPL ArchivesSpace users. This documentation should be consulted in conjunction with the [Archival Processing manual](https://nypl.github.io/pres-docs/archivalProcessing/archivalProcessing.html), which details standards and workflows for archival description that is created in ArchivesSpace. 
 
 The ArchivesSpace staff instance is managed by the [Archival Processing](https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing) unit and Preservation and Collections Processing’s [Systems and Operations](https://sites.google.com/nypl.org/specialcollections/systems-and-operations) team. 
 
