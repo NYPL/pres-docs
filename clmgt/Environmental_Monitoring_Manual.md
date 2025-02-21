@@ -91,8 +91,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 18) A window will pop up at the bottom of the screen asking for which format you want the files in. “CSV” should already be listed. Then press “Export.”
 
 19) Each of the files will download and show up in green when they are ready to share. Once all files are downloaded, a window will pop up at the bottom of the screen. Select “Share” and send them to yourself via email. 
-
-    1. Only 20 files can be exported at a time, so repeat this process as many times as necessary until all files are exported. 
+ 1. Only 20 files can be exported at a time, so repeat this process as many times as necessary until all files are exported. 
 
 20)  Once you export the data from HOBOconnect and receive the email(s) with your downloaded data, download the files onto your computer. You can download the folder so all of the files are downloaded together. The downloaded file will be zipped due to its size, so right click on the folder and select “Extract All.”
 
