@@ -128,6 +128,7 @@ nav_order: 1
     - Rare and difficult to distinguish from EIAJ/AV without playback. Unless explicited noted on the reel, select EIAJ/AV.
 - [half-inch open-reel video EIAJ/AV](https://obsoletemedia.org/%c2%bd-inch-eiaj-open-reel-video-tape/)
 - half-inch open-reel video other
+    - Use for half-inch open-reel video formats with no established format name in SPEC, noting the format name in the AMI Preservation Notes field. Example: [Shibaden video tape](https://obsoletemedia.org/shibaden/).
 - one-inch open-reel video [LEGACY] - DO NOT USE
 - [one-inch open-reel video Type A](https://obsoletemedia.org/1-inch-type-a/)
 - [one-inch open-reel video Type C](https://psap.library.illinois.edu/collection-id-guide/videotape#video1inOR)
