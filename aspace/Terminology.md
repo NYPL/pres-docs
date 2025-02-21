@@ -2,7 +2,7 @@
 title: Terminology
 layout: default
 parent: ArchivesSpace
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 # ArchivesSpace Terminology
