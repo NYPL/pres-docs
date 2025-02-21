@@ -6,9 +6,14 @@ grand_parent: Audio and Moving Image
 nav_order: 1
 ---
 # Audio and Moving Image Format Identification Guide by SPEC Format Type
-- ## [Audio](#audio)
-- ## [Video](#video)
-- ## [Film](#film)
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ## Audio
 
 ### Audio cassette analog
@@ -16,9 +21,7 @@ nav_order: 1
 - audio cassette, other
 - [Compact cassette](https://psap.library.illinois.edu/collection-id-guide/audiotape#compactcassette)
 - [Fidelipac cartridge](https://obsoletemedia.org/fidelipac/)
-
 &nbsp;
-
 ### Audio cassette digital
 - [ADAT](https://en.wikipedia.org/wiki/ADAT)
     - Audio recoded on S-VHS cassette
@@ -29,16 +32,20 @@ nav_order: 1
 - [DAT](https://psap.library.illinois.edu/collection-id-guide/audiotape#dat)
 - [U-Matic/PCM](https://obsoletemedia.org/u-matic-digital-audio/)
     - Audio recorded on U-Matic cassettes
+&nbsp;
 ### Audio grooved belt
 - [Dictabelt](https://obsoletemedia.org/dictabelt/)
+&nbsp;
 ### Audio magnetic belt
 - [Magnabelt/Executary](https://obsoletemedia.org/magnabelt/)
+&nbsp;
 ### Audio grooved cylinder
 - [cylinder](https://obsoletemedia.org/audio/phonograph/#cylinder)
 - [cylinder, black wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, brown wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, blue amberol](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
 - [cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
+&nbsp;
 ### Audio grooved disc
 - disc [LEGACY]
 - [disc, Edison Diamond disc](https://obsoletemedia.org/edison-diamond-disc/)
@@ -53,11 +60,13 @@ nav_order: 1
 - disc, other
 - [disc, shellac](https://psap.library.illinois.edu/collection-id-guide/phonodisc#shellacdisc)
 - [disc, vinyl](https://psap.library.illinois.edu/collection-id-guide/phonodisc#vinyldisc)
+&nbsp;
 ### Audio optical
 - Audio CD-R
 - Audio CD, pressed
 - Compact Disc [LEGACY]
 - Minidisc
+&nbsp;
 ### Audio reel
 - half-inch open-reel audio
 - half-inch open-reel audio, digital
@@ -65,8 +74,10 @@ nav_order: 1
 - two-inch open-reel audio
 - quarter-inch open-reel audio
 - quarter-inch 4-track open-reel audio
+&nbsp;
 ### Audio wire
 - Wire
+&nbsp;
 ## Video
 ### Video cassette
 - Betacam
@@ -95,6 +106,7 @@ nav_order: 1
 - VHS
 - VHS-C
 - Video8
+&nbsp;
 ### Video optical
 - Blu-Ray
 - Laser Disc
@@ -103,6 +115,7 @@ nav_order: 1
 - Video DVD, pressed
 - Video DVD+R
 - Video DVD+RW
+&nbsp;
 ### Video reel
 - half-inch open-reel video [LEGACY]
 - half-inch open-reel video CV
@@ -112,6 +125,7 @@ nav_order: 1
 - one-inch open-reel video Type A
 - one-inch open-reel video Type C
 - two-inch open-reel video Quadruplex
+&nbsp;
 ## Film
 - 8mm film, silent
 - 8mm film, optical sound
