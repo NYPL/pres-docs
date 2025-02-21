@@ -19,9 +19,12 @@ nav_order: 1
 ### Audio cassette analog
 - [8-track](https://psap.library.illinois.edu/collection-id-guide/audiotape#8track)
 - audio cassette, other
+    - Use for Audio cassette formats with no established format name in SPEC, noting the format name in the AMI Preservation Notes field.
 - [Compact cassette](https://psap.library.illinois.edu/collection-id-guide/audiotape#compactcassette)
 - [Fidelipac cartridge](https://obsoletemedia.org/fidelipac/)
+
 &nbsp;
+
 ### Audio cassette digital
 - [ADAT](https://en.wikipedia.org/wiki/ADAT)
     - Audio recoded on S-VHS cassette
@@ -32,20 +35,28 @@ nav_order: 1
 - [DAT](https://psap.library.illinois.edu/collection-id-guide/audiotape#dat)
 - [U-Matic/PCM](https://obsoletemedia.org/u-matic-digital-audio/)
     - Audio recorded on U-Matic cassettes
+
 &nbsp;
+
 ### Audio grooved belt
 - [Dictabelt](https://obsoletemedia.org/dictabelt/)
+
 &nbsp;
+
 ### Audio magnetic belt
 - [Magnabelt/Executary](https://obsoletemedia.org/magnabelt/)
+
 &nbsp;
+
 ### Audio grooved cylinder
 - [cylinder](https://obsoletemedia.org/audio/phonograph/#cylinder)
 - [cylinder, black wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, brown wax](https://psap.library.illinois.edu/collection-id-guide/cylinder#waxcylinder)
 - [cylinder, blue amberol](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
 - [cylinder, celluloid](https://psap.library.illinois.edu/collection-id-guide/cylinder#plasticcylinder)
+
 &nbsp;
+
 ### Audio grooved disc
 - disc [LEGACY]
 - [disc, Edison Diamond disc](https://obsoletemedia.org/edison-diamond-disc/)
@@ -58,9 +69,12 @@ nav_order: 1
 - [disc, lacquer, paper base](https://psap.library.illinois.edu/collection-id-guide/phonodisc#lacquerdisc)
 - [disc, metal](https://psap.library.illinois.edu/collection-id-guide/phonodisc#aluminumdisc)
 - disc, other
+    - Use for Audio grooved disc formats with no established format name in SPEC, noting the format name in the AMI Preservation Notes field.
 - [disc, shellac](https://psap.library.illinois.edu/collection-id-guide/phonodisc#shellacdisc)
 - [disc, vinyl](https://psap.library.illinois.edu/collection-id-guide/phonodisc#vinyldisc)
+
 &nbsp;
+
 ### Audio optical
 - [Audio CD-R](https://psap.library.illinois.edu/collection-id-guide/opticalmedia#cd)
     - use for any CD that can be "burned", i.e. recorded onto. Identifiable by a bluish-green tinged playback surface.
@@ -68,7 +82,9 @@ nav_order: 1
     - Use for CDs [produced commercially](https://obsoletemedia.org/compact-disc-stamper/), identifiable by a silver playback surface.
 - Compact Disc [LEGACY] - DO NOT USE
 - [Minidisc](https://psap.library.illinois.edu/collection-id-guide/opticalmedia#minidisc)
+
 &nbsp;
+
 ### Audio reel
 - [half-inch open-reel audio](https://psap.library.illinois.edu/collection-id-guide/audiotape#audiohalfinOR)
 - [half-inch open-reel audio, digital](https://obsoletemedia.org/dash/)
@@ -76,10 +92,16 @@ nav_order: 1
 - [two-inch open-reel audio](https://psap.library.illinois.edu/collection-id-guide/audiotape#audio2inOR)
     - Older [SoundScriber tape](https://obsoletemedia.org/soundscriber-tape/) should also be categorized as this format in SPEC
 - [quarter-inch open-reel audio](https://psap.library.illinois.edu/collection-id-guide/audiotape#audioquarterinOR)
+
 &nbsp;
+
 ### Audio wire
 - [Wire](https://psap.library.illinois.edu/collection-id-guide/wire)
+
 &nbsp;
+
+---
+
 ## Video
 ### Video cassette
 - [Betacam](https://obsoletemedia.org/betacam/)
@@ -110,7 +132,9 @@ nav_order: 1
 - [VHS](https://psap.library.illinois.edu/collection-id-guide/videotape#vhs)
 - [VHS-C](https://obsoletemedia.org/vhs-c/)
 - [Video8](https://obsoletemedia.org/video8/)
+
 &nbsp;
+
 ### Video optical
 - [Blu-Ray](https://obsoletemedia.org/blu-ray-disc/)
 - [Laser Disc](https://psap.library.illinois.edu/collection-id-guide/opticalmedia#laserdisc)
@@ -121,7 +145,9 @@ nav_order: 1
     - Also use for [DVD-R](https://obsoletemedia.org/dvd-r/) discs
 - [Video DVD+RW](https://obsoletemedia.org/dvdrw/)
     - Also use for [DVD-RW](https://obsoletemedia.org/dvd-rw/) discs
+
 &nbsp;
+
 ### Video reel
 - half-inch open-reel video [LEGACY] - DO NOT USE
 - [half-inch open-reel video CV](https://psap.library.illinois.edu/collection-id-guide/videotape#videohalfinOR)
@@ -133,7 +159,11 @@ nav_order: 1
 - [one-inch open-reel video Type A](https://obsoletemedia.org/1-inch-type-a/)
 - [one-inch open-reel video Type C](https://psap.library.illinois.edu/collection-id-guide/videotape#video1inOR)
 - [two-inch open-reel video Quadruplex](https://psap.library.illinois.edu/collection-id-guide/videotape#video2inOR)
+
 &nbsp;
+
+---
+
 ## Film
 - [8mm film, silent](https://psap.library.illinois.edu/collection-id-guide/film#film8mm)
 - 8mm film, optical sound - DO NOT USE
