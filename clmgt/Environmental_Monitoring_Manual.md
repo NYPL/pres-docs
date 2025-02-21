@@ -78,10 +78,10 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 13) Once the loggers finish downloading, select “Done” in the top left corner of the screen. 
 
 14) Next, check to see how much battery each logger has as well as how full the memory is. In the current version of the app, you do so by looking at the small icons on the logger screen. Select a logger to connect. The small battery icon at the top of the screen indicates how much battery is left. If there is only one bar left, the batteries should be replaced. The small icon on the lower right indicates the amount of memory used. If it appears to be almost full, the logger’s memory should be cleared. 
- 1. _If the batteries need to be replaced:_ make sure to download and export any data on the logger first, because otherwise it will be lost. Once the data is downloaded, then take out the old batteries and put the new ones in. When the logger pops up in the logger list in the app, it will say “Power Reset.”
+ 1. *If the batteries need to be replaced:* make sure to download and export any data on the logger first, because otherwise it will be lost. Once the data is downloaded, then take out the old batteries and put the new ones in. When the logger pops up in the logger list in the app, it will say “Power Reset.”
       1. Next, click on “Configure & Start” in the upper left of the screen in the app. A window will pop up confirming that you want to configure the device. Click “Yes.” Then, click the “Start” button on the bottom right.
 
-1. _If the logger’s memory needs to be cleared:_ click on “Configure & Start” in the upper left of the screen in the app. A window will pop up confirming that you want to configure the device. Click “Yes.” Then, click the “Start” button on the bottom right.
+1. *If the logger’s memory needs to be cleared:* click on “Configure & Start” in the upper left of the screen in the app. A window will pop up confirming that you want to configure the device. Click “Yes.” Then, click the “Start” button on the bottom right.
 15) Once you finish downloading the data for all spaces in your building, the files need to be exported. Click on the folder icon labeled “Data” on the bottom of the screen.
 
 16)  Click “Export and Share” in the upper right corner. 
