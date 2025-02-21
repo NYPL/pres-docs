@@ -1,11 +1,11 @@
 ---
-title: Application Overview and Navigation
+title: Overview and Navigation
 layout: default
 parent: ArchivesSpace
 nav_order: 4
 has_children: false
 ---
-# Application Overview and Navigation
+# Overview and Navigation
 {: .no_toc }
 
 At NYPL all work in ASpace occurs in the _staff interface_. When you navigate to NYPL’s instance of ArchivesSpace, you are taken to the _staff interface_ by default. You will notice a link to the _public interface_ at the bottom of the screen, but this is not enabled or used at NYPL because we publish our finding aids to the [archives portal](https://archives.nypl.org/). 
