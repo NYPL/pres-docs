@@ -30,7 +30,9 @@ nav_order: 2
     - Transcribe all information from the media enclosure or the media itself that describes the content of the item. This is important for future description because the original media will be sent to ReCAP. Clarify any abbreviations used by the creator, if you are familiar with them.
 10. Preservation Notes
     - Note any conservation issues as well as technical details that could be useful for transfer. Some examples of technical details include speed, channels, track number, and video system if noted (i.e. NTSC, PAL, SECAM).
-    - 
 11. Deaccession?
+    - Dropdown field to indicate recommendation of whether or not to deaccession/dispose of the item, either Y (Yes) or N (No).
 12. Deaccession Recommendation Rationale
+    - Only use if Y is selected in the "Deaccession?" field. Enter information regarding why the item is being recommended for deaccession/disposal.
 13. Notes
+    - Enter any additional notes which are not related to the content or preservation of the item, i.e. administrative notes, information about related materials/separated papers, etc.
