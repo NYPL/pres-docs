@@ -23,5 +23,6 @@ The list displays the first content estimate for container type objects, if one 
 ## AMI
 The **List Edit - AMI** interface will limit the found set of object records to AMI only. This interface includes a **Film Stats** button. It has the option to navigate to **All Items in Containers** or to **Go to Containers**. These buttons open the specified set of objects in the **Object Search** interface. Includes Bulk Action menu options.
 
+
 ## Survey (CLMGT only)
 The **Object list survey** interface is similar to the **List Edit - ALL** interface, but displays fields and shortcuts most relevant to performing special collection survey assessments. The interface includes an **eye** icon that automatically creates an assessment record attributed to the signed in user with today's date. This interface also includes a button to **Create object record** 

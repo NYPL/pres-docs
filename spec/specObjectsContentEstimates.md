@@ -18,6 +18,11 @@ Content estimates include a count, format, class, and media, and GB if appropria
 {: .tip }
 > Use "manuscripts" for textual documents that are not printed (e.g., handwritten or typed) or for printed documents with extensive handwritten annotations. Use "archives (paper)" for mixed items in various formats (including photographs) that are difficult to count separately. Count or estimate the number of sheets of paper, not intellectual units like letters. Indicate class and media whenever possible.
 
+Content estimates are used for containers, not for groups of items that are uncontained. Exceptions for the use of the "loose" container type are:
+- When making object records in the context of an acquisition for a group of items that will be boxed before shipment
+- During the Special Collection Survey for a group items that require housing
+- During the Special Collection Survey, the container type loose has been used to count some shelves of books for which individual object records have not yet been made
+
 Content Estimates can viewed or updated by navigating to the **Estimates** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the Content Estimates section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. To delete an incorrect content estimate click the **x** button next to the content estimate. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
 
 Additionally, there is a shortcut to add a content estimate in the **Basic Fields** editing interface when the object is a container. A content estimate can also be viewed or updated in the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces. 

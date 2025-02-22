@@ -6,10 +6,6 @@ grand_parent: SPEC
 nav_order: 6
 ---
 
-{: .note }
-> This page is under construction! 
-> Content update in progress ...
-
 ## References
 *as needed, multiple controlled values*
 
@@ -32,8 +28,8 @@ Legacy reference types include the CMS AMI dig batch id (superseded by SPEC Proj
 &nbsp; 
 &nbsp; 
 
-All references can viewed and editable references can be updated by navigating to the **References** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the References section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. To delete an incorrect reference click the **x** button next to the reference, only editable references can be deleted. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
+All references can viewed and editable references can be updated by navigating to the **References** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the References section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. To delete an incorrect reference click the **x** button to the left of the reference, only editable references can be deleted. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
 
-When adding references to other SPEC record types, such as CMS collection id and CMS acq delivery id, click the **Search** button to the right of the new reference to open an intermediate window and search for the related record. Select the related record from the results to create the reference. When adding an acquisition delivery and its associated acquisition reference there is an option to create a new acquisition record if one does not yet exist in SPEC using the green **+ NEW ACQUISITION** button. This option is most often used during retrospective accessioning workflows. See SPEC Acquisitions [ADD LINK] for more information.
+When adding references to other SPEC record types, such as CMS collection id and CMS acq delivery id, click the **Search** button to the right of the new reference to open an intermediate window and search for the related record. Select the related record from the results to create the reference. When adding an acquisition delivery and its associated acquisition reference there is an option to create a new acquisition record if one does not yet exist in SPEC using the green **+ NEW ACQUISITION** button. This option is most often used during retrospective accessioning workflows. See SPEC Acquisitions [DOCUMENTATION FORTHCOMING] for more information.
 
 Use the **Add to collection**, **Add to acquisition (delivery / location)**, or **Add to project** options in in the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to add the same collection, acquisition and delivery, or SPEC project reference to multiple objects. Search for the related collection, acquisition delivery or SPEC project in the pop-up search window; there is also an option to create a new acquisition or a new SPEC project when creating references using the Bulk Action Menu.
