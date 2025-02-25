@@ -110,3 +110,40 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 27) Click on the “CSVs” folder.
 
 28) Click on the three dots in the upper right corner and choose “Select.” Click on all of the datasets you would like to delete and then click on the trash can icon in the lower right corner. Deleting the files here will also delete them from the HOBOconnect app. If you go back to the “Data” page, it will now be empty. 
+
+## **Section 2: eClimateNotebook**
+
+eClimate Notebook is the online program used to track the environmental data for all of the Research Libraries and LSC. Data for some spaces is available as far back as the year 2000, though most dataloggers were installed starting in 2017 upon the foundation of the Collection Management program. eClimate Notebook allows us to look at metrics such as temperature, relative humidity, dew point and mold risk in order to analyze potential threats to collections caused by environmental conditions. 
+
+
+### **Section 2.1: Uploading New Data**
+
+After you finish downloading environmental data in each space using HOBOconnect and send yourself the files via email, they need to be uploaded into eClimate Notebook.
+
+Once logged in, select “Data Manager” in the bar at the top of the page and follow the below instructions:
+
+1. Click on “Upload” and a finder window will pop up. Select all of the files you want to upload (click and drag all) and click “Open.”
+
+2. Once the data has been successfully uploaded, it is displayed in a chart with two columns: “Data File” and “Location Dataset Name.” In the “Location Dataset Name” column, each of the names needs to be changed to include just the location dataset name (“Building-Room Number”). All of the numbers after the room number should be deleted. 
+
+   1. Once you delete the extra numbers, the room name will appear in a drop down menu. Select the room. Doing so connects the data you are uploading to all other past data for that space.
+
+3. When you finish shortening all of the Location Dataset Names, click “Ok.”
+
+4. The data will then begin to upload. Once it is finished, click on “Continue to Graphs.” 
+
+5. If a new dataset is uploaded (i.e. for a new room) that is not associated with a space in the location hierarchy (visible on the left side of the screen), it will show up as unassigned at the bottom of the locations list. To insert it into the hierarchy, use the “Manage Hierarchy” field under “Data Manager” at the top of the page. For more information, see [Section 2.2.1.2: Manage Hierarchy](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit#heading=h.lduxw499mq0r).
+
+
+### **Section 2.2: Organizing and Editing Datasets** 
+
+#### **Section 2.2.1: Data Manager**
+
+There are three fields under the “Data Manager” header: “Upload Data,” “Data History,” and “Manage Hierarchy.” For an in-depth description of how to upload data, see [Section 2.1: Uploading New Data](#section-21-uploading-new-data) above.
+
+
+##### **Section 2.2.1.1: Data History**
+
+The Data History tool is structured in the form of a chart and clearly lists the “Location Dataset  Name,” which is the shortened name of the space (SASB-315N for example), as well as the “Data File” which is the name of the file when it was first uploaded before being shortened (SASB-313N-20227518 2018-03-19 11-40-08 -0400). For each data set, you are able to see when it was created (so when data was first downloaded for the space), when the data currently “ends,” as well as the most recent upload date. 
+
+There are a few tasks that can also be completed within Data History. On the far left of the table, there are five small icons that allow you to: 
