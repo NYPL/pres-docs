@@ -147,3 +147,8 @@ There are three fields under the “Data Manager” header: “Upload Data,” �
 The Data History tool is structured in the form of a chart and clearly lists the “Location Dataset  Name,” which is the shortened name of the space (SASB-315N for example), as well as the “Data File” which is the name of the file when it was first uploaded before being shortened (SASB-313N-20227518 2018-03-19 11-40-08 -0400). For each data set, you are able to see when it was created (so when data was first downloaded for the space), when the data currently “ends,” as well as the most recent upload date. 
 
 There are a few tasks that can also be completed within Data History. On the far left of the table, there are five small icons that allow you to: 
+
+| **Icons**        | **Tasks**        |
+| ---------------- | ---------------- |
+|**Show Graph**    | CLicking on this icon will bring you directly to the graph for the data set |
+**Rename Dataset** | Changes the display name of the location dataset |
