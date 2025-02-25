@@ -26,9 +26,13 @@ In addition to the object elements that are used to describe all objects in SPEC
 | **Inspected by** | film only, account of user who marked film as inspected |
 | **Inspected date** | film only, date film was marked as inspected |
 
+Additional film only fields are: shrinkage, base material, acetate decay level, colorbw, edgecode, volume, film element, FPS, length ft, emulsion position, aspect ratio, fading, scratches, splices, perforation, distortion, and con_average.
+
 &nbsp; 
 &nbsp; 
 
-AMI specific fields can viewed or updated by navigating to the **AMI Additional Fields Basic**, **Digitization, descritpion, additions IDs**, and **AMI Film fields** pop-up window editing interfaces accessible via the **Edit AMI specific fields** or the **Edit AMI film fields** shortcuts on the **Object Search** and the **List Edit** interfaces. The AMI specific editing interfaces can also be accessed by clicking on the **video camera** or **musical note** icon to the right of the object name in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.
+AMI specific fields can viewed or updated by navigating to the pop-up window AMI editing interfaces accessible via the **Edit AMI specific fields** or the **Edit AMI film fields** shortcuts on the **Object Search** and the **List Edit** interfaces. The AMI specific editing interfaces can also be accessed by clicking on the **video camera** or **musical note** icon to the right of the object name in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface.
 
-AMI specific fields can also be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#ami) interface.
+The **AMI Additional Fields Basic** interface includes fields common to most AMI items. The **Digitaization, description, additional IDs** interface includes the [Migration / Digitization Status](https://nypl.github.io/pres-docs/spec/specObjectsMigration.html) information, the [Descritpion](https://nypl.github.io/pres-docs/spec/specObjectsAccessDesc.html#descriptionstatus) field, and a subset of object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) (cat bnumber, classmark, and other legacy id type references only). The **AMI Film fields** interface displays fields used during film inspection. 
+
+AMI specific fields, along with general SPEC object fields used to describe AMI, can also be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#ami) interface.

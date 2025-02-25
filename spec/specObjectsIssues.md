@@ -51,7 +51,7 @@ Use this field to enter any additional information about the issue and its resol
 &nbsp; 
 &nbsp;
 
-Issues can viewed or updated by clicking on the yellow **hazard** icon in the [Object Search](https://nypl.github.io/pres-docs/spec/specObjects.html#object-search) interface, by navigating to the **Issues** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the Issues section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information. 
+Issues can viewed or updated by clicking on the yellow **hazard** icon in the [Object Search](https://nypl.github.io/pres-docs/spec/specObjects.html#object-search) interface, which appears when an object is associated with an unresolved issue. When an object is not already associated with an unresovled issue, add a new issue by navigating to the **Issues** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the Issues section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information. 
 
 Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to add an issue to multiple objects at once. The same issue data will be added to each selected object.
 
