@@ -150,8 +150,8 @@ There are a few tasks that can also be completed within Data History. On the far
 
 | **Icons**        | **Tasks**        |
 | ---------------- | ---------------- |
-|**Show Graph**    | CLicking on this icon will bring you directly to the graph for the data set |
+|**Show Graph**    | Clicking on this icon will bring you directly to the graph for the data set |
 **Rename Dataset** | Changes the display name of the location dataset |
 |**Export Dataset** | Exports a PEM2 format file of the dataset's data to download |
 |**Delete Dataset** | Permanently deletes the dataset from the institution's account. This is used if a dataset is uploaded accidentally. This is the most commonly used icon. |
-|**Archive Dataset** | REmoves the location dataset's data file designation permanently. |
+|**Archive Dataset** | Removes the location dataset's data file designation permanently. |
