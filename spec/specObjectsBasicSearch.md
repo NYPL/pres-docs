@@ -9,7 +9,7 @@ nav_order: 17
 ## Basic Search
 The basic object search is found on the **Object Search** interface. Navigate to the interface by clicking on **Search all objects** in the Objects section of the **SPEC landing page**. 
 
-Use the available search fields at the top of the Object Search interface individually or in combination. Using multiple fields creates a Boolean AND search, narrowing down your results.
+Use the available search fields at the top of the **Object Search** interface individually or in combination. Using multiple fields creates a Boolean AND search, narrowing down search results.
 
 Click the **Search** button to perform the search and the **Clear** button to clear all search terms and search results. 
 
@@ -29,4 +29,4 @@ Click the **Search** button to perform the search and the **Clear** button to cl
 > Basic searches by default searches active objects only, change the Status field to search for inactive objects or across both active and inactive objects.
 
 ## Additional Search Fields
-Click on **Use additional search fields** below the **Search** and **Clear** buttons to open a pop up window with additional search fields. Use any combination of fields in the pop up window and the basic search on the main Object Search interface to create a Boolean AND search, narrowing down your results.
+Click on **Use additional search fields** below the **Search** and **Clear** buttons to open a pop-up window with additional search fields. Use any combination of fields in the pop-up window and the basic search on the main **Object Search** interface to create a Boolean AND search, narrowing down search results.

@@ -10,12 +10,12 @@ nav_order: 27
 SPEC queries Sierra using an object’s barcode in order to update fields in the object record, create references in an object record to its Sierra item and bibliographic records, and update the description status of the object based on those references.
 
 {: .tip }
-> SPEC object division, title or label text, id number prefix, id or sequence number, format, class, and other descriptive text fields are updated if they are empty; collection id, bnumber, item number, and classmark object references are added or updated if they are different.
+> SPEC object division, title or label text, id number prefix, id or sequence number, format, class, and other descriptive text fields are updated with data from Sierra if they are empty; collection id, bnumber, item number, and classmark object references are added or updated if they are different.
 
 SPEC queries Sierra in the scenarios described below.
 
 ### Barcode Entry
-When a user enters a barcode in an object record, SPEC queries Sierra and updates the object record immediately if it finds a match. If no match is found, the record is marked so that its barcode is checked against Sierra each night until a match is found or the object is made inactive.
+When a user enters a barcode in an object record, SPEC queries Sierra and updates the object record immediately if a match is found. If no match is found, the record is marked so that its barcode is checked against Sierra each night until a match is found or the object is made inactive.
 
 ### SPEC Project Updates
 When SPEC updates the outputs for an archival processing project, it queries Sierra using the barcode of each of the project’s output objects that has a barcode and has yet to be matched to a Sierra record.
