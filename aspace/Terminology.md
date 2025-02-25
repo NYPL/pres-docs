@@ -6,15 +6,8 @@ nav_order: 3
 has_children: false
 ---
 # ArchivesSpace Terminology
-{: .no_toc }
 
 This section details the terms used in the ASpace application and when discussing archival description Aspace.
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 ## Resource
  A **resource** is ArchiveSpace’s name for an archival collection. 

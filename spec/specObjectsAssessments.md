@@ -41,6 +41,6 @@ Click the **Today** button shortcut (CLMGT only) next to the Last Assessed headi
 
 An assessment is automatically created when an issue is added to an object, with the date the issue is noted and the name of the user who added the issue. If multiple issues are added with the same date, no new assessment is created, rather the number of issues is added up in the issues count field. See [Issues](https://nypl.github.io/pres-docs/spec/specObjectsIssuess.html) for more information.
 
-An assessment is automatically created when and AMI film item is marked as inspected with today's date, a film inspection assessment name, and the name of the user who marked the film as inspected. See [AMI film fields](ADD LINK) for more information.
+An assessment is automatically created when an AMI film item is marked as inspected with today's date, a film inspection assessment name, and the name of the user who marked the film as inspected. See [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information.
 
 An assessment added by mistake can be deleted using the **x** button in the **Assessments**  pop-up window. However, deleting an assessment does not delete an issue or film inspection that may have automatically created the assessment. 
