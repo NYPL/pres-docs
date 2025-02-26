@@ -106,7 +106,7 @@ To convert XML to MRC, follow the steps below:
 
         901  \\$a---$b---
 
-- Replace the three dashes after _&a_ with your initials
+- Replace the three dashes after _$a_ with your initials
 - Replace the dashes after _$b_ with: **archv**
 
 7\. The **MARC 949** (container list) will include the following fields:
