@@ -22,3 +22,5 @@ All exports download to the user's desktop when using the client. When using the
 Each of the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces also contains an object export. Use the **Export (CSV)** button in the lower left corner of the **List Edit** interfaces to export object record data for all objects visible in the list. The fields exported vary based on the interface from which the export is initiated. 
 
 Additional AMI item exports are availabe from the **Collection Summary** interface, see [SPEC Collections / AMI Exports](https://nypl.github.io/pres-docs/spec/specCollectionsAMIExports.html) for more information. 
+
+See also [Audit Log Export](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html#audit-log-export).

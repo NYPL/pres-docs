@@ -16,6 +16,8 @@ Some object information is only visible in the **Object Record** interface. This
 
 Object image(s) can be added by clicking the image thumbnail or image icon in the upper left corner of header. These images are uploaded only to the SPEC database. This is distinct from the attachments that can be uploaded to the object's GoogleDrive folder. See [Attachments](https://nypl.github.io/pres-docs/spec/specObjectsAttachments.html) for more information.
 
+&nbsp; 
+&nbsp; 
 
-## Audit Log Export
+### Audit Log Export
 The object audit log shows a record of changes to an object record; audit log entries date back to June 2021. Preservation and Collection Processing admin staff have the ability to access an individual object's audit log entries by clicking on the **audit log export** button in the upper right corner of the **Object Record** interface. A .csv file will be downloaded to the user's desktop. 

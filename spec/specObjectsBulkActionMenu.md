@@ -7,7 +7,7 @@ nav_order: 20
 ---
 
 ## Bulk Action Menu
-The Bulk Action Menu provides a way to edit certain object record elements across a group of objects. Find a set of objects in the **Object Search** interface. Select a subset of objects records in the object search result list by clicking the check box to the left of each object, or click on the **Action** menu button above the object check boxes and click **Select All** from the menu. Objects can be deselected individually or using the **Select None** option from the **Action** menu. 
+The **Bulk Action Menu** provides a way to edit certain object record elements across a group of objects. Find a set of objects in the **Object Search** interface. Select a subset of objects records in the object search result list by clicking the check box to the left of each object, or click on the **Action** menu button above the object check boxes and click **Select All** from the menu. Objects can be deselected individually or using the **Select None** option from the **Action** menu. 
 
 {: .tip }
 > When using the Bulk Action Menu the object element specified in the action will be updated to the same value across all selected objects, i.e. each selected object will be assigned the same collection and/or acquisition/delivery reference, the same active location, the same reason for deactivation, etc.
@@ -15,7 +15,7 @@ The Bulk Action Menu provides a way to edit certain object record elements acros
 Click on the **Action** menu button to select an action to be performed across all selected objects.
 
 | **Action** | **Use to** |
-| **Add issue** |  |
+| **Add issue** | add issue to selected objects |
 | **Add to acquisition (delivery / location)** | search for and assign an acquisition delivery id and associated acquisition id references |
 | **Add to collection** | search for and assign a collection id reference; if the collection is associated with an acquisition, this action also adds the acquisition delivery and acquisition references. See SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on SPEC acquisition, acquisition delivery and collection reference logic  |
 | **Add to container** | search for a container and create a contains/containedIn relationship between the container and selected objects; adding selected objects to a container will deactivate any existing relationships to another container |

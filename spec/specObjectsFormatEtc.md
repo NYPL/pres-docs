@@ -14,7 +14,7 @@ Format represents the generic name for a single object. For items, the format va
 The values in each of the three format fields are conditional to, first, the type of object (item or container) and further, the values entered into each of the three levels of format. Not every format or container type has options for all three format fields. It is not required to select a value in the second or third format field, even when options are available for those fields.
 
 {: .tip }
-> Select the format manuscript for a single sheet (leaf) or bound volume of paper that is primarily textual but not printed (e.g., handwritten or typed). Create a single object record for a bound manuscript and designate the class as volume. A multi-leaf unbound manuscript should not be represented by one object record: either make a separate object record for each sheet of paper or make an object record for the container the sheets are in and then enter the number of manuscripts (i.e. sheets) as a content estimate for that container. Though archives (paper) is available as a format selection for container content estimates to represent a mix of paper-based formats, archive is not a format. Therefore, it is not available as a choice for a single item.
+> Use manuscript as a format for an object representing a single sheet (leaf) or a bound volume of paper that is primarily textual, but not printed (i.e. handwritten or typed). For a bound manuscript, designate the class as volume. A multi-leaf unbound manuscript can be represented by separate object records for each sheet of paper OR by a single container with a content estimate. Additionally, although archives (paper) can be used for container content estimates to represent a mix of paper-based formats, archive is not a format and, therefore, is not available for single items.
 
 
 ## Class
@@ -69,7 +69,8 @@ The linear feet dimension determines which measure type (if any) should be used 
 
 The fields described above can all be viewed or updated in the [Basic Fields](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) pop-up window accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and by clicking on the corresponding fields in the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
 
-When adding format information in the **Basic Fields** interface use the format search widget to populate the full format hierarchy automatically. An object format cannot be added until the object type is designated. Class, content form, and extents will auto-populate for some formats. 
+{: .tip }
+> When adding format information in the **Basic Fields** interface use the **Search Fromat List** widget below the format drop down menus to populate the full format hierarchy automatically. An object format cannot be added until the object type is designated. Class, content form, and extents will auto-populate for some formats. 
 
 Width, depth, and height extents can be viewed or added in the **Basic Fields** interface. Click on the extent or placeholder text under the Extent heading in the left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) to view or edit additional extent types, measurements, the extent context, and linear feet dimension.
 

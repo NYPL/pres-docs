@@ -26,7 +26,7 @@ Records the staff member who assigned the value.
 
 ### Date Assigned 
 *required, single date value*  
-The date the value was assigned. SPEC auto-populates the field to the current date. 
+The date the value was assigned. SPEC auto-populates the field to the current date; the field can be modified manually, if necessary.
 
 ### Notes
 *optional, free text*  

@@ -16,7 +16,7 @@ Content estimates should be used when it is not practical or useful to create in
 Content estimates include a count, format, class, and media, and GB if appropriate. Content estimate formats use the same hierarchy as formats for individual objects. See [Format and related fields](https://nypl.github.io/pres-docs/spec/specObjectsFormatEtc.html) for more information.
 
 {: .tip }
-> Use "manuscripts" for textual documents that are not printed (e.g., handwritten or typed) or for printed documents with extensive handwritten annotations. Use "archives (paper)" for mixed items in various formats (including photographs) that are difficult to count separately. Count or estimate the number of sheets of paper, not intellectual units like letters. Indicate class and media whenever possible.
+> Use manuscript for textual documents that are not printed (i.e. handwritten or typed) or for printed documents with extensive handwritten annotations. Use archives (paper) for mixed items in various formats (including photographs) that are difficult to count separately. Count or estimate the number of sheets of paper, not intellectual units like letters. Indicate class and media whenever possible.
 
 Content estimates are used for containers, not for groups of items that are uncontained. Exceptions for the use of the "loose" container type are:
 - When making object records in the context of an acquisition for a group of items that will be boxed before shipment
