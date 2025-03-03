@@ -35,15 +35,19 @@ Improperly housing collections can damage documents and also take up unnecessary
 If you are unsure about the best way to house a particular item in your collection, ask your supervisor. Collection Management can also help advise on the best way to house materials for long term storage
 
 **Intellectual Arrangement and Physical Arrangement**
+
 Boxes may contain more than one series. The physical order in the box may differ from the order in the finding aid.
 
 **Legal Document Boxes are the Preferred Standard**
+
 Even if a collection is received in letter-size folders, they should usually be placed into a legal-size document box. A legal-sized document box can house both legal and letter folders. If the original folder is damaged or annotated, it is good practice to place the original folder inside a new legal-sized folder. 
 
 **Volumes**
+
 Volumes that can comfortably fit, should be placed in folders, and filed spine-down in document boxes. If the volumes are fragile, large, or in poor condition, consult with your supervisor. You may need to coordinate with collections care to make a custom box.
 
 **Do Not Overfill Boxes**
+
 If the box is bulging and the flip-top lid cannot be easily lowered, remove folders until the box closes and the content is secure.
 
 Take care that boxes are not too heavy. Remember that Collection Management will have to ship these items to their permanent storage locations, and reading room staff will have to move these boxes off carts and shelves. If the box is too heavy, it is also likely too full.
@@ -57,9 +61,11 @@ If there are not enough folders to fill the final box, place a rigid acid-free s
 ![box spacer](/Images/22-Box_spacer.jpg)
 
 **Flat Boxes Should Only Contain One Folder Size**
+
 Each flat box should contain only one size folder and the folder should be specific to the box size. For example, a 19” x 25” box should only contain 19” x 25” folders. Smaller or larger sized folders than the dimensions of a single box may cause damage to the materials during handling and transit.
 
 **Numbering Boxes**
+
 As you fill archival boxes, number boxes consecutively throughout the collection; do not restart box numbers with each series or subseries. This will keep the collection accessible and in order while you process the collection. There are different ways to do this, as each archivists’ method varies. One suggestion is to label each box with a post-it note, identifying the name of the collection and box number. Another suggestion is to write lightly in pencil at the location where each box will be labeled later, therefore you don’t have to take time to erase. 
 
 Additionally, do not use prefixes or suffixes when adding new boxes. Use the next consecutive box number available in the collection.
@@ -68,30 +74,39 @@ Additionally, do not use prefixes or suffixes when adding new boxes. Use the nex
 Below are some guidelines for using folders in archival collections.
 
 **Use Original Folders When Possible**
+
 In most cases, the original folders in a collection will be re-used. If the original folders are damaged or not archivally sound, they should be replaced. Even if the original folder can not be reused, for example if it is too full, you should still retain the folder and place it inside the new folder. This is especially important if the original folder includes annotations, or if the folder tile is not being retained in the finding aid.
 
 **Foldering Loose Items**
+
 Loose items will also need to be placed in folders. Legal and letter-size folders have creases (score lines) along the bottom. Use these score lines to expand the folder to optimally fit the material to lay as flat as possible. 
 
 **Legal Folders Are the Standard Folder Size**
+
 Legal-size folders are the standard folder size for housing. Existing letter-size folders can go into legal-size boxes if re-foldering is not necessary. 
 
 **Place the Old Folder into the New One**
+
 If you are not using the original folder because it is the wrong size, you can still include it inside a new folder. This is good practice if the original folder has useful information included. Similarly, if an original folder has labels adhered to the outside, you may use staples to secure them from falling off. 
 
 **Items Should Fit Inside Folders**
+
 Material should not stick out of the sides or the top of the folder. Use a larger folder if materials do not fit.
 
 **Create Additional Folders When A Folder is Too Full**
+
 If a folder was overfilled originally, create two or more folders. Repeat the folder title, and make sure that the order is maintained when items are split between folders and placed in a box.  
 
 **Working with Loose Papers**
+
 Place loose papers into folders, keeping adjacent and related items together. 
 
 **Folded Items in Folders**
+
 Folding large items and retaining them in letter or legal-size containers is often permissible if the item is in good condition and is of low artifactual value. The decision to fold or unfold should be made in consultation with your supervisor.
 
 **Folders in Flat Boxes**
+
 Folders should be placed inside flat boxes with the closed edge facing out towards the open drop front edge. The open side of the folder which (contains the folder title, date, box, and folder number) should be placed against the closed side of the box. See the images below that illustrate this.
 
 ![folders in flat box 1](/Images/23-folders-in-flatbox.jpg)
