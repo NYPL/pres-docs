@@ -7,7 +7,7 @@ has_children: false
 ---
 # Housing, Storage, and Handling
 {: .no_toc }
-This section details how to select the proper housing and containers for various types of archival materials, as well as special handling information for specific format types. This section addresses boxes, folders, oversized material, as well as how to handle photographic material, artwork, and artifacts.
+This section details how to select the proper housing and containers for various types of archival materials, as well as special handling information for specific format types. This section addresses boxes, folders, oversized content, as well as how to handle photographic material, artwork, and artifacts.
 
 When choosing housing for archival materials, make sure the housing is as close in size to the actual object as possible. Large containers, particularly oversized folders, are challenging to serve and tricky for storage. It is usually possible to order a smaller container when one is not readily available, or to work with collections care to have a box made. 
 
