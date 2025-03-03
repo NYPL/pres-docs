@@ -11,7 +11,7 @@ This section details how to select the proper housing and containers for various
 
 When choosing housing for archival materials, make sure the housing is as close in size to the actual object as possible. Large containers, particularly oversized folders, are challenging to serve and tricky for storage. It is usually possible to order a smaller container when one is not readily available, or to work with collections care to have a box made. 
 
-If you are unsure the best way to house any archival material, talk to your supervisor. Collection management is also available to consult around questions about housing and storage. If you know that your collection has oversized or irregular sized content, make sure to notify your supervisor and Collection Management as soon as possible. This allows them to plan how and where to store this material. 
+If you are unsure the best way to house any archival material, talk to your supervisor. Collection management is also available to consult around questions about housing and storage. If you know that your collection has oversized or irregular sized content, make sure to notify your supervisor and Collection Management as soon as possible. This helps Colection Management plan how and where to store this material. 
 
 Collection Management has compiled information about the [storage limitiation 🔒](https://docs.google.com/document/d/1xREjrLyynfwChN559Hp4z-z0oMQIY5fdd4MpYOtroxk/edit?usp=sharing) at each location. Also make sure to consult Collection Management's [Visual Guide 🔒](https://docs.google.com/document/d/1FiHAQ0Ywdkbn_iyP6o1szZ6f0karvNhLiG-ggGDumDM/edit?usp=sharing) for information about how to label, barcode, and measure each type of container.
 
