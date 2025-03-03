@@ -97,7 +97,7 @@ If you have a small collection, you may choose to just export the basic AMI inve
 
 The _AMI ASpace Export_ button is also located on the left hand side of a SPEC collection record, just to the right of the _AMI Export_ button 
 
-![SPEC AMI ASpace Export Button](/Images/48-AMI-ASpace_export-button.jpg)
+![SPEC AMI ASpace Export Button](/Images/48-AMI-ASpace_export-button.png)
 
 When you select this button, a spreadsheet of all the AMI objects will automatically export to your desktop. This spreadsheet will export without column labels. It is recommended that you temporarily add labels before resuming inventory work. 
 
