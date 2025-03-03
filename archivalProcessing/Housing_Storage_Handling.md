@@ -32,8 +32,7 @@ Take care to only include one size of folder in a single box, with the exception
 
 Improperly housing collections can damage documents and also take up unnecessary storage space. If a box is packed too loosely, folders may shift when the box is moved, and the folders may bend or open causing the materials inside them to curl and slump. If a box is too full, documents may bend, tear, or crease.
 
-### Guidelines for Housing Collection Material in Boxes
-This section provides housing guidelines for common scenarios in the Archival processing unit. If you are unsure about the best way to house a particular item in your collection, ask your supervisor. 
+If you are unsure about the best way to house a particular item in your collection, ask your supervisor. Collection Management can also help advise on the best way to house materials for long term storage
 
 **Intellectual Arrangement and Physical Arrangement**
 Boxes may contain more than one series. The physical order in the box may differ from the order in the finding aid.
