@@ -84,7 +84,7 @@ For larger collections, it is generally best to export this full AMI object list
 
 ![AMI Export Button](Images/44-AMI-export-button.png)
 
-Additional fields included in this import are:
+Additional fields included in this export are:
 
 **SPEC AMI Export Additional Fields**
 
