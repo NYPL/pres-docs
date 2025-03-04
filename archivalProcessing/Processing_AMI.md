@@ -143,6 +143,7 @@ When you select this button, a spreadsheet of all the AMI objects will automatic
 The fields that will import into ASpace are listed below. When you import your inventory into ASpace, it must mactch exactly to the ASpace export coloumns. The chart below also details which column the data maps to in the _SPEC AMI Export_. The _ASpace AMI Export_ does not include headers, and if you add your own as a placeholder, you have to delete them before import.
 
 #### SPEC ASpace AMI Export Fields
+
 | **ASpace Export Column** | **Field Name** | **SPEC AMI Export column**| **Description** |
 | ------------------------ | -------------- | ------------------------- | --------------- |
 | A | AMI Identifier | B | Unique identifier automatically assigned by SPEC. This field will be pre-populated. **This field is required**. |
