@@ -93,8 +93,8 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 #### SPEC AMI Export Fields
 
 | **Field Name** | **CSV Column** | **ASpace Export Column** | **Description** |
-| ---------- | ---------- | ----------- |
-| barcode | A | n/a | Barcode of the media object. You can scan the barcode to search fro it in the spreadsheet. |
+| ---------- | ---------- | ----------- | ------------------------------------ |
+| barcode | A | n/a | Barcode of the media object. You can scan the barcode to search for it in the spreadsheet. |
 | ref_ami_id | B | A | AMI Identifer. Unique identifer automatically assigned by SPEC. **This field is required**. |
 | division | C | B | Division Code | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
 | ref_collection_id | D | C | Collection ID. The unique identifier assigned by SPEC. This field will be pre-populated. 
@@ -107,17 +107,17 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 | format_1 | J | I | Content format. This will always be Sound Recording, Video, or Film. This field is pre-populated. |
 | group | K | J | Series. This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | sequence | L | K | Sequence. Used to identify sequential media, such as a single interview recorded onto two audio cassettes. |
-| notes | M | This is a general notes field that is sometimes populated in legacy collections. |
-| notes.preservation | N | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
-| dtentered | O | The date that the media was inventoried in SPEC. |
-| account.entered | P | The account name of the person who inventoried the media object. |
-| ux_loc_active_d | Q | The storage location of the media. |
-| name_d_calc | R | The container where the media is housed. |
-| id_barcode | S | The barcode of the container housing the media. |
-| format_2 | T | The format of the original media. |
-| format_3 | U | The more specific format type of the original media. | 
-| manufacturer | V | The manufacturer of the original media. |
-| generation | W | Indicates if the media is an original or a copy. |
+| notes | M | n/a | This is a general notes field that is sometimes populated in legacy collections. |
+| notes.preservation | N | n/a | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
+| dtentered | O | n/a | The date that the media was inventoried in SPEC. |
+| account.entered | P | n/a | The account name of the person who inventoried the media object. |
+| ux_loc_active_d | Q | n/a | The storage location of the media. |
+| name_d_calc | R | n/a | The container where the media is housed. |
+| id_barcode | S | n/a| The barcode of the container housing the media. |
+| format_2 | T | n/a | The format of the original media. |
+| format_3 | U | n/a | The more specific format type of the original media. | 
+| manufacturer | V | n/a | The manufacturer of the original media. |
+| generation | W | n/a | Indicates if the media is an original or a copy. |
 
 Follow the steps below to complete this export.
 
