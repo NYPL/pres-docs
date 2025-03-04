@@ -147,7 +147,7 @@ The fields that will import into ASpace are listed below. When you import your i
 | **ASpace Export Column** | **Field Name** | **SPEC AMI Export column**| **Description** |
 | ------------------------ | -------------- | ------------------------- | --------------- |
 | A | AMI Identifier | B | Unique identifier automatically assigned by SPEC. This field will be pre-populated. **This field is required**. |
-| B | Division Code  C | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
+| B | Division Code | C | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
 | C | Collection ID | D | The unique identifier assigned by SPEC. This field will be pre-populated. **This field is required**. |
 | D | Title | E | The title of the media. |
 | E | Date | F | The date of the recording. This must be formatted according to [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html_I/03_chapter_02/04_date.md). If the item is undated, leave this field blank. |
