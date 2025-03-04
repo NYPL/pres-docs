@@ -34,15 +34,17 @@ The National Film and Sound Archive of Australia has a [short technical guide](h
 Often AMI with preservation issues is discovered during accessioning, and physically separated from the collection. Collection Management will assess the preservation concerns and determine whether the materials will need to be sent to a vendor for remediation. However, you still may encounter additional AMI content with preservation issues during your appraisal or inventory. Some common issues are mold and film with vinegar syndrome. The [filmcare.org](https://filmcare.org/visual_decay) site is a useful resource in helping to identify potential preservation issues. If you are unsure if something is an AMI preservation issue, reach out to Collection Management for guidance.
 
 # AMI Inventory and Description
-AMI in archival collections are accessioned on an item level by collection management when a new acquisition is received, or when a backlog collection is shipped to the Archival Processing unit for processing. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection management will also update SPEC with the format of each object. 
+AMI in archival collections are accessioned on an item level by Collection mMnagement when a new acquisition is received, or when a backlog collection is shipped to the Archival Processing unit for processing. Each piece of media is labeled with a barcode and a unique AMI identifier generated in SPEC. Collection Management will also update SPEC with the format of each object. 
 
 For acquisitions received in 2023 to the present, the AMI inventory will be attached to the acquisition record. Older collections may have a preliminary inventory with bibliographic data attached to the collection record. 
 
-In the Archival Processing unit, the inventory of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. During the inventory, if you encounter incorrect formats, you should correct the record in SPEC. 
+In the Archival Processing unit, the inventory of AMI in archival collections is performed by exporting a spreadsheet of the initial Collection Management inventory and enhancing it with DACS-compliant descriptive data, including titles, dates, and tracklists. 
+
+During the inventory, if you encounter incorrect formats, you should correct the record in SPEC. 
 
 If you encounter AMI that is not inventoried, or electronic records that mistakenly inventoried as AMI, contact Collection Management. They will make arrangements to review the media and create or correct the records in SPEC.
 
-The inventory the you export and create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory]() into ArchivesSpace for instructions on how to do this.
+The inventory the you export and create in a spreadsheet will be imported into ArchivesSpace. See the section on [Importing an Audio and Moving Image Inventory](/Processing_AMI.md#importing-an-ami-inventory-into-archivesspace) into ArchivesSpace for instructions on how to do this.
 
 ## Moving a SPEC AMI Inventory to the SPEC Collection Record
 Before you begin processing any AMI, your first step is to move the inventory into the acquisition’s associated collection record. To do this follow the steps below:
@@ -73,12 +75,31 @@ Before you begin processing any AMI, your first step is to move the inventory in
 9\. Once this is complete, navigate to the collection record, and you should see all the new associated objects in the content summary. 
 
 ## Inventory Export
-To create an inventory of the AMI for ArchivesSpace you will need to export an inventory spreadsheet from the SPEC collection record. This step should only occur in the collection record after all objects have been associated with the collection record. Do not export from the Acquisition record.
+To create an inventory of the AMI for ArchivesSpace you will need to export an inventory spreadsheet from the SPEC collection record. This step should only occur in the collection record after all AMI objects have been associated with the collection record. Do not export AMI from the Acquisition record.
 
 There are two types of exports, the _AMI Export_, which is a full csv export with fields you will not ultimately import into ASpace, or the AMI _ASpace export_, which exports ONLY the fields that can be imported in ASpace.
 
 ### SPEC AMI Export Button
-For larger collections, it is advisable to export the full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. Follow the steps below to complete this export.
+For larger collections, it is generally best to export this full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. Additional fields included in this import are:
+
+**SPEC AMI Export Additional Fields**
+
+| **Field Name** | **CSV Column** | **Description** |
+| ---------- | ---------- | ----------- |
+| barcode | A | Barcode of the media object. You can scan the barcode to search fro it in the spreadsheet. |
+| notes | M | This is a general notes field that is sometimes populated in legacy collections. |
+| notes.preservation | N | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
+| dtentered | O | The date that the media was inventoried in SPEC. |
+| account.entered | P | The account name of the person who inventoried the media object. |
+| ux_loc_active_d | Q | The storage location of the media. |
+| name_d_calc | R | The container where the media is housed. |
+| id_barcode | S | The barcode of the container housing the media. |
+| format_2 | T | The format of the original media. |
+| format_3 | U | The more specific format type of the original media. | 
+| manufacturer | V | The manufacturer of the original media. |
+| generation | W | Indicates if the media is an original or a copy. |
+
+Follow the steps below to complete this export.
 
 1\. Navigate to the collection record select the collection objects from the _AMI Export_ button on the left
 
@@ -101,7 +122,7 @@ The _AMI ASpace Export_ button is also located on the left hand side of a SPEC c
 
 When you select this button, a spreadsheet of all the AMI objects will automatically export to your desktop. This spreadsheet will export without column labels. It is recommended that you temporarily add labels before resuming inventory work. 
 
-The fields that will import into ASpace are listed in [SPEC CSV Export to AMI ASpace Export Crosswalk](/Documents/SPEC_CSV_Export_to_AMI_ASpace_Export_Crosswalk.pdf).
+The fields that will import into ASpace are listed in [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
 
 # Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
@@ -110,12 +131,12 @@ When completing your inventory, you do not need to complete all fields of your e
 
 As you inventory and describe AMI, remove any loose papers and documentation found inside a media enclosure, and place these in a folder labeled with the identifier number of the Media Original item. By retaining this information, you will be able to describe the paper and AMI together in the finding aid. It is generally best to integrate each separated paper into the container list. For some legacy collections where the papers have already been separated and their origin is unclear, you may need to create a file with a title such as, _Separated Papers_, that includes all the separated items. 
 
-When you have sufficiently cleaned up and organized your spreadsheet to reflect the way you would like the audio and moving image material to appear in the finding aid container list, follow the instructions detailed in the [Importing an AMI Inventory in ArchivesSpace]() section of this documentation to import your csv inventory into ASpace. 
+When you have sufficiently cleaned up and organized your spreadsheet to reflect the way you would like the audio and moving image material to appear in the finding aid container list, follow the instructions detailed in the [Importing an AMI Inventory in ArchivesSpace](/Processing_AMI.md#importing-an-ami-inventory-into-archivesspace) section of this documentation to import your csv inventory into ASpace. 
 
 See the [Description of Audio and Moving Image in ASpace](/Description_of_AMI_in_ASpace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
 # Importing an AMI Inventory into ArchivesSpace
-Regardless of which export you use to complete your inventory, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](/Documents/SPEC_CSV_Export_to_AMI_ASpace_Export_Crosswalk.pdf).
+Regardless of which export you use to complete your inventory, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
 
 Remember that individual AMI components should never be manually created in ASpace, and must always be imported from SPEC. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. 
 
@@ -134,7 +155,7 @@ Follow the steps below to transform all data in your inventory to plain text to 
 
 4\. Make sure to delete headings from your inventory. The inventory should just contain the descriptive data for each object. 
 
-5\. Make sure your inventory only contains fields A-K, as described in the [SPEC CSV Export to AMI ASpace Export Crosswalk](/Documents/SPEC_CSV_Export_to_AMI_ASpace_Export_Crosswalk.pdf).
+5\. Make sure your inventory only contains fields A-K, as described in the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
 
 ## ArchivesSpace AMI Import Process
 Once you have completed data cleanup on your spreadsheet in Google Sheets, and you feel the data is ready for import into ASpace, you will need to download the file.
