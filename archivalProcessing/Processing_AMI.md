@@ -77,10 +77,14 @@ Before you begin processing any AMI, your first step is to move the inventory in
 ## Inventory Export
 To create an inventory of the AMI for ArchivesSpace you will need to export an inventory spreadsheet from the SPEC collection record. This step should only occur in the collection record after all AMI objects have been associated with the collection record. Do not export AMI from the Acquisition record.
 
-There are two types of exports, the _AMI Export_, which is a full csv export with fields you will not ultimately import into ASpace, or the AMI _ASpace export_, which exports ONLY the fields that can be imported in ASpace.
+There are two types of exports, the _AMI Export_, which is a full csv export with fields you will not ultimately import into ASpace, or the _AMI ASpace export_, which exports ONLY the fields that can be imported in ASpace.
 
 ### SPEC AMI Export Button
-For larger collections, it is generally best to export this full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. Additional fields included in this import are:
+For larger collections, it is generally best to export this full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. 
+
+![AMI Export Button](Images/44-AMI-export-button.png)
+
+Additional fields included in this import are:
 
 **SPEC AMI Export Additional Fields**
 
@@ -102,8 +106,6 @@ For larger collections, it is generally best to export this full AMI object list
 Follow the steps below to complete this export.
 
 1\. Navigate to the collection record select the collection objects from the _AMI Export_ button on the left
-
-![AMI Export Button](Images/44-AMI-export-button.png)
 
 2\. This will generate a csv that will download to your desktop.
 
