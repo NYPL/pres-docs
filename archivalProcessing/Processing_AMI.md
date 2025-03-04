@@ -86,11 +86,23 @@ For larger collections, it is generally best to export this full AMI object list
 
 Additional fields included in this export are:
 
-**SPEC AMI Export Additional Fields**
+**SPEC AMI Export Fields**
 
-| **Field Name** | **CSV Column** | **Description** |
+| **Field Name** | **CSV Column** | | **ASpace Export Column** | **Description** |
 | ---------- | ---------- | ----------- |
-| barcode | A | Barcode of the media object. You can scan the barcode to search fro it in the spreadsheet. |
+| barcode | A | n/a | Barcode of the media object. You can scan the barcode to search fro it in the spreadsheet. |
+| ref_ami_id | B | A | AMI Identifer. Unique identifer automatically assigned by SPEC. **This field is required**. |
+| division | C | B | Division Code | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
+| ref_collection_id | D | C | Collection ID. The unique identifier assigned by SPEC. This field will be pre-populated. 
+**This field is required**. |
+| id_label_text | E | D | Title. The title of the media. |
+| date | F | E | The date of the recording. This must be formatted according to [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html_I/03_chapter_02/04_date.md). If the item is undated, leave this field blank. |
+| id.classmark | G | F | Classmark. This field is used for unique identifiers assigned by the division. This field is more common in legacy collections. |
+| id.legacy | H | G | Collection-Specific Identifier. A unique identifier assigned by the collection creator or donor. |
+| notes.content | I | H | Scope and Content. Any additional information about the content that is not in the title field should be here. Tracklists will import as block text. You will need to manually change this data into ordered lists. See the ArchivesSpace documentation for instructions on how to do this. If you are working on legacy collections that have data in a general notes field in SPEC, you will need to manually copy this data into this field if you wish to retain it. |
+| format_1 | J | I | Content format. This will always be Sound Recording, Video, or Film. This field is pre-populated. |
+| group | K | J | Series. This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
+| sequence | L | K | Sequence. Used to identify sequential media, such as a single interview recorded onto two audio cassettes. |
 | notes | M | This is a general notes field that is sometimes populated in legacy collections. |
 | notes.preservation | N | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
 | dtentered | O | The date that the media was inventoried in SPEC. |
