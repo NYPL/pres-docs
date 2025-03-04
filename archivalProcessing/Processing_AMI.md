@@ -96,7 +96,7 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 | ---------- | ---------- | ----------- | ------------------------------------ |
 | barcode | A | n/a | Barcode of the media object. You can scan the barcode to search for it in the spreadsheet. |
 | ref_ami_id | B | A | AMI Identifer. Unique identifer automatically assigned by SPEC. **This field is required**. |
-| division | C | B | Division Code | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
+| division | C | B | Division Code. The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
 | ref_collection_id | D | C | Collection ID. The unique identifier assigned by SPEC. This field will be pre-populated. 
 **This field is required**. |
 | id_label_text | E | D | Title. The title of the media. |
@@ -144,7 +144,7 @@ The fields that will import into ASpace are listed below. When you import your i
 
 #### SPEC ASpace AMI Export Fields
 | **ASpace Export Column** | **Field Name** | **SPEC AMI Export column**| **Description** |
-| - |--------------- | - | ----------------|
+| ------------------------ | -------------- | ------------------------- | --------------- |
 | A | AMI Identifier | B | Unique identifier automatically assigned by SPEC. This field will be pre-populated. **This field is required**. |
 | B | Division Code  C | The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
 | C | Collection ID | D | The unique identifier assigned by SPEC. This field will be pre-populated. **This field is required**. |
