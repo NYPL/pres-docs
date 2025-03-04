@@ -83,14 +83,14 @@ To create an inventory of the AMI for ArchivesSpace you will need to export an i
 
 There are two types of exports, the _AMI Export_, which is a full csv export with fields you will not ultimately import into ASpace, or the _AMI ASpace export_, which exports ONLY the fields that can be imported in ASpace.
 
-## SPEC AMI Export 
+### SPEC AMI Export 
 For larger collections, it is generally best to export this full AMI object list that includes additional metadata to help identify and keep track of content. This export is called _AMI Export_ and is the button on the left. 
 
 ![AMI Export Button](Images/44-AMI-export-button.png)
 
 The section below details each field in the SPEC AMI Export and it's corresponding field in the [ASpace AMI Export](/Processing_AMI.md#spec-aspace-ami-export)
 
-### SPEC AMI Export Fields
+#### SPEC AMI Export Fields
 
 | **Field Name** | **CSV Column** | **ASpace Export Column** | **Description** |
 | ---------- | ---------- | ----------- |
@@ -131,7 +131,7 @@ Follow the steps below to complete this export.
 
 4\. It is recommended that you upload the csv to google drive and open it in google sheets before starting your inventory work. Excel sometimes adds special characters or formatting that can lead to data loss. 
 
-## SPEC ASpace AMI Export 
+### SPEC ASpace AMI Export 
 If you have a small collection, you may choose to just export the basic AMI inventory using the _AMI ASpace Export_ button. This creates a spreadsheet in the format required for import into ASpace, and includes only the fields that will import. 
 
 The _AMI ASpace Export_ button is also located on the left hand side of a SPEC collection record, just to the right of the _AMI Export_ button 
@@ -142,7 +142,7 @@ When you select this button, a spreadsheet of all the AMI objects will automatic
 
 The fields that will import into ASpace are listed below. When you import your inventory into ASpace, it must mactch exactly to the ASpace export coloumns. The chart below also details which column the data maps to in the _SPEC AMI Export_. The _ASpace AMI Export_ does not include headers, and if you add your own as a placeholder, you have to delete them before import.
 
-### SPEC ASpace AMI Export Fields
+#### SPEC ASpace AMI Export Fields
 | **ASpace Export Column** | **Field Name** | **SPEC AMI Export column**| **Description** |
 | - |--------------- | - | ----------------|
 | A | AMI Identifier | B | Unique identifier automatically assigned by SPEC. This field will be pre-populated. **This field is required**. |
@@ -157,7 +157,7 @@ The fields that will import into ASpace are listed below. When you import your i
 | J | Series | K | This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | K | Sequence | L | Used to identify sequential media, such as a single interview recorded onto two audio cassettes. | 
 
-# Creating An AMI Inventory for ArchivesSpace Import
+## Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ (series) column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
 
 When completing your inventory, you do not need to complete all fields of your exported SPEC spreadsheet. Fields like the _Classmark_ are relatively rare. The purpose of the audio and moving image description in the finding aid is to most accurately describe the content of the media. If the media you are inventorying contains a lot of annotations or notes on the container which have research value, consult with your supervisor about the best way to capture and describe this content. In certain cases, a decision may be made to scan the media. In this case a note will be included in the finding aid indicating how researchers can access this scanned content.
@@ -168,12 +168,12 @@ When you have sufficiently cleaned up and organized your spreadsheet to reflect 
 
 See the [Description of Audio and Moving Image in ASpace](/Description_of_AMI_in_ASpace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
-# Importing an AMI Inventory into ArchivesSpace
+## Importing an AMI Inventory into ArchivesSpace
 Regardless of which export you use to complete your inventory, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing) or review the sections above to assure you have the data in the correct fields. 
 
 Remember that individual AMI components should never be manually created in ASpace, and must always be imported from SPEC. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. 
 
-## Uploading and Transforming Data in Google Sheets
+### Uploading and Transforming Data in Google Sheets
 Follow the steps below to transform all data in your inventory to plain text to prepare it for import into ArchivesSpace.
 
 1\. If you are not already working on your inventory in Google sheets, upload your spreadsheet to Google Drive, and open it in sheets.
@@ -190,7 +190,7 @@ Follow the steps below to transform all data in your inventory to plain text to 
 
 5\. Make sure your inventory only contains fields A-K, as described in the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
 
-## ArchivesSpace AMI Import Process
+### ArchivesSpace AMI Import Process
 Once you have completed data cleanup on your spreadsheet in Google Sheets, and you feel the data is ready for import into ASpace, you will need to download the file.
 
 1\. Download the file from Google Drive in XLSX format. To do this, go to: _File -> Download -> Microsoft Excel (.xlsx)_.
@@ -225,11 +225,3 @@ Once you have completed data cleanup on your spreadsheet in Google Sheets, and y
 At NYPL, a single AMI item is called a Media Original. AMI is stored by format in division-specific media originals boxes. The logistics of housing media originals and shipping it offsite for digitization and longterm storage is managed by Collection Management and Audio and Moving Description (AMI-D). You should keep all your media originals together in temporary boxes as you inventory and describe them. 
 
 When you have completed processing your collection, your manager will create a trello card for your collection in the Processed AMI queue in Trello. Collection Management or AMI-D will determine where to house the temporary boxes, and will work with Media Preservation to determine shipping timelines and logistics. AMI will also handle labeling and barcoding all media original boxes.  
-
-
-
-
-
-
-
-
