@@ -168,7 +168,7 @@ When you have sufficiently cleaned up and organized your spreadsheet to reflect 
 
 See the [Description of Audio and Moving Image in ASpace](/Description_of_AMI_in_ASpace.md) section of this documentation for information about how to arrange and describe audio and moving image materials after they have been imported into ASpace.
 
-## Importing an AMI Inventory into ArchivesSpace
+## Importing An AMI Inventory into ArchivesSpace
 Regardless of which export you use to complete your inventory, you will need to ensure that your final inventory matches exactly to the fields in the AMI ASpace Export before attempting to import it into ArchivesSpace. Consult the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing) or review the sections above to assure you have the data in the correct fields. 
 
 Remember that individual AMI components should never be manually created in ASpace, and must always be imported from SPEC. This ensures that AMI identifiers exactly match between SPEC and ASpace, and that metadata in the finding aid is populated in the correct fields. 
