@@ -97,8 +97,7 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 | barcode | A | n/a | Barcode of the media object. You can scan the barcode to search for it in the spreadsheet. |
 | ref_ami_id | B | A | AMI Identifer. Unique identifer automatically assigned by SPEC. **This field is required**. |
 | division | C | B | Division Code. The three letter division acronym (i.e. SCL, MUS, MSS). This will be pre-populated. **This field is required**. |
-| ref_collection_id | D | C | Collection ID. The unique identifier assigned by SPEC. This field will be pre-populated. 
-**This field is required**. |
+| ref_collection_id | D | C | Collection ID. The unique identifier assigned by SPEC. This field will be pre-populated. **This field is required**. |
 | id_label_text | E | D | Title. The title of the media. |
 | date | F | E | The date of the recording. This must be formatted according to [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html_I/03_chapter_02/04_date.md). If the item is undated, leave this field blank. |
 | id.classmark | G | F | Classmark. This field is used for unique identifiers assigned by the division. This field is more common in legacy collections. |
