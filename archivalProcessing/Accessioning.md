@@ -14,7 +14,7 @@ A SPEC acquisition record is created by the curator and refined during the acqui
 
 When a new acquisition is received by the Library, Collection Management works to obtain physical, intellectual, and legal control of the incoming collection materials. Collection Management rehouses materials that are in damaged or in oversized boxes, inventories audio and moving items, separates electronic records, and shelves the new collection in the stacks. The LSC Collection Manager notifies Archival Processing unit management once a new acquisition is accessioned. Archival Processing unit management links the SPEC acquisition record to a SPEC collection record, creates an ArchivesSpace resource record, and creates project records in the Arrangement and Description projects queue in SPEC. Archival Processing unit management assigns each new acquisition to a processing archivist in the SPEC projects queue, and creates a new card in the Archival Processing Projects Trello.
 
-For a detailed workflow of acquisitions and receiving, see Collection Management’s [Intake and Accessioning Procedures]() and [Resources Policies and Procedures]() documentation.
+For a detailed workflow of acquisitions and receiving, see Collection Management’s [Intake and Accessioning Procedures 🔒](https://docs.google.com/document/d/1Ig6HPWLEzDB7zBWARD_t7c3GXOZxJ3_St6Roreab30g/edit?usp=sharing) and [Resources Policies and Procedures 🔒](https://sites.google.com/nypl.org/specialcollections/collection-management/resources/policies-procedures) documentation.
 
 ---
 
