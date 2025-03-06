@@ -2,7 +2,7 @@
 title: Works Cited
 layout: default
 parent: Archival Processing
-nav_order: 17
+nav_order: 24
 has_children: false
 ---
 # Works Cited

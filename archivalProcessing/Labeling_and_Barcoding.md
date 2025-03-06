@@ -1,9 +1,8 @@
 ---
-title: Printing Labels
+title: Labeling and Barcoding
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 3
+parent: Archival Processing 
+nav_order: 18
 has_children: false
 ---
 # Printing Labels
@@ -29,3 +28,7 @@ A print screen menu will appear. Select the print labels button from the bottom 
 
 ASpace will generate a PDF of the labels, which you can then print on label paper.
 
+# Barcoding Collections
+All processed collections must be barcoded before EAD and Catalog records can be created, and before the collection can be shipped. Consult Collection Management's [visual guide 🔒 ](https://docs.google.com/document/d/1FiHAQ0Ywdkbn_iyP6o1szZ6f0karvNhLiG-ggGDumDM/edit?usp=sharing) to see how to properly barcode all the containers in your collection. See the [Bulk Container Management](aspace/aspace.md) section of the ArchivesSpace documention for instructions on how to add barcodes to collection containers in ASpace. 
+
+Barcodes are located on the supplies shelves. If you have collection containers that require two barcodes, be sure to use duplicate barcode sheets. You can order additional barcodes from the BookOps cataloging tab in ServiceNow. 

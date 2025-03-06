@@ -1,9 +1,8 @@
 ---
 title: Creating Catalog and EAD Records
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 8
+parent: Archival Processing
+nav_order: 20
 has_children: false
 ---
 # Creating Catalog and EAD Records

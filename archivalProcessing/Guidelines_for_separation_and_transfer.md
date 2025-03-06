@@ -1,9 +1,8 @@
 ---
 title: Guidelines For Separation and Transfer
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 11
+parent: Archival Processing
+nav_order: 23
 has_children: false
 ---
 # Guidelines For Separation and Transfer

@@ -1,9 +1,8 @@
 ---
 title: Updating Container Dimensions in SPEC
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 7
+parent: Archival Processing
+nav_order: 20
 has_children: false
 ---
 # Updating Container Dimensions in SPEC
