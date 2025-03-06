@@ -1,9 +1,8 @@
 ---
 title: Peer Review
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 1
+parent: Archival Processing
+nav_order: 16
 has_children: false
 ---
 # Peer Reivew

@@ -1,9 +1,8 @@
 ---
 title: Closing Memo
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 2
+parent: Archival Processing
+nav_order: 17
 has_children: false
 ---
 # Closing Memo
