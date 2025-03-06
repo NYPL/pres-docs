@@ -1,9 +1,8 @@
 ---
 title: Shipping Processed Collections
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 9
+parent: Archival Processing
+nav_order: 21
 has_children: false
 ---
 # Shipping Processed Collections
