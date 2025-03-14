@@ -19,6 +19,10 @@ SPEC contains acquisition records for:
 - All Manuscripts and Archives Division acquisitions since 1994
 
 
+## Acquisitions Search
+
+## Acquisition Summary
+
 ## Inventory / Related SPEC Objects
 ...
 

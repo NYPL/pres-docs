@@ -1,9 +1,9 @@
 ---
-title: Acquisition Proposal Review
-layout: default
-parent: Acquisitions
-nav_order: 1
-has_children: false
+#title: Acquisition Proposal Review
+#layout: default
+#parent: Acquisitions
+#nav_order: 1
+#has_children: false
 ---
 
 {: .note }
