@@ -1,9 +1,9 @@
 ---
-title: Retrospective Acqusition Records
+title: Retrospective Acquisitions
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
-nav_order: 19
+nav_order: 21
 ---
 
 ## Retrospective Acqusition Records
