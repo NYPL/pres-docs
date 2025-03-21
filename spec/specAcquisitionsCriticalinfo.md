@@ -1,5 +1,5 @@
 ---
-title: Critical Information etc.
+title: Critical Information
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
@@ -8,10 +8,10 @@ nav_order: 1
 
 ## Acquisiton Name
 
-## Curatorial Rationale
+## Description and Rationale
 
 ## Critical Information
 
-## Curator Notes
+## Curator Notes (optional)
 
-## PCP Notes
+## PCP Notes (optional)

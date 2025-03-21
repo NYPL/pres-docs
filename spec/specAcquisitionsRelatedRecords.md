@@ -3,7 +3,7 @@ title: Related SPEC Records
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
-nav_order: 9
+nav_order: 11
 ---
 
 ## SPEC Collections

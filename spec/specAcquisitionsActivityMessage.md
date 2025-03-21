@@ -3,7 +3,7 @@ title: Activity and Message Logs
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
-nav_order: 8
+nav_order: 9
 ---
 
 ## Activity Log
