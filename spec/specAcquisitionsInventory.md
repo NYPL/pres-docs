@@ -1,9 +1,9 @@
 ---
-title: Object Inventory
+title: Inventory
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
-nav_order: 3
+nav_order: 2
 ---
 
 ## Inventory / Related SPEC Objects
