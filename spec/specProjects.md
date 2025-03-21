@@ -28,11 +28,11 @@ Project tracking does not aim to track all of the tasks and milestones associate
 *automatically generated, single numeric value, unique*
 
 ### Project Title
-*required, single free text value* 
+*required, single free text value*  
 Should be as descriptive as possible and differentiate project from other work on same collection.
 
 ### Status
-*automatically generated*
+*automatically generated*  
 Displays project status.
 
 ### Type
@@ -51,7 +51,7 @@ Project supervisor.
 Staff member assigned to project
 
 ### Unit
-*automatically generated*
+*automatically generated*  
 Department of staff member assigned to project.
 
 ### Repository
