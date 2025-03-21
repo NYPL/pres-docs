@@ -1,5 +1,5 @@
 ---
-title: Pre-Acquisition Locations
+title: Locations
 layout: default
 parent: SPEC Acquisitions
 grand_parent: SPEC
