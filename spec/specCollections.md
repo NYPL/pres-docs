@@ -39,6 +39,8 @@ Inactive date can be added to deactivate the collection record.
 
 Click the **X** button in the upper left of the pop-up window to return the the **Collection Summary** interface, all updates are saved automatically.
 
+Collection records can also be created in when linking a collection to an acquisitoin, [SPEC Acquisitons / Related SPEC Records](https://nypl.github.io/pres-docs/spec/specAcquisitionsRelatedRecords.html) see for more information.
+
 
 ## Collection Summary
 The **Collection Summary** interface displays collection record data. Use the icon buttons in the upper right of the interface to navigate the collection's finding aid in the archives portal, catalog record, or "collection dossier" folder, if available.
