@@ -24,4 +24,4 @@ Locations can viewed or updated by navigating to the **Locations** tab of the po
 
 Locations can also be updated in the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.htm) interfaces. Use the **Update object locations** option in in the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to add a new location to a group of objects. Finally, locations can be updated in the [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html). 
 
-The **Object Search** interface will dispaly the object's location in red or as "Missing" if the object is associated with an active (i.e. unresolved) location type issue, see [Issues](https://nypl.github.io/pres-docs/spec/specObjectsIssues.html) form more information.
+The **Object Search** interface will dispaly the object's location in red or as "Missing" if the object is associated with an active (i.e. unresolved) location type issue, see [Issues](https://nypl.github.io/pres-docs/spec/specObjectsIssues.html) for more information.

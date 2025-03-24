@@ -30,12 +30,18 @@ Results are grouped by status and sorted by the date of the last recorded status
 {: .tip }
 > Clicking on the acquisition name anywhere it is clickable in SPEC will navigate to the acquisition record. 
 
-**My Acquisitions List** found on the **SPEC landing page** and the **Acquistions search** interface navigates to a filtered list of acquisitions, grouped by acquisition status, based on the role and division of the user. The **Show All** button, which displays all acquisitions in the system in the results list, is available to Preservation and Collections Processing admin staff. 
+**My Acquisitions List** found on the **SPEC landing page** and the **Acquistions search** interface navigates to a filtered list of acquisitions, grouped by acquisition status, based on the role and division of the user. 
+
+The **Show All** button, which displays all acquisitions in the system in the results list, is available to Preservation and Collections Processing admin staff. 
 
 Information about the acquisitions in the search results can be exported using the **Export (CSV)** button in the lower right corner of the **Acquisitions search** interface.
 
 
 ## Creating and Editing Acquisition Records
 Acquisition records can be created by clicking **+** button in the upper right of the **Acquistions search** interface. This opens the **Edit Proposal / Acquisition Record** form. This form can also be accessed to edit an existing acquisition by clicking the **pencil and paper** icon in the upper right corner of the **Acquisition Summary** interface. 
+
+The **Edit Proposal / Acquisition Record** form allows the curator to input the acquisition name, description and rationale, curator notes, and other critical information. See [Critical Information](https://nypl.github.io/pres-docs/spec/specAcquisitionsCriticalinfo.html), [Inventory](https://nypl.github.io/pres-docs/spec/specAcquisitionsInventory.html), [Attachments](https://nypl.github.io/pres-docs/spec/specAcquisitionsAttachments.html), [Contacts](https://nypl.github.io/pres-docs/spec/specAcquisitionsContacts.html), [Locations](https://nypl.github.io/pres-docs/spec/specAcquisitionsLocations.html) and [Deliveries](https://nypl.github.io/pres-docs/spec/specAcquisitionsDeliveries.html) for more information. Changes input into this form are saved automatically. Navigate back from the **Edit Proposal / Acquisition Record** form by clicking the **< Acquisition Summary** button in the upper left corner.
+
+The **Acquisition Summary** provides an overview of a single acquisition record. In addition to displaying the information input by a curator in the **Edit Proposal / Acquisition Record** form, the **Acquisition Summary** displays the acquisition’s [Status](https://nypl.github.io/pres-docs/spec/specAcquisitionsActions.html) along the approval process, PCP notes, the [Activity and Message Logs](https://nypl.github.io/pres-docs/spec/specAcquisitionsActivityMessage.html), [Resource Impact](https://nypl.github.io/pres-docs/spec/specAcquisitionsResourceImpact.html), and associated [SPEC Collections and SPEC Projects](https://nypl.github.io/pres-docs/spec/specAcquisitionsRelatedRecords.html), if any. 
 
 Note that acquisiton edit access and some acquisiton information, such as links to documentation folders and price, are limited by curatorial division assigned to the record and user account for most division staff. 
