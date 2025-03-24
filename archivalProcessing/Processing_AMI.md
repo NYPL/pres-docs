@@ -155,7 +155,7 @@ The fields that will import into ASpace are listed below. When you import your i
 | I | Content Format | J | This will always be Sound Recording, Video, or Film. This field is pre-populated. The importer will use this field to populate the component extent field as either "1 audio recording" for Sound Recordings or "1 moving image recording" for Video or Films |
 | J | Series | K | This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | K | Sequence | L | Used to identify sequential media, such as a single interview recorded onto two audio cassettes. | 
-| L | Original Media Format | M | This is called _format\_d_ in the more comprehensive SPEC _AMI Export_. This will populate the _Physical Details" field of the ASpace extent form for each component. |
+| L | Original Media Format | M | This is called _format\_d_ in the more comprehensive SPEC _AMI Export_. This will populate the _Physical Details_ field of the ASpace extent form for each component. |
 
 ## Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ (series) column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
@@ -188,7 +188,7 @@ Follow the steps below to transform all data in your inventory to plain text to 
 
 4\. Make sure to delete headings from your inventory. The inventory should just contain the descriptive data for each object. 
 
-5\. Make sure your inventory only contains fields A-K, as described in the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
+5\. Make sure your inventory only contains fields A-L, as described in the [SPEC CSV Export to AMI ASpace Export Crosswalk](https://docs.google.com/document/d/1N8LUcXUj0dsW0snVo1Njd1OCFrUFoje2zIAnV1AcTYY/edit?usp=sharing).
 
 ### ArchivesSpace AMI Import Process
 Once you have completed data cleanup on your spreadsheet in Google Sheets, and you feel the data is ready for import into ASpace, you will need to download the file.
