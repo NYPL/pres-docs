@@ -103,20 +103,19 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 | id.classmark | G | F | Classmark. This field is used for unique identifiers assigned by the division. This field is more common in legacy collections. |
 | id.legacy | H | G | Collection-Specific Identifier. A unique identifier assigned by the collection creator or donor. |
 | notes.content | I | H | Scope and Content. Any additional information about the content that is not in the title field should be here. Tracklists will import as block text. You will need to manually change this data into ordered lists. See the ArchivesSpace documentation for instructions on how to do this. If you are working on legacy collections that have data in a general notes field in SPEC, you will need to manually copy this data into this field if you wish to retain it. |
-| format_1 | J | I | Content format. This will always be Sound Recording, Video, or Film. This field is pre-populated. |
+| format_generic| J | I | AMI Content format. This will always be Sound Recording, Video, or Film. This field is pre-populated. This field will also populate the extent form for each ASpace component as _audio recording_ or _moving image recording_ when the media is imported. |
 | group | K | J | Series. This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | sequence | L | K | Sequence. Used to identify sequential media, such as a single interview recorded onto two audio cassettes. |
-| notes | M | n/a | This is a general notes field that is sometimes populated in legacy collections. |
-| notes.preservation | N | n/a | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
-| dtentered | O | n/a | The date that the media was inventoried in SPEC. |
-| account.entered | P | n/a | The account name of the person who inventoried the media object. |
-| ux_loc_active_d | Q | n/a | The storage location of the media. |
-| name_d_calc | R | n/a | The container where the media is housed. |
-| id_barcode | S | n/a| The barcode of the container housing the media. |
-| format_2 | T | n/a | The format of the original media. |
-| format_3 | U | n/a | The more specific format type of the original media. | 
-| manufacturer | V | n/a | The manufacturer of the original media. |
-| generation | W | n/a | Indicates if the media is an original or a copy. |
+| format_d | M | L |  | The specific format of the original media. This will be SPEC format_2 for film, and SPEC format_3 for sound and video |
+| notes | N | n/a | This is a general notes field that is sometimes populated in legacy collections. |
+| notes.preservation | O | n/a | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
+| dtentered | P | n/a | The date that the media was inventoried in SPEC. |
+| account.entered | Q | n/a | The account name of the person who inventoried the media object. |
+| ux_loc_active_d | R | n/a | The storage location of the media. |
+| name_d_calc | S | n/a | The container where the media is housed. |
+| id_barcode | T | n/a| The barcode of the container housing the media. |
+| manufacturer | U | n/a | The manufacturer of the original media. |
+| generation | V | n/a | Indicates if the media is an original or a copy. |
 
 Follow the steps below to complete this export.
 
@@ -153,9 +152,10 @@ The fields that will import into ASpace are listed below. When you import your i
 | F | Classmark | G | This field is used for unique identifiers assigned by the division. This field is more common in legacy collections. |
 | G | Collection-Specific Identifier | H | A unique identifier assigned by the collection creator or donor. |
 | H | Scope and Content | I | Any additional information about the content that is not in the title field should be here. Tracklists will import as block text. You will need to manually change this data into ordered lists. See the ArchivesSpace documentation for instructions on how to do this. If you are working on legacy collections that have data in a general notes field in SPEC, you will need to manually copy this data into this field if you wish to retain it. |
-| I | Content Format | J | This will always be Sound Recording, Video, or Film. This field is pre-populated. |
+| I | Content Format | J | This will always be Sound Recording, Video, or Film. This field is pre-populated. The importer will use this field to populate the component extent field as either "1 audio recording" for Sound Recordings or "1 moving image recording" for Video or Films |
 | J | Series | K | This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | K | Sequence | L | Used to identify sequential media, such as a single interview recorded onto two audio cassettes. | 
+| L | Original Media Format | M | This is called "format_d" in the more comprehensive SPEC _AMI Export_. This will populate the _Physical Details" field of the ASpace extent form for each component. |
 
 ## Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ (series) column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
