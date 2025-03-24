@@ -106,7 +106,7 @@ The section below details each field in the SPEC AMI Export and it's correspondi
 | format_generic| J | I | AMI Content format. This will always be Sound Recording, Video, or Film. This field is pre-populated. This field will also populate the extent form for each ASpace component as _audio recording_ or _moving image recording_ when the media is imported. |
 | group | K | J | Series. This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | sequence | L | K | Sequence. Used to identify sequential media, such as a single interview recorded onto two audio cassettes. |
-| format_d | M | L |  | The specific format of the original media. This will be SPEC format_2 for film, and SPEC format_3 for sound and video |
+| format_d | M | L | The specific format of the original media. This will be SPEC _format\_2_ for film, and SPEC _format\_3_ for sound and video |
 | notes | N | n/a | This is a general notes field that is sometimes populated in legacy collections. |
 | notes.preservation | O | n/a | [Technical notes](https://nypl.github.io/pres-docs/audioMovingImage/preservation-notes.html) about the media. |
 | dtentered | P | n/a | The date that the media was inventoried in SPEC. |
@@ -155,7 +155,7 @@ The fields that will import into ASpace are listed below. When you import your i
 | I | Content Format | J | This will always be Sound Recording, Video, or Film. This field is pre-populated. The importer will use this field to populate the component extent field as either "1 audio recording" for Sound Recordings or "1 moving image recording" for Video or Films |
 | J | Series | K | This field is used to arrange inventoried items into topics assigned by the archivist. Items in the same group will import together under a single component title. Assigning consistent group names will help you keep the inventory organized. |
 | K | Sequence | L | Used to identify sequential media, such as a single interview recorded onto two audio cassettes. | 
-| L | Original Media Format | M | This is called "format_d" in the more comprehensive SPEC _AMI Export_. This will populate the _Physical Details" field of the ASpace extent form for each component. |
+| L | Original Media Format | M | This is called _format\_d_ in the more comprehensive SPEC _AMI Export_. This will populate the _Physical Details" field of the ASpace extent form for each component. |
 
 ## Creating An AMI Inventory for ArchivesSpace Import
 After you have exported the inventory spreadsheet, fill in the descriptive metadata directly from the text on the media object. If the object has already been digitized, you should also view the recording in EAVie to verify the accuracy of the description on the physical object. You should complete your inventory with the final collection arrangement in mind. Try to group the media into subseries or topical groups whenever possible using the _group_ (series) column, and avoid repetition and unnecessary text whenever possible. For example, if a piece of media is titled with the collection name followed by the name of a song, you only need to record the song title in the _title_ field.
