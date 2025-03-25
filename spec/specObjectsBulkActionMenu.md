@@ -16,12 +16,11 @@ Click on the **Action** menu button to select an action to be performed across a
 
 | **Action** | **Use to** |
 | **Add issue** | add issue to selected objects |
-| **Add to acquisition (delivery / location)** | search for and assign an acquisition delivery id and associated acquisition id references |
-| **Add to collection** | search for and assign a collection id reference; if the collection is associated with an acquisition, this action also adds the acquisition delivery and acquisition references. See SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on SPEC acquisition, acquisition delivery and collection reference logic  |
+| **Add to acquisition (delivery / location)** | search for and assign an acquisition delivery id and associated acquisition id references; this action will replace existing acquisition delivery and acquisition references |
+| **Add to collection** | search for and assign a collection id reference; if the collection is associated with an acquisition, this action also adds the acquisition delivery and acquisition references, if not already present; this action will replace existing an existing collection reference. See SPEC Object [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information on SPEC acquisition, acquisition delivery and collection reference logic  |
 | **Add to container** | search for a container and create a contains/containedIn relationship between the container and selected objects; adding selected objects to a container will deactivate any existing relationships to another container |
 | **Add to loan checklist** | add selected objects to an outgoing loan by navigating from loan record (registrar only) |
 | **Add to project** | add selected objects to a project by searching for or navigating from a project record |
-| **Add to SCT move** | [this action is not yet available] |
 | **Deactivate selected objects** | make selected objects inactive |
 | **Edit content estimates** | replace existing content estimate(s) or add an additional content estimate to selected containers |
 | **Edit labels and sequence numbers** | assign a label, label number prefix, and/or sequence number to selected objects |

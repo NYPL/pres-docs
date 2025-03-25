@@ -28,7 +28,7 @@ Legacy reference types include the CMS AMI dig batch id (superseded by SPEC Proj
 &nbsp; 
 &nbsp; 
 
-All references can viewed and editable references can be updated by navigating to the **References** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the References section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. To delete an incorrect reference click the **x** button to the left of the reference, only editable references can be deleted. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
+All references can be viewed and editable references can be updated by navigating to the **References** tab of the pop-up window editing interfaces accessible via the **Edit object record** shortcut on the **Object Search** and the **List Edit** interfaces, and via the References section of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. To delete an incorrect reference click the **x** button to the left of the reference, only editable references can be deleted. See [Populating and Editing Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#populating-and-editing-object-records) for more information.
 
 When adding references to other SPEC record types, such as CMS collection id and CMS acq delivery id, click the **Search** button to the right of the new reference to open an intermediate window and search for the related record. Select the related record from the results to create the reference. 
 
