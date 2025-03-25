@@ -45,6 +45,8 @@ Collection records can also be created in when linking a collection to an acquis
 ## Collection Summary
 The **Collection Summary** interface displays collection record data. Use the icon buttons in the upper right of the interface to navigate the collection's finding aid in the archives portal, catalog record, or "collection dossier" folder, if available.
 
+Every collection record has a unique numerical value assigned by SPEC at the time of its creation. This automatically generated Collection ID is not editable and can be viewed in the header of the **Collection Summary** interface. 
+
 ### Related SPEC Records
 The SPEC Records section lists the number of acquisitions containing objects that are part of the collection, the number of projects targeting objects in the collection, and the number of objects that comprise the collection (see below for additional information on related objects). Clicking on the number navigates to the related record or a list of the related records.
 
