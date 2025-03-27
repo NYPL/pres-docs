@@ -14,13 +14,9 @@ Each acquisition must be associated with at least one contact. Use the **+ Add**
 *required, single controlled value*  
 Select Individual or Institution/Company.
 
-### First Name
-*required for Designation = Individual, single free text value*  
-Individual contact's first name.
-
-### Last Name
-*required for Designation = Individual, single free text value*  
-Individual contact's last name.
+### First Name / Last Name
+*required for Designation = Individual, single free text values*  
+Individual contact's first name and last name.
 
 ### Business Name
 *required for Designation = Institution/Company, single free text value*  
@@ -28,31 +24,15 @@ Name of the company or other entity, this field is optional for individual conta
 
 ### Roles
 *required, multiple controlled value*  
-Select one or multiple checkboxes from the list of roles that apply to the individual or institution: Owner, Signer, Representative, Contact.
+Select one or multiple checkboxes from the list of roles that apply to the individual or institution: Owner, Signer, Representative, Contact. Unless the aquisition agreement type is "Invoice only," the acquisition requires an owner and a signer. 
 
-### Phone
-*required, single free text value*  
-Phone number of contact starting with area code.
+### Phone / Email
+*required, single free text values*  
+Phone number of contact starting with area code and contact's email.
 
-### Email
-*required, single free text value*  
-Contact email.
-
-### Street
-*optional, free text value*  
-Contact's street address.
-
-### City
-*optional, free text value*  
-Contact's city.
-
-### State
-*optional, free text value*  
-Contact's state.
-
-### Zip
-*optional, free text value*  
-Contact's zip code.
+### Street / City / State / Zip 
+*required, free text values*  
+Contact's street address, city, state, and zip code.
 
 ### Country
 *optional, free text value*  

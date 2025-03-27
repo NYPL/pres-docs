@@ -7,8 +7,64 @@ nav_order: 6
 ---
 
 ## Pre-Acquisition Locations
-Each acquisition must be associated with at least one location. Use the **+ Add** button in the Location List section of the the **Edit Proposal / Acquisition Record** form to add a new pre-acquisition location to an acquisition. Click on the location name in the **Edit Proposal / Acquisition Record** form to edit an existing location. By default, every new acquisition has a stub pre-acquisition location, which should be updated with location information. See [Creating and Editing Acquisition Records] (https://nypl.github.io/pres-docs/spec/specAcquisitions.html#creating-and-editing-acquisition-records) for more information.
+Each acquisition must be associated with at least one pre-acquisition location which specifies where collection materials are stored prior to their delivery to NYPL (i.e. a storage space, a donor’s apartment). Each pre-acquisition location is associated with at least one delivery. See [Deliveries](https://nypl.github.io/pres-docs/spec/specAcquisitionsDeliveries.html) for more information.
 
-Click on the location name in the Location List section of the **Acquisition Summary** to navigate to the full **Location Record** interface, where additional location details can be updated, along with site visits and delivery log information. See [Deliveries](https://nypl.github.io/pres-docs/spec/specAcquisitionsDeliveries.html) for more information.
+Use the **+ Add** button in the Location List section of the **Edit Proposal / Acquisition Record** form to add a new pre-acquisition location to an acquisition. Click on the location name in the **Edit Proposal / Acquisition Record** form to edit an existing location. By default, every new acquisition has a stub pre-acquisition location, which should be updated with location information. See [Creating and Editing Acquisition Records] (https://nypl.github.io/pres-docs/spec/specAcquisitions.html#creating-and-editing-acquisition-records) for more information.
+
+### Location Name
+*required, single free text value*  
+Enter name for location, for example: Donor’s Storage Space.
+
+### Transport Coordinated By
+*required, single controlled value*  
+Specify who will coordinate transport of collection items to NYPL, select NYPL or Source.
+
+### Transport To
+*required, single controlled value* 
+Specify where collection items will be delivered, select Library Services Center or My curatorial division.
+
+### Import Address Details From This Contact
+*optional, single controlled value*  
+Select from list of contacts entered into the acquisition's Contact List to import location address details entered into the contact's information.
+
+### Street / City / State 
+*required, free text values*  
+Location street address, city, and state.
+
+### Zip / Country
+*optional, free text values*  
+Location zip code and country.
+
+### Contact for This Location
+*required, single controlled value*  
+Select from list of contacts entered into the acquisition's Contact List.
+
+### Phone / Email
+*optional, free text values* 
+Location contact's phone and email.
+
+### Notes
+*optional, free text value*  
+Any notes or additional information pertaining to the location.
+
+### Needs Packing
+*optional, single controlled value*  
+Select Y if the collection items require packing prior to pickup.
+
+### Needs Site Visit
+*optional, single controlled value*  
+Select Y if acquisiton location requires a site visit prior to pickup.
+
+&nbsp; 
+&nbsp; 
+
+The Location List section of the **Acquisition Summary** displays the information entered via the**Edit Proposal / Acquisition Record** form. Click on the location name in the Location List to navigate to the full **Location Record** interface, where existing location details can be edited and additional location information can be added. 
+
+The General Information section in the **Location Record** interface contains the fields described above. The Location Details section contains a checklist of common location characteristics that may be useful to know for those involved in site visits, packing or pickup.
+
+The Site Description section contains more detailed narrative information about a pre-acquisition location that may be used in planning or preparing for subsequent site or packing visits. Enter innformation about the building, site accessibility, health and safety concerns and other general descriptions. This section also includes a checkbox where PCP staff may indicate that a site visit is needed.
+
+&nbsp; 
+&nbsp; 
 
 ## Site Visits

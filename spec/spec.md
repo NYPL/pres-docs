@@ -45,5 +45,5 @@ There are several different record types, or modules, in SPEC. SPEC objects refe
 Additionally, a controlled location hierarchy for NYPL storage locations is maintained in the locations module (CLMGT only), and the outgoing loans module (Registrar only) records outgoing loan information. 
 
 
-## Reporting Bugs
+## Reporting Bugs and Other Requests
 File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27){:target="_blank"} to report a bug, connection issue, or request a custom data report.

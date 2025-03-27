@@ -16,9 +16,9 @@ The scope of a project can be determined by any number of factors, but must have
 
 Managing projects serves three purposes:
 
-1. Create and share prioritized queues for (all) present and future work on special collections.
-2. Tracking the progress of projects as they move through their major phases.
-3. Generating statistics that reflect what has been worked on and the resulting output of that work.
+- Create and share prioritized queues for (all) present and future work on special collections.
+- Tracking the progress of projects as they move through their major phases.
+- Generating statistics that reflect what has been worked on and the resulting output of that work.
 
 Project tracking does not aim to track all of the tasks and milestones associated with smaller processes associated with any activity or group of activities.
 

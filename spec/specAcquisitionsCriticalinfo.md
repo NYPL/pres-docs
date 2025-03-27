@@ -32,7 +32,7 @@ Indicate whether NYPL will coordinate item delivery, select either Yes or No.
 
 ### Delivery To
 *required, single controlled value*  
-Select either LSC or My curatorial division.
+Select either Library Services Center or My curatorial division.
 
 ### Price
 *required for Means = Purchase, single numeric value*  
@@ -75,5 +75,5 @@ Name of curator proposing the acquistion, value defaults to logged in user accou
 
 ---
 
-## Optional Notes Fields
+## Optional fields
 The Curator Notes, input via the **Edit Proposal / Acquisition Record** form, can be used by curators to enter any information about the acquistion that is not accommodated by the other acquisiton fields. PCP Notes, input via the **Acquisition Summary** interface, can be used by Preservation and Collection Processing staff to enter processing specific information. 
