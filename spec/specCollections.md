@@ -18,9 +18,9 @@ Use the available search fields at the top of the Collections Search interface i
 
 | **Search Field** | **Use to search for:** |
 | **Collection Creator or Title** | keywords that appear in the collection title or creator fields |
-| **Division** | curatorial division code, select from drop down |   
+| **Division** | curatorial division code, select from drop-down list |   
 | **ID / Classmark** | SPEC assigned collection id (unique identifier) or collection level classmark |
-| **Center** | research center, select from dropdown |
+| **Center** | research center, select from drop-down list |
 
 The search results list groups collections by research center and curatorial division. Click on the collection title to navigate to the **Collection Summary** interface to view or edit the collection record. 
 

@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 ## Attachments
-Associate documents with an acquisition record by uploading an attachment to the acquisition's GoogleDrive folder. Click on the **paperclip** in the upper right corner of the **Acquisition Summary** to open the **Upload Documentation to Acquisition** pop-up window or scroll down to the Attachments section of the **Edit Proposal / Acquisition Record** form.Select a document type from the drop down list. Right click in the filename field and follow the onscreen prompts to insert a file. This function prepends the document type and the SPEC acquisition id to the document file name.
+Associate documents with an acquisition record by uploading an attachment to the acquisition's GoogleDrive folder. Click on the **paperclip** in the upper right corner of the **Acquisition Summary** to open the **Upload Documentation to Acquisition** pop-up window or scroll down to the Attachments section of the **Edit Proposal / Acquisition Record** form.Select a document type from the drop-down list. Right click in the filename field and follow the onscreen prompts to insert a file. This function prepends the document type and the SPEC acquisition id to the document file name.
 
 {: .tip }
 > If using SPEC via the client the upload will proceed immediately. If using SPEC via the browser the file will be marked for upload and, in most cases, will appear in the GoogleDrive folder within a day.

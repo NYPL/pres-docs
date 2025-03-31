@@ -6,6 +6,10 @@ grand_parent: SPEC
 nav_order: 2
 ---
 
+{: .note }
+> This page is under construction! 
+> Content is being updated ...
+
 ## Inventory / Related SPEC Objects
 ...
 

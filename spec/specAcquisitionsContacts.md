@@ -9,6 +9,7 @@ nav_order: 5
 ## Contacts
 Each acquisition must be associated with at least one contact. Use the **+ Add** button in the Contact List section of the the **Edit Proposal / Acquisition Record** form to add a new contact to an acquisition. Click on the contact name in the **Edit Proposal / Acquisition Record** form or in the Contacts section of the **Acquisition Summary** to edit an existing contact. By default, every new acquisition has a stub acquisition contact, which should be updated with the contact's information. See [Creating and Editing Acquisition Records] (https://nypl.github.io/pres-docs/spec/specAcquisitions.html#creating-and-editing-acquisition-records) for more information.
 
+The following fields constitute a contact:
 
 ### Designation
 *required, single controlled value*  

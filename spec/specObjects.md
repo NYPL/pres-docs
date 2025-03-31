@@ -65,7 +65,7 @@ For additional methods to create objects see [Duplicating Object Records](https:
 Once the new object record is created via the methods described above, the **Basic Fields** editing interface will open in a pop-up window. The most common object record elements can be viewed, added, or edited in the basic fields window. See [Basic Fields](https://nypl.github.io/pres-docs/spec/specObjectsBasicFields.html) and [Formats](https://nypl.github.io/pres-docs/spec/specObjectsFormatEtc.html) for more information.
 
 {: .tip }
-> Use the format search widget in the **Basic Fields** interface to search for and populate an object's full format hierarchy instead of using the multi-level format drop downs. The object type, either item or container, must be specified before format information can be added to the object. 
+> Use the format search widget in the **Basic Fields** interface to search for and populate an object's full format hierarchy instead of using the multi-level format drop-down lists. The object type, either item or container, must be specified before format information can be added to the object. 
 
 The Basic Fields window also has shortcuts to to add a container relationship (for items), a content estimate (for containers), and an object location. See Relationships, Content Estimates, and Locations for more information.
 
@@ -73,7 +73,7 @@ Click the **down caret** button to the left of the object in the **Object Search
 
 Navigate different editing interfaces to view, edit or add additional object elements by clicking on the tabs along the top of the pop-up window. These interfaces can be used to add or update [Media](https://nypl.github.io/pres-docs/spec/specObjectsFormatEtc.html#media), [Relationships](https://nypl.github.io/pres-docs/spec/specObjectsRelationships.html), [References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html), [Restrictions](https://nypl.github.io/pres-docs/spec/specObjectsRestrictions.html), [Issues](https://nypl.github.io/pres-docs/spec/specObjectsIssuess.html), [Locations](https://nypl.github.io/pres-docs/spec/specObjectsLocations.html) and [Content Estimates](https://nypl.github.io/pres-docs/spec/specObjectsContentEstimates.html). 
 
-In each interface click the green **+ ADD [ELEMENT]** button to add data. Adding certain elements opens an intermediate window to search and select existing records to be linked to the object. When available, use drop down lists to select the appropriate data. Click the **x** button next to an element to remove it, note that not every element can be removed, some elements such as issues or restrictions should be resolved or deactivated rather than deleted. In some cases, such as locations and certain relationships, adding new information makes the previous associated element inactive. 
+In each interface click the green **+ ADD [ELEMENT]** button to add data. Adding certain elements opens an intermediate window to search and select existing records to be linked to the object. When available, use drop-down lists to select the appropriate data. Click the **x** button next to an element to remove it, note that not every element can be removed, some elements such as issues or restrictions should be resolved or deactivated rather than deleted. In some cases, such as locations and certain relationships, adding new information makes the previous associated element inactive. 
 
 For additional ways to edit object records see: [Object Record Interface](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html), [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces, [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html), [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html), and [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html).
 
@@ -102,7 +102,7 @@ Examples of inactive objects are:
 - A container that was replaced during rehousing
 - A record that was created in error
 
-Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop down menu, adjust the date and username if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
+Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop-down list, adjust the date and username if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
 
 {: .tip }
 > Clicking the **x** button in the upper left of the deactivation window will exit without deactivating the object(s)
