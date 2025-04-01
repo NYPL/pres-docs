@@ -6,7 +6,7 @@ grand_parent: SPEC
 nav_order: 21
 ---
 
-## Retrospective Acqusition Records
+## Retrospective Acquisition Records
 
 {: .note }
 > This page is under construction! 
