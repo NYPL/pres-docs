@@ -34,7 +34,7 @@ Coordinate with Collection Management to send the media to the division.
 ### AMI From Processed Collections Housed in Temporary Boxes (Cataloged Collections)
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_ or _not digitized_.
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_ or _not digitized_. 
 
 3\. Put the boxes on the desigated shelves in the stacks.
 
