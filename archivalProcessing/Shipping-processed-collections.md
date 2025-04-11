@@ -56,7 +56,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 
 6\. Once you catalog the collection, tag the Manager of Audio and Moving Image Description in a new comment indicating that the colleciton is now cataloged. 
 
-### AMI from Processed Collectione with Only a Few AMI Items (For Catloged Collections)
+### AMI From Processed Collectione with Only a Few AMI Items 
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
 2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_.
@@ -64,6 +64,8 @@ Coordinate with Collection Management and your supervisor to send the media to t
 3\. If the AMI will not fill an entire box, place AMI together in the trays provided in the stacks.
 
 4\. Update the [loaction(s)](/Location_Management.md) of the item(s) in SPEC.
+
+5\. Comment on the AMI's trello card in the _Processed AMI_ queue and tag the Manager of Audio and Moving Image Description in the comment. In your comment, indicate whether or not the collection is cataloged. 
 
 ### AMI Already in Media Originals boxes (except Berg)
 Email the managager of Audio and Moving Image descritption to coordinate ReCAP shipping.
