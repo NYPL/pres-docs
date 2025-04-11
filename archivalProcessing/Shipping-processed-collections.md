@@ -35,7 +35,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 ### AMI From Processed Collections Housed in Temporary Boxes (Cataloged Collections)
 1\. Make a copy of your collection's trello card and add it to the _Processed AMI_ queue. The Manager of Audio and Moving Image Description will automatically be added to the card. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_ or _not digitized_. 
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_. 
 
 3\. Put the boxes on the desigated shelves in the stacks.
 
@@ -46,7 +46,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 ### AMI From Processed Collections Housed in Temporary Boxes (Uncataloged Collections)
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_ or _not digitized_.
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_.
 
 3\. Put the boxes on the desigated shelves in the stacks.
 
@@ -59,7 +59,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 ### AMI from Processed Collectione with Only a Few AMI Items (For Catloged Collections)
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_ or _not digitized_.
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_.
 
 3\. If the AMI will not fill an entire box, place AMI together in the trays provided in the stacks.
 
