@@ -7,14 +7,13 @@ has_children: false
 ---
 # Shipping Processed Collections
 {: .no_toc }
+This section details the workflows to ship processed collection materials to their permanent storage location. Before a collection is shipped it must be cataloged. See the [Creating Catalog and EAD Records](/Creating-Catalog-and-EAD-Records.md) section of this documentation for detailed instructions. 
 
 ## Table of Contents
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
-
-This section details the workflows to ship processed collection materials to their permanent storage location. Before a collection is shipped it must be cataloged. See the [Creating Catalog and EAD Records](/Creating-Catalog-and-EAD-Records.md) section of this documentation for detailed instructions. 
 
 Once a collection is ready to ship, your supervisor will move the collection’s Trello card to the the correct shipping queue in Trello, and add the LSC Collection Manager and Collection Management Assistant to the card. You should add a note to the description field of the Trello card indicating the total number of boxes, folders, tubes, and volumes. If the collection is going to more than one location, your supervisor will make a copy of the Trello card and add it to that location's queue.
 
