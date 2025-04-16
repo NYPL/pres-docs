@@ -35,31 +35,32 @@ Coordinate with Collection Management and your supervisor to send the media to t
 ### AMI From Processed Collections Housed in Temporary Boxes (Cataloged Collections)
 1\. Make a copy of your collection's trello card and add it to the _Processed AMI_ queue. The Manager of Audio and Moving Image Description will automatically be added to the card. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_. 
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partially digitized_, or _not digitized_. 
 
-3\. Put the boxes on the desigated shelves in the stacks.
+3\. Put the boxes on the designated shelves in the stacks.
 
 4\. Update the [location](/Location_Management.md) of the temporary boxes in SPEC. 
 
 5\. Comment on the AMI's trello card in the _Processed AMI_ queue and tag the Manager of Audio and Moving Image Description in the comment. In your comment, indicate that the collection is cataloged.
 
-### AMI From Processed Collections Housed in Temporary Boxes (Uncataloged Collections)
-1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
+### AMI From Processed Collections Housed in Temporary Boxes (Uncatalogued Collections)
+1\. Make a copy of your collection's trello card and add it to the _Processed AMI_ queue. The Manager of Audio and Moving Image Description will automatically be added to the card. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_.
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partially digitized_, or _not digitized_. 
 
-3\. Put the boxes on the desigated shelves in the stacks.
+3\. Put the boxes on the designated shelves in the stacks.
+
 
 4\. Update the [location](/Location_Management.md) of the temporary boxes in SPEC. 
 
 5\. Comment on the AMI's trello card in the _Processed AMI_ queue and tag the Manager of Audio and Moving Image Description in the comment. In your comment, indicate that the collection is **NOT** cataloged.
 
-6\. Once you catalog the collection, tag the Manager of Audio and Moving Image Description in a new comment indicating that the colleciton is now cataloged. 
+6\. Once you catalog the collection, tag the Manager of Audio and Moving Image Description in a new comment indicating that the collection is now cataloged.
 
 ### AMI From Processed Collectione with Only a Few AMI Items 
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
-2\. Add a label indicating the collection's digitization status: _fully digitized_, _partically digitized_, or _not digitized_.
+2\. Add a label indicating the collection's digitization status: _fully digitized_, _partially digitized_, or _not digitized_.
 
 3\. If the AMI will not fill an entire box, place AMI together in the trays provided in the stacks.
 
