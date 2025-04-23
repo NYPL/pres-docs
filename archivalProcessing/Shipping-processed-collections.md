@@ -16,9 +16,9 @@ This section details the workflows to ship processed collection materials to the
 {:toc}
 
 ## Boxes, Folders, Tubes, and Volumes
-Once a collection is ready to ship, your supervisor will move the collection’s Trello card to the the correct shipping queue in Processing Projects Trello Board, and add the LSC Collection Manager and Collection Management Assistant to the card. You should add a note to the description field of the Trello card indicating the total number of boxes, folders, tubes, and volumes. If the collection is going to more than one location, your supervisor will make a copy of the Trello card and add it to that location's queue. Please also update the description of this card.
+Once a collection is ready to ship, your supervisor will move the collection’s Trello card to the correct shipping queue in the Processing Projects Trello Board. You should add a note to the description field of the Trello card indicating the total number of boxes, folders, tubes, and volumes. If the collection is going to more than one location, your supervisor will make a copy of the Trello card and add it to that location's queue. Please also update the description of this card.
 
-Shipping logistics are managed by the the Collection Manager, Collection Management Assistant, and Registar's office. When your collection is ready to ship, you should place all the containers on the outgoing shelves in the stacks, on the barcoded shelves in room 202, in the map cases, or leave them on a cart near your desk. Just make sure you update the [locations](/Location_Management.md) in SPEC to reflect where you have shelved your collection. The Collection Manager or Collection Management Assistant will reach out to you with any questions. Be sure to communicate if there are any restrictions or requests from curatorial staff.
+Shipping logistics are managed by Collection Management and the Registar's office. When your collection is ready to ship, you should place all the containers on the outgoing shelves in the stacks, on the barcoded shelves in room 202, in the map cases, or leave them on a cart near your desk. Just make sure you update the [locations](/Location_Management.md) in SPEC to reflect where you have shelved your collection. Collection Mangement reach out to you with any questions. Be sure to communicate if there are any restrictions or requests from curatorial staff.
 
 ## Audio and Moving Image Content
 This section details what to do with AMI once it is processed, and breaks down the various scenarios you may encounter. The workflow can vary based on the AMI's digitization status, division, and origin. 
@@ -49,7 +49,6 @@ Coordinate with Collection Management and your supervisor to send the media to t
 2\. Add a label indicating the collection's digitization status: _fully digitized_, _partially digitized_, or _not digitized_. 
 
 3\. Put the boxes on the designated shelves in the stacks.
-
 
 4\. Update the [location](/Location_Management.md) of the temporary boxes in SPEC. 
 
