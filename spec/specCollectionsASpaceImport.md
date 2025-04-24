@@ -16,7 +16,7 @@ The import matches records on the barcode and will update an existing SPEC objec
 
 The collection id in the .csv file must match the SPEC collection id. Otherwise the object records will not be linked to the correct collection, even if the import is initiated from the correct collection record in SPEC.
 
-The import adds a collection reference, and, if the collection is assoicated with one or more acquisitions, the first assoicated acquisition and aquisition delivery references. See [SPEC Objects / References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information.
+The import adds a collection reference, and, if the collection is associated with one or more acquisitions, the first associated acquisition and acquisition delivery references. See [SPEC Objects / References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) for more information.
 
 The same container formats in SPEC are sometimes named differently in ArchivesSpace. The import will populate the objects' format to the corresponding SPEC format and the dimensions based on the data in the .csv file. In some cases, the format will import as a generic container format, even when the ArchivesSpace format has a SPEC counterpart. In these cases, update the SPEC format information manually. This can be done most easily using the [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interface. 
 
