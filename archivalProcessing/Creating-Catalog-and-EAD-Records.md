@@ -1,9 +1,8 @@
 ---
 title: Creating Catalog and EAD Records
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 8
+parent: Archival Processing
+nav_order: 20
 has_children: false
 ---
 # Creating Catalog and EAD Records
@@ -106,7 +105,7 @@ To convert XML to MRC, follow the steps below:
 
         901  \\$a---$b---
 
-- Replace the three dashes after _&a_ with your initials
+- Replace the three dashes after _$a_ with your initials
 - Replace the dashes after _$b_ with: **archv**
 
 7\. The **MARC 949** (container list) will include the following fields:
@@ -447,7 +446,7 @@ To add a multiple item records to a Sierra catalog record complete the steps bel
 ![Sierra Save Button](/Images/164-Sierra-Save-Button.png)
 
 # Creating EAD Records and Editing in Oxygen
-Once you have finished cataloging a collection, the final step is to create an EAD record, which will be uploaded by your manager to [the archives portal](https://archives.nypl.org/) in order to publish your finding aid. The Archival Processing unit currently uses the [EAD 2002](https://www.loc.gov/ead/tglib/element_index.html) standard. For more information on encoded standards, see the resources from the Society of American Archivists’ [Technical Subcommittee on Encoded Archival Standards](https://saa-sdt.github.io/EAS-Best-Practices/) (TS-EAS). ****Follow the instructions below to finalize your collection’s EAD. 
+Once you have finished cataloging a collection, the final step is to create an EAD record, which will be uploaded by your manager to [the archives portal](https://archives.nypl.org/) in order to publish your finding aid. The Archival Processing unit currently uses the [EAD 2002](https://www.loc.gov/ead/tglib/element_index.html) standard. For more information on encoded standards, see the resources from the Society of American Archivists’ [Technical Subcommittee on Encoded Archival Standards](https://saa-sdt.github.io/EAS-Best-Practices/) (TS-EAS). Follow the instructions below to finalize your collection’s EAD. 
 
 1\. Before exporting the collection's EAD, make sure to first add the bnumber to the collection’s SPEC and ASpace records. 
 

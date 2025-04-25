@@ -16,20 +16,11 @@ Select a field to search from the drop down menu and enter or select a search te
 
 The following options appear in the advanced search interface: 
 
-- **Include Inactive Records**:  
-  Searches automatically exclude inactive records. Click this check box to include them.
-
-- **Do not include contained objects**:  
-  Searches automatically include objects on the shelf and objects contained in other objects. Click this check box to exclude objects contained in other objects.
-
-- **Clear Terms**:  
-  Clears all entered values for the fields selected.
-
-- **Reset**:  
-  Resets all fields and clears any entered values.
-
-- **Search**:  
-  Execute the search. 
+- **Include Inactive Records**: Searches automatically exclude inactive records. Click this check box to include them.
+- **Do not include contained objects**: Searches automatically include objects on the shelf and objects contained in other objects. Click this check box to exclude objects contained in other objects.
+- **Clear Terms**: Clears all entered values for the fields selected.
+- **Reset**: Resets all fields and clears any entered values.
+- **Search**: Execute the search. 
 
 {: .tip }
 > It may take up to a few minutes for the advanced search to execute, especially if the search criteria results in a very large found set. 

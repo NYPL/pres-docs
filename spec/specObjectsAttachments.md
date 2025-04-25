@@ -7,7 +7,7 @@ nav_order: 16
 ---
 
 ## Attachments
-Associate documents with an object record by uploading an attachment to the object's GoogleDrive folder. Click on the **paperclip** in the upper right corner of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. In the **Upload Documentation to Object** pop-up window select a document type from the drop down list. Right click in the filename field and follow the onscreen prompts to insert a file. This function prepends the document type and the SPEC object id to the document file name. There is a file size limit of 10MB per document. 
+Associate documents with an object record by uploading an attachment to the object's GoogleDrive folder. Click on the **paperclip** in the upper right corner of the [Object Record](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html) interface. In the **Upload Documentation to Object** pop-up window select a document type from the drop-down list. Right click in the filename field and follow the onscreen prompts to insert a file. This function prepends the document type and the SPEC object id to the document file name. 
 
 {: .tip }
 > If using SPEC via the client the upload will proceed immediately. If using SPEC via the browser the file will be marked for upload and, in most cases, will appear in the GoogleDrive folder within a day.

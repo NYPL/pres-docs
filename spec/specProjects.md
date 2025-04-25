@@ -16,45 +16,54 @@ The scope of a project can be determined by any number of factors, but must have
 
 Managing projects serves three purposes:
 
-1. Create and share prioritized queues for (all) present and future work on special collections.
-2. Tracking the progress of projects as they move through their major phases.
-3. Generating statistics that reflect what has been worked on and the resulting output of that work.
+- Create and share prioritized queues for (all) present and future work on special collections.
+- Tracking the progress of projects as they move through their major phases.
+- Generating statistics that reflect what has been worked on and the resulting output of that work.
 
 Project tracking does not aim to track all of the tasks and milestones associated with smaller processes associated with any activity or group of activities.
 
 ## Project Fields
 
-### SPEC ID
-*required, SPEC generated*
-
-### Status
-*required, SPEC generated*
-Displays project status. To be added: Link out to project status list/definitions.
+### Project ID
+*automatically generated, single numeric value, unique*
 
 ### Project Title
-*required, free text* 
+*required, single free text value*  
 Should be as descriptive as possible and differentiate project from other work on same collection.
 
-### Department
-*required, SPEC generated controlled value*
-Department of staff member assigned to project.
-
-### Repository
-*required, SPEC generated controlled value*  
-Owning department of targeted objects.
-Lists repository abbreviations based on associated objects.
+### Status
+*automatically generated*  
+Displays project status.
 
 ### Type
-*required, single controlled value*
-The type of project. To be added: Link out to project type list/definitions.
-Selecting a project type will auto-populate certain fields.
+*required, single controlled value*  
+The type of project. Selecting a project type will auto-populate certain fields.
 
 ### Notes
 *optional, free text*
 
-### Documentation
-*optional, file*
-May be used to upload documentation files associated with the project.
+### Supervisor
+*required, single controlled value*  
+Project supervisor.
+
+### Assigned To
+*required, single controlled value*  
+Staff member assigned to project
+
+### Unit
+*automatically generated*  
+Department of staff member assigned to project.
+
+### Repository
+*automatically generated*  
+List of division(s) of associated target objects.
+
+### Vendor
+*as needed, single controlled value*
+
+### Schedule
 
 ### Targets
 The list of object(s) to be worked on through the course of a single project. Project targets are characterized in five dimensions: 1. object count and list; 2. objects on shelf; 3. object formats; 4. linear feet and 5. acquisition.
+
+### Outputs

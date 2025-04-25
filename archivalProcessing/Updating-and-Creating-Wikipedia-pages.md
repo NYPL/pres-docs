@@ -1,9 +1,8 @@
 ---
 title: Updating and Creating Wikipedia Pages
 layout: default
-parent: Final Steps
-grand_parent: Archival Processing
-nav_order: 10
+parent: Archival Processing
+nav_order: 22
 has_children: false
 ---
 # Updating and Creating Wikipedia Articles

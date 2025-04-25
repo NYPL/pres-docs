@@ -20,11 +20,11 @@ Staff privileges to view, edit, or create records in SPEC vary based on the requ
 
 
 ## Connecting
-SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both client and browser. Connection options may depend on a user's SPEC account type. Working remotely or using wifi requires a working and properly configured connection to NYPL's VPN. 
+SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both client and browser. Connection options may depend on a user's SPEC account type. Working remotely or using wifi requires a working and properly configured connection to NYPL's VPN. Requests for [installation of FileMaker software 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=194f82c0e91ac1006a42bcaec0898ac1){:target="_blank"} and for [VPN access 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=3ae790c0878db9006a42c74d19434d00){:target="_blank"} can be made through ServiceNow. See also instructions on connecting to [OpenVPN 🔒](https://docs.google.com/document/d/1BQ-k__gyTYMnTP0RmDxcfY4-Tm6dkdMw5mQEivNUt-4/edit?usp=sharing){:target="_blank"}.
 
 If connecting to SPEC using the FileMaker client for the first time, follow these steps:  
 - Open FileMaker and select File > Hosts from the menu
-- Click on FileMaker PRODUCTION. If the production server in not listed, file a ServiceNow ticket for instuctions on connecting to the server manually 
+- Click on FileMaker PRODUCTION. If the production server in not listed, file a ServiceNow ticket for instructions on connecting to the server manually 
 - If an SSL certificate warning message appears, check “Always permit connect to this host” and then click on the Connect button
 - Log in to the server using the SPEC credentials provided via email
 - Right click on CollectionInfo and select "Add to Favorites." From now on CollectionInfo will appear under File > Favorites and in the Favorites window when opening FileMaker 
@@ -45,5 +45,5 @@ There are several different record types, or modules, in SPEC. SPEC objects refe
 Additionally, a controlled location hierarchy for NYPL storage locations is maintained in the locations module (CLMGT only), and the outgoing loans module (Registrar only) records outgoing loan information. 
 
 
-## Reporting Bugs
+## Reporting Bugs and Other Requests
 File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27){:target="_blank"} to report a bug, connection issue, or request a custom data report.

@@ -15,6 +15,6 @@ This export is *not* formatted for import into ArchivesSpace; the export contain
 ## ArchivesSpace AMI Export
 Similarly to the **AMI Export**, the **ASpace AMI Export** found in the SPEC Records section of the **Collection Summary** interface, exports a .csv file to the user's desktop of all AMI items associated with a collection.   
 
-This export is specifically formatted for import into ArchivesSpace. It includes the following fields in the following order, with no column headings: AMI id, division, collection id, id label text, date, classmark, legacy id, content notes, generic format (i.e. format 1), group, and sequence. 
+This export is specifically formatted for import into ArchivesSpace. It includes the following fields in the following order, with no column headings: AMI id, division, collection id, id label text, date, classmark, legacy id, content notes, generic format (i.e. format 1), group, sequence, and format display. 
 
 If generating a collection AMI item .csv file by other means, manually editing the file to conform exactly to the formatting of this export is required to import the data into ArchivesSpace.

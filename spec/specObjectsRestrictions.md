@@ -27,7 +27,7 @@ Description further clarifies the nature of the restriction.
 
 ### From  
 *required, single date value*  
-Specifies the date the restriction became active, the date defaults to the date the restriction was added to the object record. 
+Specifies the date the restriction became active. SPEC auto-populates the field to the current date; the field can be modified manually, if necessary.
 
 ### Until  
 *as needed, single date value*  
