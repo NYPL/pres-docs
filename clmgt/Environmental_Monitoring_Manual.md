@@ -53,7 +53,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 2) The first time you open the app, tap on “Settings” in the lower right corner of the bottom menu bar. Under “User Settings,” select “US” for the “Units” and select “CSV” for “Default Export Format.”
 
-![User settings circled on Settings page](images/HoboConnect-Step-2.JPG)
+![User settings circled on Settings page](Images/HoboConnect-Step-2.JPG)
 
 3) Next, tap on “Devices” in the lower left corner of the bottom menu bar.
 
@@ -63,13 +63,13 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
    1. If your logger has stopped logging or is missing, you will need to create a Logger Event in the “Logger Events” table in the [Preservation Environment Airtable Base](https://airtable.com/appdyGUVHYBU0AQmP/tblD2IIlFMzk4Xu63/viwzdwNCVm94fpPJr?blocks=hide). For instructions on how to do so, see the base description, which is accessible by clicking on the down arrow next to the title of the base and scrolling down to the section focusing on the “Logger Events” table. 
 
-   ![Logging circled on dashboard](images/HoboConnect-Step-5.JPG)
+   ![Logging circled on dashboard](Images/HoboConnect-Step-5.JPG)
 
 6) Tap the logger you want to download. 
 
 7)  Select “Download Data.” Wait for the download to complete. If the readout takes a long time or stops, you may need to start over and get closer to the logger. To easily find a logger, press and hold on “Beep Logger” and the logger will make a sound.
 
-![Text](images/HoboConnect-Step-7.JPG)
+![Text](Images/HoboConnect-Step-7.JPG)
 
 8) Once the download completes, tap “Done” at the bottom of the screen.
 
@@ -179,3 +179,28 @@ If a new dataset is uploaded that is not associated with a space in the location
 To remove previously assigned location dataset assignments, click on the small folder icon in the “Actions” column on the far left.
 
 If a logger is discontinued, the dataset needs to be classified as “Old Data” in eClimateNotebook. To do so, click on the small icon with the pencil in the “Actions” section to change the location dataset assignment. The small window below will pop up. Under “Site Name,” select “Old Data,” then enter the correct Building, Level, and Room names.
+
+### **Section 2.3: Metrics**
+
+Once the data has been uploaded into eClimate Notebook, you will automatically be brought to the “Graphs” page. The first thing you will do is select the dataset(s) you want to look at, which you can do in the  “Location Datasets” menu on the lower left-hand side of the page. This menu lists out the Location Hierarchy for each of the Research Libraries and LSC. It is clearly laid out so that you can easily see the site, building, level and room. For a more in-depth description of the location hierarchy, see [Section 2.2.1.2: Manage Hierarchy](#section-2212-manage-hierarchy). This menu also includes “New York City” as a “site” and it shows weather data for the region. This is helpful to use when there are irregularities in temperature and relative humidity in spaces, so you can see if exterior conditions may have been the cause (as opposed to something wrong with the HVAC system, construction, etc.). You can select up to 8 different spaces to review at a time. It is helpful to look at different spaces served by the same HVAC units to see if they are experiencing the same conditions. 
+
+After selecting which space(s) you want to look at, you will want to select a date range. On the left side of the page at the top in the “Date Range” section, choose the start and end dates for the data you want to look at. At first, the start date should be the date the data was downloaded during the previous month and the end date should be the date you downloaded the data this month. The date range can be increased to see trends over a longer period or you can enter the dates for the same month in previous years to see what the conditions were at those times as a way of seeing if current conditions in the space are typical for the time of year. 
+
+Once the dataset(s) are selected and date ranges are set, you are ready to look at the graphs. Under the “Graphs” tab, there are a few metrics you can look at: 
+
+| **Metrics**        | **What it Shows**        |
+| ------------------ | ------------------------ |
+| **Temperature**    | Measure of how hot or cold a space is. |
+| **Relative Humidity** | Measure of the water vapor content of air. It is expressed as a percentage. |
+| **Temperature and Relative Humidity together** | Temperature and relative humidity are intimately related and impact one another, so it is beneficial to see them together on the same graph. This is our most commonly reviewed metric. |
+| **Dew Point (DP)** | Indicator of the total moisture content in an environment and it determines which combination of temperature and RH can be achieved. Knowing the dew point helps assess potential for mold risk.[^1] |
+| **Mold** | Measure of the potential for mold growth on any organic materials. The temperature and RH are assessed to predict the likelihood of mold germination. |
+| **Preservation Index (PI)** | Assessment of chemical decay that determines the preservation quality of the environment in years and determines how long a collection will last in the space assuming the temperature and RH do not change from current conditions. |
+| **Time-Weighted Preservation Index (TWPI)** | Measure of chemical decay (natural aging) that looks at how long a collection will last in the current conditions. The assessment takes into consideration changing temperature and RH conditions and averages the impact different periods have on the overall decay rate. TWPI of 75-100 is *Good*, 45-75 is *Ok*, and anything below 45 is *Risk*.[^2] |
+| **Dimensional Change (%DC)** | Assessment of the risk for mechanical damage (along with %EMC) that estimates the change in the size of an object caused by absorbed moisture. |
+| **Equilibrium Moisture Content (%EMC)** | Measure of the risk for mechanical damage (along with %DC) and represents the "percent by weight of water" of hygroscopic materials (water-absorbing materials such as wood, textiles, and paper).[^3]
+
+
+[^1]: https://s3.cad.rit.edu/ipi-assets/publications/dew_point.pdf
+[^2]: https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/tools_for_analysis.pdf
+[^3]: https://repository.iit.edu/islandora/object/islandora%3A1009829/datastream/OBJ/downloa[…]nitoring_of_University_Archives_and_Special_Collections.pdf
