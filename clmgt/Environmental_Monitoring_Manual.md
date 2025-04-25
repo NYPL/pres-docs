@@ -52,6 +52,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 1) Download the HOBOconnect app on an iPad or cell phone.
 
 2) The first time you open the app, tap on “Settings” in the lower right corner of the bottom menu bar. Under “User Settings,” select “US” for the “Units” and select “CSV” for “Default Export Format.”
+
 ![User settings circled on Settings page](images/HoboConnect-Step-2.JPG)
 
 3) Next, tap on “Devices” in the lower left corner of the bottom menu bar.
@@ -61,11 +62,13 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 5) Stand in the general area of the logger. Wait until you see the logger you want pop up on the screen. When it does, make sure that the logger says, “Logging” and not “Stopped.” If it says “Stopped” something went wrong. Likely, the memory on the logger is full or the batteries died.
 
    1. If your logger has stopped logging or is missing, you will need to create a Logger Event in the “Logger Events” table in the [Preservation Environment Airtable Base](https://airtable.com/appdyGUVHYBU0AQmP/tblD2IIlFMzk4Xu63/viwzdwNCVm94fpPJr?blocks=hide). For instructions on how to do so, see the base description, which is accessible by clicking on the down arrow next to the title of the base and scrolling down to the section focusing on the “Logger Events” table. 
+
    ![Logging circled on dashboard](images/HoboConnect-Step-5.JPG)
 
 6) Tap the logger you want to download. 
 
 7)  Select “Download Data.” Wait for the download to complete. If the readout takes a long time or stops, you may need to start over and get closer to the logger. To easily find a logger, press and hold on “Beep Logger” and the logger will make a sound.
+
 ![Text](images/HoboConnect-Step-7.JPG)
 
 8) Once the download completes, tap “Done” at the bottom of the screen.
