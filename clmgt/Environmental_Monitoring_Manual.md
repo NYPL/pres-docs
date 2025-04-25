@@ -161,3 +161,21 @@ There are a few tasks that can also be completed within Data History. On the far
 |**Export Dataset** | Exports a PEM2 format file of the dataset's data to download |
 |**Delete Dataset** | Permanently deletes the dataset from the institution's account. This is used if a dataset is uploaded accidentally. This is the most commonly used icon. |
 |**Archive Dataset** | Removes the location dataset's data file designation permanently. |
+
+##### **Section 2.2.1.2: Manage Hierarchy**
+
+The hierarchy allows us to organize our data based on the physical layout of our monitored spaces. The Location Dataset Assignments information is structured in the form of a chart and clearly lists the “Location Dataset Name,” which is the shortened name of the space (SASB-315N for example), as well as the “Data File” which is the name of the file when it was first uploaded before being shortened (SASB-313N-20227518 2018-03-19 11-40-08 -0400). If you need to find a location quickly without scrolling through the table, use the small search bar just above the table on the upper left. The far right column, Level Assignment, breaks down the dataset’s exact location by level with a slash in between levels. The hierarchy is broken down into four levels:
+
+- Level 1: Site 
+
+- Level 2: Building 
+
+- Level 3: Level (includes the floors of each building)
+
+- Level 4: Room (includes the individual room numbers)
+
+If a new dataset is uploaded that is not associated with a space in the location hierarchy, it will show up as unassigned at the top of the list. In order to associate it with a location, click on the small icon with the pencil in the “Actions” section to change the location dataset assignment. The small window below will pop up. Select the correct Site, Building, Level, and Room names. Values previously entered will appear in each of the drop-down lists. If you need to add a new value, such as a new room, click on the plus sign to add a new value. Once finished, click “Reassign.” 
+
+To remove previously assigned location dataset assignments, click on the small folder icon in the “Actions” column on the far left.
+
+If a logger is discontinued, the dataset needs to be classified as “Old Data” in eClimateNotebook. To do so, click on the small icon with the pencil in the “Actions” section to change the location dataset assignment. The small window below will pop up. Under “Site Name,” select “Old Data,” then enter the correct Building, Level, and Room names.
