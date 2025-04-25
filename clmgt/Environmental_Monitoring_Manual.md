@@ -52,6 +52,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 1) Download the HOBOconnect app on an iPad or cell phone.
 
 2) The first time you open the app, tap on “Settings” in the lower right corner of the bottom menu bar. Under “User Settings,” select “US” for the “Units” and select “CSV” for “Default Export Format.”
+! (HoboConnect Step 2.jpg)
 
 3) Next, tap on “Devices” in the lower left corner of the bottom menu bar.
 
