@@ -72,7 +72,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 ![Test](Images/HoboConnect-Step-7.JPG)
 
 
-<img src="Images/HoboConnect-Step-7.JPG" width="50%" />
+<img src="Images/HoboConnect-Step-7.JPG" width="75%" />
 
 
 8) Once the download completes, tap “Done” at the bottom of the screen.
