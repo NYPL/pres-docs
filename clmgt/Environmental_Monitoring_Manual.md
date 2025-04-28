@@ -69,7 +69,11 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 7)  Select “Download Data.” Wait for the download to complete. If the readout takes a long time or stops, you may need to start over and get closer to the logger. To easily find a logger, press and hold on “Beep Logger” and the logger will make a sound.
 
-<img src="https://github.com/NYPL/pres-docs/blob/main/clmgt/Images/HoboConnect-Step-7%20Test.JPG" width="200" height="400" />
+![Test](Images/HoboConnect-Step-7.JPG)
+
+
+<img src="Images/HoboConnect-Step-7.JPG" width="50%" />
+
 
 8) Once the download completes, tap “Done” at the bottom of the screen.
 
