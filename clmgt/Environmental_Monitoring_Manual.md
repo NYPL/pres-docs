@@ -197,7 +197,7 @@ The hierarchy allows us to organize our data based on the physical layout of our
 
 If a new dataset is uploaded that is not associated with a space in the location hierarchy, it will show up as unassigned at the top of the list. In order to associate it with a location, click on the small icon with the pencil in the “Actions” section to change the location dataset assignment. The small window below will pop up. Select the correct Site, Building, Level, and Room names. Values previously entered will appear in each of the drop-down lists. If you need to add a new value, such as a new room, click on the plus sign to add a new value. Once finished, click “Reassign.” 
 
-<img src="Images/eClimate-Reassign-Location.PNG" width="25%" />
+<img src="Images/eClimate-Reassign-Location.PNG" width="50%" />
 
 To remove previously assigned location dataset assignments, click on the small folder icon in the “Actions” column on the far left.
 
