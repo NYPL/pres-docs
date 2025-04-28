@@ -77,11 +77,11 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 9) To confirm that the data was downloaded, click on the folder icon labeled “Data” on the bottom of the screen.
 
-<img src="Images/HoboConnect-Step-9.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-9.PNG" width="25%" />
 
 10) Each of the data files that you have downloaded will be listed here.
 
-<img src="Images/HoboConnect-Step-10.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-10.jpg" width="25%" />
 
 11) There is a bulk download feature for downloading multiple loggers that are close to one another at the same time. Click on “Bulk Download” in the upper right corner of the “Devices” page. 
 
@@ -97,11 +97,11 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 1. *If the logger’s memory needs to be cleared:* click on “Configure & Start” in the upper left of the screen in the app. A window will pop up confirming that you want to configure the device. Click “Yes.” Then, click the “Start” button on the bottom right.
 
-<img src="Images/HoboConnect-Step-14.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-14.jpg" width="25%" />
 
 15) Once you finish downloading the data for all spaces in your building, the files need to be exported. Click on the folder icon labeled “Data” on the bottom of the screen.
 
-<img src="Images/HoboConnect-Step-9.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-9.PNG" width="25%" />
 
 16)  Click “Export and Share” in the upper right corner. 
 
@@ -109,16 +109,16 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 17) Select each of the files you want to export and then select “Export X Files” at the bottom of the screen. 
 
-<img src="Images/HoboConnect-Step-17.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-17.jpg" width="25%" />
 
 18) A window will pop up at the bottom of the screen asking for which format you want the files in. “CSV” should already be listed. Then press “Export.”
 
-<img src="Images/HoboConnect-Step-18.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-18.jpg" width="25%" />
 
 19) Each of the files will download and show up in green when they are ready to share. Once all files are downloaded, a window will pop up at the bottom of the screen. Select “Share” and send them to yourself via email. 
  1. Only 20 files can be exported at a time, so repeat this process as many times as necessary until all files are exported. 
 
-<img src="Images/HoboConnect-Step-19.JPG" width="25%" />
+<img src="Images/HoboConnect-Step-19.jpg" width="25%" />
 
 20)  Once you export the data from HOBOconnect and receive the email(s) with your downloaded data, download the files onto your computer. You can download the folder so all of the files are downloaded together. The downloaded file will be zipped due to its size, so right click on the folder and select “Extract All.”
 
