@@ -55,5 +55,6 @@ _Created June 2023_
 
 - Nitrile gloves
 
+![Cart with a box of gloves](Images/AFrame.jpg)
 
 Contact your research center's collection manager with questions. 
