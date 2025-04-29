@@ -56,6 +56,7 @@ _Created June 2023_
 - Nitrile gloves
 
 <img src="Images/Cart.jpg" width="50%" />
+
 <img src="Images/AFrame.jpg" width="50%" />
 
 Contact your research center's collection manager with questions. 
