@@ -12,7 +12,7 @@ The **Action Menu** provides a way to edit certain object record elements across
 {: .tip }
 > When using the Action Menu the object element specified in the action will be updated to the same value across all selected objects, i.e. each selected object will be assigned the same collection and/or acquisition/delivery reference, the same active location, the same reason for deactivation, etc.
 
-Click on the **Action** menu button to select an action to be performed across all selected objects.
+Click on the **Action** button to select an action to be performed across all selected objects.
 
 | **Action** | **Use to** |
 | **Add issue** | add issue to selected objects |
