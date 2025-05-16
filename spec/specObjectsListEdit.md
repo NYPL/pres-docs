@@ -28,8 +28,6 @@ The list displays the first content estimate for container type objects, if one 
 
 The down caret button to the left of each object provides access to the **Editing Shortcuts** pop-up menu. 
 
-Box labels can be generated from this interface using the **Create box labels** button above the Object name column. Specify the box range in the pop-up window, the found set of objects will be narrowed down to all containers that fall into the specfied range. Click OK to generata a .pdf file; the file, downloaded to user's Documents folder, will open automatically.
-
 &nbsp; 
 &nbsp; 
 

@@ -29,4 +29,7 @@ Click the **Search** button to perform the search and the **Clear** button to cl
 > Basic searches by default searches active objects only, change the Status field to search for inactive objects or across both active and inactive objects.
 
 ## Additional Search Fields
-Click on **Use additional search fields** below the **Search** and **Clear** buttons to open a pop-up window with additional search fields. Use any combination of fields in the pop-up window and the basic search on the main **Object Search** interface to create a Boolean AND search, narrowing down search results.
+Click on **Use additional search fields** below the **Search** and **Clear** buttons to open a pop-up with additional search fields. Use any combination of fields in the pop-up window and the basic search on the main **Object Search** interface to create a Boolean AND search, narrowing down search results.
+
+## Include related objects
+Click on **Include related objects** to open a pop-up with the options to expand the found set of search results to either include **Objects contained in and part of all found objects** or **Containers of all found objects**. If additional contained objects, parts, or containers exist in the expanded search results click the button again to further expand the search results. If no contained objects, parts, or containers exist in the found set of search results the button will not appear on the interface. 
