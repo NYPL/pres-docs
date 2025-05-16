@@ -1,12 +1,12 @@
 ---
-title: Bulk Action Menu
+title: Action Menu
 layout: default
 parent: SPEC Objects
 grand_parent: SPEC
 nav_order: 20
 ---
 
-## Bulk Action Menu
+## Action Menu
 The **Bulk Action Menu** provides a way to edit certain object record elements across a group of objects. Find a set of objects in the **Object Search** interface. Select a subset of objects records in the object search result list by clicking the check box to the left of each object, or click on the **Action** menu button above the object check boxes and click **Select All** from the menu. Objects can be deselected individually or using the **Select None** option from the **Action** menu. 
 
 {: .tip }
