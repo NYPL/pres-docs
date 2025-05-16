@@ -75,7 +75,7 @@ Navigate different editing interfaces to view, edit or add additional object ele
 
 In each interface click the green **+ ADD [ELEMENT]** button to add data. Adding certain elements opens an intermediate window to search and select existing records to be linked to the object. When available, use drop-down lists to select the appropriate data. Click the **x** button next to an element to remove it, note that not every element can be removed, some elements such as issues or restrictions should be resolved or deactivated rather than deleted. In some cases, such as locations and certain relationships, adding new information makes the previous associated element inactive. 
 
-For additional ways to edit object records see: [Object Record Interface](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html), [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces, [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html), [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html), and [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html).
+For additional ways to edit object records see: [Object Record Interface](https://nypl.github.io/pres-docs/spec/specObjectsObjectRecord.html), [List Edit](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html) interfaces, [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html), [Object Barcode App](https://nypl.github.io/pres-docs/spec/specObjectsOBA.html), and [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html).
 
 
 ## Duplicating Object Records
@@ -102,7 +102,7 @@ Examples of inactive objects are:
 - A container that was replaced during rehousing
 - A record that was created in error
 
-Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop-down list, adjust the date and username if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
+Click the down caret button to the left of the object in the **Object Search** or **List Edit** interfaces to show the **Editing Shortcuts** pop-up menu and select the **Deactivate** option. Use the [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html) to deactivate multiple objects at once. In the deactivation pop-up window, select a deactivation reason from the drop-down list, adjust the date and username if necessary, add notes (optional). Click the green **Confirm** button to deactivate. 
 
 {: .tip }
 > Clicking the **x** button in the upper left of the deactivation window will exit without deactivating the object(s)
@@ -116,7 +116,7 @@ Deactivating an object will also:
 
 
 ## Reactivating Object Records
-Objects can be reactivated if they were deactivated in error. Click the down caret button to the left of the object in the **Object Search** interface to show the **Editing Shortcuts** pop-up menu and select the **Reactivate** option. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to reactivate multiple objects at once.
+Objects can be reactivated if they were deactivated in error. Click the down caret button to the left of the object in the **Object Search** interface to show the **Editing Shortcuts** pop-up menu and select the **Reactivate** option. Use the [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html) to reactivate multiple objects at once.
 
 Reactivating an object will also:
 - Reassign the object to its last location

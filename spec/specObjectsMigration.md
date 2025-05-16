@@ -15,7 +15,7 @@ The left panel of the [Object Record](https://nypl.github.io/pres-docs/spec/spec
 
 The migration / digitization status can also be updated in the **Digitization, description, additional IDs** tab of the AMI specific editing interfaces, see [AMI Specific Fields](https://nypl.github.io/pres-docs/spec/specObjectsAMI.html) for more information. 
 
-When working with a group of objects, migration statuses can be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#ami) interface. Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to update the migration status of multiple objects at once. 
+When working with a group of objects, migration statuses can be viewed or updated in the [List Edit - AMI](https://nypl.github.io/pres-docs/spec/specObjectsListEdit.html#ami) interface. Use the [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html) to update the migration status of multiple objects at once. 
 
 Migration statuses are automatically updated when digitization projects are marked as completed. See SPEC Projects [DOCUMENTATION FORTHCOMING] for more information.
 

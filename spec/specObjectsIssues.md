@@ -55,5 +55,5 @@ Issues can viewed or updated by clicking on the yellow **hazard** icon in the [O
 
 Use the **Remove issue** button only to delete an issue added to an object by mistake, otherwise use the resolved on and resolved by fields to maintain an accurate historical record of object issues.
 
-Use the [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) to add an issue to multiple objects at once. The same issue data will be added to each selected object.
+Use the [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html) to add an issue to multiple objects at once. The same issue data will be added to each selected object.
 

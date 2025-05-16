@@ -7,10 +7,10 @@ nav_order: 20
 ---
 
 ## Action Menu
-The **Bulk Action Menu** provides a way to edit certain object record elements across a group of objects. Find a set of objects in the **Object Search** interface. Select a subset of objects records in the object search result list by clicking the check box to the left of each object, or click on the **Action** menu button above the object check boxes and click **Select All** from the menu. Objects can be deselected individually or using the **Select None** option from the **Action** menu. 
+The **Action Menu** provides a way to edit certain object record elements across a group of objects. Find a set of objects in the **Object Search** interface. Select a subset of objects records in the object search result list by clicking the check box to the left of each object, or click on the **Action** button above the object check boxes and click **Select All** from the menu. Objects can be deselected individually or using the **Select None** option from the **Action Menu**. 
 
 {: .tip }
-> When using the Bulk Action Menu the object element specified in the action will be updated to the same value across all selected objects, i.e. each selected object will be assigned the same collection and/or acquisition/delivery reference, the same active location, the same reason for deactivation, etc.
+> When using the Action Menu the object element specified in the action will be updated to the same value across all selected objects, i.e. each selected object will be assigned the same collection and/or acquisition/delivery reference, the same active location, the same reason for deactivation, etc.
 
 Click on the **Action** menu button to select an action to be performed across all selected objects.
 
