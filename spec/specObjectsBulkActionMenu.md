@@ -23,12 +23,12 @@ Click on the **Action** menu button to select an action to be performed across a
 | **Add to loan checklist** | add selected objects to an outgoing loan by navigating from loan record (registrar only) |
 | **Add to project** | add selected objects to a project by searching for or navigating from a project record |
 | **Create container label pdf** | generate labels for selected containers, any selected items will be omitted; a .pdf file downloaded to the user's Desktop will open automatically |
-| **Deactivate selected objects** | make selected objects inactive |
+| **Deactivate selected objects** | make selected objects inactive. See [Deactivating Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#deactivating-object-records) for more information |
 | **Edit content estimates** | replace existing content estimate(s) or add an additional content estimate to selected containers |
 | **Edit labels and sequence numbers** | assign a label, label number prefix, and/or sequence number to selected objects |
 | **Edit migration status** | assign a new migration status to selected objects, previously active migration status will be made inactive by receiving an end date |
 | **Mark selected objects as received** | assign a received date based on the associated acquisition delivery date to selected objects |
-| **Reactivate selected objects** | make selected inactive objects active again ... See [add link] for more information|
+| **Reactivate selected objects** | make selected inactive objects active again. See [Reactivating Object Records](https://nypl.github.io/pres-docs/spec/specObjects.html#reactivating-object-records) for more information |
 | **Remove from collection** | remove any collection references|
 | **Remove from container** | deactivate relationships between selected objects and their current containers; object locations inherited from the disassociated container will update to "not indicated" |
 | **Remove from project** | remove selected objects from a project |
