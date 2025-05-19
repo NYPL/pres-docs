@@ -276,6 +276,83 @@ The first graph you will want to look at is the temperature and relative humidit
 | **Reading Rooms** | 68-70F |
 | **Galleries** | 65-70F |
 
+When evaluating the temperature and RH in a space, make sure to look at the [Preservation Environment Airtable Base](https://airtable.com/appdyGUVHYBU0AQmP/tblXbRFUmDE1pkNph/viwfrd07RBZFYRpoe?blocks=hide), which has information related to all of the HVAC units across the Research Libraries and LSC. It lists out which units serve which spaces, where they are located, the units’ generalized past performance in the summer vs. winter months from eClimateNotebook, and other information. This is a very helpful resource to see which rooms are served by the same HVAC systems and to see if the temperatures and RHs the system is achieving are common. In addition, below each table in the spreadsheet, there are more relevant notes regarding the units and the building environments more generally. 
+
+#### **Section 3.2.2: Dew Point**
+
+The Dew Point graph is not one that we look at frequently. That being said, knowing the dew point is very important because its value determines the preservation environment we are capable of achieving. When the dew point is consistent, then it will be true that when the temperature rises, the RH will fall and, conversely, when the temperature falls, the RH rises. If this does not seem to be the case and you need to calculate the dew point using the Dew Point Calculator (DP Calc). DP Calc is a resource from the Image Permanence Institute (IPI) to assist in the calculation of the dew point in a space based on the temperature and relative humidity. To find the dew point calculator, you can visit [dpcalc.org](http://dpcalc.org/) or it can be found in eClimate Notebook under “Storage Planning” at the top of the page and by then selecting “Dew Point Calculator.” We frequently use DP Calc to understand the current mold risk in a space experiencing high RH. If collection materials have to move from an environmentally controlled space to an uncontrolled location (or vice versa), follow the guidelines in the [Environment Emergency - Monitoring Dew Point](https://docs.google.com/drawings/d/1A__jJHxmkdmx3aTwX7QZJr42HqDabZ1xF09fzKFjwzE/edit?usp=sharing) document. Follow the steps to calculate the dew point in the materials’ destination to assess if condensation is a risk and, if so, how to remediate the situation. 
+
+#### **Section 3.2.3: Mold**
+
+Mold needs a high relative humidity to germinate. If the RH in a space goes above 65%, you will want to take a look at the mold graph. The graph has a horizontal line at 1.0 on the y-axis which represents germination. When temperature and RH conditions are within an acceptable range, nothing with show up on this graph, as shown below:When conditions become problematic and susceptible to mold germination, you will start to see bars appearing from the x-axis. See below.
+
+### **Section 3.3: Questions to Ask As You Analyze**
+
+The answers to the questions that guide your analysis will be what you include in your monthly email report to CLMGT. Based on the parameters of the metrics listed above in [Section 3.2: Metrics to Focus On](#section-32-metrics-to-focus-on) and the particulars of each unit, look at the graph for each room and decide if the conditions were within the acceptable parameters for the entire month. If they were not, ask yourself these questions:
+
+1) How long were conditions outside of acceptable parameters? Was it for an extended period? Sporadically?
+
+2) What may account for these conditions?
+
+   1. Weather: Select “New York City” in the Location Datasets on the left side of the screen to see if changes in the space’s conditions reflect exterior conditions
+
+   2. Problems with the HVAC System
+
+   3. Construction
+
+3) How do the conditions compare to last month? The past few months? Is it a continuation of conditions or are we seeing something new?
+
+   1. Look at past emails sent to see if the space was brought up previously
+
+4) Do these conditions match what conditions are typically like in the space this time of year?
+
+   1. Change the “Date Range” in eClimate Notebook and check what the conditions were like during the current month over the past couple years. 
+
+5) What is the setup of the room? Are there windows?
+
+6) Did the conditions occur for a long enough period or was the RH high enough that we should be concerned about mold germination?
+
+   1. For more information about assessing possible mold germination, see [Section 3.2.3: Mold](#section-323-mold).Another helpful resource is the [Environment Emergency Checklist](https://docs.google.com/drawings/d/1jYbQhFpVpleNcJmhs-2MAW2pTcuWwNZSV-Jx5zdz96s/edit?usp=sharing). It lists out similar questions to ask yourself in order to assess if particular environmental conditions are a cause for concern and also includes which types of HVAC units serve each space. If there is an environmental emergency, contact Facilities for your building.
+
+### **Section 3.4: Monthly Environmental Monitoring Report Email** 
+
+Once you are finished uploading data into eClimateNotebook, you will send out a Monthly Report email using Airtable. To do so, navigate to the “Environmental Events” table in the [Preservation Environment Airtable Base](https://airtable.com/appdyGUVHYBU0AQmP/tblrs9cRhhWpGje2B/viwcs2KnX0lfpidbZ?blocks=hide) and select the view for your building under the “Monthly Reports” section on the left side of the page. To create a report, follow the instructions below: 
+
+* Create a new entry by clicking on the “+” in the lower left corner of the table. It will say “#ERROR!” in the “Event” field because it is a formulated field that will automatically populate as you fill in the other fields.
+
+*  Start filling in these fields
+
+  - **_Date:_** Enter today’s date
+
+  - **_Reported By:_** Enter your name
+
+  - **_Email:_** Enter your email address
+
+  - **_Monthly Report Month_**: Select the current month
+
+  - **_Monthly Report Year:_** Select the current year
+
+  - **_Event Type:_** __Select “Monthly Report”
+
+* Next you will complete the **_Description_** field, which is where you will put your analysis. The information should be structured as a list and each space mentioned gets its own bullet point. That being said, if there are multiple spaces served by the same HVAC unit and the conditions are the same, they can be mentioned together. You can either type directly in the “Description” field or type up your analysis in a Word document or email and copy and paste it into the field. 
+
+  - Be sure to mention each space(s) with issues and keep it brief: generally 2-3 sentences about a space is sufficient. Include:
+
+    - What occurred
+
+    - For how long
+
+    - Action item(s): use bold text for these so they quickly and easily stand out
+
+  - Refer to [Section 3.2: Metrics to Focus On](#section-32-metrics-to-focus-on) and [Section 3.3: Questions to Ask as You Analyze](#section-33-questions-to-ask-as-you-analyze) as you write your analysis
+
+    - For examples of what to include in the report based on what is shown in the graphs, see [Appendix A](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit?pli=1#heading=h.4lo0yp2qmll0).
+
+* After finishing your analysis, enter each of the spaces you mentioned in the **_Locations_** __field.
+
+* Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the **_Report Complete?_** field. Once this box is checked, your analysis email will automatically be sent to CLMGT (<collectionmanagement@nypl.org>).
+
+* *Note*: When communicating directly with Facilities about environmental conditions, specifically temperature, it is important to remember that what we are seeing on our dataloggers, may be different from what the system is telling them because of where the BMS (building management system) thermostat is located vs. where our logger is located in a space. For example, our datalogger may say that the temperature in the space is 72 degrees and we want it to be 70, but the system Facilities is looking at says it is already at 70 degrees. In order to avoid confusion, instead of asking Facilities to make it 70 degrees, ask them to bring the set point down two degrees. A good phrase to use when talking with Facilities is “what the collections are experiencing.” 
 
 
 [^1]: https://s3.cad.rit.edu/ipi-assets/publications/dew_point.pdf
