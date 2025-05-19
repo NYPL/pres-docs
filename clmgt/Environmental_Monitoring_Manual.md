@@ -132,7 +132,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 22) These exported files with the raw data from HOBOconnect also need to be saved in the [Environmental Monitoring](https://drive.google.com/drive/folders/1uRHAKVWL5vCrOJBtjaUuRYjRg77tD9MF?usp=sharing) folder in the Google Drive. Select the folder for the present year, and then click on your building. Open the folder titled “Uploaded to ECNB” and save the files here. The files do not need to be renamed or changed at all and they are not organized in any particular way. Simply drag and drop the files into the folder. Keeping these files is more of a precautionary measure in the event of an eClimateNotebook crash. They can then be deleted from your downloads as well as your email.
 
-23) Once you confirm that the data has been successfully uploaded to eClimateNotebook (for how to do so, see [Section 2.1: Uploading New Data](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit#heading=h.zc9ic1tgyp37)) and saved in the Google Drive, you can delete the files. If you have a small number of files, you can delete them in HOBOconnect, by swiping from right to left on each individual file and selecting the trash can. When it asks you to confirm, select “Delete.”
+23) Once you confirm that the data has been successfully uploaded to eClimateNotebook for how to do so, see [Section 2.1: Uploading New Data]((#section-21-uploading-new-data)) and saved in the Google Drive, you can delete the files. If you have a small number of files, you can delete them in HOBOconnect, by swiping from right to left on each individual file and selecting the trash can. When it asks you to confirm, select “Delete.”
 
 24) If you have a large number of files to delete, this can be done by batch in the “Files” app on your phone or iPad. The app will be located in different locations on different devices, so if you are struggling to find the icon, just search for “Files” in the search bar on your device. 
 
@@ -175,7 +175,7 @@ Once logged in, select “Data Manager” in the bar at the top of the page and 
 
 4. The data will then begin to upload. Once it is finished, click on “Continue to Graphs.” 
 
-5. If a new dataset is uploaded (i.e. for a new room) that is not associated with a space in the location hierarchy (visible on the left side of the screen), it will show up as unassigned at the bottom of the locations list. To insert it into the hierarchy, use the “Manage Hierarchy” field under “Data Manager” at the top of the page. For more information, see [Section 2.2.1.2: Manage Hierarchy](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit#heading=h.lduxw499mq0r).
+5. If a new dataset is uploaded (i.e. for a new room) that is not associated with a space in the location hierarchy (visible on the left side of the screen), it will show up as unassigned at the bottom of the locations list. To insert it into the hierarchy, use the “Manage Hierarchy” field under “Data Manager” at the top of the page. For more information, see [Section 2.2.1.2: Manage Hierarchy](#section-2212-manage-hierarchy).
 
 
 ### **Section 2.2: Organizing and Editing Datasets** 
@@ -245,11 +245,14 @@ You will write an email report with your analysis of the collection environments
 
 ### **Section 3.1: Resources for Understanding our Systems and Spaces**
 
-There are a few resources that are helpful to understanding our systems and spaces. Looking at these documents will not be necessary every time you complete a report after collecting environmental data, but are helpful to look at in order to gain a better understanding of the spaces and what may be causing particular issues. For resources regarding information about specific HVAC units, see [Section 3.2: Metrics to Focus On](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit?pli=1#heading=h.pwhavrfd246h).
+There are a few resources that are helpful to understanding our systems and spaces. Looking at these documents will not be necessary every time you complete a report after collecting environmental data, but are helpful to look at in order to gain a better understanding of the spaces and what may be causing particular issues. For resources regarding information about specific HVAC units, see [Section 3.2: Metrics to Focus On](#section-32-metrics-to-focus-on).
 
 #### **Section 3.1.1: General Materials for Understanding Environmental Control**
 
-These resources include more general information about preservation environments. - [Managing Collection Environments: Preserving Collections in the Age of Sustainability Technical Note](https://drive.google.com/file/d/119B2BwQfs-2lS3_P60ptgdRxXP0urVZ3/view?usp=sharing): “Managing Collection Environments” was a workshop that took place at the Pennsylvania Academy of Fine Arts in Philadelphia. This document was written by workshop instructor Michael C. Henry and it outlines several collections-specific interior environmental management strategies.* [HVAC Information Powerpoint](https://docs.google.com/presentation/d/0B8rpG5ta0GE2SGlyUE1td2ZRTlViN2ZnWEdkTTNVc0t3LTE4/edit?usp=sharing\&ouid=100303782412578828024\&resourcekey=0-F4iQCiJ7Sg3NAcp_AkKquQ\&rtpof=true\&sd=true): This presentation includes general set points for collection spaces and spaces that require human comfort temperatures (reading rooms, offices, and galleries) as well as information about HVAC systems, building envelopes, preservation index, as well as environmental-related risks.
+These resources include more general information about preservation environments. 
+
+* [Managing Collection Environments: Preserving Collections in the Age of Sustainability Technical Note](https://drive.google.com/file/d/119B2BwQfs-2lS3_P60ptgdRxXP0urVZ3/view?usp=sharing): “Managing Collection Environments” was a workshop that took place at the Pennsylvania Academy of Fine Arts in Philadelphia. This document was written by workshop instructor Michael C. Henry and it outlines several collections-specific interior environmental management strategies.
+* [HVAC Information Powerpoint](https://docs.google.com/presentation/d/0B8rpG5ta0GE2SGlyUE1td2ZRTlViN2ZnWEdkTTNVc0t3LTE4/edit?usp=sharing\&ouid=100303782412578828024\&resourcekey=0-F4iQCiJ7Sg3NAcp_AkKquQ\&rtpof=true\&sd=true): This presentation includes general set points for collection spaces and spaces that require human comfort temperatures (reading rooms, offices, and galleries) as well as information about HVAC systems, building envelopes, preservation index, as well as environmental-related risks.
 
 #### **Section 3.1.2: Resources for Understanding Our Spaces**
 
