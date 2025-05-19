@@ -332,7 +332,7 @@ Once you are finished uploading data into eClimateNotebook, you will send out a 
 
   - **_Monthly Report Year:_** Select the current year
 
-  - **_Event Type:_** __Select “Monthly Report”
+  - **_Event Type:_** Select “Monthly Report”
 
 * Next you will complete the **_Description_** field, which is where you will put your analysis. The information should be structured as a list and each space mentioned gets its own bullet point. That being said, if there are multiple spaces served by the same HVAC unit and the conditions are the same, they can be mentioned together. You can either type directly in the “Description” field or type up your analysis in a Word document or email and copy and paste it into the field. 
 
@@ -348,7 +348,7 @@ Once you are finished uploading data into eClimateNotebook, you will send out a 
 
     - For examples of what to include in the report based on what is shown in the graphs, see [Appendix A](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit?pli=1#heading=h.4lo0yp2qmll0).
 
-* After finishing your analysis, enter each of the spaces you mentioned in the **_Locations_** __field.
+* After finishing your analysis, enter each of the spaces you mentioned in the **_Locations_** field.
 
 * Lastly, once you are completely finished with your analysis and each field is filled in, click on the checkbox in the **_Report Complete?_** field. Once this box is checked, your analysis email will automatically be sent to CLMGT (<collectionmanagement@nypl.org>).
 
