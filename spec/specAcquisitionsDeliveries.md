@@ -26,7 +26,7 @@ Specify whether NYPL or the donor or dealer will coordinate the shipment, select
 
 ### Number of Objects to Deliver
 *automatically generated, single numeric value*  
-Provides an automatic count of objects associated with the delivery. Click the blue **>** to navigate to the **Object Search** interface where object delivery references can be updated using the delivery id. See [SPEC Objects / References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) and [Bulk Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsBulkActionMenu.html) for more information.  
+Provides an automatic count of objects associated with the delivery. Click the blue **>** to navigate to the **Object Search** interface where object delivery references can be updated using the delivery id. See [SPEC Objects / References](https://nypl.github.io/pres-docs/spec/specObjectsReferences.html) and [Action Menu](https://nypl.github.io/pres-docs/spec/specObjectsActionMenu.html) for more information.  
 
 ### Delivery To
 *required, single controlled value*  

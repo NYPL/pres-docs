@@ -23,7 +23,7 @@ To begin, scan the object barcode at the top of the page in the **Scan object ba
 To enter or change an object’s location, scan the location’s barcode under the **Location Barcode** label in the Active Storage Location section. If the object was assigned to another location, that location will be made inactive. If the object’s assigned location matches the location barcode entered, the location will be verified and the verification will be logged in the audit log.
 
 {: .tip }
-> The Object Barcode App is the most convenient way to update locations when working with multiple objects that need to move to different locations. If working with multiple objects that all need to move to the same location consider using the Bulk Action Menu.
+> The Object Barcode App is the most convenient way to update locations when working with multiple objects that need to move to different locations. If working with multiple objects that all need to move to the same location consider using the Action Menu.
 
 See [Locations](https://nypl.github.io/pres-docs/spec/specObjectsLocations.html) for more information. 
 

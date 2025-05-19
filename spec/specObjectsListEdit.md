@@ -28,8 +28,6 @@ The list displays the first content estimate for container type objects, if one 
 
 The down caret button to the left of each object provides access to the **Editing Shortcuts** pop-up menu. 
 
-Box labels can be generated from this interface using the **Create box labels** button above the Object name column. Specify the box range in the pop-up window, the found set of objects will be narrowed down to all containers that fall into the specfied range. Click OK to generata a .pdf file; the file, downloaded to user's Documents folder, will open automatically.
-
 &nbsp; 
 &nbsp; 
 
@@ -38,7 +36,7 @@ The **List Edit - AMI** interface will limit the found set of object records to 
 
 The object barcode, contained in relationship, current location (for uncontained objects) can be updated by clicking on the **barcode** icon to the left of the column to open a pop-up into which the appropriate barcode can be scanned. 
 
-The **down caret** button to the left of each object provides access to the **Editing Shortcuts** pop-up menu and the **Action** button above the object check boxes provides access to the **Bulk Action Menu** options.
+The **down caret** button to the left of each object provides access to the **Editing Shortcuts** pop-up menu and the **Action** button above the object check boxes provides access to the **Action Menu** options.
 
 The **All Items in Containers** and **Go to Containers** buttons navigate to the specified set of related records in the  **Object Search** interface. The **Film Stats** button generates film inspection statistics for a specified date range. 
 
