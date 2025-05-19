@@ -239,6 +239,33 @@ Once the dataset(s) are selected and date ranges are set, you are ready to look 
 | **Dimensional Change (%DC)** | Assessment of the risk for mechanical damage (along with %EMC) that estimates the change in the size of an object caused by absorbed moisture. |
 | **Equilibrium Moisture Content (%EMC)** | Measure of the risk for mechanical damage (along with %DC) and represents the "percent by weight of water" of hygroscopic materials (water-absorbing materials such as wood, textiles, and paper).[^3]
 
+## **Section 3: Analysis**
+
+You will write an email report with your analysis of the collection environments for the past month and send it to CLMGT (<collectionmanagement@nypl.org>). It is best to write the report as you analyze the data and it should be sent out the same day you complete monitoring (as that is when it is most relevant). In this section, you will find resources to look at as you analyze to help you understand the spaces and systems; metrics we focus on in our reports; questions to ask yourself while looking at the data; and how to structure the report.
+
+### **Section 3.1: Resources for Understanding our Systems and Spaces**
+
+There are a few resources that are helpful to understanding our systems and spaces. Looking at these documents will not be necessary every time you complete a report after collecting environmental data, but are helpful to look at in order to gain a better understanding of the spaces and what may be causing particular issues. For resources regarding information about specific HVAC units, see [Section 3.2: Metrics to Focus On](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit?pli=1#heading=h.pwhavrfd246h).
+
+#### **Section 3.1.1: General Materials for Understanding Environmental Control**
+
+These resources include more general information about preservation environments. - [Managing Collection Environments: Preserving Collections in the Age of Sustainability Technical Note](https://drive.google.com/file/d/119B2BwQfs-2lS3_P60ptgdRxXP0urVZ3/view?usp=sharing): “Managing Collection Environments” was a workshop that took place at the Pennsylvania Academy of Fine Arts in Philadelphia. This document was written by workshop instructor Michael C. Henry and it outlines several collections-specific interior environmental management strategies.* [HVAC Information Powerpoint](https://docs.google.com/presentation/d/0B8rpG5ta0GE2SGlyUE1td2ZRTlViN2ZnWEdkTTNVc0t3LTE4/edit?usp=sharing\&ouid=100303782412578828024\&resourcekey=0-F4iQCiJ7Sg3NAcp_AkKquQ\&rtpof=true\&sd=true): This presentation includes general set points for collection spaces and spaces that require human comfort temperatures (reading rooms, offices, and galleries) as well as information about HVAC systems, building envelopes, preservation index, as well as environmental-related risks.
+
+#### **Section 3.1.2: Resources for Understanding Our Spaces**
+
+* These resources were created about specific spaces at NYPL. * [**Preservation Environment Airtable Base**](https://airtable.com/appdyGUVHYBU0AQmP/tblrs9cRhhWpGje2B/viwscnjistU8YQAcV?blocks=hide)**:** Multiple tables within this base are helpful to consult when analyzing environmental data. The “Environmental Events” table tracks any environment-related event that may impact conditions (ex. Staff asking for temperature change, HVAC system work causing brief temperature drops, etc.). There is also a list of all HVAC units which includes the spaces that they serve, design set points, and location maps. For more information and instructions on how to use the base, see the base description, which is accessible by clicking on the down arrow next to the title of the base. 
+* **Environmental Assessments:** These assessments were created by Jeremy Linden of Linden Preservation Services in 2018 for **SASB** and **Schomburg**. These documents are particularly helpful to read as one is getting to know a space (or building at large) so you can see the larger (or specific) issues at play that may impact the environment in spaces across a building.
+* [**Environmental Design Criteria**](https://docs.google.com/document/u/0/d/16Z-DQvVlYnrPX6DM1Dvm-JqFVAZF7-TZlChDUla9Yi8/edit): Lists acceptable environmental parameters based on space usage.
+* [**SASB Space Planning**](https://docs.google.com/document/d/1jZVWlYoTkH0y_3hjTZJ7n_mWMgNHrxqOumZQKATGm0Q/edit?usp=sharing)**:** Though this document was created with SASB in mind, it has helpful information about the optimal types of storage environments for various types of materials. 
+* **Previous Report Emails to CLMGT:** It is also helpful to have the email reports sent the past couple months up as you are looking at current data. You will want to see if there was anything mentioned in previous months that needs to be addressed this month as well. For example, say the HVAC was short-cycling last month and Facilities was notified. This month you will want to confirm that this issue was addressed and the unit is now working properly. 
+
+### **Section 3.2 Metrics to Focus on**
+Select each room individually from the Location Datasets on the left side of the screen in eClimateNotebook and review monthly conditions. You will also want to look at spaces served by the same HVAC unit together. To find which spaces are served by the same units, see the “HVAC Systems” table in the [Preservation Environment Airtable Base](https://airtable.com/appdyGUVHYBU0AQmP/tblXbRFUmDE1pkNph/viwfrd07RBZFYRpoe?blocks=hide). For more information about what else is included in the spreadsheet, see [Section 3.2.1: Temperature and Relative Humidity](#section-321-temperature-and-relative-humidity).
+
+#### **Section 3.2.1: Temperature and Relative Humidity**
+The first graph you will want to look at is the temperature and relative humidity together. For both, we look for a range. The temperature in a room is dependent on what it is used for, specifically, is it human-occupied (such as offices, reading rooms, and galleries)? The below table outlines temperature and relative humidity goals for particular space-types as well as what fluctuations should and should not be cause for concern. Note: Most spaces across the Research Libraries will not achieve these goals at all times.  Generally, these are goals to work toward. You will come to learn the realities of each of the spaces and constraints of the units in your building as you begin regular analysis. 
+
+
 
 [^1]: https://s3.cad.rit.edu/ipi-assets/publications/dew_point.pdf
 [^2]: https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/tools_for_analysis.pdf
