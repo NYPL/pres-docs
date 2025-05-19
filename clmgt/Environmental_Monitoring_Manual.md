@@ -129,6 +129,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 23) Once you confirm that the data has been successfully uploaded to eClimateNotebook (for how to do so, see [Section 2.1: Uploading New Data](https://docs.google.com/document/d/1YIXS8zJIqLuNrR9WnhwrLkCVrwSlcjn7N5oeGQMJVyw/edit#heading=h.zc9ic1tgyp37)) and saved in the Google Drive, you can delete the files. If you have a small number of files, you can delete them in HOBOconnect, by swiping from right to left on each individual file and selecting the trash can. When it asks you to confirm, select “Delete.”
 
 24) If you have a large number of files to delete, this can be done by batch in the “Files” app on your phone or iPad. The app will be located in different locations on different devices, so if you are struggling to find the icon, just search for “Files” in the search bar on your device. 
+<img src="Images/HoboConnect-Step-24.png" width="25%" />
 
 25) When you open the Files app, make sure that you are in the “On my iPad” page (or “On my iPhone” if using your phone).  
 
