@@ -140,13 +140,19 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 25) When you open the Files app, make sure that you are in the “On my iPad” page (or “On my iPhone” if using your phone).  
 
-<img src="Images/HoboConnect-Step-25.jpg" width="25%" />
+<img src="Images/HoboConnect-Step-25.jpg" width="40%" />
 
 26) Click on the HOBOconnect folder. 
 
+<img src="Images/HoboConnect-Step-26.JPG" width="40%" />
+
 27) Click on the “CSVs” folder.
 
+<img src="Images/HoboConnect-Step-27.JPG" width="40%" />
+
 28) Click on the three dots in the upper right corner and choose “Select.” Click on all of the datasets you would like to delete and then click on the trash can icon in the lower right corner. Deleting the files here will also delete them from the HOBOconnect app. If you go back to the “Data” page, it will now be empty. 
+
+<img src="Images/HoboConnect-Step-28.jpg" width="25%" />
 
 ## **Section 2: eClimateNotebook**
 
