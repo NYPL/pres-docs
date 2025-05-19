@@ -134,6 +134,8 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 25) When you open the Files app, make sure that you are in the “On my iPad” page (or “On my iPhone” if using your phone).  
 
+<img src="Images/HoboConnect-Step-25.jpg" width="25%" />
+
 26) Click on the HOBOconnect folder. 
 
 27) Click on the “CSVs” folder.
