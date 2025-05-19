@@ -132,7 +132,7 @@ HOBOconnect is the app used to download data from the HOBO Dataloggers. It can b
 
 22) These exported files with the raw data from HOBOconnect also need to be saved in the [Environmental Monitoring](https://drive.google.com/drive/folders/1uRHAKVWL5vCrOJBtjaUuRYjRg77tD9MF?usp=sharing) folder in the Google Drive. Select the folder for the present year, and then click on your building. Open the folder titled “Uploaded to ECNB” and save the files here. The files do not need to be renamed or changed at all and they are not organized in any particular way. Simply drag and drop the files into the folder. Keeping these files is more of a precautionary measure in the event of an eClimateNotebook crash. They can then be deleted from your downloads as well as your email.
 
-23) Once you confirm that the data has been successfully uploaded to eClimateNotebook (for how to do so, see [Section 2.1: Uploading New Data](#section-21-uploading-new-data)) and saved in the Google Drive, you can delete the files. If you have a small number of files, you can delete them in HOBOconnect, by swiping from right to left on each individual file and selecting the trash can. When it asks you to confirm, select “Delete.”
+23) Once you confirm that the data has been successfully uploaded to eClimateNotebook and saved in the Google Drive, you can delete the files. If you have a small number of files, you can delete them in HOBOconnect, by swiping from right to left on each individual file and selecting the trash can. When it asks you to confirm, select “Delete.”
 
 24) If you have a large number of files to delete, this can be done by batch in the “Files” app on your phone or iPad. The app will be located in different locations on different devices, so if you are struggling to find the icon, just search for “Files” in the search bar on your device. 
 
@@ -268,6 +268,13 @@ Select each room individually from the Location Datasets on the left side of the
 
 #### **Section 3.2.1: Temperature and Relative Humidity**
 The first graph you will want to look at is the temperature and relative humidity together. For both, we look for a range. The temperature in a room is dependent on what it is used for, specifically, is it human-occupied (such as offices, reading rooms, and galleries)? The below table outlines temperature and relative humidity goals for particular space-types as well as what fluctuations should and should not be cause for concern. Note: Most spaces across the Research Libraries will not achieve these goals at all times.  Generally, these are goals to work toward. You will come to learn the realities of each of the spaces and constraints of the units in your building as you begin regular analysis. 
+
+| **Room Type**          | **Temp**    |  **24HR Fluctuation**  |  **RH**   |  **24HR Fluctuation**  |
+| ---------------------- | ----------- | ---------------------- | --------- | ---------------------- |
+| **Collection Storage** | Between 55F and 65F | No more than 10 degree swing in 24HR | between 30-60% | No more than 10% in a 24HR period |
+| **Collection Workspace** | 68F-70F |
+| **Reading Rooms** | 68-70F |
+| **Galleries** | 65-70F |
 
 
 
