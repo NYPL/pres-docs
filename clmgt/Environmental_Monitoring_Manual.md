@@ -15,6 +15,12 @@ has_children: false
 ## **Collection Management Procedures and Instructional Guide**
 June 2022, updated January 2024
 
+## **Table of Contents**
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ## **Introduction**
 
 Collection Management (CM) conducts monthly monitoring of all spaces in which collections are used and stored using HOBO datalogger devices. Environmental conditions are analyzed in eClimateNotebook and findings are shared with Collection Management (CLMGT) in monthly email reports using Airtable. HVAC adjustments and concerns are communicated to Facilities. Monthly monitoring is useful for collecting long term preservation data and addressing current preservation needs.
