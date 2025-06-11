@@ -239,7 +239,7 @@ If an authorized agent or subject did not link, right click on it and select **_
 
 Sometimes a new window will open with a suggested heading. You can click on the linked heading in the pop up window for more information. 
 
-[suggested heading](/Images/146-suggested-heading.png)
+![suggested heading](/Images/146-suggested-heading.png)
 
 If the heading is correct, choose **Insert heading** to link it in your record. 
 
@@ -255,8 +255,8 @@ If there is no authority record for the heading, double check that the heading i
 
 ![export record to sierra](/Images/148-export-record.png)
 
-# Sierra: Final Edits
-If you have created a brand new catalog record, these final steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. There is a NYPL [Sierra Manual 🔒](https://sites.google.com/a/nypl.org/sierramanual/nypl-sierra-manual) available that goes into more detail about Sierra’s functionality and navigation. 
+# Sierra
+If you have created a brand new catalog record, these steps in Sierra will be to verify your catalog record exported correctly, to record the bnumber in ArchivesSpace and SPEC, and sometimes to edit the location information or suppress certain items. 
 
 **Remember that if you are cataloging an addition or editing an existing catalog record, you should skip directly to the section on [Updating Existing Catalog Records](/Creating-Catalog-and-EAD-Records.md#corrections-and-edits-to-existing-catalog-records).**
 
@@ -291,6 +291,9 @@ A list of item agency codes is available in the internal [Cataloging Archival Co
 When the catalog record is complete, locate the bnumber. The bnumber is the letter “b” followed by eight numbers at the top of the record. When recording the bnumber, omit the last digit. This number must be added to both the collection’s ASpace record in the _bnumber_ _indentifer_ field and the bnumber field of the SPEC collection record. 
 
 When you have finished cataloging the collection, mark the cataloging task in the collection’s Trello card as complete. See the [Updating Trello]() section of this documention for more information on managing projects in Trello.
+
+# Aeon Links
+If you are cataloging an LPA collection for the Dance, Music, or Theatre division, you will need to add Aeon links to each of the item records. Instructions on how to do this are included in the [internal cataloging documentation 🔒](https://docs.google.com/document/d/1XMCuaNAQwFyRw-UMd86Me8R0YMDczk_S14sjhEEJ2AY/edit?tab=t.0#heading=h.jxtka2qdhn18)
 
 # Corrections and Edits to Existing Catalog Records
 If you are cataloging an addition to a previously processed collection, or if you are editing an existing catalog record or finding aid, follow the steps below. You will not need to export the MARCXML from ASpace, import the MARC record into OCLC, or export the record from OCLC to Sierra. 
