@@ -25,7 +25,7 @@ SPEC can be accessed via the FileMaker client or browser. Most SPEC functionalit
 If connecting to SPEC using the FileMaker client for the first time, follow these steps:  
 - Open FileMaker and select File > Hosts from the menu
 - Click on FileMaker PRODUCTION. If the production server in not listed, file a ServiceNow ticket for instructions on connecting to the server manually 
-- If an SSL certificate warning message appears, check “Always permit connect to this host” and then click on the Connect button
+- If an SSL certificate warning message appears, check “Always permit connection to this host” and then click on the Connect button
 - Log in to the server using the SPEC credentials provided via email
 - Right click on CollectionInfo and select "Add to Favorites." From now on CollectionInfo will appear under File > Favorites and in the Favorites window when opening FileMaker 
 - Click on CollectionInfo and log in with the SPEC credentials provided via email
