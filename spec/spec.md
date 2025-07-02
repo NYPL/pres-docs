@@ -24,7 +24,7 @@ SPEC can be accessed via the FileMaker client or browser. Most SPEC functionalit
 
 If connecting to SPEC using the FileMaker client for the first time, follow these steps:  
 - Open FileMaker and select File > Hosts from the menu
-- Click on FileMaker PRODUCTION. *If the production server in not listed, file a ServiceNow ticket to request the IP address of the PRODUCTION server. Once you have the IP address, click on the + button in the left panel of the Hosts pop-up window (next to the Hosts Search bar), enter the IP address in the Host Internet Address field and "FileMaker Production" in the Favorite Host's Name field*
+- Click on FileMaker PRODUCTION. *If FileMaker PRODUCTION is not listed, file a ServiceNow ticket (see link below) to request the IP address of the server. Once you have the IP address, click on the + button in the left panel of the Hosts pop-up window (next to the Hosts Search bar), enter the IP address in the Host Internet Address field and "FileMaker PRODUCTION" in the Favorite Host's Name field*
 - If an SSL certificate warning message appears, check “Always permit connection to this host” and then click on the Connect button
 - Log in to the server using the SPEC credentials provided via email
 - Right click on CollectionInfo and select "Add to Favorites." From now on CollectionInfo will appear under File > Favorites and in the Favorites window when opening FileMaker 
