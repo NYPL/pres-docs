@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 {: .alert }
-> As of June 2025, SPEC Projects is an incomplete module. It remains in limited use with no further plans for implementation. 
+> As of June 2025, SPEC Projects is an incomplete module. SPEC Projects was intended to integrage SPEC Objects with project records and replace the Projects (CMS Interface) functionality used by several departments within PCP. It remains in limited use with no further plans for implementation. It has been fully implemented for AMI Batching processes only. 
 
 # SPEC Projects (Deprecated)
 A SPEC project is an activity or group of related activities that addresses a defined body of objects (or targets) during a specified time period and that produces quantifiable outputs. Project goal(s) describe the desired outcomes and/or motivation for the project.  Projects can be grouped explicitly through association of an initiative, or implicitly through grants, activities, targets, time period, repository, outputs, or any project characteristic.
@@ -20,9 +20,4 @@ Managing projects serves three purposes:
 - Generating statistics that reflect what has been worked on and the resulting output of that work.
 
 Project tracking does not aim to track all of the tasks and milestones associated with smaller processes associated with any activity or group of activities.
-
-&nbsp; 
-&nbsp; 
-
-## Note on SPEC Projects 
-SPEC Projects was intended to integrage SPEC Objects with project records and replace the Projects (CMS Interface) functionality used primarily by Special Collections Processing and Conservation departments within PCP. It has been fully implemented for AMI Batching processes only.  
+ 
