@@ -40,9 +40,13 @@ To navigate back to the **SPEC landing page** from other SPEC interfaces click o
 
 
 ## SPEC Modules
-There are several different record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with acquisitions, collections, and/or projects. 
+There are several different main record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with acquisitions and/or collections. These modules are documented in the [SPEC Acquisitions](https://nypl.github.io/pres-docs/spec/specAcquisitions.html), [SPEC Collections](https://nypl.github.io/pres-docs/spec/specCollections.html), and [SPEC Objects](https://nypl.github.io/pres-docs/spec/specObjects.html) sections of this site.
 
-Additionally, a controlled location hierarchy for NYPL storage locations is maintained in the locations module (CLMGT only), and the outgoing loans module (Registrar only) records outgoing loan information. 
+As of June 2025, [SPEC Projects](https://nypl.github.io/pres-docs/spec/specProjects.html) is an unfinished module and remains in limited use.
+
+A controlled location hierarchy for NYPL storage locations is maintained in the Locations module (CLMGT only), and the Outgoing Loans module (Registrar only) records outgoing loan information. These modules are not yet documented on this site. 
+
+SPEC initially grew out of a legacy system, CMS, used by NYPL's Manuscripts and Archives (MSS) and Rare Book (RBK) divisions. Some legacy interfaces are still accessible to MSS and RBK division staff only. These functionalities are no longer supported and not documented on this site. 
 
 
 ## Reporting Bugs and Other Requests
