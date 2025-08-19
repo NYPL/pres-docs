@@ -56,7 +56,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 
 6\. Once you catalog the collection, tag the Manager of Audio and Moving Image Description in a new comment indicating that the collection is now cataloged.
 
-### AMI From Processed Collectione with Only a Few AMI Items 
+### AMI From Processed Collections with Only a Few AMI Items 
 1\. Copy your collection's trello card and add it to the _Processed AMI_ queue. 
 
 2\. Add a label indicating the collection's digitization status: _fully digitized_, _partially digitized_, or _not digitized_.
