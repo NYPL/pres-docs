@@ -63,7 +63,7 @@ Coordinate with Collection Management and your supervisor to send the media to t
 
 3\. If the AMI will not fill an entire box, place AMI together in the trays provided in the stacks.
 
-4\. Update the [loaction(s)](/Location_Management.md) of the item(s) in SPEC.
+4\. Update the [location(s)](/Location_Management.md) of the item(s) in SPEC.
 
 5\. Comment on the AMI's trello card in the _Processed AMI_ queue and tag the Manager of Audio and Moving Image Description in the comment. In your comment, indicate whether or not the collection is cataloged. 
 
