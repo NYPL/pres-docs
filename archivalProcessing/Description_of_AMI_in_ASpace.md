@@ -27,20 +27,16 @@ Descriptions of amounts and types of media (e.g., video, sound recordings) shoul
 {:toc}
 
 ## Suppressing AMI in Finding Aids
-The Dance division routinely suppress AMI content until it is digitized. When supressing AMI in ArchivesSpace, suppress the children components, but not the parent component. The series title and series-level description will be viewable in the finding aid, but not the individual audio and moving image components. This is applicable on the subseries level as well. For more information on how to suppress audio and moving image components in a finding aid, see the [ASpace User Guide](https://nypl.github.io/pres-docs/aspace/aspace.html). The ASpace User Guide also includes instructions on how to format tracklists into ordered lists in the Scope and Content note, as well as some guidance on when and when not to condense components. 
+The Dance division suppresses AMI content until it is digitized. When supressing AMI in ArchivesSpace, suppress the children components, but not the parent component. The series title and series-level description will be viewable in the finding aid, but not the individual audio and moving image components. This is applicable on the subseries level as well. For more information on how to suppress audio and moving image components in a finding aid, see the [ASpace User Guide](https://nypl.github.io/pres-docs/aspace/aspace.html). The ASpace User Guide also includes instructions on how to format tracklists into ordered lists in the Scope and Content note, as well as some guidance on when and when not to condense components. 
 
 ## AMI Component Extent Statements
-Just like electronic records, each AMI component should have an extent statement. The extent statement should state the number of recordings and whether the recording audio or video. In ArchivesSpace, the extent field will look like this:
+Just like electronic records, each AMI component should have an extent statement. The extent statement should state the number of recordings and whether the recording audio or moving image. In ArchivesSpace, the extent field will look like this:
 
 ![AMI Component Extent](/Images/90-AMI-component-extent.png)
 
 If the division requests to include the original media format, use the controlled SPEC term in the _Physical Details_ field of the ASpace extent form as illustrated below.
 
-![AMI original media formats](/Images/176-original-media-formats-extent.png)
-
-In the Archives Portal the AMI extent will look like this:
-
-![Portal AMI extent](/Images/176-Portal-AMI-extent.png)
+![AMI original media formats](/Images/177-original-media-formats-extent.png)
 
 ## Audio and Moving Image Access Notes In ArchivesSpace
 In both the front matter and at the level immediately above the audio and moving image components, provide the division's _Conditions Governing Access Note_. 
