@@ -6,6 +6,9 @@ grand_parent: SPEC
 nav_order: 27
 ---
 
+{: .note }
+> Some content on this page may be out of date, updates forthcoming 
+
 ## Sierra Data Updates
 SPEC queries Sierra using an object’s barcode in order to update fields in the object record, create references in an object record to its Sierra item and bibliographic records, and update the description status of the object based on those references.
 
