@@ -22,7 +22,7 @@ Staff privileges to view, edit, or create records in SPEC vary based on the requ
 ## Connecting
 SPEC can be accessed via the FileMaker client or browser. Most SPEC functionality is available via both client and browser. Connection options may depend on a user's SPEC account type. Working remotely or using wifi requires a working and properly configured connection to NYPL's VPN. Requests for [installation of FileMaker software 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=194f82c0e91ac1006a42bcaec0898ac1){:target="_blank"} and for [VPN access 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=3ae790c0878db9006a42c74d19434d00){:target="_blank"} can be made through ServiceNow. See also instructions on connecting to [OpenVPN 🔒](https://docs.google.com/document/d/1BQ-k__gyTYMnTP0RmDxcfY4-Tm6dkdMw5mQEivNUt-4/edit?usp=sharing){:target="_blank"}.
 
-If connecting to SPEC using the FileMaker client for the first time on a new workstation or after a software update, follow these steps:  
+Follow these step when connecting to SPEC using the FileMaker client for the first time, either on a new workstation or after a software:  
 - Open FileMaker and select File > Hosts from the menu
 - Click on FileMaker PRODUCTION. *If FileMaker PRODUCTION is not listed, file a ServiceNow ticket (see link below) to request the IP address of the server. Once you have the IP address, click on the + button in the left panel of the Hosts pop-up window (next to the Hosts Search bar), enter the IP address in the Host Internet Address field and "FileMaker PRODUCTION" in the Favorite Host's Name field*
 - If an SSL certificate warning message appears, check “Always permit connection to this host” and then click on the Connect button
