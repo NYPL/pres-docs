@@ -25,7 +25,7 @@ Archival Processing works with archival collections belonging to the following c
 - [Dorot Jewish Division](https://www.nypl.org/locations/schwarzman/jewish-division) (JWS) at the Schwarzman Building (SASB)
 - [Irma and Paul Milstein Division of United States History, Local History and Genealogy](https://www.nypl.org/locations/schwarzman/milstein) (LHG) at the Schwarzman Building (SASB)
 - [Carl H. Pforzheimer Collection of Shelley and His Circle](https://www.nypl.org/locations/schwarzman/pforzheimer-collection-shelley-and-his-circle) (CPS) at the Schwarzman Building (SASB)
--[The Miriam and Ira D. Wallach Division of Art, Prints and Photographs](https://www.nypl.org/locations/schwarzman/wallach-division) (PHG) at the Schwarzman Building (SASB)
+- [The Miriam and Ira D. Wallach Division of Art, Prints and Photographs](https://www.nypl.org/locations/schwarzman/wallach-division) (PHG) at the Schwarzman Building (SASB)
 - [Schomburg Manuscripts, Archives and Rare Books Division](https://www.nypl.org/locations/schomburg/manuscripts-archives-and-rare-books-division) (MARB/SCM) at the Schomburg Center for Research in Black Culture (SCH)
 - [Schomburg Photographs and Prints Division](https://www.nypl.org/locations/schomburg/photographs-and-prints-division) (P&P/SCP) at the Schomburg Center for Research in Black Culture (SCH)
 - [Jerome Robbins Dance Division](https://www.nypl.org/locations/lpa/jerome-robbins-dance-division) (DAN) at the Library for the Performing Arts (LPA)
