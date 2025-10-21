@@ -59,6 +59,11 @@ Berg uses the unique SPEC collection ID number to create their call numbers, whi
 
 Berg Coll MSS 28384
 
+### United States History, Local History and Genealogy (LHG)
+LHG forms their call numbers with the following covention: AZ YEAR-accession number, which formatted like this:
+
+AZ 2025-01
+
 ### Dance Division (DAN)
 Call numbers for Dance collections are created by Archival Processing management after a collection has been accessioned.
 
