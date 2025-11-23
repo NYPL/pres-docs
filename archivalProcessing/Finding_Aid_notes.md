@@ -75,7 +75,11 @@ When working with additions being processed as a discrete collection, or if the 
 If there is additional interesting information that you encountered during processing that is outside the scope of an _Administrative/Biographical History note_, you can always include these details in a Wikipedia article and mention them in your closing memo. Consult the [Updating and Creating Wikipedia Entries](/Updating-and-Creating-Wikipedia-pages.md) and [Closing Memo](/Closing-Memo.md) sections of this manual for more information.
 
 ### Processing Information
-All finding aids must include a _Processing Information_ note, which states the name of the archivist that processed the collection, and the year(s) it was processed. All processing notes must be formatted like this with EAD tags: Processed by \<name>Archivist Name\</name> in \<date>Year\</date>.[DACS 7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information) contains more information on processing notes.  
+All finding aids must include a _Processing Information_ note, which states the name of the archivist that processed the collection, and the year(s) it was processed. 
+
+Processing notes should also be used to record actions by the archivist, especially in the case of a large-scale re-processing project or when additions have been incorporated into an existiing finding aid. The [revision statement](https://nypl.github.io/pres-docs/archivalProcessing/Front-Matter.html#revision-statements) should indicate the impacted boxes, the name of the archivist who processed the additions, and the year this occured. The processing note can go more in depth about large-scale changes made by the archivist. 
+
+All processing notes must be formatted like this with EAD tags: Processed by \<name>Archivist Name\</name> in \<date>Year\</date>.[DACS 7.1.8](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information) contains more information on processing notes.  
 
 ### Scope and Content
 A finding aid’s _scope and content_ note is the central tenet of a collection’s description, serving as the core narrative to convey the types of materials that comprise a collection, and the function of those materials. The _scope and content_ note should be utilized to describe why the records were created, how they were used, and what activities they chronicle. It is also a space to describe the types of materials the collection holds. 
