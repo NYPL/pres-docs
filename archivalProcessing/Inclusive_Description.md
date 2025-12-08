@@ -50,7 +50,6 @@ Folders are numbered consecutively per box, not consecutively throughout the ent
 
 Use title case for folder titles. Capitalize all words in a title except articles (a, an, the), prepositions under five letters (in, of, to), and coordinating conjunctions (and, but). 
 
-
 **Titles of Published Works**
 Underline the titles of published works on the physical folder, and italicize in ASpace using \<title> tags. For works, such as papers, essays, or journal article titles, surround the title in quotation marks: “Title Name Here.”
 
@@ -63,7 +62,6 @@ Do not place periods at the end of folder titles on the physical folder or in AS
 According to [DACS 2.3.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html#general-rules), square brackets are typically not used in archival description. However, these can be a useful tool for disambiguation and/or clarity, and should be utilized when deemed necessary. Square brackets are also useful to indicate uncertainty in spelling when the original item is difficult to decipher. Place brackets around the portion of the word that is unclear.
 
 ## Series and Subseries Formating
-
 When writing out _series_ names, use Roman numerals, followed by a colon.
 
 ![Series Formatting](/Images/91-series-formatting.png)
@@ -75,7 +73,6 @@ When writing out _subseries_ names, use the _series_ roman numeral, followed by 
 Write the word _subseries_ as a single word, not hyphenated, as may sometimes be common in legacy description. 
 
 ## Semicolons
-
 Semicolons can be used when listing out the names of _series_, _subseries_, or topical headings in narrative description. This is helpful to make a distinction between headings, especially when an individual heading contains a comma. 
 
 Example: 
@@ -136,8 +133,6 @@ Some common abbreviations that should always be written out include:
 **Exceptions to Abbreviations**
 
 Use St., Jr., and Ft. and similar in city and person names (St. Louis, Martin Luther King Jr.).
-
-D.C. (Washington, D.C.) (note the use of periods in these).
 
 ## Acronyms
 Do not use acronyms for an organization or company without fully describing them the first time they appear in a text. For example, when writing about The New York Public Library (NYPL) for the first time in a scope and content note, write out its full name with its acronym following it in parentheses. Then in subsequent paragraphs, you may use NYPL to refer to the organization.
