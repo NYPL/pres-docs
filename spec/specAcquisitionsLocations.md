@@ -22,7 +22,7 @@ Enter name for location, for example: Donor’s Storage Space.
 Specify who will coordinate transport of collection items to NYPL, select NYPL or Source.
 
 ### Transport To
-*required, single controlled value* 
+*required, single controlled value*  
 Specify where collection items will be delivered, select Library Services Center or My curatorial division.
 
 ### Import Address Details From This Contact
