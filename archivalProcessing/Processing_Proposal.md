@@ -50,7 +50,7 @@ This will be assigned automatically by SPEC during accessioning. An accession nu
  The call number will be located in the top left of the collection record below the SPEC ID as well as in the _Identifiers_ section of this screen. Call numbers are located in the Classmark field of SPEC collection and acquisition records. Notify your supervisor if you are assigned a collection that does not have a call number.
 
 ### Manuscripts and Archives Division (MSS)
-MSS unique the SPEC collection ID number to create their call numbers, which is formatted like this:
+MSS uses the unique SPEC collection ID number to create their call numbers, which is formatted like this:
 
 MssCol 24586 
 
