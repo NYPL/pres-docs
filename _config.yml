@@ -8,6 +8,8 @@ baseurl: /pres-docs
 
 aux_links:
   Home: https://nypl.github.io/pres-docs
+  Archival Processing: https://nypl.github.io/archival-processing
+  ArchivesSpace: https://nypl.github.io/archival-processing/aspace/aspace.html
 
 # Callouts
 callouts:
