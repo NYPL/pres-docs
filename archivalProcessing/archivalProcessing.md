@@ -3,7 +3,6 @@ title: Archival Processing
 layout: default
 nav_order: 2
 has_children: true
-nav_exclude: true
 ---
 # Archival Processing
 This documentation was written to serve as a guide for archivists on the New York Public Library’s Archival Processing team, a division of the Special Collections Processing department, to arrange, describe, preserve, and provide access to collections across all research divisions of the library. 
