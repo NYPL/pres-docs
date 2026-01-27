@@ -15,18 +15,18 @@ Welcome to the documentation site of the Preservation and Collections Processing
 > More content coming soon ...
 
 This site contains documentation for the following departments:
-- Archival Processing
 - Audio and Moving Image Description
 - Special Collections Cataloging 
 - Collection Management 
 - Systems and Operations (SPEC)
 
 Additional documentation is maintained on the following sites:
+- [Archival Processing](https://nypl.github.io/archival-processing/)
 - [Audio and Moving Image Preservation](https://nypl.github.io/ami-preservation/){:target="_blank"}
 - [Born Digital Documentation](https://nypl.github.io/born-digital-docs/){:target="_blank"}
 - [Digital Archives](https://nypl.github.io/digarch/){:target="_blank"}
 - [Digital Preservation](https://nypl.github.io/digpres/){:target="_blank"}
-- [Metadata Services Unit](https://nypl.github.io/metadata-documentation/){:target="_blank"}
+- [Metadata Services](https://nypl.github.io/metadata-documentation/){:target="_blank"}
 
 &nbsp; 
 &nbsp; 
