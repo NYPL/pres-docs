@@ -1,11 +1,7 @@
 ---
 title: Archival Processing
 layout: default
-nav_order: 2
-has_children: true
+nav_exclude: true
 ---
-# Archival Processing
-This documentation was written to serve as a guide for archivists on the New York Public Library’s Archival Processing team, a division of the Special Collections Processing department, to arrange, describe, preserve, and provide access to collections across all research divisions of the library. 
-
-## Contact
-Email [archivalprocessing@nypl.org](mailto:archivalprocessing@nypl.org) with any questions or comments.
+{: .note }
+> Archival Processing's documentation has moved! Visit [nypl.github.io/archival-processing/processing-manual](https://nypl.github.io/archival-processing/processing-manual/) to view the content previously on this page, and please update any bookmarks or links.
