@@ -2,8 +2,9 @@
 title: Training
 layout: default
 parent: ArchivesSpace
-nav_order: 2
-has_children: false
+nav_exclude: true
 ---
 # ArchivesSpace Training
-ArchivesSpace trainings can be scheduled by contacting the Archival Processing unit. For new staff, we recommend scheduling a joint SPEC/ASpace training session, which is facilitated by the Archival Processing unit and Systems and Operations. For additional context we recommend reviewing ArchivesSpace’s [training videos](https://www.youtube.com/@archivesspace5340) and signing up for the [ArchivesSpace Help Center](https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/overview).
+
+{: .alert }
+> Archival Processing's documentation has moved! Visit [nypl.github.io/archival-processing/aspace/training](https://nypl.github.io/archival-processing/aspace/training) to view the content previously on this page, and please update any bookmarks or links.
