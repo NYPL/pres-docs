@@ -5,6 +5,9 @@ nav_order: 8
 has_children: true
 ---
 
+{: .alert }
+> SPEC documentation has migrated to a new site: [spec-docs](https://nypl-research.github.io/spec-docs/). Please update any bookmarks or links.
+
 # SPEC
 SPEC is a FileMaker based internal database application. It functions primarily as a collection management tool supporting efforts to preserve, maintain, and enhance access to NYPL’s special collections. 
 
