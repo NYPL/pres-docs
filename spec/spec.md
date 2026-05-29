@@ -36,21 +36,5 @@ Follow these steps when connecting to SPEC using the FileMaker client for the fi
 If connecting to SPEC using the browser, use the url provided in your account set-up email.
 
 
-## SPEC Landing Page
-The SPEC landing page opens when first logging into the database. From the landing page navigate to the different SPEC modules and access select SPEC functionality. The links visible on the landing page vary based on user account privileges. 
-
-To navigate back to the **SPEC landing page** from other SPEC interfaces click on the **SPEC logo** found in the upper left corner. If using the browser, do not use the browser's back button; all navigation must be done within the SPEC interfaces. 
-
-
-## SPEC Modules
-There are several different main record types, or modules, in SPEC. SPEC objects refer to collection materials and are associated with acquisitions and/or collections. These modules are documented in the [SPEC Acquisitions](https://nypl.github.io/pres-docs/spec/specAcquisitions.html), [SPEC Collections](https://nypl.github.io/pres-docs/spec/specCollections.html), and [SPEC Objects](https://nypl.github.io/pres-docs/spec/specObjects.html) sections of this site.
-
-As of June 2025, [SPEC Projects](https://nypl.github.io/pres-docs/spec/specProjects.html) is an unfinished module and remains in limited use.
-
-A controlled location hierarchy for NYPL storage locations is maintained in the Locations module (CLMGT only), and the Outgoing Loans module (Registrar only) records outgoing loan information. These modules are not yet documented on this site. 
-
-SPEC initially grew out of a legacy system, CMS, used by NYPL's Manuscripts and Archives (MSS) and Rare Book (RBK) divisions. Some legacy interfaces are still accessible to MSS and RBK division staff only. These functionalities are no longer supported and not documented on this site. 
-
-
 ## Reporting Bugs and Other Requests
 File a [ServiceNow ticket 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=5e3263d3e982c1006a42bcaec0898a27){:target="_blank"} to report a bug, connection issue, or request a custom data report.
